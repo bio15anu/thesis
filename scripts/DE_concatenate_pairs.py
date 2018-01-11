@@ -25,8 +25,12 @@ eg. ./DE_concatenate_pairs.py Emuscae_annotation_report.xls coni_vs_glen coni_vs
 import sys
 
 # identify whether the input annotation file is in *.gmt format
-if sys.argv[1][-3:] == "gmt": gmt_file = True
-else: gmt_file = False
+if sys.argv[1][-3:] == "gmt":
+ gmt_file = True
+ firstline = False
+else:
+ gmt_file = False
+ firstline = True
 
 Id = []
 Desc = []
@@ -41,11 +45,13 @@ with open(sys.argv[1], 'r') as INPUT_ANNOTATIONS, open(sys.argv[2], 'r') as INPU
  pairTuple = (INPUT_PAIRWISE_DE1, INPUT_PAIRWISE_DE2, INPUT_PAIRWISE_DE3, INPUT_PAIRWISE_DE4)
  pairDictTuple = (pair1dict, pair2dict, pair3dict, pair4dict)
  for line in INPUT_ANNOTATIONS: # parse the INPUT_ANNOTATIONS FILE (*.xls or *.gmt)
-  line = line.rstrip()
-  line = line.split("\t")
-  Id.append(line[0])
-  if gmt_file == True: Desc.append(line[1]) # for GO terms etc. from a gmt file
-  else: Desc.append(line[1:]) #for transcripts when using an xls file
+  if firstline == False:
+   line = line.rstrip()
+   line = line.split("\t")
+   Id.append(line[0])
+   if gmt_file == True: Desc.append(line[1]) # for GO terms etc. from a gmt file
+   else: Desc.append(line[1:]) #for transcripts when using an xls file
+  else: firstline = False
  goDict = dict(zip(Id, Desc)) # create dictionary for sequence ID and annotations
  for i in range(4): # iterate through and parse each INPUT_PAIRWISE_DE file
   pair = pairTuple[i]
