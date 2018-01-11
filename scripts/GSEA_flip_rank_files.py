@@ -16,8 +16,8 @@ Description:
     This is necessary for later use in GSEA analysis.
 
 Usage:
-    ./GSEA_flip_rank_files.py INPUT_RANK_FILE OUTPUT_RANK_FILE
-eg. ./GSEA_flip_rank_files.py coni_versus_glen.tmp coni_versus_glen.rnk
+    ./GSEA_flip_rank_files.py INPUT_RANK_FILE
+eg. ./GSEA_flip_rank_files.py coni_versus_glen
 
 '''
 
@@ -28,5 +28,5 @@ with open(sys.argv[1], 'r') as INPUT_RANK_FILE, open(sys.argv[1] + ".rnk", 'w') 
   line = line.rstrip()
   line = line.split("\t")
   if line[1].startswith("-"):
-   print(line[0] + "\t" + line[1][1:], file=rank_OUT) # remove "-" sign from negative scores
-  else: print(line[0] + "\t-" + line[1], file=rank_OUT) # add "-" sign to positive scores
+   print(line[0] + "\t" + line[1][1:], file=OUTPUT_RANK_FILE) # remove "-" sign from negative scores
+  else: print(line[0] + "\t-" + line[1], file=OUTPUT_RANK_FILE) # add "-" sign to positive scores
