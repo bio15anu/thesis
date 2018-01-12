@@ -371,7 +371,7 @@ ls | grep temp | while read file; do newfile=`echo $file | sed 's/\.temp//g'`; a
 
 
 ------------------------------------
-### Gene Set Enrichment Analysis ### 
+### GENE SET ENRICHMENT ANALYSIS ### 
 
 #### Starting directory
     ~/Documents/Data/DiffExpr/GSEA
@@ -444,7 +444,7 @@ ls vs_all | while read file; do ~/scripts/DE_concatenate_pairs.py ../${file}.ter
 ```
 
 -----------------------------------------------------
-### Protein Alignments ### (example with PF00089) ###
+### PROTEIN ALIGNMENTS ### (example with PF00089) ###
 
 #### Starting directory
     ~/Documents/Data/Alignments
