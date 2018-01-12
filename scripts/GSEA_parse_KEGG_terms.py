@@ -35,14 +35,14 @@ with open(sys.argv[1], 'r') as INPUT_KEGG_TERMS, open(sys.argv[2], 'r') as INPUT
   info = info.strip()
   info = info.split(" ")
   if (info[0] is "C") and info[4].startswith("0"): # find relevant kegg pathways
-   if len(pathDict) > 1: pathDict[pathway] = set(pathDict[pathway]) # remove duplicates
+   if len(pathDict) > 0: pathDict[pathway] = set(pathDict[pathway]) # remove duplicates
    pathway = "ko" + info[4] # obtain kegg pathway ID
    desc = " ".join(info[5:-1]) # obtain corresponding pathway name/description
    pathDict[pathway] = [] # create entry for kegg pathway in pathDict, create empty list for orthology terms
    descDict[pathway] = desc # create entry for kegg pathway in descDict, give corresponding description
    flag = True # relevant pathway found!
   elif (info[0] is "C") and not info[4].startswith("0"): # filter out irrelevant pathway data
-   if len(pathDict) > 1: pathDict[pathway] = set(pathDict[pathway]) # remove duplicates
+   if len(pathDict) > 0: pathDict[pathway] = set(pathDict[pathway]) # remove duplicates
    flag = False # pathway is irrelevant, prevent further orthology terms from appending to pathDict
   elif (info[0] is "D") and flag == True: # relevant pathway found, now append corresponding orthology terms to pathDict
    pathDict[pathway].append(info[6]) # add orthology term to the pathway entry in pathDict
