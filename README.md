@@ -1,5 +1,5 @@
 # Thesis Pipeline
-All files pertaining to masters thesis are contained within this repository
+To facilitate reproducibility, all files pertaining to masters thesis are contained within this repository.
 
 See below for project pipeline commands
 
