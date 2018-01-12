@@ -29,7 +29,6 @@ pathDict = {} # dictionary of each pathway and all corresponding orthology terms
 descDict = {} # dictionary of each pathway and the corresponding description
 koDict = {} # dictionary of each orthology term and all corresponding transcripts annotated with the term
 flag = False # determines if pathway is relevant
-firstline = True # when printing to OUTPUT_GMT_FILE
 
 with open(sys.argv[1], 'r') as INPUT_KEGG_TERMS, open(sys.argv[2], 'r') as INPUT_GMT_FILE, open(sys.argv[3], 'w') as OUTPUT_GMT_FILE:
  for info in INPUT_KEGG_TERMS: # parse the downloaded kegg terms to generate pathDict and descDict
