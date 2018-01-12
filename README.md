@@ -12,7 +12,7 @@ See below for project pipeline commands
 ~/scripts # custom scripts are stored here for easy access
 ~/Documents/Databases # where blastp, pfam, merops etc. databases are stored
 ~/Documents/RawData # containing the original full transcriptome assembly and sequencing reads
-~/Documents/RawData/Reads_FungalMapped # sequencing reads that mapped to Emuscae draft genome
+~/Documents/RawData/Reads # sequencing reads that mapped to Emuscae draft genome
 ~/Documents/RawData/stats # Trinity_full.fasta assembly statistics
 ~/Documents/Data # containing all data and analyses derived during the present thesis
 ~/Documents/Data/Alignments # all data pertaining to protein alignments and related analyses
@@ -63,13 +63,13 @@ makeblastdb -in combine.uniprot_sprot.pep -dbtype prot
 
 #### Generate RSEM counts for Trinity_full.fasta (I originally ran a test of this on one sample with the --prep_reference option included, but since that had been done already I did not include the option again in the command here)
 ```
-cd Reads_FungalMapped
+cd Reads
 ls | grep -v Archive | while read file; do id=`echo $file | sed 's/\_mapped//g'`; ~/bin/trinityrnaseq-Trinity-v2.4.0/util/align_and_estimate_abundance.pl --transcripts ../Trinity_full.fasta --seqType fq --left ${file}/${id}_mapped_JGIDraftgenome.1 --right ${file}/${id}_mapped_JGIDraftgenome.2 --est_method RSEM --aln_method bowtie --trinity_mode --output_dir ${file}/${id}/; done
 ```
 
 #### copy all RSEM.isoforms.results and RSEM.genes.results files for each sample to single directory
-    mkdir ~/Documents/RawData/Reads_FungalMapped/isoforms
-    mkdir ~/Documents/RawData/Reads_FungalMapped/genes
+    mkdir ~/Documents/RawData/Reads/isoforms
+    mkdir ~/Documents/RawData/Reads/genes
 
 #### Generate concatenated matrix files for "isoforms" level
 ```
@@ -102,7 +102,7 @@ TransDecoder.Predict -t Trinity_full.fasta --retain_pfam_hits Trinity_full.fasta
 
 #### Filter the full count matrices to contain only most highly expressed isoforms that encode proteins
 ```
-ls Reads_FungalMapped/isoforms | grep matrix | grep -v info | while read file; do cat Reads_FungalMapped/isoforms/${file} | head -1 > ${file}; cat Trinity_isoH.fasta | grep ">" | tr -d ">" | cut -d " " -f1 | while read line; do cat Reads_FungalMapped/isoforms/${file} | grep $line ; done >> ${file}; done
+ls Reads/isoforms | grep matrix | grep -v info | while read file; do cat Reads/isoforms/${file} | head -1 > ${file}; cat Trinity_isoH.fasta | grep ">" | tr -d ">" | cut -d " " -f1 | while read line; do cat Reads/isoforms/${file} | grep $line ; done >> ${file}; done
 ```
 
 #### Use CD-HIT-EST to filter Trinity_isoH.fasta file at 97% identity to build final assembly Trinity_isoH_cdhit10.fasta
@@ -125,7 +125,7 @@ cat Trinity_isoH_cdhit10.fasta | grep ">" | cut -d " " -f1 | tr -d ">" | while r
 
 #### Abundance estimates on the final transcriptome (remapping reads)
 ```
-cd ~/Documents/RawData/Reads_FungalMapped
+cd ~/Documents/RawData/Reads
 ls | grep -v Archive | grep -v isoforms | grep -v genes | while read file; do id=`echo $file | sed 's/\_mapped//g'`; ~/bin/trinityrnaseq-Trinity-v2.4.0/util/align_and_estimate_abundance.pl --transcripts ~/Documents/Data/Assembly/Trinity_isoH_cdhit10.fasta --seqType fq --left ${file}/${id}_mapped_JGIDraftgenome.1 --right ${file}/${id}_mapped_JGIDraftgenome.2 --est_method RSEM --aln_method bowtie --trinity_mode --output_dir ${file}/isoH_cdhit10/; done
 ```
 
@@ -253,7 +253,7 @@ cat Secretome/filtered.0.03.300aa.fasta | grep -c ">"
 ### ASSEMBLY STATISTICS ###
 
 #### Starting directory
-    ~/Documents/RawData/Reads_FungalMapped>
+    ~/Documents/RawData/Reads>
 
 #### RNA-seq read representation (geneious server)
 ```
@@ -267,7 +267,7 @@ ls | grep -Ev "Archive|isoforms|genes|bowtie2|stats" | while read file; do id=`e
 cd ~/Documents/RawData
 mkdir stats
 ~/bin/trinityrnaseq-Trinity-v2.4.0/util/TrinityStats.pl Trinity_full.fasta > stats/Trinity_full.stats
-~/bin/trinityrnaseq-Trinity-v2.4.0/util/misc/count_matrix_features_given_MIN_TPM_threshold.pl Reads_FungalMapped/genes/matrix.TPM.not_cross_norm | tee stats/matrix.TPM.not_cross_norm.counts_by_min_TPM
+~/bin/trinityrnaseq-Trinity-v2.4.0/util/misc/count_matrix_features_given_MIN_TPM_threshold.pl Reads/genes/matrix.TPM.not_cross_norm | tee stats/matrix.TPM.not_cross_norm.counts_by_min_TPM
 cd stats
 Rscript ~/scripts/stats_counts_by_min_TPM.R 50000 matrix.TPM.not_cross_norm.counts_by_min_TPM
 
@@ -282,7 +282,7 @@ Rscript ~/scripts/stats_counts_by_min_TPM.R 25000 matrix.TPM.not_cross_norm.coun
 #### Assembly Ex90N50 statistics
 ```
 cd ~/Documents/RawData/stats
-~/bin/trinityrnaseq-Trinity-v2.4.0/util/misc/contig_ExN50_statistic.pl ../Reads_FungalMapped/isoforms/matrix.TMM.EXPR.matrix ../Trinity_full.fasta | tee ExN50.stats
+~/bin/trinityrnaseq-Trinity-v2.4.0/util/misc/contig_ExN50_statistic.pl ../Reads/isoforms/matrix.TMM.EXPR.matrix ../Trinity_full.fasta | tee ExN50.stats
 Rscript ~/scripts/stats_ExN50.R ExN50.stats
 
 cd ~/Documents/Data/Assembly/stats
