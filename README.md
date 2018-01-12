@@ -29,7 +29,7 @@ See below for project pipeline commands
 #### Starting directory
     ~/Documents/Data/Annotations/>
 
-#### Build the SQL database for annotations (also retrieve up to date Pfam and blast pep database)
+#### build the SQL database for annotations (also retrieve current Pfam and uniprot_sprot.pep database)
     ~/bin/Trinotate-3.0.2/admin/Build_Trinotate_Boilerplate_SQLite_db.pl Emuscae
     mv Pfam-A.hmm.gz ~/Documents/Databases/pfam/Pfam-A-hmm.gz
     mv uniprot_sprot.pep ~/Documents/Databases/uniprot_sprot/uniprot_sprot.pep
@@ -61,7 +61,7 @@ makeblastdb -in combine.uniprot_sprot.pep -dbtype prot
 #### Starting directory
     ~/Documents/RawData/>
 
-#### Generate RSEM counts for Trinity_full.fasta (I originally ran a test of this on one sample with the --prep_reference option included, but since that had been done already I did not include the option again in the command here)
+#### generate RSEM counts for Trinity_full.fasta (I originally ran a test of this on one sample with the --prep_reference option included, but since that had been done already I did not include the option again in the command here)
 ```
 cd Reads
 ls | grep -v Archive | while read file; do id=`echo $file | sed 's/\_mapped//g'`; ~/bin/trinityrnaseq-Trinity-v2.4.0/util/align_and_estimate_abundance.pl --transcripts ../Trinity_full.fasta --seqType fq --left ${file}/${id}_mapped_JGIDraftgenome.1 --right ${file}/${id}_mapped_JGIDraftgenome.2 --est_method RSEM --aln_method bowtie --trinity_mode --output_dir ${file}/${id}/; done
@@ -71,13 +71,13 @@ ls | grep -v Archive | while read file; do id=`echo $file | sed 's/\_mapped//g'`
     mkdir ~/Documents/RawData/Reads/isoforms
     mkdir ~/Documents/RawData/Reads/genes
 
-#### Generate concatenated matrix files for "isoforms" level
+#### generate concatenated matrix files for "isoforms" level
 ```
 cd isoforms
 ~/bin/trinityrnaseq-Trinity-v2.4.0/util/abundance_estimates_to_matrix.pl --est_method RSEM 8_6.isoforms.results 8_7.isoforms.results 9_1_1.isoforms.results 9_6.isoforms.results MdEm1.isoforms.results MdEm2.isoforms.results MdEm3.isoforms.results Em1glen.isoforms.results Em2glen.isoforms.results Em3glen.isoforms.results sp_5.isoforms.results sp_6_1.isoforms.results sp_6_2.isoforms.results
 ```
 
-#### Generate concatenated matrix files for "genes" level
+#### generate concatenated matrix files for "genes" level
 ```
 cd ../genes
 ~/bin/trinityrnaseq-Trinity-v2.4.0/util/abundance_estimates_to_matrix.pl --est_method RSEM 8_6.genes.results 8_7.genes.results 9_1_1.genes.results 9_6.genes.results MdEm1.genes.results MdEm2.genes.results MdEm3.genes.results Em1glen.genes.results Em2glen.genes.results Em3glen.genes.results sp_5.genes.results sp_6_1.genes.results sp_6_2.genes.results
@@ -91,29 +91,29 @@ hmmscan --cpu 8 --domtblout Trinity_full.fasta.transdecoder_dir/pfam.domtblout ~
 TransDecoder.Predict -t Trinity_full.fasta --retain_pfam_hits Trinity_full.fasta.transdecoder_dir/pfam.domtblout --single_best_orf
 ```
 
-#### Filter Trinity_full.fasta to contain only sequences that encode proteins in Trinity_trans.fasta file
+#### filter Trinity_full.fasta to contain only sequences that encode proteins in Trinity_trans.fasta file
     ~/scripts/assembly_prefilter_with_Transpep.py Trinity_full.fasta.transdecoder_dir/Trinity_full.fasta.transdecoder.pep Trinity_full.fasta Trinity_trans.fasta
 
-#### Generate gene_trans_map for Trinity_trans.fasta
+#### generate gene_trans_map for Trinity_trans.fasta
     ~/bin/trinityrnaseq-Trinity-v2.4.0/util/support_scripts/get_Trinity_gene_to_trans_map.pl Trinity_trans.fasta > Trinity_trans.fasta.gene_trans_map
 
-#### Generate Trinity_isoH.fasta using the full isoform TMM count matrix to filter the Trinity_trans.fasta file
+#### generate Trinity_isoH.fasta using the full isoform TMM count matrix to filter the Trinity_trans.fasta file
     ~/bin/trinityrnaseq-Trinity-v2.4.0/util/filter_low_expr_transcripts.pl --matrix matrix.TMM.EXPR.matrix --transcripts Trinity_trans.fasta --highest_iso_only --gene_to_trans_map Trinity_trans.fasta.gene_trans_map > Trinity_isoH.fasta
 
-#### Filter the full count matrices to contain only most highly expressed isoforms that encode proteins
+#### filter the full count matrices to contain only most highly expressed isoforms that encode proteins
 ```
 ls Reads/isoforms | grep matrix | grep -v info | while read file; do cat Reads/isoforms/${file} | head -1 > ${file}; cat Trinity_isoH.fasta | grep ">" | tr -d ">" | cut -d " " -f1 | while read line; do cat Reads/isoforms/${file} | grep $line ; done >> ${file}; done
 ```
 
-#### Use CD-HIT-EST to filter Trinity_isoH.fasta file at 97% identity to build final assembly Trinity_isoH_cdhit10.fasta
+#### use CD-HIT-EST to filter Trinity_isoH.fasta file at 97% identity to build final assembly Trinity_isoH_cdhit10.fasta
     cd-hit-est -i Trinity_isoH.fasta -o ~/Documents/Data/Assembly/Trinity_isoH_cdhit10.fasta -c 0.97 -n 10
 
-#### Filter Trinity_full.fasta.transdecoder.pep to contain only sequences from final assembly Trinity_isoH_cdhit10.fasta
+#### filter Trinity_full.fasta.transdecoder.pep to contain only sequences from final assembly Trinity_isoH_cdhit10.fasta
 ```
 cat Trinity_isoH_cdhit10.fasta | grep ">" | cut -d " " -f1 | tr -d ">" | while read line; do cat Trinity_full.fasta.transdecoder_dir/Trinity_full.fasta.transdecoder.pep | grep -A1 $line ; done > ~/Documents/Data/Assembly/Trinity_isoH_cdhit10.fasta.transdecoder.pep
 ```
 
-#### Generate SuperTranscript from full assembly (for later antiSMASH analysis)
+#### generate SuperTranscript from full assembly (for later antiSMASH analysis)
     ~/bin/trinityrnaseq-Trinity-v2.5.1/Analysis/SuperTranscripts/Trinity_gene_splice_modeler.py --trinity_fasta Trinity_full.fasta --out_prefix Trinity_full.SuperTranscript
 
 
@@ -123,7 +123,7 @@ cat Trinity_isoH_cdhit10.fasta | grep ">" | cut -d " " -f1 | tr -d ">" | while r
 #### Starting directory
     ~/Documents/Data/Assembly/>
 
-#### Abundance estimates on the final transcriptome (remapping reads)
+#### abundance estimates on the final transcriptome (remapping reads)
 ```
 cd ~/Documents/RawData/Reads
 ls | grep -v Archive | grep -v isoforms | grep -v genes | while read file; do id=`echo $file | sed 's/\_mapped//g'`; ~/bin/trinityrnaseq-Trinity-v2.4.0/util/align_and_estimate_abundance.pl --transcripts ~/Documents/Data/Assembly/Trinity_isoH_cdhit10.fasta --seqType fq --left ${file}/${id}_mapped_JGIDraftgenome.1 --right ${file}/${id}_mapped_JGIDraftgenome.2 --est_method RSEM --aln_method bowtie --trinity_mode --output_dir ${file}/isoH_cdhit10/; done
@@ -133,26 +133,26 @@ ls | grep -v Archive | grep -v isoforms | grep -v genes | while read file; do id
     mkdir ~/Documents/Data/Assembly/Matrices/isoforms
     mkdir ~/Documents/Data/Assembly/Matrices/genes
 
-#### Generate concatenated matrix files for "isoforms" level
+#### generate concatenated matrix files for "isoforms" level
 ```
 cd ~/Documents/Data/Assembly/Matrices/isoforms
 ~/bin/trinityrnaseq-Trinity-v2.4.0/util/abundance_estimates_to_matrix.pl --est_method RSEM 8_6.isoforms.results 8_7.isoforms.results 9_1_1.isoforms.results 9_6.isoforms.results MdEm1.isoforms.results MdEm2.isoforms.results MdEm3.isoforms.results Em1glen.isoforms.results Em2glen.isoforms.results Em3glen.isoforms.results sp_5.isoforms.results sp_6_1.isoforms.results sp_6_2.isoforms.results
 ```
 
-#### Generate concatenated matrix files for "genes" level
+#### generate concatenated matrix files for "genes" level
 ```
 cd ../genes
 ~/bin/trinityrnaseq-Trinity-v2.4.0/util/abundance_estimates_to_matrix.pl --est_method RSEM 8_6.genes.results 8_7.genes.results 9_1_1.genes.results 9_6.genes.results MdEm1.genes.results MdEm2.genes.results MdEm3.genes.results Em1glen.genes.results Em2glen.genes.results Em3glen.genes.results sp_5.genes.results sp_6_1.genes.results sp_6_2.genes.results
 ```
 
-#### Generate gene_trans_map for Trinity_isoH_cdhit10.fasta (for later analyses)
+#### generate gene_trans_map for Trinity_isoH_cdhit10.fasta (for later analyses)
     cd ../../
     ~/bin/trinityrnaseq-Trinity-v2.4.0/util/support_scripts/get_Trinity_gene_to_trans_map.pl Trinity_isoH_cdhit10.fasta > Trinity_isoH_cdhit10.fasta.gene_trans_map
 
-#### Generate seq lengths file (for later analyses)
+#### generate seq lengths file (for later analyses)
     ~/bin/trinityrnaseq-Trinity-v2.4.0/util/misc/fasta_seq_length.pl Trinity_isoH_cdhit10.fasta > Trinity_isoH_cdhit10.fasta.seq_lens
 
-#### Generate gene lengths file (for later analyses)
+#### generate gene lengths file (for later analyses)
     ~/bin/trinityrnaseq-Trinity-v2.4.0/util/misc/TPM_weighted_gene_length.py --gene_trans_map Trinity_isoH_cdhit10.fasta.gene_trans_map --trans_lengths Trinity_isoH_cdhit10.fasta.seq_lens --TPM_matrix Matrices/genes/matrix.TMM.EXPR.matrix > Trinity_isoH_cdhit10.gene_lengths.txt
 
 
@@ -262,7 +262,7 @@ bowtie2-build Trinity_full.fasta Trinity_full.fasta
 ls | grep -Ev "Archive|isoforms|genes|bowtie2|stats" | while read file; do id=`echo $file | sed 's/\_mapped//g'`; bowtie2 -p 10 -q --no-unal -x bowtie2/Trinity_full.fasta -1 ${file}/${id}_mapped_JGIDraftgenome.1 -2 ${file}/${id}_mapped_JGIDraftgenome.2 | samtools view -@10 -Sb -o bowtie2.bam 2>$1 | tee stats/${id}_stats.txt ; done
 ```
 
-#### Assembly general statistics
+#### assembly general statistics
 ```
 cd ~/Documents/RawData
 mkdir stats
@@ -279,7 +279,7 @@ cd stats
 Rscript ~/scripts/stats_counts_by_min_TPM.R 25000 matrix.TPM.not_cross_norm.counts_by_min_TPM
 ```
 
-#### Assembly Ex90N50 statistics
+#### assembly Ex90N50 statistics
 ```
 cd ~/Documents/RawData/stats
 ~/bin/trinityrnaseq-Trinity-v2.4.0/util/misc/contig_ExN50_statistic.pl ../Reads/isoforms/matrix.TMM.EXPR.matrix ../Trinity_full.fasta | tee ExN50.stats
@@ -301,13 +301,13 @@ Rscript ~/scripts/stats_ExN50.R ExN50.stats
 #### Starting directory
     ~/Documents/Data/DiffExpr/stats>
 
-#### Compare replicates within test conditions (prior to DE analysis)
+#### compare replicates within test conditions (prior to DE analysis)
     ~/bin/trinityrnaseq-Trinity-v2.4.0/Analysis/DifferentialExpression/PtR --matrix ~/Documents/Data/Assembly/Matrices/genes/matrix.counts.matrix --samples ../samples.txt --CPM --log2 --min_rowSums 10 --compare_replicates
 
-#### Compare replicates across test conditions (prior to DE analysis) - Pearson correlation matrix
+#### compare replicates across test conditions (prior to DE analysis) - Pearson correlation matrix
     ~/bin/trinityrnaseq-Trinity-v2.4.0/Analysis/DifferentialExpression/PtR --matrix ~/Documents/Data/Assembly/Matrices/genes/matrix.counts.matrix --samples ../samples.txt --CPM --log2 --min_rowSums 10 --sample_cor_matrix
 
-#### Compare replicates across test conditions (prior to DE analysis) - Principal Component Analysis
+#### compare replicates across test conditions (prior to DE analysis) - Principal Component Analysis
     ~/bin/trinityrnaseq-Trinity-v2.4.0/Analysis/DifferentialExpression/PtR --matrix ~/Documents/Data/Assembly/Matrices/genes/matrix.counts.matrix --samples ../samples.txt --CPM --log2 --min_rowSums 10 --center_rows --prin_comp 3
 
 
@@ -449,7 +449,7 @@ ls vs_all | while read file; do ~/scripts/DE_concatenate_pairs.py ../${file}.ter
 #### Starting directory
     ~/Documents/Data/Alignments
 
-#### Obtain start and end positions for pfam domains (PF00089) in relevant sequences
+#### obtain start and end positions for pfam domains (PF00089) in relevant sequences
 ```
 mkdir PF00089
 cd PF00089
