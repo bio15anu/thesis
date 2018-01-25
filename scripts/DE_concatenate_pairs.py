@@ -62,7 +62,7 @@ with open(sys.argv[1], 'r') as INPUT_ANNOTATIONS, open(sys.argv[2], 'r') as INPU
    else: 
     info = info.rstrip()
     info = info.split("\t")
-    if gmt_file == True: pairDict[info[0]] = [info[4],info[7]] # for GO terms etc. from a gmt file
+    if gmt_file == True: pairDict[info[0]] = [info[3],info[7]] # for GO terms etc. from a gmt file
     else: pairDict[info[0]] = [info[6],info[10]] # for transcripts when using an xls file
  for GO in goDict: #iterate through relevant sequence IDs obtained from annotation file
   if gmt_file == True: print(GO + "\t" + goDict[GO], end="\t", file=OUTPUT_FILE) # for GO term annotations etc. from a gmt file
