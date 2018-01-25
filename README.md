@@ -438,7 +438,7 @@ cd Results
 
 #### create annotations for each pairwise comparison against a given condition (repeat for GO, KEGG, KO files)
 ```
-mkdir vs_all vs_all/GO vs_all/KEGG vs_all/KO
+mkdir vs_all vs_all/GO vs_all/KEGG vs_all/KO vs_all/PFAM
 
 ls vs_all | while read file; do ~/scripts/DE_concatenate_pairs.py ../${file}.term.gmt coni_versus_glen/${file}.coni_versus_glen.GseaPreranked.*/gsea_report_for_na_pos_*.xls coni_versus_symp/${file}.coni_versus_symp.GseaPreranked.*/gsea_report_for_na_pos_*.xls coni_versus_para/${file}.coni_versus_para.GseaPreranked.*/gsea_report_for_na_pos_*.xls coni_versus_spor/${file}.coni_versus_spor.GseaPreranked.*/gsea_report_for_na_pos_*.xls vs_all/${file}/coni.xls ; done
 
