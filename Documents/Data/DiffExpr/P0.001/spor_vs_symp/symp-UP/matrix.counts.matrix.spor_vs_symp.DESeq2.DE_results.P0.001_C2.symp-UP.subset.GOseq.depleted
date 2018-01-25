@@ -1,0 +1,244 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	under_represented_FDR	go_term
+GO:0005575	1	0	190	5168	cellular_component	CC	0.9999999999	0	CC cellular_component
+GO:0044424	1	0	154	4537	intracellular part	CC	0.9999999999	0	CC intracellular part
+GO:0044464	1	0	165	4744	cell part	CC	0.9999999999	0	CC cell part
+GO:0044422	1	0	70	2613	organelle part	CC	0.9999999999	0	CC organelle part
+GO:0044446	1	0	70	2603	intracellular organelle part	CC	0.9999999999	0	CC intracellular organelle part
+GO:0044444	1	0	93	3078	cytoplasmic part	CC	0.9999999999	0	CC cytoplasmic part
+GO:0032991	1.00000000000006	0	42	1790	macromolecular complex	CC	0.9999999999	0	CC macromolecular complex
+GO:0008150	1.00000000000009	0	221	5435	biological_process	BP	0.9999999999	0	BP biological_process
+GO:0009987	1.00000000001012	0	163	4226	cellular process	BP	0.9999999999	0	BP cellular process
+GO:0003674	1	8.13622296767695e-11	231	5403	molecular_function	MF	0.9999999999	7.63259076597775e-08	MF molecular_function
+GO:0043226	0.999999999839818	3.5475556194871e-10	108	3044	organelle	CC	0.9999999999	3.0015892401871e-07	CC organelle
+GO:0043229	0.999999999825589	3.8591136096898e-10	108	3041	intracellular organelle	CC	0.9999999999	3.0015892401871e-07	CC intracellular organelle
+GO:0044237	0.999999999809712	4.15954163974334e-10	116	3163	cellular metabolic process	BP	0.9999999999	3.0015892401871e-07	BP cellular metabolic process
+GO:0043227	0.999999999709631	6.52768630077325e-10	95	2766	membrane-bounded organelle	CC	0.9999999999	4.09378978406603e-07	CC membrane-bounded organelle
+GO:0043234	0.999999999780471	6.54587429495688e-10	31	1333	protein complex	CC	0.9999999999	4.09378978406603e-07	CC protein complex
+GO:0043231	0.999999999649654	7.21971464697464e-10	95	2765	intracellular membrane-bounded organelle	CC	0.9999999999	4.23300894395432e-07	CC intracellular membrane-bounded organelle
+GO:0016043	0.999999997758534	5.92015222366299e-09	31	1267	cellular component organization	BP	0.9999999999	3.26687929471662e-06	BP cellular component organization
+GO:0071840	0.999999996710957	8.28108680242e-09	34	1331	cellular component organization or biogenesis	BP	0.9999999999	4.09726086776926e-06	BP cellular component organization or biogenesis
+GO:0044267	0.999999997470091	8.2984710039032e-09	18	895	cellular protein metabolic process	BP	0.9999999999	4.09726086776926e-06	BP cellular protein metabolic process
+GO:0044429	0.999999994874211	2.94615359432254e-08	6	496	mitochondrial part	CC	0.9999999999	1.38189334341699e-05	CC mitochondrial part
+GO:0006886	1	4.13260776705407e-08	0	288	intracellular protein transport	BP	0.9999999999	1.84609492679687e-05	BP intracellular protein transport
+GO:0005829	0.999999980853954	4.66892145176379e-08	33	1261	cytosol	CC	0.9999999999	1.99087055177255e-05	CC cytosol
+GO:0031090	0.999999976378345	7.09130957201037e-08	19	892	organelle membrane	CC	0.9999999999	2.89232935195779e-05	CC organelle membrane
+GO:0005515	0.999999948462252	1.37598254778496e-07	24	1034	protein binding	MF	0.9999999999	5.37837178365446e-05	MF protein binding
+GO:0008152	0.999999787520877	3.35335885625759e-07	165	3844	metabolic process	BP	0.9999999999	0.00012583143772221	BP metabolic process
+GO:0071704	0.999999760814547	3.8387501886117e-07	145	3471	organic substance metabolic process	BP	0.9999999999	0.00013850505968987	BP organic substance metabolic process
+GO:0033036	0.999999887245567	4.57803271773287e-07	9	580	macromolecule localization	BP	0.9999999999	0.000159061203426119	BP macromolecule localization
+GO:0044260	0.99999968611388	5.6009972333598e-07	80	2186	cellular macromolecule metabolic process	BP	0.9999999999	0.000182580154973177	BP cellular macromolecule metabolic process
+GO:0044763	0.999999659217296	5.72256293040319e-07	107	2786	single-organism cellular process	BP	0.9999999999	0.000182580154973177	BP single-organism cellular process
+GO:0005634	0.999999684500608	6.0248547041287e-07	60	1788	nucleus	CC	0.9999999999	0.000182580154973177	CC nucleus
+GO:0044699	0.99999962240981	6.03345571279021e-07	142	3448	single-organism process	BP	0.9999999999	0.000182580154973177	BP single-organism process
+GO:0008104	0.999999754005179	9.69204887146847e-07	9	563	protein localization	BP	0.9999999999	0.000284128470197643	BP protein localization
+GO:0015031	0.999999791465562	1.03111967404511e-06	6	465	protein transport	BP	0.9999999999	0.00029311920188537	BP protein transport
+GO:0044432	0.999999710102022	1.5731687944893e-06	5	416	endoplasmic reticulum part	CC	0.9999999999	0.000423731066785489	CC endoplasmic reticulum part
+GO:0005488	0.999998979269666	1.58091752878074e-06	157	3710	binding	MF	0.9999999999	0.000423731066785489	MF binding
+GO:0044710	0.99999895375544	1.88260918091027e-06	69	1907	single-organism metabolic process	BP	0.9999999999	0.000490576575725535	BP single-organism metabolic process
+GO:0044238	0.999998295584601	2.65440085361573e-06	142	3332	primary metabolic process	BP	0.9999999999	0.000672998227237005	BP primary metabolic process
+GO:0045184	0.999999162379279	3.57691316976294e-06	7	469	establishment of protein localization	BP	0.9999999999	0.000883026906461741	BP establishment of protein localization
+GO:0051649	0.999998841549931	3.74090547077607e-06	12	605	establishment of localization in cell	BP	0.9999999999	0.000899831646701291	BP establishment of localization in cell
+GO:0046907	0.999998615383573	4.62045786252055e-06	11	572	intracellular transport	BP	0.9999999999	0.00108361288020763	BP intracellular transport
+GO:0016192	0.999999232785161	7.16910199426865e-06	2	299	vesicle-mediated transport	BP	0.9999999999	0.00164032550751791	BP vesicle-mediated transport
+GO:0006996	0.999997265950511	7.55422990297427e-06	16	702	organelle organization	BP	0.9999999999	0.00168729120761433	BP organelle organization
+GO:0006464	0.999996232174654	1.20542173528844e-05	11	569	cellular protein modification process	BP	0.9999999999	0.00257001393153201	BP cellular protein modification process
+GO:0036211	0.999996232174654	1.20542173528844e-05	11	569	protein modification process	BP	0.9999999999	0.00257001393153201	BP protein modification process
+GO:0051179	0.999992286122291	1.48455272055577e-05	43	1329	localization	BP	0.9999999999	0.00309479757145194	BP localization
+GO:0016071	0.999997170275818	2.44154555842505e-05	2	262	mRNA metabolic process	BP	0.9999999999	0.00497916062686639	BP mRNA metabolic process
+GO:0043412	0.999989900835553	2.65263269065531e-05	16	681	macromolecule modification	BP	0.9999999999	0.00529454197256117	BP macromolecule modification
+GO:0043170	0.999976739918504	3.62359281984184e-05	102	2457	macromolecule metabolic process	BP	0.9999999999	0.00708185921727839	BP macromolecule metabolic process
+GO:0019538	0.99997800158899	4.13474244229069e-05	42	1222	protein metabolic process	BP	0.9999999999	0.00791592221451612	BP protein metabolic process
+GO:1902589	0.999984605956239	4.46057311862761e-05	12	553	single-organism organelle organization	BP	0.9999999999	0.00825973642577486	BP single-organism organelle organization
+GO:0005739	0.999987205523467	4.49042274506468e-05	8	426	mitochondrion	CC	0.9999999999	0.00825973642577486	CC mitochondrion
+GO:0044802	1	4.60787760111442e-05	0	166	single-organism membrane organization	BP	0.9999999999	0.008312788418472	BP single-organism membrane organization
+GO:0098588	0.999980130457239	4.96484497956144e-05	17	679	bounding membrane of organelle	CC	0.9999999999	0.00878777561382374	CC bounding membrane of organelle
+GO:0051641	0.999989431752673	5.40356142802925e-05	4	321	cellular localization	BP	0.9999999999	0.00938718699191526	BP cellular localization
+GO:1902582	0.999979247995667	6.15668895666972e-05	11	504	single-organism intracellular transport	BP	0.9999999999	0.0105010725640943	BP single-organism intracellular transport
+GO:0016482	0.999985186529441	6.55432761761436e-05	5	340	cytosolic transport	BP	0.9999999999	0.0108523769000445	BP cytosolic transport
+GO:1902580	0.999995195032656	6.59402497924033e-05	1	208	single-organism cellular localization	BP	0.9999999999	0.0108523769000445	BP single-organism cellular localization
+GO:0005789	0.999985582920504	7.23694093116572e-05	4	308	endoplasmic reticulum membrane	CC	0.9999999999	0.0117051280819423	CC endoplasmic reticulum membrane
+GO:0006397	0.999994547124432	7.41372730748032e-05	1	203	mRNA processing	BP	0.9999999999	0.0117878264188937	BP mRNA processing
+GO:0005198	0.999989977852375	7.97362914132643e-05	2	205	structural molecule activity	MF	0.9999999999	0.0124667691624639	MF structural molecule activity
+GO:0070727	0.999982559777175	0.000102541352682159	3	269	cellular macromolecule localization	BP	0.9999999999	0.0157695152378908	BP cellular macromolecule localization
+GO:0098589	0.999975175501281	0.000106510854830393	5	332	membrane region	CC	0.9999999999	0.0161157795026438	CC membrane region
+GO:1901564	0.999952790147803	0.000119121568434196	15	592	organonitrogen compound metabolic process	BP	0.9999999999	0.0177377687854157	BP organonitrogen compound metabolic process
+GO:0044281	0.999923438196447	0.000165828637089819	22	750	small molecule metabolic process	BP	0.9999999999	0.0243068506959311	BP small molecule metabolic process
+GO:0051234	0.999903112672559	0.000175868888497697	40	1167	establishment of localization	BP	0.9999999999	0.0253819391230292	BP establishment of localization
+GO:0072594	1	0.000185079702923946	0	138	establishment of protein localization to organelle	BP	0.9999999999	0.0263065559565081	BP establishment of protein localization to organelle
+GO:0034613	0.999960731188473	0.000218284260842458	3	253	cellular protein localization	BP	0.9999999999	0.0305630544919866	BP cellular protein localization
+GO:0006810	0.999874512264128	0.000225821460336072	40	1156	transport	BP	0.9999999999	0.0311533988148925	BP transport
+GO:0033365	0.999978710524226	0.000259251624669168	1	176	protein localization to organelle	BP	0.9999999999	0.0352469491452386	BP protein localization to organelle
+GO:0030529	0.999899706548324	0.000266132691587306	12	463	intracellular ribonucleoprotein complex	CC	0.9999999999	0.0356655825682931	CC intracellular ribonucleoprotein complex
+GO:0043933	0.999869069929348	0.000307906918074098	16	597	macromolecular complex subunit organization	BP	0.9999999999	0.0406827436401847	BP macromolecular complex subunit organization
+GO:0008380	1	0.000352572784111713	0	132	RNA splicing	BP	0.9999999999	0.045937295663222	BP RNA splicing
+GO:0065007	0.999747144112643	0.000401134199741063	65	1684	biological regulation	BP	0.9999999999	0.0509890987882297	BP biological regulation
+GO:0051128	0.999886850078235	0.000402216534519668	6	350	regulation of cellular component organization	BP	0.9999999999	0.0509890987882297	BP regulation of cellular component organization
+GO:0044455	1	0.000429065964357176	0	118	mitochondrial membrane part	CC	0.9999999999	0.0536675708217955	CC mitochondrial membrane part
+GO:0061024	0.999959556814643	0.000465066458955823	1	169	membrane organization	BP	0.9999999999	0.0574051112034812	BP membrane organization
+GO:0048193	1	0.00053898190542809	0	132	Golgi vesicle transport	BP	0.9999999999	0.0656647955171547	BP Golgi vesicle transport
+GO:0071702	0.999715766371622	0.000599156757075311	20	672	organic substance transport	BP	0.9999999999	0.0720601222836346	BP organic substance transport
+GO:0005681	1	0.000705955394957604	0	120	spliceosomal complex	CC	0.9999999999	0.0838299691151555	CC spliceosomal complex
+GO:0003735	0.999844966643862	0.000994836273644241	2	155	structural constituent of ribosome	MF	0.9999999999	0.116656988538208	MF structural constituent of ribosome
+GO:0044248	0.999539188659233	0.0010184249514323	16	556	cellular catabolic process	BP	0.9999999999	0.117948697152919	BP cellular catabolic process
+GO:0022607	0.999507193702909	0.00113504708722786	14	497	cellular component assembly	BP	0.9999999999	0.129852155186397	BP cellular component assembly
+GO:0000375	1	0.00127744590735396	0	109	RNA splicing, via transesterification reactions	BP	0.9999999999	0.140984941845735	BP RNA splicing, via transesterification reactions
+GO:0000377	1	0.00127744590735396	0	109	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile	BP	0.9999999999	0.140984941845735	BP RNA splicing, via transesterification reactions with bulged adenosine as nucleophile
+GO:0000398	1	0.00127744590735396	0	109	mRNA splicing, via spliceosome	BP	0.9999999999	0.140984941845735	BP mRNA splicing, via spliceosome
+GO:0003824	0.999046780586092	0.00129410528884584	151	3219	catalytic activity	MF	0.9999999999	0.141162810635614	MF catalytic activity
+GO:0006807	0.998994229863661	0.00147275714651294	82	1912	nitrogen compound metabolic process	BP	0.9999999999	0.158803848177447	BP nitrogen compound metabolic process
+GO:0005737	0.999058951295812	0.00151545401553299	48	1265	cytoplasm	CC	0.9999999999	0.161550842269489	CC cytoplasm
+GO:0044265	0.999434764698818	0.0019590927369545	5	263	cellular macromolecule catabolic process	BP	0.9999999999	0.206497179386181	BP cellular macromolecule catabolic process
+GO:0044391	0.999665113751718	0.00200108904731165	2	145	ribosomal subunit	CC	0.9999999999	0.208580181698117	CC ribosomal subunit
+GO:0006091	1	0.00207806974801175	0	98	generation of precursor metabolites and energy	BP	0.9999999999	0.212518525368159	BP generation of precursor metabolites and energy
+GO:0005975	0.999288966168712	0.00208418125294431	7	314	carbohydrate metabolic process	BP	0.9999999999	0.212518525368159	BP carbohydrate metabolic process
+GO:0005622	0.999600465147518	0.00234044984482073	2	157	intracellular	CC	0.9999999999	0.23608344079853	CC intracellular
+GO:0043603	1	0.00246528830333088	0	101	cellular amide metabolic process	BP	0.9999999999	0.246030527378159	BP cellular amide metabolic process
+GO:0044431	0.999531992933587	0.00268853975209759	2	181	Golgi apparatus part	CC	0.9999999999	0.265486225415027	CC Golgi apparatus part
+GO:0031974	0.999502748837281	0.00284528860297571	2	165	membrane-enclosed lumen	CC	0.9999999999	0.278038045672032	CC membrane-enclosed lumen
+GO:1901135	0.999130948930448	0.00291216143072849	5	247	carbohydrate derivative metabolic process	BP	0.9999999999	0.281639034862515	BP carbohydrate derivative metabolic process
+GO:0005783	0.998834047732987	0.00312386870568386	8	327	endoplasmic reticulum	CC	0.9999999999	0.299030738041023	CC endoplasmic reticulum
+GO:0051186	0.999395460563013	0.00338950115296864	2	166	cofactor metabolic process	BP	0.9999999999	0.321180912282816	BP cofactor metabolic process
+GO:0043168	0.997688136577004	0.00372482829657858	40	1100	anion binding	MF	0.9999999999	0.343170801331404	MF anion binding
+GO:0065003	0.998456162453298	0.00373099972271313	10	362	macromolecular complex assembly	BP	0.9999999999	0.343170801331404	BP macromolecular complex assembly
+GO:0016020	0.997562416619685	0.00373131027990654	52	1293	membrane	CC	0.9999999999	0.343170801331404	CC membrane
+GO:0006793	0.998125704411817	0.00383156723543473	16	525	phosphorus metabolic process	BP	0.9999999999	0.34897021587974	BP phosphorus metabolic process
+GO:0044428	0.997525036462041	0.00401966311347584	38	998	nuclear part	CC	0.9999999999	0.362581342956893	CC nuclear part
+GO:0065008	0.997826164358461	0.00458616814213606	14	474	regulation of biological quality	BP	0.9999999999	0.409741365155985	BP regulation of biological quality
+GO:0006790	0.99947443650149	0.00463533354528753	1	128	sulfur compound metabolic process	BP	0.9999999999	0.410227018757947	BP sulfur compound metabolic process
+GO:1901576	0.996571820361889	0.00510013141669533	57	1327	organic substance biosynthetic process	BP	0.9999999999	0.447143297383355	BP organic substance biosynthetic process
+GO:0009058	0.996236713387683	0.00554736306169845	59	1362	biosynthetic process	BP	0.9999999999	0.481850119275862	BP biosynthetic process
+GO:0044430	0.99804354937981	0.00564928897199255	6	281	cytoskeletal part	CC	0.9999999999	0.486201649965707	CC cytoskeletal part
+GO:0034622	0.997720469433325	0.0058145184373848	8	296	cellular macromolecular complex assembly	BP	0.9999999999	0.49587270419188	BP cellular macromolecular complex assembly
+GO:0019866	0.998806626736855	0.00623652655421327	2	144	organelle inner membrane	CC	0.9999999999	0.524940040131002	CC organelle inner membrane
+GO:0044249	0.995777739199705	0.00626727262495174	55	1273	cellular biosynthetic process	BP	0.9999999999	0.524940040131002	BP cellular biosynthetic process
+GO:0050789	0.995560853872766	0.00643320591017827	63	1503	regulation of biological process	BP	0.9999999999	0.534069952596304	BP regulation of biological process
+GO:0050794	0.995539566058136	0.00651191087828572	60	1440	regulation of cellular process	BP	0.9999999999	0.535861718852617	BP regulation of cellular process
+GO:0000139	0.999210243222882	0.00662136666931699	1	128	Golgi membrane	CC	0.9999999999	0.540130788911849	CC Golgi membrane
+GO:0031966	0.997846356796348	0.0066823341822066	5	220	mitochondrial membrane	CC	0.9999999999	0.54040497382138	CC mitochondrial membrane
+GO:0006796	0.996487279864986	0.00704059104249018	15	480	phosphate-containing compound metabolic process	BP	0.9999999999	0.564510979227353	BP phosphate-containing compound metabolic process
+GO:0034641	0.994773138889382	0.00734227353988835	75	1690	cellular nitrogen compound metabolic process	BP	0.9999999999	0.578505372580047	BP cellular nitrogen compound metabolic process
+GO:0006839	0.999109199143981	0.00738908956504587	1	107	mitochondrial transport	BP	0.9999999999	0.578505372580047	BP mitochondrial transport
+GO:0051603	0.998151256732008	0.00740013268410678	3	177	proteolysis involved in cellular protein catabolic process	BP	0.9999999999	0.578505372580047	BP proteolysis involved in cellular protein catabolic process
+GO:1901566	0.996476683453212	0.00802228397097652	10	348	organonitrogen compound biosynthetic process	BP	0.9999999999	0.616947482945131	BP organonitrogen compound biosynthetic process
+GO:0005743	0.998413590836709	0.00803219218129429	2	138	mitochondrial inner membrane	CC	0.9999999999	0.616947482945131	CC mitochondrial inner membrane
+GO:0006605	1	0.00809865299085256	0	77	protein targeting	BP	0.9999999999	0.616947482945131	BP protein targeting
+GO:0043632	0.997903396490722	0.00828353592951909	3	174	modification-dependent macromolecule catabolic process	BP	0.9999999999	0.616947482945131	BP modification-dependent macromolecule catabolic process
+GO:0044448	0.998978447327507	0.00828435478357779	1	128	cell cortex part	CC	0.9999999999	0.616947482945131	CC cell cortex part
+GO:0006732	0.998342852999082	0.0083345534491472	2	147	coenzyme metabolic process	BP	0.9999999999	0.616947482945131	BP coenzyme metabolic process
+GO:0048468	1	0.00835223647095529	0	81	cell development	BP	0.9999999999	0.616947482945131	BP cell development
+GO:0046983	0.998949362021467	0.00851742226990484	1	112	protein dimerization activity	MF	0.9999999999	0.624233893077948	MF protein dimerization activity
+GO:1902578	0.993744631498735	0.00968956404573836	39	981	single-organism localization	BP	0.9999999999	0.704634110954043	BP single-organism localization
+GO:0006486	1	0.0100440385381337	0	78	protein glycosylation	BP	0.9999999999	0.713974071714375	BP protein glycosylation
+GO:0043413	1	0.0100440385381337	0	78	macromolecule glycosylation	BP	0.9999999999	0.713974071714375	BP macromolecule glycosylation
+GO:0017038	1	0.0100463252815582	0	74	protein import	BP	0.9999999999	0.713974071714375	BP protein import
+GO:0006082	0.994915011358271	0.0101455809068274	14	440	organic acid metabolic process	BP	0.9999999999	0.715606725465774	BP organic acid metabolic process
+GO:0007005	0.996866782998411	0.0103633153630131	4	184	mitochondrion organization	BP	0.9999999999	0.725509413585268	BP mitochondrion organization
+GO:0043436	0.994727185500862	0.010493863557794	14	439	oxoacid metabolic process	BP	0.9999999999	0.729206918782708	BP oxoacid metabolic process
+GO:0048856	0.997182930093519	0.0107773986410635	3	173	anatomical structure development	BP	0.9999999999	0.741295250032534	BP anatomical structure development
+GO:1902494	0.994672124589362	0.010825866032881	13	420	catalytic complex	CC	0.9999999999	0.741295250032534	CC catalytic complex
+GO:0022402	0.995016732263113	0.0110397908996465	10	357	cell cycle process	BP	0.9999999999	0.750465785721621	BP cell cycle process
+GO:0044440	1	0.0113481463703532	0	78	endosomal part	CC	0.9999999999	0.765142740017536	CC endosomal part
+GO:0051188	0.998527449996836	0.0114188235371981	1	107	cofactor biosynthetic process	BP	0.9999999999	0.765142740017536	BP cofactor biosynthetic process
+GO:0022414	0.996746707610325	0.0122589779151229	3	165	reproductive process	BP	0.9999999999	0.81561327533169	BP reproductive process
+GO:0031227	1	0.0125570332522599	0	69	intrinsic component of endoplasmic reticulum membrane	CC	0.9999999999	0.829560062953871	CC intrinsic component of endoplasmic reticulum membrane
+GO:0044425	0.990929722520479	0.0126712784506805	67	1502	membrane part	CC	0.9999999999	0.831253588432404	CC membrane part
+GO:0006412	0.995135499115546	0.0130111348853598	6	211	translation	BP	0.9999999999	0.847621224719169	BP translation
+GO:0097159	0.990019935263849	0.0131539095451369	105	2235	organic cyclic compound binding	MF	0.9999999999	0.851012589261578	MF organic cyclic compound binding
+GO:0009892	0.994613730596784	0.0134195269824445	7	275	negative regulation of metabolic process	BP	0.9999999999	0.862250565906244	BP negative regulation of metabolic process
+GO:0044272	1	0.0135270777786202	0	73	sulfur compound biosynthetic process	BP	0.9999999999	0.863248412525416	BP sulfur compound biosynthetic process
+GO:0006575	1	0.0136488636646897	0	75	cellular modified amino acid metabolic process	BP	0.9999999999	0.86513506782739	BP cellular modified amino acid metabolic process
+GO:0033043	0.995163408138994	0.0138770756216593	5	223	regulation of organelle organization	BP	0.9999999999	0.873696955750244	BP regulation of organelle organization
+GO:0006888	1	0.0140677421404258	0	71	ER to Golgi vesicle-mediated transport	BP	0.9999999999	0.879796593462232	BP ER to Golgi vesicle-mediated transport
+GO:1901363	0.988732859563322	0.0147881240414845	105	2226	heterocyclic compound binding	MF	0.9999999999	0.916853649492072	MF heterocyclic compound binding
+GO:0097367	0.99033987555901	0.014855746159556	36	944	carbohydrate derivative binding	MF	0.9999999999	0.916853649492072	MF carbohydrate derivative binding
+GO:0005768	1	0.014978551276292	0	75	endosome	CC	0.9999999999	0.918390781195391	CC endosome
+GO:0044711	0.990555414681371	0.0151763067368074	29	723	single-organism biosynthetic process	BP	0.9999999999	0.919729399312445	BP single-organism biosynthetic process
+GO:0019752	0.992145179206991	0.0151964669964214	14	424	carboxylic acid metabolic process	BP	0.9999999999	0.919729399312445	BP carboxylic acid metabolic process
+GO:0048869	0.994490102970626	0.0156107378657853	5	215	cellular developmental process	BP	0.9999999999	0.938745717429051	BP cellular developmental process
+GO:0015935	1	0.0157225912726596	0	59	small ribosomal subunit	CC	0.9999999999	0.939449864514773	CC small ribosomal subunit
+GO:0016301	0.994375645433585	0.0158841562028634	5	228	kinase activity	MF	0.9999999999	0.941245853215638	MF kinase activity
+GO:0071822	0.993105538314736	0.0160359413833199	8	283	protein complex subunit organization	BP	0.9999999999	0.941245853215638	BP protein complex subunit organization
+GO:0006511	0.995559200558763	0.0161539902321413	3	159	ubiquitin-dependent protein catabolic process	BP	0.9999999999	0.941245853215638	BP ubiquitin-dependent protein catabolic process
+GO:0019941	0.995559200558763	0.0161539902321413	3	159	modification-dependent protein catabolic process	BP	0.9999999999	0.941245853215638	BP modification-dependent protein catabolic process
+GO:0032502	0.991580527924563	0.0169269803291766	12	382	developmental process	BP	0.9999999999	0.980197546098802	BP developmental process
+GO:0051028	1	0.0175816657217355	0	69	mRNA transport	BP	0.9999999999	0.9999999999	BP mRNA transport
+GO:0051129	1	0.017725985765678	0	71	negative regulation of cellular component organization	BP	0.9999999999	0.9999999999	BP negative regulation of cellular component organization
+GO:0030176	1	0.0181512352246731	0	64	integral component of endoplasmic reticulum membrane	CC	0.9999999999	0.9999999999	CC integral component of endoplasmic reticulum membrane
+GO:0051301	0.994863304214031	0.0183537097826253	3	163	cell division	BP	0.9999999999	0.9999999999	BP cell division
+GO:0005759	0.997328236899556	0.0190534041779098	1	99	mitochondrial matrix	CC	0.9999999999	0.9999999999	CC mitochondrial matrix
+GO:0019637	0.991113330354844	0.0194389611667777	9	298	organophosphate metabolic process	BP	0.9999999999	0.9999999999	BP organophosphate metabolic process
+GO:0044765	0.987037996866243	0.0195426811749456	37	900	single-organism transport	BP	0.9999999999	0.9999999999	BP single-organism transport
+GO:0031324	0.991547252616277	0.0202015847813299	7	263	negative regulation of cellular metabolic process	BP	0.9999999999	0.9999999999	BP negative regulation of cellular metabolic process
+GO:0009056	0.986821417583209	0.0202715292131397	33	789	catabolic process	BP	0.9999999999	0.9999999999	BP catabolic process
+GO:0010605	0.99195273649259	0.0204319485149107	6	240	negative regulation of macromolecule metabolic process	BP	0.9999999999	0.9999999999	BP negative regulation of macromolecule metabolic process
+GO:0045017	1	0.0207595766031808	0	65	glycerolipid biosynthetic process	BP	0.9999999999	0.9999999999	BP glycerolipid biosynthetic process
+GO:0043233	0.995282598270817	0.020873431681486	2	127	organelle lumen	CC	0.9999999999	0.9999999999	CC organelle lumen
+GO:0090407	0.99229204900324	0.0211125321213812	5	198	organophosphate biosynthetic process	BP	0.9999999999	0.9999999999	BP organophosphate biosynthetic process
+GO:1901137	0.993866037170378	0.0214880090394221	3	149	carbohydrate derivative biosynthetic process	BP	0.9999999999	0.9999999999	BP carbohydrate derivative biosynthetic process
+GO:0030234	0.992857103738205	0.0216031656993128	4	181	enzyme regulator activity	MF	0.9999999999	0.9999999999	MF enzyme regulator activity
+GO:0060589	1	0.0221955017288247	0	71	nucleoside-triphosphatase regulator activity	MF	0.9999999999	0.9999999999	MF nucleoside-triphosphatase regulator activity
+GO:0036094	0.984283389508956	0.0228651201417366	43	1064	small molecule binding	MF	0.9999999999	0.9999999999	MF small molecule binding
+GO:1901575	0.985027539814831	0.0232769637415935	30	716	organic substance catabolic process	BP	0.9999999999	0.9999999999	BP organic substance catabolic process
+GO:0043228	0.985459716296803	0.0232870084845942	26	642	non-membrane-bounded organelle	CC	0.9999999999	0.9999999999	CC non-membrane-bounded organelle
+GO:0043232	0.985459716296803	0.0232870084845942	26	642	intracellular non-membrane-bounded organelle	CC	0.9999999999	0.9999999999	CC intracellular non-membrane-bounded organelle
+GO:0045292	1	0.0240066464190456	0	60	mRNA cis splicing, via spliceosome	BP	0.9999999999	0.9999999999	BP mRNA cis splicing, via spliceosome
+GO:0070013	0.994430787799946	0.024103518465437	2	124	intracellular organelle lumen	CC	0.9999999999	0.9999999999	CC intracellular organelle lumen
+GO:0009108	0.996260899131366	0.0253763732210709	1	91	coenzyme biosynthetic process	BP	0.9999999999	0.9999999999	BP coenzyme biosynthetic process
+GO:0006396	0.988319715960282	0.0258787591226114	8	275	RNA processing	BP	0.9999999999	0.9999999999	BP RNA processing
+GO:0006325	0.990076032177222	0.026412604429224	5	209	chromatin organization	BP	0.9999999999	0.9999999999	BP chromatin organization
+GO:0006650	1	0.026875114112681	0	63	glycerophospholipid metabolic process	BP	0.9999999999	0.9999999999	BP glycerophospholipid metabolic process
+GO:0015931	0.995926533123196	0.0272423570610353	1	95	nucleobase-containing compound transport	BP	0.9999999999	0.9999999999	BP nucleobase-containing compound transport
+GO:0006461	0.989446506586713	0.0279465803706291	5	189	protein complex assembly	BP	0.9999999999	0.9999999999	BP protein complex assembly
+GO:1903047	0.988560725821948	0.0280178602837207	6	231	mitotic cell cycle process	BP	0.9999999999	0.9999999999	BP mitotic cell cycle process
+GO:0072657	1	0.0285910446357143	0	58	protein localization to membrane	BP	0.9999999999	0.9999999999	BP protein localization to membrane
+GO:0044767	0.985080273744863	0.0286353431113458	12	364	single-organism developmental process	BP	0.9999999999	0.9999999999	BP single-organism developmental process
+GO:0008289	0.995593515925123	0.0290853791116944	1	97	lipid binding	MF	0.9999999999	0.9999999999	MF lipid binding
+GO:0070085	0.995540331714644	0.0294094770127689	1	93	glycosylation	BP	0.9999999999	0.9999999999	BP glycosylation
+GO:0009066	1	0.0298142308083021	0	61	aspartate family amino acid metabolic process	BP	0.9999999999	0.9999999999	BP aspartate family amino acid metabolic process
+GO:0003723	0.981137636348578	0.0301937549369312	24	590	RNA binding	MF	0.9999999999	0.9999999999	MF RNA binding
+GO:0032155	1	0.0303659144169293	0	63	cell division site part	CC	0.9999999999	0.9999999999	CC cell division site part
+GO:0003006	0.990835574423424	0.030524627539517	3	144	developmental process involved in reproduction	BP	0.9999999999	0.9999999999	BP developmental process involved in reproduction
+GO:0006869	1	0.0315575752027978	0	59	lipid transport	BP	0.9999999999	0.9999999999	BP lipid transport
+GO:0046486	0.99232822718531	0.0317859616599144	2	115	glycerolipid metabolic process	BP	0.9999999999	0.9999999999	BP glycerolipid metabolic process
+GO:0031300	0.988546855427933	0.0328206149695479	4	161	intrinsic component of organelle membrane	CC	0.9999999999	0.9999999999	CC intrinsic component of organelle membrane
+GO:0090150	1	0.0343055566454325	0	53	establishment of protein localization to membrane	BP	0.9999999999	0.9999999999	BP establishment of protein localization to membrane
+GO:0044723	0.985648227617179	0.0343291802727124	6	218	single-organism carbohydrate metabolic process	BP	0.9999999999	0.9999999999	BP single-organism carbohydrate metabolic process
+GO:0060627	1	0.0345507771069289	0	62	regulation of vesicle-mediated transport	BP	0.9999999999	0.9999999999	BP regulation of vesicle-mediated transport
+GO:0010639	1	0.0349870089512726	0	58	negative regulation of organelle organization	BP	0.9999999999	0.9999999999	BP negative regulation of organelle organization
+GO:0071826	0.989041336238618	0.0356851643090984	3	136	ribonucleoprotein complex subunit organization	BP	0.9999999999	0.9999999999	BP ribonucleoprotein complex subunit organization
+GO:0051726	0.983698343444297	0.0364999972543625	7	241	regulation of cell cycle	BP	0.9999999999	0.9999999999	BP regulation of cell cycle
+GO:0070585	1	0.0373797707291595	0	49	protein localization to mitochondrion	BP	0.9999999999	0.9999999999	BP protein localization to mitochondrion
+GO:0072655	1	0.0373797707291595	0	49	establishment of protein localization to mitochondrion	BP	0.9999999999	0.9999999999	BP establishment of protein localization to mitochondrion
+GO:0010008	1	0.0376047406479221	0	58	endosome membrane	CC	0.9999999999	0.9999999999	CC endosome membrane
+GO:0006725	0.971145050988897	0.0376851736371973	78	1641	cellular aromatic compound metabolic process	BP	0.9999999999	0.9999999999	BP cellular aromatic compound metabolic process
+GO:0016209	1	0.0376987878968723	0	49	antioxidant activity	MF	0.9999999999	0.9999999999	MF antioxidant activity
+GO:0016651	1	0.0381707605884032	0	53	oxidoreductase activity, acting on NAD(P)H	MF	0.9999999999	0.9999999999	MF oxidoreductase activity, acting on NAD(P)H
+GO:0009653	0.990264603772485	0.0389328545578937	2	116	anatomical structure morphogenesis	BP	0.9999999999	0.9999999999	BP anatomical structure morphogenesis
+GO:0006518	1	0.0393399977949856	0	51	peptide metabolic process	BP	0.9999999999	0.9999999999	BP peptide metabolic process
+GO:0046873	0.993652933912392	0.0394501904213157	1	95	metal ion transmembrane transporter activity	MF	0.9999999999	0.9999999999	MF metal ion transmembrane transporter activity
+GO:0006643	1	0.0398018908867341	0	53	membrane lipid metabolic process	BP	0.9999999999	0.9999999999	BP membrane lipid metabolic process
+GO:0010498	0.990006209554042	0.0398314902137031	2	113	proteasomal protein catabolic process	BP	0.9999999999	0.9999999999	BP proteasomal protein catabolic process
+GO:0044702	0.987385239664895	0.0402898539596414	3	137	single organism reproductive process	BP	0.9999999999	0.9999999999	BP single organism reproductive process
+GO:0019843	1	0.040766183976258	0	45	rRNA binding	MF	0.9999999999	0.9999999999	MF rRNA binding
+GO:0009057	0.977853596625498	0.0410918334521436	12	338	macromolecule catabolic process	BP	0.9999999999	0.9999999999	BP macromolecule catabolic process
+GO:0043161	0.98963130140332	0.0411035718223434	2	112	proteasome-mediated ubiquitin-dependent protein catabolic process	BP	0.9999999999	0.9999999999	BP proteasome-mediated ubiquitin-dependent protein catabolic process
+GO:1901360	0.968087093595114	0.041171125438306	84	1746	organic cyclic compound metabolic process	BP	0.9999999999	0.9999999999	BP organic cyclic compound metabolic process
+GO:0031982	1	0.0413892414839885	0	54	vesicle	CC	0.9999999999	0.9999999999	CC vesicle
+GO:0000166	0.970505454516931	0.0414876306623133	43	1030	nucleotide binding	MF	0.9999999999	0.9999999999	MF nucleotide binding
+GO:1901265	0.970505454516931	0.0414876306623133	43	1030	nucleoside phosphate binding	MF	0.9999999999	0.9999999999	MF nucleoside phosphate binding
+GO:0032553	0.971318240960028	0.0415182415908348	36	894	ribonucleotide binding	MF	0.9999999999	0.9999999999	MF ribonucleotide binding
+GO:0055082	0.989222869146511	0.0424238419356317	2	118	cellular chemical homeostasis	BP	0.9999999999	0.9999999999	BP cellular chemical homeostasis
+GO:0007017	0.989171573451729	0.0426024283640132	2	117	microtubule-based process	BP	0.9999999999	0.9999999999	BP microtubule-based process
+GO:0005774	0.98275457391081	0.0431033643546056	5	192	vacuolar membrane	CC	0.9999999999	0.9999999999	CC vacuolar membrane
+GO:0044421	0.992730298396721	0.0443785913242903	1	76	extracellular region part	CC	0.9999999999	0.9999999999	CC extracellular region part
+GO:0044282	0.988630651071013	0.0444557966479913	2	110	small molecule catabolic process	BP	0.9999999999	0.9999999999	BP small molecule catabolic process
+GO:0009067	1	0.0445015386251256	0	54	aspartate family amino acid biosynthetic process	BP	0.9999999999	0.9999999999	BP aspartate family amino acid biosynthetic process
+GO:0031301	0.983580259947545	0.0449876800024309	4	154	integral component of organelle membrane	CC	0.9999999999	0.9999999999	CC integral component of organelle membrane
+GO:0043543	1	0.0461044196639401	0	55	protein acylation	BP	0.9999999999	0.9999999999	BP protein acylation
+GO:0030532	1	0.0461475331189928	0	50	small nuclear ribonucleoprotein complex	CC	0.9999999999	0.9999999999	CC small nuclear ribonucleoprotein complex
+GO:0046483	0.963811657070196	0.0467226481809787	79	1645	heterocycle metabolic process	BP	0.9999999999	0.9999999999	BP heterocycle metabolic process
+GO:0051248	1	0.0490035181850128	0	52	negative regulation of protein metabolic process	BP	0.9999999999	0.9999999999	BP negative regulation of protein metabolic process
+GO:0065002	1	0.0490286805716988	0	45	intracellular protein transmembrane transport	BP	0.9999999999	0.9999999999	BP intracellular protein transmembrane transport
+GO:0071806	1	0.0490286805716988	0	45	protein transmembrane transport	BP	0.9999999999	0.9999999999	BP protein transmembrane transport
+GO:0051049	0.987002641029461	0.0497146870465015	2	116	regulation of transport	BP	0.9999999999	0.9999999999	BP regulation of transport
+GO:0006753	0.979662486865684	0.0498799804231212	5	177	nucleoside phosphate metabolic process	BP	0.9999999999	0.9999999999	BP nucleoside phosphate metabolic process
