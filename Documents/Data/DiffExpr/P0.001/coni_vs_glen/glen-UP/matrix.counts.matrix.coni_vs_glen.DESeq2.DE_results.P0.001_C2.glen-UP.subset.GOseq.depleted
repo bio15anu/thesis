@@ -1,0 +1,311 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	under_represented_FDR	go_term
+GO:0016192	0.999999999552136	1.35882069952426e-09	27	302	vesicle-mediated transport	BP	0.9999999999	1.27715557548285e-05	BP vesicle-mediated transport
+GO:0016298	0.999999984559741	6.40342784548471e-08	11	172	lipase activity	MF	0.9999999999	0.000300929091598554	MF lipase activity
+GO:0005768	0.999999993188994	1.52936067083197e-07	1	75	endosome	CC	0.9999999999	0.000451696115883638	CC endosome
+GO:0044448	0.99999996295395	1.92231563308283e-07	7	128	cell cortex part	CC	0.9999999999	0.000451696115883638	CC cell cortex part
+GO:0016042	0.999999897583116	3.15025040131601e-07	18	212	lipid catabolic process	BP	0.9999999999	0.000592184070439384	BP lipid catabolic process
+GO:0004806	0.99999981485014	7.810535285946e-07	9	142	triglyceride lipase activity	MF	0.9999999999	0.00113554334086154	MF triglyceride lipase activity
+GO:0098588	0.999999499578233	8.45707350359699e-07	101	686	bounding membrane of organelle	CC	0.9999999999	0.00113554334086154	CC bounding membrane of organelle
+GO:0030003	0.999999432487328	2.86677660587007e-06	6	108	cellular cation homeostasis	BP	0.9999999999	0.0033681041648216	BP cellular cation homeostasis
+GO:0046903	1	4.08156594639455e-06	0	51	secretion	BP	0.9999999999	0.00426251537001804	BP secretion
+GO:0044431	0.999997136715068	7.90029820723618e-06	18	185	Golgi apparatus part	CC	0.9999999999	0.00572643203546061	CC Golgi apparatus part
+GO:0055080	0.999997820812767	8.84145615029423e-06	8	117	cation homeostasis	BP	0.9999999999	0.00572643203546061	BP cation homeostasis
+GO:0032153	0.999997390265832	8.98290498517065e-06	11	136	cell division site	CC	0.9999999999	0.00572643203546061	CC cell division site
+GO:0006897	0.999998068041267	9.21633136566597e-06	6	101	endocytosis	BP	0.9999999999	0.00572643203546061	BP endocytosis
+GO:0032940	1	9.42957638721946e-06	0	47	secretion by cell	BP	0.9999999999	0.00572643203546061	BP secretion by cell
+GO:0005543	0.999999013929877	9.8477872181184e-06	2	67	phospholipid binding	MF	0.9999999999	0.00572643203546061	MF phospholipid binding
+GO:0098771	0.999997250802524	1.10331146384625e-05	8	116	inorganic ion homeostasis	BP	0.9999999999	0.00572643203546061	BP inorganic ion homeostasis
+GO:0031090	0.999992580693661	1.10966913805615e-05	147	901	organelle membrane	CC	0.9999999999	0.00572643203546061	CC organelle membrane
+GO:0006873	0.999997157772483	1.13871366204336e-05	8	116	cellular ion homeostasis	BP	0.9999999999	0.00572643203546061	BP cellular ion homeostasis
+GO:0052689	0.999995542789402	1.15759345327962e-05	20	202	carboxylic ester hydrolase activity	MF	0.9999999999	0.00572643203546061	MF carboxylic ester hydrolase activity
+GO:0016197	0.999998271145429	1.26362062561766e-05	3	76	endosomal transport	BP	0.9999999999	0.00593838513009019	BP endosomal transport
+GO:0051286	0.999997288864602	1.41258954364971e-05	5	90	cell tip	CC	0.9999999999	0.0060349677821653	CC cell tip
+GO:0060187	0.999997288864602	1.41258954364971e-05	5	90	cell pole	CC	0.9999999999	0.0060349677821653	CC cell pole
+GO:0055082	0.99999530555653	1.73125087981972e-05	9	121	cellular chemical homeostasis	BP	0.9999999999	0.00707479435627198	BP cellular chemical homeostasis
+GO:0035091	1	2.02267557611799e-05	0	43	phosphatidylinositol binding	MF	0.9999999999	0.00792130322497208	MF phosphatidylinositol binding
+GO:0050801	0.999991972062004	2.74552207669711e-05	10	125	ion homeostasis	BP	0.9999999999	0.0103220647995505	BP ion homeostasis
+GO:0016020	0.99996271320365	5.0637142487544e-05	234	1320	membrane	CC	0.9999999999	0.0183053270092472	CC membrane
+GO:0005096	0.999995569468454	6.66845852369322e-05	1	49	GTPase activator activity	MF	0.9999999999	0.0232136450608121	MF GTPase activator activity
+GO:0008104	0.999945190724529	8.63568435852241e-05	89	569	protein localization	BP	0.9999999999	0.0289881418877686	BP protein localization
+GO:0007165	0.999942125712029	0.00010360446185523	50	354	signal transduction	BP	0.9999999999	0.0335785633440451	BP signal transduction
+GO:0006892	0.999991576013824	0.000120432996769666	1	47	post-Golgi vesicle-mediated transport	BP	0.9999999999	0.0377316578879365	BP post-Golgi vesicle-mediated transport
+GO:0044432	0.999921994004546	0.000131468393812428	62	420	endoplasmic reticulum part	CC	0.9999999999	0.0398603688207424	CC endoplasmic reticulum part
+GO:0030004	1	0.000143001638448649	0	36	cellular monovalent inorganic cation homeostasis	BP	0.9999999999	0.0420022624930891	BP cellular monovalent inorganic cation homeostasis
+GO:0032155	0.999975312852693	0.000152769266779653	3	63	cell division site part	CC	0.9999999999	0.0435114648018775	CC cell division site part
+GO:0007034	0.999960624297041	0.000159470109009026	6	86	vacuolar transport	BP	0.9999999999	0.0440841045463481	BP vacuolar transport
+GO:0048878	0.999932655490204	0.000180034481910121	14	140	chemical homeostasis	BP	0.9999999999	0.0466138319440561	BP chemical homeostasis
+GO:0044440	0.999959332112761	0.000181005553319668	5	78	endosomal part	CC	0.9999999999	0.0466138319440561	CC endosomal part
+GO:0033036	0.99987734989101	0.000187539910623688	94	586	macromolecule localization	BP	0.9999999999	0.0466138319440561	BP macromolecule localization
+GO:0006464	0.999873719500486	0.000193418389809362	93	575	cellular protein modification process	BP	0.9999999999	0.0466138319440561	BP cellular protein modification process
+GO:0036211	0.999873719500486	0.000193418389809362	93	575	protein modification process	BP	0.9999999999	0.0466138319440561	BP protein modification process
+GO:0030428	0.999984158227415	0.00021533834165434	1	44	cell septum	CC	0.9999999999	0.0505991268302285	CC cell septum
+GO:0022604	0.999951645505779	0.000241149133638127	4	68	regulation of cell morphogenesis	BP	0.9999999999	0.0552819684649939	BP regulation of cell morphogenesis
+GO:0010646	0.999862329432364	0.000277529838544314	29	228	regulation of cell communication	BP	0.9999999999	0.0618216882725585	BP regulation of cell communication
+GO:0006887	1	0.000284196793169082	0	33	exocytosis	BP	0.9999999999	0.0618216882725585	BP exocytosis
+GO:0005794	0.999872949876473	0.000289408903499582	20	173	Golgi apparatus	CC	0.9999999999	0.0618216882725585	CC Golgi apparatus
+GO:0008289	0.999910723507372	0.000299234273503296	8	96	lipid binding	MF	0.9999999999	0.0625000652590551	MF lipid binding
+GO:0016050	0.999957530182798	0.000326924060639638	2	51	vesicle organization	BP	0.9999999999	0.0667991140424338	BP vesicle organization
+GO:0055065	0.999912047923064	0.000338832691833167	6	82	metal ion homeostasis	BP	0.9999999999	0.0674806832603977	BP metal ion homeostasis
+GO:0015031	0.99977968836542	0.000348265380301272	73	468	protein transport	BP	0.9999999999	0.0674806832603977	BP protein transport
+GO:0009966	0.999829711794944	0.000351798433850355	26	208	regulation of signal transduction	BP	0.9999999999	0.0674806832603977	BP regulation of signal transduction
+GO:0045184	0.999753592615199	0.000387236926896049	74	472	establishment of protein localization	BP	0.9999999999	0.0727927975179192	BP establishment of protein localization
+GO:0019787	0.999859124038729	0.000436053023268883	9	100	ubiquitin-like protein transferase activity	MF	0.9999999999	0.0803620071706713	MF ubiquitin-like protein transferase activity
+GO:0048193	0.999818730796475	0.000461130867559352	14	134	Golgi vesicle transport	BP	0.9999999999	0.0833494043113528	BP Golgi vesicle transport
+GO:0061659	0.999856998268898	0.000495885702740337	7	86	ubiquitin-like protein ligase activity	MF	0.9999999999	0.0868844788189512	MF ubiquitin-like protein ligase activity
+GO:0051285	1	0.000499176705630744	0	30	cell cortex of cell tip	CC	0.9999999999	0.0868844788189512	CC cell cortex of cell tip
+GO:0023051	0.999742564765963	0.000511288575846733	28	217	regulation of signaling	BP	0.9999999999	0.0873745695342445	BP regulation of signaling
+GO:0000139	0.999771525318124	0.000574741285842462	14	131	Golgi membrane	CC	0.9999999999	0.0964641668863089	CC Golgi membrane
+GO:0030427	0.999894196851124	0.000587427787721983	3	57	site of polarized growth	CC	0.9999999999	0.0968637504701564	CC site of polarized growth
+GO:0004553	0.999764180112773	0.000706459312309651	9	99	hydrolase activity, hydrolyzing O-glycosyl compounds	MF	0.9999999999	0.114482949593076	MF hydrolase activity, hydrolyzing O-glycosyl compounds
+GO:1902531	0.999709411737563	0.000722319148709403	14	128	regulation of intracellular signal transduction	BP	0.9999999999	0.115069113198639	BP regulation of intracellular signal transduction
+GO:0006875	0.999770041821606	0.000830942252408592	6	77	cellular metal ion homeostasis	BP	0.9999999999	0.129048755832022	BP cellular metal ion homeostasis
+GO:0043241	1	0.00084103574648145	0	28	protein complex disassembly	BP	0.9999999999	0.129048755832022	BP protein complex disassembly
+GO:0030641	1	0.000851263204764907	0	29	regulation of cellular pH	BP	0.9999999999	0.129048755832022	BP regulation of cellular pH
+GO:0005789	0.999490635703718	0.000865930258524145	46	312	endoplasmic reticulum membrane	CC	0.9999999999	0.129188547616959	CC endoplasmic reticulum membrane
+GO:0030695	0.999833281948452	0.000894144583685267	3	54	GTPase regulator activity	MF	0.9999999999	0.131313514719654	MF GTPase regulator activity
+GO:0071702	0.999305775919779	0.000980947746949408	116	680	organic substance transport	BP	0.9999999999	0.141845044208884	BP organic substance transport
+GO:0051649	0.999303417204019	0.00100391539703999	102	612	establishment of localization in cell	BP	0.9999999999	0.142966679042103	BP establishment of localization in cell
+GO:0051453	1	0.00109843832547115	0	28	regulation of intracellular pH	BP	0.9999999999	0.154092863001542	BP regulation of intracellular pH
+GO:0004842	0.999657663932792	0.00112095170708864	7	81	ubiquitin-protein transferase activity	MF	0.9999999999	0.154938604337148	MF ubiquitin-protein transferase activity
+GO:0044433	0.999547826567993	0.00130147310697409	9	94	cytoplasmic vesicle part	CC	0.9999999999	0.177283271484775	CC cytoplasmic vesicle part
+GO:0008047	0.999542389403286	0.00138364022083851	8	87	enzyme activator activity	MF	0.9999999999	0.185783349080874	MF enzyme activator activity
+GO:0098589	0.999088593438257	0.00147671991261544	52	338	membrane region	CC	0.9999999999	0.195488598009471	CC membrane region
+GO:0022603	0.999442969934905	0.00166333096621834	8	85	regulation of anatomical structure morphogenesis	BP	0.9999999999	0.217133996548419	BP regulation of anatomical structure morphogenesis
+GO:0005774	0.999097689833016	0.00173240933681992	26	193	vacuolar membrane	CC	0.9999999999	0.223053635024252	CC vacuolar membrane
+GO:0044430	0.998952794047024	0.00176974916610713	42	280	cytoskeletal part	CC	0.9999999999	0.224782059624877	CC cytoskeletal part
+GO:0010008	0.999570243723769	0.00181798457978169	4	58	endosome membrane	CC	0.9999999999	0.227829827538241	CC endosome membrane
+GO:0005509	0.999485717655752	0.00191428398389117	5	65	calcium ion binding	MF	0.9999999999	0.236188363063407	MF calcium ion binding
+GO:0008360	0.999540604681243	0.00193494030810536	4	57	regulation of cell shape	BP	0.9999999999	0.236188363063407	BP regulation of cell shape
+GO:0006893	1	0.00225223824053193	0	24	Golgi to plasma membrane transport	BP	0.9999999999	0.271394707984097	BP Golgi to plasma membrane transport
+GO:0022406	1	0.00235280560059675	0	24	membrane docking	BP	0.9999999999	0.279924301772264	BP membrane docking
+GO:0060627	0.999321383026479	0.00247263863716491	5	63	regulation of vesicle-mediated transport	BP	0.9999999999	0.290504131883913	BP regulation of vesicle-mediated transport
+GO:0072665	1	0.00255332677886841	0	24	protein localization to vacuole	BP	0.9999999999	0.296280474007212	BP protein localization to vacuole
+GO:0016798	0.998928792544772	0.00260600079092552	12	109	hydrolase activity, acting on glycosyl bonds	MF	0.9999999999	0.298704895535475	MF hydrolase activity, acting on glycosyl bonds
+GO:0044437	0.998438932953168	0.00268867710440898	36	244	vacuolar part	CC	0.9999999999	0.304138317410024	CC vacuolar part
+GO:0065007	0.997773025470067	0.00271812093440175	336	1740	biological regulation	BP	0.9999999999	0.304138317410024	BP biological regulation
+GO:0061630	0.999144973544614	0.00280776607170012	6	69	ubiquitin protein ligase activity	MF	0.9999999999	0.310472862445994	MF ubiquitin protein ligase activity
+GO:0006914	0.999038773208179	0.00291922454039261	7	76	autophagy	BP	0.9999999999	0.319044086687793	BP autophagy
+GO:0030176	0.999125089859536	0.00311111798103453	5	64	integral component of endoplasmic reticulum membrane	CC	0.9999999999	0.333991750431278	CC integral component of endoplasmic reticulum membrane
+GO:0042147	1	0.00312706394701058	0	23	retrograde transport, endosome to Golgi	BP	0.9999999999	0.333991750431278	BP retrograde transport, endosome to Golgi
+GO:0006623	1	0.00329437624550984	0	23	protein targeting to vacuole	BP	0.9999999999	0.344042692572744	BP protein targeting to vacuole
+GO:0072666	1	0.00329437624550984	0	23	establishment of protein localization to vacuole	BP	0.9999999999	0.344042692572744	BP establishment of protein localization to vacuole
+GO:0035556	0.998119936129075	0.00338542795897105	29	203	intracellular signal transduction	BP	0.9999999999	0.349666344905153	BP intracellular signal transduction
+GO:0016773	0.998087794547179	0.00347167838912697	28	197	phosphotransferase activity, alcohol group as acceptor	MF	0.9999999999	0.354677230210917	MF phosphotransferase activity, alcohol group as acceptor
+GO:0019899	0.998307560389102	0.00356342171732413	17	135	enzyme binding	MF	0.9999999999	0.360135491625049	MF enzyme binding
+GO:0055076	0.999202783012328	0.00371433068418208	3	48	transition metal ion homeostasis	BP	0.9999999999	0.371393554261993	BP transition metal ion homeostasis
+GO:0055067	0.99937019840411	0.00379153410510668	2	40	monovalent inorganic cation homeostasis	BP	0.9999999999	0.37512241109366	BP monovalent inorganic cation homeostasis
+GO:0017137	0.999606186421912	0.00391214634206556	1	31	Rab GTPase binding	MF	0.9999999999	0.379511727399651	MF Rab GTPase binding
+GO:0048278	1	0.00391665470345421	0	22	vesicle docking	BP	0.9999999999	0.379511727399651	BP vesicle docking
+GO:1901981	1	0.00399610229271992	0	22	phosphatidylinositol phosphate binding	MF	0.9999999999	0.383258831115046	MF phosphatidylinositol phosphate binding
+GO:0031982	0.998880451031445	0.00434416955985745	4	55	vesicle	CC	0.9999999999	0.41243282518283	CC vesicle
+GO:0008375	0.999545308240176	0.00443270893397125	1	31	acetylglucosaminyltransferase activity	MF	0.9999999999	0.416630312703958	MF acetylglucosaminyltransferase activity
+GO:0051179	0.996268338434551	0.00461239654572178	257	1351	localization	BP	0.9999999999	0.425992761341807	BP localization
+GO:0030001	0.998224906452963	0.0046496977851282	9	85	metal ion transport	BP	0.9999999999	0.425992761341807	BP metal ion transport
+GO:0046907	0.996619998525668	0.0046682896497719	100	578	intracellular transport	BP	0.9999999999	0.425992761341807	BP intracellular transport
+GO:0043624	1	0.00486638583811914	0	21	cellular protein complex disassembly	BP	0.9999999999	0.439799620120017	BP cellular protein complex disassembly
+GO:0046486	0.997718319605747	0.00500749478719283	14	118	glycerolipid metabolic process	BP	0.9999999999	0.448242319093575	BP glycerolipid metabolic process
+GO:0050789	0.995709127865255	0.00521804765563983	301	1553	regulation of biological process	BP	0.9999999999	0.462415155837934	BP regulation of biological process
+GO:0050794	0.995685277768721	0.00526552481894985	288	1490	regulation of cellular process	BP	0.9999999999	0.462415155837934	BP regulation of cellular process
+GO:0005770	1	0.00533668676771517	0	21	late endosome	CC	0.9999999999	0.462415155837934	CC late endosome
+GO:0006891	1	0.0053626185749904	0	21	intra-Golgi vesicle-mediated transport	BP	0.9999999999	0.462415155837934	BP intra-Golgi vesicle-mediated transport
+GO:0009886	0.999422957710057	0.00546976548098201	1	30	post-embryonic animal morphogenesis	BP	0.9999999999	0.467366597779544	BP post-embryonic animal morphogenesis
+GO:0060589	0.998029677492967	0.00566106774936321	7	71	nucleoside-triphosphatase regulator activity	MF	0.9999999999	0.479354736723107	MF nucleoside-triphosphatase regulator activity
+GO:0007163	0.998035166162702	0.00602083234495109	6	65	establishment or maintenance of cell polarity	BP	0.9999999999	0.505266100091029	BP establishment or maintenance of cell polarity
+GO:0048583	0.996035720556334	0.00616085182057065	48	301	regulation of response to stimulus	BP	0.9999999999	0.512441117358792	BP regulation of response to stimulus
+GO:0031338	1	0.00641603993706506	0	20	regulation of vesicle fusion	BP	0.9999999999	0.525170110010451	BP regulation of vesicle fusion
+GO:0032271	1	0.00651510170069838	0	20	regulation of protein polymerization	BP	0.9999999999	0.525170110010451	BP regulation of protein polymerization
+GO:0016569	0.996704383308639	0.00655330587462032	18	135	chromatin modification	BP	0.9999999999	0.525170110010451	BP chromatin modification
+GO:0046916	0.99849321079177	0.00659037168594808	3	45	cellular transition metal ion homeostasis	BP	0.9999999999	0.525170110010451	BP cellular transition metal ion homeostasis
+GO:0008092	0.997022578442308	0.00659326236634037	13	106	cytoskeletal protein binding	MF	0.9999999999	0.525170110010451	MF cytoskeletal protein binding
+GO:0000329	0.996441396391561	0.00703689842853859	18	136	fungal-type vacuole membrane	CC	0.9999999999	0.555796708654069	CC fungal-type vacuole membrane
+GO:0006629	0.994852549293168	0.00712862213510552	89	521	lipid metabolic process	BP	0.9999999999	0.55834932873214	BP lipid metabolic process
+GO:0000791	1	0.00729439168230149	0	20	euchromatin	CC	0.9999999999	0.566611466297122	CC euchromatin
+GO:0044036	0.999135329454859	0.00777867711365675	1	29	cell wall macromolecule metabolic process	BP	0.9999999999	0.595750592129792	BP cell wall macromolecule metabolic process
+GO:0018205	0.997195226970562	0.00782374652869918	7	69	peptidyl-lysine modification	BP	0.9999999999	0.595750592129792	BP peptidyl-lysine modification
+GO:0045324	0.999124824194517	0.00785967373381149	1	29	late endosome to vacuole transport	BP	0.9999999999	0.595750592129792	BP late endosome to vacuole transport
+GO:2000769	1	0.00810851006810994	0	19	regulation of establishment or maintenance of cell polarity regulating cell shape	BP	0.9999999999	0.609695089041323	BP regulation of establishment or maintenance of cell polarity regulating cell shape
+GO:0008064	1	0.00840370249376575	0	19	regulation of actin polymerization or depolymerization	BP	0.9999999999	0.621940155424443	BP regulation of actin polymerization or depolymerization
+GO:0030832	1	0.00840370249376575	0	19	regulation of actin filament length	BP	0.9999999999	0.621940155424443	BP regulation of actin filament length
+GO:0007033	0.997639996441454	0.00854622617471319	4	50	vacuole organization	BP	0.9999999999	0.624698099860099	BP vacuole organization
+GO:0061025	0.997330853259007	0.00862414378387872	5	56	membrane fusion	BP	0.9999999999	0.624698099860099	BP membrane fusion
+GO:0008194	0.997325254594592	0.00864036099391561	5	56	UDP-glycosyltransferase activity	MF	0.9999999999	0.624698099860099	MF UDP-glycosyltransferase activity
+GO:0051234	0.992792615191876	0.00887860060519203	226	1186	establishment of localization	BP	0.9999999999	0.637022649528243	BP establishment of localization
+GO:0003779	0.997489145993925	0.00904814801490767	4	49	actin binding	MF	0.9999999999	0.640109580048661	MF actin binding
+GO:0051056	0.997167158458607	0.00911180432863337	5	55	regulation of small GTPase mediated signal transduction	BP	0.9999999999	0.640109580048661	BP regulation of small GTPase mediated signal transduction
+GO:0007015	0.99746486200618	0.00912593719826796	4	49	actin filament organization	BP	0.9999999999	0.640109580048661	BP actin filament organization
+GO:0005783	0.993770313282075	0.00925746750213058	55	334	endoplasmic reticulum	CC	0.9999999999	0.644525459648336	CC endoplasmic reticulum
+GO:0044801	0.997350423426336	0.00949129082950484	4	49	single-organism membrane fusion	BP	0.9999999999	0.655945900783206	BP single-organism membrane fusion
+GO:0007610	0.997316152280307	0.00960031816415021	4	49	behavior	BP	0.9999999999	0.658637886312758	BP behavior
+GO:0022411	0.996804447056641	0.0101492686144681	5	55	cellular component disassembly	BP	0.9999999999	0.68034941745849	BP cellular component disassembly
+GO:0035023	1	0.0102467112191924	0	18	regulation of Rho protein signal transduction	BP	0.9999999999	0.68034941745849	BP regulation of Rho protein signal transduction
+GO:0071963	1	0.0102549591011336	0	18	establishment or maintenance of cell polarity regulating cell shape	BP	0.9999999999	0.68034941745849	BP establishment or maintenance of cell polarity regulating cell shape
+GO:0008204	0.998797192064643	0.0103975187738993	1	27	ergosterol metabolic process	BP	0.9999999999	0.68034941745849	BP ergosterol metabolic process
+GO:0016128	0.998797192064643	0.0103975187738993	1	27	phytosteroid metabolic process	BP	0.9999999999	0.68034941745849	BP phytosteroid metabolic process
+GO:0044107	0.998797192064643	0.0103975187738993	1	27	cellular alcohol metabolic process	BP	0.9999999999	0.68034941745849	BP cellular alcohol metabolic process
+GO:0007035	1	0.0106071795358041	0	19	vacuolar acidification	BP	0.9999999999	0.68034941745849	BP vacuolar acidification
+GO:0045851	1	0.0106071795358041	0	19	pH reduction	BP	0.9999999999	0.68034941745849	BP pH reduction
+GO:0051452	1	0.0106071795358041	0	19	intracellular pH reduction	BP	0.9999999999	0.68034941745849	BP intracellular pH reduction
+GO:0005615	0.995815356321586	0.0106748863717685	8	76	extracellular space	CC	0.9999999999	0.68034941745849	CC extracellular space
+GO:0032511	1	0.0107130241285091	0	19	late endosome to vacuole transport via multivesicular body sorting pathway	BP	0.9999999999	0.68034941745849	BP late endosome to vacuole transport via multivesicular body sorting pathway
+GO:0030833	1	0.0108414934692615	0	18	regulation of actin filament polymerization	BP	0.9999999999	0.683887228977104	BP regulation of actin filament polymerization
+GO:0006638	0.996292260410528	0.0115548814829766	5	57	neutral lipid metabolic process	BP	0.9999999999	0.719233980519849	BP neutral lipid metabolic process
+GO:0006639	0.996292260410528	0.0115548814829766	5	57	acylglycerol metabolic process	BP	0.9999999999	0.719233980519849	BP acylglycerol metabolic process
+GO:0005976	0.99491955732523	0.0117873689025839	10	86	polysaccharide metabolic process	BP	0.9999999999	0.724152058579152	BP polysaccharide metabolic process
+GO:0007264	0.995600268656189	0.0117879843560602	7	67	small GTPase mediated signal transduction	BP	0.9999999999	0.724152058579152	BP small GTPase mediated signal transduction
+GO:0044421	0.994753294938555	0.0121184589817503	10	88	extracellular region part	CC	0.9999999999	0.73864224108326	CC extracellular region part
+GO:0031227	0.995416013862531	0.0122032024122528	7	69	intrinsic component of endoplasmic reticulum membrane	CC	0.9999999999	0.73864224108326	CC intrinsic component of endoplasmic reticulum membrane
+GO:0009892	0.991889020483364	0.0122596222586433	47	285	negative regulation of metabolic process	BP	0.9999999999	0.73864224108326	BP negative regulation of metabolic process
+GO:0031410	0.996340101700704	0.0126397287627061	4	49	cytoplasmic vesicle	CC	0.9999999999	0.756693061405572	CC cytoplasmic vesicle
+GO:0000149	0.99845207103752	0.0129355511977902	1	26	SNARE binding	MF	0.9999999999	0.769501555114112	MF SNARE binding
+GO:0032878	0.998430207999062	0.0130899584579077	1	26	regulation of establishment or maintenance of cell polarity	BP	0.9999999999	0.773789431106131	BP regulation of establishment or maintenance of cell polarity
+GO:0044463	0.998381150051236	0.0134350685660069	1	26	cell projection part	CC	0.9999999999	0.780090886001152	CC cell projection part
+GO:0006641	0.995549443069572	0.0136190746623607	5	56	triglyceride metabolic process	BP	0.9999999999	0.780090886001152	BP triglyceride metabolic process
+GO:0005826	0.997333984257667	0.0136617997847585	2	33	actomyosin contractile ring	CC	0.9999999999	0.780090886001152	CC actomyosin contractile ring
+GO:0070938	0.997333984257667	0.0136617997847585	2	33	contractile ring	CC	0.9999999999	0.780090886001152	CC contractile ring
+GO:0007010	0.991989476512882	0.0137017824245333	26	173	cytoskeleton organization	BP	0.9999999999	0.780090886001152	BP cytoskeleton organization
+GO:0072659	1	0.0138080513018506	0	17	protein localization to plasma membrane	BP	0.9999999999	0.780090886001152	BP protein localization to plasma membrane
+GO:0031324	0.990846819482258	0.0138658726190558	45	273	negative regulation of cellular metabolic process	BP	0.9999999999	0.780090886001152	BP negative regulation of cellular metabolic process
+GO:1903338	1	0.0139704888354567	0	17	regulation of cell wall organization or biogenesis	BP	0.9999999999	0.780090886001152	BP regulation of cell wall organization or biogenesis
+GO:0006865	0.995922473818253	0.0139877995554655	4	46	amino acid transport	BP	0.9999999999	0.780090886001152	BP amino acid transport
+GO:0005216	0.995900275258758	0.014026530453686	4	47	ion channel activity	MF	0.9999999999	0.780090886001152	MF ion channel activity
+GO:0004721	0.99645015995505	0.0141764686457203	3	40	phosphoprotein phosphatase activity	MF	0.9999999999	0.783791934124263	MF phosphoprotein phosphatase activity
+GO:0065008	0.989254943708798	0.0145728594935219	86	485	regulation of biological quality	BP	0.9999999999	0.799831205162641	BP regulation of biological quality
+GO:0046578	0.995209084748502	0.014636766388762	5	52	regulation of Ras protein signal transduction	BP	0.9999999999	0.799831205162641	BP regulation of Ras protein signal transduction
+GO:0006810	0.987862712196865	0.0147604342534601	226	1174	transport	BP	0.9999999999	0.801926714151856	BP transport
+GO:0000118	0.998167749319261	0.0149817484252949	1	25	histone deacetylase complex	CC	0.9999999999	0.802862947244051	CC histone deacetylase complex
+GO:0032984	0.99622326064705	0.0150019492867936	3	39	macromolecular complex disassembly	BP	0.9999999999	0.802862947244051	BP macromolecular complex disassembly
+GO:0003714	1	0.0150339268767904	0	17	transcription corepressor activity	MF	0.9999999999	0.802862947244051	MF transcription corepressor activity
+GO:0000123	0.996073334647661	0.0155198400147211	3	39	histone acetyltransferase complex	CC	0.9999999999	0.824129809595276	CC histone acetyltransferase complex
+GO:0006696	0.997997463696291	0.0161450356380873	1	25	ergosterol biosynthetic process	BP	0.9999999999	0.843039944235459	BP ergosterol biosynthetic process
+GO:0016129	0.997997463696291	0.0161450356380873	1	25	phytosteroid biosynthetic process	BP	0.9999999999	0.843039944235459	BP phytosteroid biosynthetic process
+GO:0044108	0.997997463696291	0.0161450356380873	1	25	cellular alcohol biosynthetic process	BP	0.9999999999	0.843039944235459	BP cellular alcohol biosynthetic process
+GO:0090174	0.997948413077766	0.0164767336576345	1	25	organelle membrane fusion	BP	0.9999999999	0.85560673838733	BP organelle membrane fusion
+GO:0010629	0.988922538769791	0.0180003095678907	30	192	negative regulation of gene expression	BP	0.9999999999	0.926786905688878	BP negative regulation of gene expression
+GO:0022838	0.993885228573032	0.0181730237795144	5	52	substrate-specific channel activity	MF	0.9999999999	0.926786905688878	MF substrate-specific channel activity
+GO:0009890	0.988524202604149	0.0182418956859711	33	208	negative regulation of biosynthetic process	BP	0.9999999999	0.926786905688878	BP negative regulation of biosynthetic process
+GO:0031327	0.988524202604149	0.0182418956859711	33	208	negative regulation of cellular biosynthetic process	BP	0.9999999999	0.926786905688878	BP negative regulation of cellular biosynthetic process
+GO:0007009	0.997667773257553	0.0184320719742141	1	24	plasma membrane organization	BP	0.9999999999	0.931414217664723	BP plasma membrane organization
+GO:0051049	0.990088944307564	0.0185953460023307	17	121	regulation of transport	BP	0.9999999999	0.934639877411264	BP regulation of transport
+GO:0005719	1	0.0188388669515889	0	16	nuclear euchromatin	CC	0.9999999999	0.941843140840338	CC nuclear euchromatin
+GO:0006885	0.996082097714326	0.0190754298196056	2	32	regulation of pH	BP	0.9999999999	0.943879681489137	BP regulation of pH
+GO:0044708	0.99421023618978	0.0190804489289218	4	45	single-organism behavior	BP	0.9999999999	0.943879681489137	BP single-organism behavior
+GO:0016021	0.984049306953543	0.0192157856811356	233	1196	integral component of membrane	CC	0.9999999999	0.945597746685828	CC integral component of membrane
+GO:0019725	0.988322515558258	0.0198670756255231	24	160	cellular homeostasis	BP	0.9999999999	0.964003758339022	BP cellular homeostasis
+GO:0048519	0.985142188958693	0.0198776282517875	87	480	negative regulation of biological process	BP	0.9999999999	0.964003758339022	BP negative regulation of biological process
+GO:0030479	0.995874803908725	0.0200000779738386	2	31	actin cortical patch	CC	0.9999999999	0.964003758339022	CC actin cortical patch
+GO:0061645	0.995874803908725	0.0200000779738386	2	31	endocytic patch	CC	0.9999999999	0.964003758339022	CC endocytic patch
+GO:0035838	1	0.0221122818023665	0	15	growing cell tip	CC	0.9999999999	0.9999999999	CC growing cell tip
+GO:0007611	1	0.0224456031622686	0	15	learning or memory	BP	0.9999999999	0.9999999999	BP learning or memory
+GO:0050890	1	0.0224456031622686	0	15	cognition	BP	0.9999999999	0.9999999999	BP cognition
+GO:0019888	1	0.0224751672848262	0	15	protein phosphatase regulator activity	MF	0.9999999999	0.9999999999	MF protein phosphatase regulator activity
+GO:0032879	0.986440333053702	0.0226359237333885	25	164	regulation of localization	BP	0.9999999999	0.9999999999	BP regulation of localization
+GO:0000991	0.99689784730483	0.0234927132850584	1	23	transcription factor activity, core RNA polymerase II binding	MF	0.9999999999	0.9999999999	MF transcription factor activity, core RNA polymerase II binding
+GO:0004100	0.996815235256261	0.0240105853006757	1	23	chitin synthase activity	MF	0.9999999999	0.9999999999	MF chitin synthase activity
+GO:0005773	0.988546397240605	0.0240676208851639	11	86	vacuole	CC	0.9999999999	0.9999999999	CC vacuole
+GO:0000988	0.987300110889868	0.0242005647401375	15	107	transcription factor activity, protein binding	MF	0.9999999999	0.9999999999	MF transcription factor activity, protein binding
+GO:0006468	0.98587475344335	0.0242332473897783	22	145	protein phosphorylation	BP	0.9999999999	0.9999999999	BP protein phosphorylation
+GO:0006906	0.996759187788313	0.0243604257273104	1	23	vesicle fusion	BP	0.9999999999	0.9999999999	BP vesicle fusion
+GO:0043087	0.996752782176504	0.0244003323724535	1	23	regulation of GTPase activity	BP	0.9999999999	0.9999999999	BP regulation of GTPase activity
+GO:0008422	0.996751619025605	0.024407577077374	1	23	beta-glucosidase activity	MF	0.9999999999	0.9999999999	MF beta-glucosidase activity
+GO:0003008	0.992317775969063	0.0244848331605578	4	44	system process	BP	0.9999999999	0.9999999999	BP system process
+GO:0043543	0.990687441340469	0.0246562974457702	6	55	protein acylation	BP	0.9999999999	0.9999999999	BP protein acylation
+GO:0005798	1	0.0248583166476585	0	16	Golgi-associated vesicle	CC	0.9999999999	0.9999999999	CC Golgi-associated vesicle
+GO:0015988	1	0.0251200928336589	0	16	energy coupled proton transmembrane transport, against electrochemical gradient	BP	0.9999999999	0.9999999999	BP energy coupled proton transmembrane transport, against electrochemical gradient
+GO:0031224	0.978291666168504	0.0258647152600826	242	1231	intrinsic component of membrane	CC	0.9999999999	0.9999999999	CC intrinsic component of membrane
+GO:0010383	0.996476395002472	0.0261078269392515	1	23	cell wall polysaccharide metabolic process	BP	0.9999999999	0.9999999999	BP cell wall polysaccharide metabolic process
+GO:0097384	0.994186313084915	0.0267763476650099	2	31	cellular lipid biosynthetic process	BP	0.9999999999	0.9999999999	BP cellular lipid biosynthetic process
+GO:0072599	0.996345087041466	0.0269095895549382	1	23	establishment of protein localization to endoplasmic reticulum	BP	0.9999999999	0.9999999999	BP establishment of protein localization to endoplasmic reticulum
+GO:0000272	0.989465337361782	0.0274582248988241	6	56	polysaccharide catabolic process	BP	0.9999999999	0.9999999999	BP polysaccharide catabolic process
+GO:0000281	0.992384439805	0.027750466008084	3	36	mitotic cytokinesis	BP	0.9999999999	0.9999999999	BP mitotic cytokinesis
+GO:0080135	0.988040387257975	0.027772956262515	8	67	regulation of cellular response to stress	BP	0.9999999999	0.9999999999	BP regulation of cellular response to stress
+GO:0010648	0.98609375237925	0.0280207474439135	12	89	negative regulation of cell communication	BP	0.9999999999	0.9999999999	BP negative regulation of cell communication
+GO:0015918	0.99608920868307	0.0282113869453599	1	25	sterol transport	BP	0.9999999999	0.9999999999	BP sterol transport
+GO:0032872	1	0.0285489756415951	0	14	regulation of stress-activated MAPK cascade	BP	0.9999999999	0.9999999999	BP regulation of stress-activated MAPK cascade
+GO:0070302	1	0.0285489756415951	0	14	regulation of stress-activated protein kinase signaling cascade	BP	0.9999999999	0.9999999999	BP regulation of stress-activated protein kinase signaling cascade
+GO:0043408	0.993770364300299	0.028579389260537	2	29	regulation of MAPK cascade	BP	0.9999999999	0.9999999999	BP regulation of MAPK cascade
+GO:0006308	1	0.0286507140080206	0	14	DNA catabolic process	BP	0.9999999999	0.9999999999	BP DNA catabolic process
+GO:0070603	0.993627309813403	0.0291323805652919	2	29	SWI/SNF superfamily-type complex	CC	0.9999999999	0.9999999999	CC SWI/SNF superfamily-type complex
+GO:0051253	0.981693616593432	0.0292596583405133	28	176	negative regulation of RNA metabolic process	BP	0.9999999999	0.9999999999	BP negative regulation of RNA metabolic process
+GO:0010506	0.995954975559823	0.0294014441491863	1	22	regulation of autophagy	BP	0.9999999999	0.9999999999	BP regulation of autophagy
+GO:0015926	0.993481114740113	0.0296952027827281	2	29	glucosidase activity	MF	0.9999999999	0.9999999999	MF glucosidase activity
+GO:0030029	0.985937721707529	0.0299194472457992	10	77	actin filament-based process	BP	0.9999999999	0.9999999999	BP actin filament-based process
+GO:0034486	1	0.0299964543057958	0	14	vacuolar transmembrane transport	BP	0.9999999999	0.9999999999	BP vacuolar transmembrane transport
+GO:0008154	1	0.0300322628990071	0	14	actin polymerization or depolymerization	BP	0.9999999999	0.9999999999	BP actin polymerization or depolymerization
+GO:0015991	1	0.0306319934892941	0	15	ATP hydrolysis coupled proton transport	BP	0.9999999999	0.9999999999	BP ATP hydrolysis coupled proton transport
+GO:0060341	0.984725075421173	0.0312808563404366	11	84	regulation of cellular localization	BP	0.9999999999	0.9999999999	BP regulation of cellular localization
+GO:0042981	0.989860866110813	0.0312953402384622	4	42	regulation of apoptotic process	BP	0.9999999999	0.9999999999	BP regulation of apoptotic process
+GO:0030119	1	0.0316917025007087	0	14	AP-type membrane coat adaptor complex	CC	0.9999999999	0.9999999999	CC AP-type membrane coat adaptor complex
+GO:0032956	0.991011818816764	0.0320728364759201	3	35	regulation of actin cytoskeleton organization	BP	0.9999999999	0.9999999999	BP regulation of actin cytoskeleton organization
+GO:0032970	0.991011818816764	0.0320728364759201	3	35	regulation of actin filament-based process	BP	0.9999999999	0.9999999999	BP regulation of actin filament-based process
+GO:0012506	0.986595051252448	0.0322308661006967	7	60	vesicle membrane	CC	0.9999999999	0.9999999999	CC vesicle membrane
+GO:0003333	0.989448125062044	0.0324661325255711	4	41	amino acid transmembrane transport	BP	0.9999999999	0.9999999999	BP amino acid transmembrane transport
+GO:0048523	0.974918885154287	0.0330415004171031	83	451	negative regulation of cellular process	BP	0.9999999999	0.9999999999	BP negative regulation of cellular process
+GO:0045047	0.99529500653116	0.0332863576471627	1	22	protein targeting to ER	BP	0.9999999999	0.9999999999	BP protein targeting to ER
+GO:0004568	0.995194247050514	0.0338690983075041	1	22	chitinase activity	MF	0.9999999999	0.9999999999	MF chitinase activity
+GO:0001558	0.992231129360113	0.0345413489758027	2	28	regulation of cell growth	BP	0.9999999999	0.9999999999	BP regulation of cell growth
+GO:0045892	0.977958792203943	0.0348021288943203	28	174	negative regulation of transcription, DNA-templated	BP	0.9999999999	0.9999999999	BP negative regulation of transcription, DNA-templated
+GO:1902679	0.977958792203943	0.0348021288943203	28	174	negative regulation of RNA biosynthetic process	BP	0.9999999999	0.9999999999	BP negative regulation of RNA biosynthetic process
+GO:1903507	0.977958792203943	0.0348021288943203	28	174	negative regulation of nucleic acid-templated transcription	BP	0.9999999999	0.9999999999	BP negative regulation of nucleic acid-templated transcription
+GO:0044425	0.969906333196934	0.0349526122223473	310	1549	membrane part	CC	0.9999999999	0.9999999999	CC membrane part
+GO:0000935	0.994999635482636	0.0351666836941669	1	21	barrier septum	CC	0.9999999999	0.9999999999	CC barrier septum
+GO:1900180	1	0.0357839190199061	0	14	regulation of protein localization to nucleus	BP	0.9999999999	0.9999999999	BP regulation of protein localization to nucleus
+GO:0002098	0.994872263405967	0.035896267061291	1	21	tRNA wobble uridine modification	BP	0.9999999999	0.9999999999	BP tRNA wobble uridine modification
+GO:0051321	0.981029713940747	0.0363438709534741	13	93	meiotic cell cycle	BP	0.9999999999	0.9999999999	BP meiotic cell cycle
+GO:0051510	1	0.0366043756245153	0	13	regulation of unidimensional cell growth	BP	0.9999999999	0.9999999999	BP regulation of unidimensional cell growth
+GO:0051516	1	0.0366043756245153	0	13	regulation of bipolar cell growth	BP	0.9999999999	0.9999999999	BP regulation of bipolar cell growth
+GO:0090630	1	0.0366043756245153	0	13	activation of GTPase activity	BP	0.9999999999	0.9999999999	BP activation of GTPase activity
+GO:0055070	1	0.0366910970211446	0	14	copper ion homeostasis	BP	0.9999999999	0.9999999999	BP copper ion homeostasis
+GO:0004674	0.978117175104737	0.036763685978109	21	136	protein serine/threonine kinase activity	MF	0.9999999999	0.9999999999	MF protein serine/threonine kinase activity
+GO:0030659	0.984380292016802	0.0369498168408513	7	59	cytoplasmic vesicle membrane	CC	0.9999999999	0.9999999999	CC cytoplasmic vesicle membrane
+GO:0016310	0.976593870474135	0.0370905066579221	27	167	phosphorylation	BP	0.9999999999	0.9999999999	BP phosphorylation
+GO:0003774	0.987369138785699	0.0380054544634087	4	40	motor activity	MF	0.9999999999	0.9999999999	MF motor activity
+GO:0008081	1	0.0384578624793384	0	13	phosphoric diester hydrolase activity	MF	0.9999999999	0.9999999999	MF phosphoric diester hydrolase activity
+GO:0044242	0.981991253088177	0.0385992423070336	9	71	cellular lipid catabolic process	BP	0.9999999999	0.9999999999	BP cellular lipid catabolic process
+GO:0031248	0.985681847255021	0.0387612884905114	5	46	protein acetyltransferase complex	CC	0.9999999999	0.9999999999	CC protein acetyltransferase complex
+GO:1902493	0.985681847255021	0.0387612884905114	5	46	acetyltransferase complex	CC	0.9999999999	0.9999999999	CC acetyltransferase complex
+GO:0023057	0.979548570986481	0.0398110076118515	12	86	negative regulation of signaling	BP	0.9999999999	0.9999999999	BP negative regulation of signaling
+GO:0010558	0.973670948010119	0.0398176881410593	33	198	negative regulation of macromolecule biosynthetic process	BP	0.9999999999	0.9999999999	BP negative regulation of macromolecule biosynthetic process
+GO:2000113	0.973670948010119	0.0398176881410593	33	198	negative regulation of cellular macromolecule biosynthetic process	BP	0.9999999999	0.9999999999	BP negative regulation of cellular macromolecule biosynthetic process
+GO:0030662	1	0.0398792242664785	0	13	coated vesicle membrane	CC	0.9999999999	0.9999999999	CC coated vesicle membrane
+GO:1903828	1	0.0398835303847764	0	13	negative regulation of cellular protein localization	BP	0.9999999999	0.9999999999	BP negative regulation of cellular protein localization
+GO:1902533	0.988400736832551	0.0399715524524389	3	34	positive regulation of intracellular signal transduction	BP	0.9999999999	0.9999999999	BP positive regulation of intracellular signal transduction
+GO:0048284	0.982534810104411	0.0408311851484415	7	58	organelle fusion	BP	0.9999999999	0.9999999999	BP organelle fusion
+GO:0005935	0.990442056418374	0.0410806760413446	2	28	cellular bud neck	CC	0.9999999999	0.9999999999	CC cellular bud neck
+GO:0030258	0.982320802141224	0.0412718834037904	7	58	lipid modification	BP	0.9999999999	0.9999999999	BP lipid modification
+GO:1902582	0.967706493098753	0.0414494618602901	94	510	single-organism intracellular transport	BP	0.9999999999	0.9999999999	BP single-organism intracellular transport
+GO:0000323	0.982036967953109	0.041855239306192	7	58	lytic vacuole	CC	0.9999999999	0.9999999999	CC lytic vacuole
+GO:0044802	0.973269793087262	0.0419539029141623	27	167	single-organism membrane organization	BP	0.9999999999	0.9999999999	BP single-organism membrane organization
+GO:0010035	0.98771745900099	0.0419617404714712	3	34	response to inorganic substance	BP	0.9999999999	0.9999999999	BP response to inorganic substance
+GO:0050807	1	0.0424848200471156	0	13	regulation of synapse organization	BP	0.9999999999	0.9999999999	BP regulation of synapse organization
+GO:0000990	0.990054730008564	0.042617814758716	2	27	transcription factor activity, core RNA polymerase binding	MF	0.9999999999	0.9999999999	MF transcription factor activity, core RNA polymerase binding
+GO:0030036	0.979140670104463	0.0427358531797288	10	74	actin cytoskeleton organization	BP	0.9999999999	0.9999999999	BP actin cytoskeleton organization
+GO:0046503	0.98989301184427	0.0428950100578936	2	29	glycerolipid catabolic process	BP	0.9999999999	0.9999999999	BP glycerolipid catabolic process
+GO:0016757	0.973480581485876	0.0430512834493751	23	145	transferase activity, transferring glycosyl groups	MF	0.9999999999	0.9999999999	MF transferase activity, transferring glycosyl groups
+GO:0004672	0.972729649649683	0.04342481165049	25	155	protein kinase activity	MF	0.9999999999	0.9999999999	MF protein kinase activity
+GO:0051537	0.993514745715279	0.0434488930559281	1	21	2 iron, 2 sulfur cluster binding	MF	0.9999999999	0.9999999999	MF 2 iron, 2 sulfur cluster binding
+GO:0070566	0.993537560479466	0.0435557772246512	1	20	adenylyltransferase activity	MF	0.9999999999	0.9999999999	MF adenylyltransferase activity
+GO:0006289	0.989780117647495	0.0435947885728328	2	27	nucleotide-excision repair	BP	0.9999999999	0.9999999999	BP nucleotide-excision repair
+GO:0010563	0.989746093502165	0.0437154724192397	2	27	negative regulation of phosphorus metabolic process	BP	0.9999999999	0.9999999999	BP negative regulation of phosphorus metabolic process
+GO:0045936	0.989746093502165	0.0437154724192397	2	27	negative regulation of phosphate metabolic process	BP	0.9999999999	0.9999999999	BP negative regulation of phosphate metabolic process
+GO:0006886	0.968365378458776	0.0440128862930327	51	291	intracellular protein transport	BP	0.9999999999	0.9999999999	BP intracellular protein transport
+GO:0060090	0.989605463784527	0.0442134526634675	2	27	binding, bridging	MF	0.9999999999	0.9999999999	MF binding, bridging
+GO:0009968	0.976798881674265	0.0446358334496999	12	85	negative regulation of signal transduction	BP	0.9999999999	0.9999999999	BP negative regulation of signal transduction
+GO:0005811	0.986689061452472	0.0446948021124775	3	36	lipid particle	CC	0.9999999999	0.9999999999	CC lipid particle
+GO:0051051	0.989356430869848	0.0450920462515173	2	27	negative regulation of transport	BP	0.9999999999	0.9999999999	BP negative regulation of transport
+GO:0032509	0.993052565398922	0.0459373073857007	1	21	endosome transport via multivesicular body sorting pathway	BP	0.9999999999	0.9999999999	BP endosome transport via multivesicular body sorting pathway
+GO:0051512	1	0.0472162982467071	0	12	positive regulation of unidimensional cell growth	BP	0.9999999999	0.9999999999	BP positive regulation of unidimensional cell growth
+GO:0051518	1	0.0472162982467071	0	12	positive regulation of bipolar cell growth	BP	0.9999999999	0.9999999999	BP positive regulation of bipolar cell growth
+GO:0051261	1	0.0472249505134877	0	12	protein depolymerization	BP	0.9999999999	0.9999999999	BP protein depolymerization
+GO:0004713	1	0.0472393095620809	0	12	protein tyrosine kinase activity	MF	0.9999999999	0.9999999999	MF protein tyrosine kinase activity
+GO:0006878	1	0.0473282662671495	0	13	cellular copper ion homeostasis	BP	0.9999999999	0.9999999999	BP cellular copper ion homeostasis
+GO:0015711	0.972217753298864	0.0474594564410041	18	117	organic anion transport	BP	0.9999999999	0.9999999999	BP organic anion transport
+GO:0043966	1	0.0476132121994456	0	12	histone H3 acetylation	BP	0.9999999999	0.9999999999	BP histone H3 acetylation
+GO:0048489	1	0.047745112785321	0	13	synaptic vesicle transport	BP	0.9999999999	0.9999999999	BP synaptic vesicle transport
+GO:0097480	1	0.047745112785321	0	13	establishment of synaptic vesicle localization	BP	0.9999999999	0.9999999999	BP establishment of synaptic vesicle localization
+GO:0045332	1	0.0480057802859888	0	12	phospholipid translocation	BP	0.9999999999	0.9999999999	BP phospholipid translocation
+GO:0001071	0.965586215127296	0.0494907447403946	40	232	nucleic acid binding transcription factor activity	MF	0.9999999999	0.9999999999	MF nucleic acid binding transcription factor activity
+GO:0003700	0.965586215127296	0.0494907447403946	40	232	transcription factor activity, sequence-specific DNA binding	MF	0.9999999999	0.9999999999	MF transcription factor activity, sequence-specific DNA binding
+GO:0010941	0.981001785996459	0.049620704174135	5	45	regulation of cell death	BP	0.9999999999	0.9999999999	BP regulation of cell death
+GO:0061024	0.967615361783333	0.0497968431729914	28	170	membrane organization	BP	0.9999999999	0.9999999999	BP membrane organization
+GO:0000109	1	0.0499057527508995	0	12	nucleotide-excision repair complex	CC	0.9999999999	0.9999999999	CC nucleotide-excision repair complex
+GO:0032973	1	0.0499107422519094	0	12	amino acid export	BP	0.9999999999	0.9999999999	BP amino acid export
