@@ -1,0 +1,721 @@
+Pfam	Description	Size (vs glen)	FDR (vs glen)	Size (vs symp)	FDR (vs symp)	Size (vs para)	FDR (vs para)	Size (vs spor)	FDR (vs spor)
+PF02221.14	ML domain	21	0.0000	21	0.0000	21	0.0000	20	0.0000
+PF03073.14	TspO/MBR family	17	0.0000	16	0.0000	16	0.0000	17	0.0000
+PF01764.24	Lipase (class 3)	140	0.0000	135	0.0000	136	0.0000	140	0.0000
+PF12146.7	Serine aminopeptidase, S33	38	0.0001	33	0.0000	36	0.0000	36	0.0002
+PF13911.5	AhpC/TSA antioxidant enzyme	33	0.0000	31	0.0000	32	0.0000	33	0.0003
+PF14494.5	Domain of unknown function (DUF4436)	15	0.0155	14	0.0000	14	0.0000	14	0.0008
+PF04101.15	Glycosyltransferase family 28 C-terminal domain	26	0.0065	26	0.0000	26	0.0002	25	0.0200
+PF12697.6	Alpha/beta hydrolase family	26	0.0038	23	0.0000	25	0.0003	25	0.0641
+PF00704.27	Glycosyl hydrolases family 18	22	0.0001	21	0.0000	21	0.0002	21	0.2625
+PF00561.19	alpha/beta hydrolase fold	32	0.0187	29	0.0001	31	0.0017	31	0.4796
+PF00201.17	UDP-glucoronosyl and UDP-glucosyl transferase	35	0.0190	34	0.0001	34	0.0015	35	0.0751
+PF03142.14	Chitin synthase	21	0.0038	21	0.0001	21	0.0048	21	0.1472
+PF00578.20	AhpC/TSA family	34	0.0000	33	0.0001	34	0.0000	35	0.0101
+PF07714.16	Protein tyrosine kinase	116	0.0002	115	0.0002	113	0.0028	114	0.0007
+PF14531.5	Kinase-like	23	0.0011	23	0.0002	22	0.0171	22	0.0017
+PF00722.20	Glycosyl hydrolases family 16	16	0.0142	15	0.0002	14	0.0057	15	0.1563
+PF00069.24	Protein kinase domain	123	0.0016	121	0.0006	118	0.0047	120	0.0019
+PF00001.20	7 transmembrane receptor (rhodopsin family)	34	0.0821	29	0.0007	33	0.0025	34	0.0069
+PF03982.12	Diacylglycerol acyltransferase	25	0.0093	25	0.0008	25	0.0016	26	0.3252
+PF17123.4	RING-like zinc finger	8	0.0328	8	0.0010	8	0.0127	8	0.2454
+PF00732.18	GMC oxidoreductase	13	0.0036	11	0.0010	12	0.0069	13	0.3490
+PF00071.21	Ras family	46	0.0155	45	0.0010	45	0.0181	45	0.6045
+PF08477.12	Ras of Complex, Roc, domain of DAPkinase	40	0.0107	39	0.0011	39	0.0090	39	0.5452
+PF00089.25	Trypsin	61	0.3955	45	0.0018	NA	NA	59	0.2987
+PF00787.23	PX domain	14	0.1394	14	0.0018	14	0.1743	14	0.8064
+PF00618.19	RasGEF N-terminal motif	8	0.0006	8	0.0018	8	0.0176	8	0.0126
+PF01151.17	GNS1/SUR4 family	9	0.0330	9	0.0018	9	0.0059	9	0.5511
+PF02458.14	Transferase family	18	0.3753	17	0.0020	18	0.1698	17	0.9630
+PF01522.20	Polysaccharide deacetylase	9	0.0181	7	0.0025	8	0.0187	8	0.0728
+PF00025.20	ADP-ribosylation factor family	42	0.0325	41	0.0036	41	0.0589	41	0.7975
+PF05199.12	GMC oxidoreductase	14	0.0622	11	0.0040	14	0.3357	13	0.4815
+PF00617.18	RasGEF domain	10	0.0119	10	0.0052	10	0.0463	10	0.0194
+PF00264.19	Common central domain of tyrosinase	39	0.0108	32	0.0059	39	0.0467	38	0.1771
+PF00067.21	Cytochrome P450	72	0.5826	71	0.0074	69	0.0464	65	0.0505
+PF00169.28	PH domain	25	0.0019	25	0.0090	25	0.0527	25	0.0102
+PF14604.5	Variant SH3 domain	17	0.0390	17	0.0111	17	0.2394	17	0.3444
+PF00018.27	SH3 domain	21	0.0017	22	0.0114	22	0.0985	21	0.0680
+PF00168.29	C2 domain	27	0.0096	27	0.0122	27	0.3345	27	0.2464
+PF00689.20	Cation transporting ATPase, C-terminus	10	0.2403	10	0.0125	10	0.6683	10	0.8729
+PF00188.25	Cysteine-rich secretory protein family	11	0.3561	10	0.0151	12	0.5875	12	0.5139
+PF13516.5	Leucine Rich repeat	19	0.0487	18	0.0160	19	0.3796	19	0.6366
+PF00332.17	Glycosyl hydrolases family 17	8	0.3899	7	0.0176	8	0.5109	8	0.8736
+PF00149.27	Calcineurin-like phosphoesterase	33	0.5011	29	0.0191	31	0.5623	32	0.6326
+PF00657.21	GDSL-like Lipase/Acylhydrolase	6	0.0685	6	0.0194	6	0.0802	6	0.6319
+PF00560.32	Leucine Rich Repeat	6	0.1546	5	0.0199	6	0.1366	6	0.2013
+PF00046.28	Homeobox domain	47	0.7903	33	0.0217	38	0.6775	NA	NA
+PF07993.11	Male sterility protein	22	0.4027	19	0.0224	20	0.1776	21	0.9390
+PF07646.14	Kelch motif	7	0.0339	7	0.0274	7	0.0763	7	0.1373
+PF07690.15	Major Facilitator Superfamily	NA	NA	83	0.0277	80	0.0823	NA	NA
+PF02872.17	5'-nucleotidase, C-terminal domain	8	0.1962	7	0.0343	7	0.1370	7	0.0281
+PF00724.19	NADH:flavin oxidoreductase / NADH oxidase family	3	0.3921	3	0.0351	3	0.4269	3	0.7319
+PF13246.5	Cation transport ATPase (P-type)	18	0.3242	18	0.0453	18	0.1843	18	0.8076
+PF00083.23	Sugar (and other) transporter	NA	NA	50	0.0455	49	0.2451	NA	NA
+PF04116.12	Fatty acid hydroxylase superfamily	6	0.3564	6	0.0457	6	0.3329	6	0.8142
+PF13855.5	Leucine rich repeat	11	0.0494	11	0.0463	11	0.1953	11	0.5292
+PF03151.15	Triose-phosphate Transporter family	4	0.0952	4	0.0465	4	0.0262	4	0.4926
+PF00187.18	Chitin recognition protein	11	0.3915	7	0.0465	10	0.4352	10	0.7228
+PF00916.19	Sulfate permease family	9	0.1316	9	0.0465	9	0.0474	9	0.8046
+PF02364.14	1,3-beta-glucan synthase component	3	0.2413	3	0.0467	3	0.0800	3	0.5413
+PF08766.10	DEK C terminal domain	6	0.0231	6	0.0468	6	0.2093	6	0.2257
+PF00172.17	Fungal Zn(2)-Cys(6) binuclear cluster domain	100	0.3462	94	0.0470	90	0.0016	91	0.0105
+PF08613.10	Cyclin	13	0.4903	12	0.0474	12	0.4385	11	0.1675
+PF00122.19	E1-E2 ATPase	NA	NA	29	0.0530	29	0.0539	NA	NA
+PF00615.18	Regulator of G protein signaling domain	4	0.0816	4	0.0631	4	0.4940	4	0.5997
+PF04670.11	Gtr1/RagA G protein conserved region	14	0.5436	14	0.0669	14	0.6880	14	0.8641
+PF00150.17	Cellulase (glycosyl hydrolase family 5)	7	0.0332	7	0.0702	7	0.0471	7	0.2884
+PF07653.16	Variant SH3 domain	16	0.0912	17	0.0710	17	0.4827	16	0.6017
+PF16944.4	Fungal potassium channel	3	0.1244	3	0.0712	3	0.1867	3	0.7099
+PF09333.10	Autophagy-related protein C terminal domain	3	0.0798	3	0.0807	3	0.0935	3	0.0646
+PF00621.19	RhoGEF domain	9	0.1557	9	0.0814	9	0.3919	9	0.3819
+PF00014.22	Kunitz/Bovine pancreatic trypsin inhibitor domain	7	0.0893	7	0.0833	7	0.4568	7	0.5481
+PF15410.5	Pleckstrin homology domain	5	0.1202	5	0.0924	5	0.1477	5	0.3199
+PF00514.22	Armadillo/beta-catenin-like repeat	4	0.2644	4	0.0928	4	0.3247	4	0.7037
+PF00339.28	Arrestin (or S-antigen), N-terminal domain	3	0.4458	3	0.0929	3	0.1772	3	0.7147
+PF00520.30	Ion transport protein	13	0.0079	14	0.0933	13	0.0719	14	0.1380
+PF03169.14	OPT oligopeptide transporter protein	6	0.3917	6	0.0940	5	0.1762	6	0.6345
+PF13418.5	Galactose oxidase, central domain	11	0.5049	11	0.0945	11	0.3795	11	0.7602
+PF01740.20	STAS domain	8	0.3936	8	0.0962	8	0.0267	8	0.7631
+PF03067.14	Lytic polysaccharide mono-oxygenase, cellulose-degrading	9	0.6682	6	0.1004	8	0.9057	8	0.8690
+PF00036.31	EF hand	9	0.4744	9	0.1041	9	0.3844	9	0.8292
+PF13964.5	Kelch motif	6	0.0888	6	0.1049	6	0.1770	6	0.2790
+PF15456.5	Up-regulated During Septation	2	0.1254	2	0.1087	2	0.1167	2	0.2167
+PF11815.7	Domain of unknown function (DUF3336)	2	0.1562	2	0.1093	2	0.1792	2	0.5348
+PF14360.5	PAP2 superfamily C-terminal	7	0.5135	6	0.1183	5	0.0470	6	0.6992
+PF02200.15	STE like transcription factor	2	0.0820	2	0.1234	2	0.1710	2	0.2851
+PF00255.18	Glutathione peroxidase	2	0.4873	2	0.1292	2	0.3280	2	0.6388
+PF03065.14	Glycosyl hydrolase family 57	7	0.1737	6	0.1325	6	0.2501	6	0.5425
+PF00804.24	Syntaxin	2	0.2280	2	0.1380	2	0.3877	2	0.4454
+PF00412.21	LIM domain	7	0.3911	7	0.1393	7	0.0778	7	0.5451
+PF00040.18	Fibronectin type II domain	2	0.1887	2	0.1398	2	0.2000	2	0.2367
+PF07647.16	SAM domain (Sterile alpha motif)	8	0.4994	8	0.1405	8	0.4277	8	0.6006
+PF13833.5	EF-hand domain pair	17	0.5873	17	0.1406	17	0.4428	NA	NA
+PF12678.6	RING-H2 zinc finger domain	9	0.2744	9	0.1451	9	0.3221	9	0.5461
+PF01734.21	Patatin-like phospholipase	7	0.2653	6	0.1456	7	0.4967	7	0.8718
+PF05257.15	CHAP domain	2	0.1511	2	0.1458	2	0.1900	4	0.8519
+PF07731.13	Multicopper oxidase	7	0.6339	5	0.1525	6	0.4919	6	0.7155
+PF00536.29	SAM domain (Sterile alpha motif)	8	0.5004	8	0.1596	8	0.4362	8	0.6052
+PF01504.17	Phosphatidylinositol-4-phosphate 5-Kinase	2	0.3432	2	0.1600	2	0.1391	2	0.5258
+PF13415.5	Galactose oxidase, central domain	6	0.2701	6	0.1601	6	0.4871	6	0.6679
+PF00179.25	Ubiquitin-conjugating enzyme	16	0.1104	16	0.1653	16	0.8290	16	0.8425
+PF00989.24	PAS fold	4	0.4727	4	0.1728	4	0.2481	4	0.7303
+PF00788.22	Ras association (RalGDS/AF-6) domain	2	0.2238	2	0.1841	2	0.2400	2	0.2531
+PF03381.14	LEM3 (ligand-effect modulator 3) family / CDC50 family	2	0.3942	2	0.1848	2	0.1523	2	0.7171
+PF02383.17	SacI homology domain	4	0.5297	4	0.1870	4	0.5602	4	0.5417
+PF00137.20	ATP synthase subunit C	3	0.8199	3	0.1876	NA	NA	NA	NA
+PF02752.21	Arrestin (or S-antigen), C-terminal domain	2	0.5943	2	0.1882	2	0.3917	2	0.8037
+PF12271.7	Chitin synthase III catalytic subunit	6	0.5025	6	0.1905	6	0.5310	NA	NA
+PF00063.20	Myosin head (motor domain)	8	0.0334	8	0.1912	8	0.3779	8	0.4944
+PF00211.19	Adenylate and Guanylate cyclase catalytic domain	2	0.1903	2	0.1924	2	0.1896	2	0.1380
+PF01237.17	Oxysterol-binding protein	7	0.0926	7	0.1942	7	0.3370	7	0.7561
+PF04419.13	4F5 protein family	2	0.3691	2	0.1950	2	0.5133	2	0.7513
+PF14288.5	1,3-beta-glucan synthase subunit FKS1, domain-1	2	0.4792	2	0.1957	2	0.2500	2	0.6701
+PF01625.20	Peptide methionine sulfoxide reductase	2	0.3809	2	0.2111	2	0.2745	2	0.6940
+PF13472.5	GDSL-like Lipase/Acylhydrolase family	5	0.6508	4	0.2177	5	0.6309	5	0.9238
+PF01344.24	Kelch motif	10	0.6039	10	0.2209	10	0.4319	10	0.8167
+PF01532.19	Glycosyl hydrolase family 47	11	0.0750	10	0.2225	10	0.2375	11	0.7775
+PF09783.8	Vacuolar import and degradation protein	2	0.4339	2	0.2241	2	0.2369	2	0.6408
+PF00999.20	Sodium/hydrogen exchanger family	6	0.5218	5	0.2261	6	0.7805	5	0.6738
+PF00959.18	Phage lysozyme	2	0.2187	2	0.2310	2	0.3225	4	0.8651
+PF03351.16	DOMON domain	4	0.4698	4	0.2313	4	0.5888	4	0.6484
+PF13639.5	Ring finger domain	26	0.7526	26	0.2317	26	0.2469	26	0.8607
+PF03248.12	Rer1 family	5	0.3628	5	0.2317	5	0.5762	5	0.6753
+PF10342.8	Ser-Thr-rich glycosyl-phosphatidyl-inositol-anchored membrane family	2	0.5033	2	0.2570	2	0.4954	NA	NA
+PF00566.17	Rab-GTPase-TBC domain	16	0.2726	16	0.2730	16	0.1361	16	0.4253
+PF06628.11	Catalase-related immune-responsive	2	0.6639	2	0.2735	2	0.2481	2	0.8689
+PF13771.5	PHD-like zinc-binding domain	4	0.0809	4	0.2751	4	0.1980	4	0.1566
+PF05920.10	Homeobox KN domain	NA	NA	6	0.2790	7	0.7705	6	0.8019
+PF00397.25	WW domain	6	0.0258	6	0.2793	6	0.4262	6	0.0757
+PF10058.8	Predicted integral membrane zinc-ribbon metal-binding protein	2	0.5892	2	0.2814	2	0.4961	2	0.8719
+PF06011.11	Transient receptor potential (TRP) ion channel	NA	NA	2	0.2827	2	0.3215	NA	NA
+PF16016.4	Domain of unknown function (DUF4782)	2	0.4777	2	0.2857	2	0.5022	2	0.7352
+PF01210.22	NAD-dependent glycerol-3-phosphate dehydrogenase N-terminus	2	0.3933	2	0.2870	2	0.3223	2	0.7300
+PF12799.6	Leucine Rich repeats (2 copies)	6	0.3766	6	0.2907	6	0.4004	6	0.6501
+PF08022.11	FAD-binding domain	2	0.4093	2	0.2907	2	0.3928	2	0.7077
+PF14558.5	ML-like domain	NA	NA	2	0.2910	2	0.2379	NA	NA
+PF16212.4	Phospholipid-translocating P-type ATPase C-terminal	6	0.3890	6	0.2910	6	0.1399	6	0.8535
+PF00010.25	Helix-loop-helix DNA-binding domain	9	0.9111	8	0.2910	NA	NA	9	0.9386
+PF01794.18	Ferric reductase like transmembrane component	2	0.4682	2	0.2912	2	0.3837	2	0.7021
+PF00620.26	RhoGAP domain	12	0.1419	12	0.2913	12	0.4981	12	0.5380
+PF00199.18	Catalase	2	0.6505	2	0.2913	2	0.2526	2	0.8773
+PF01370.20	NAD dependent epimerase/dehydratase family	22	0.3726	23	0.2913	22	0.3677	21	0.9469
+PF13499.5	EF-hand domain pair	13	0.5287	13	0.2921	13	0.5810	13	0.8631
+PF16909.4	Vacuolar-sorting-associated 13 protein C-terminal	2	0.3476	2	0.2928	2	0.3328	2	0.2835
+PF00481.20	Protein phosphatase 2C	7	0.2753	7	0.2929	7	0.3683	7	0.3496
+PF00130.21	Phorbol esters/diacylglycerol binding domain (C1 domain)	5	0.8347	5	0.2932	5	0.7104	5	0.8704
+PF13632.5	Glycosyl transferase family group 2	4	0.5020	4	0.3012	4	0.3852	4	0.6356
+PF01490.17	Transmembrane amino acid transporter protein	27	0.9527	28	0.3029	27	0.4825	NA	NA
+PF14598.5	PAS domain	3	0.5869	3	0.3035	3	0.1106	3	0.7475
+PF01754.15	A20-like zinc finger	2	0.5023	2	0.3054	2	0.3832	2	0.6552
+PF07885.15	Ion channel	3	0.7917	3	0.3067	3	0.8170	3	0.9485
+PF08507.9	COPI associated protein	5	0.5883	5	0.3084	5	0.5849	5	0.6349
+PF13430.5	Domain of unknown function (DUF4112)	2	0.7389	2	0.3087	2	0.3946	2	0.6106
+PF03427.12	Carbohydrate binding domain (family 19)	NA	NA	2	0.3101	NA	NA	NA	NA
+PF00702.25	haloacid dehalogenase-like hydrolase	NA	NA	27	0.3115	27	0.5332	NA	NA
+PF07491.10	Protein phosphatase inhibitor	2	0.7506	2	0.3157	2	0.3687	2	0.8659
+PF07479.13	NAD-dependent glycerol-3-phosphate dehydrogenase C-terminus	2	0.3938	2	0.3170	2	0.3328	2	0.7276
+PF16300.4	Type of WD40 repeat	2	0.3897	2	0.3175	2	0.4030	2	0.6732
+PF00394.21	Multicopper oxidase	6	0.5887	5	0.3201	5	0.1739	5	0.6047
+PF00233.18	3'5'-cyclic nucleotide phosphodiesterase	2	0.1535	2	0.3250	2	0.2560	2	0.1786
+PF01424.21	R3H domain	4	0.4609	4	0.3280	4	0.2071	4	0.5558
+PF14372.5	Domain of unknown function (DUF4413)	2	0.5879	2	0.3292	2	0.5856	2	0.7993
+PF01545.20	Cation efflux family	4	0.4744	4	0.3294	4	0.5053	4	0.9289
+PF01592.15	NifU-like N terminal domain	2	0.5026	2	0.3295	2	0.4835	2	0.7051
+PF07983.12	X8 domain	3	0.9178	3	0.3297	3	0.5989	NA	NA
+PF02535.21	ZIP Zinc transporter	11	0.7943	10	0.3302	11	0.4361	11	0.7245
+PF05922.15	Peptidase inhibitor I9	NA	NA	11	0.3331	NA	NA	NA	NA
+PF06398.10	Integral peroxisomal membrane peroxin	3	0.8515	3	0.3332	3	0.5703	3	0.8688
+PF07249.11	Cerato-platanin	5	0.0274	5	0.3344	5	0.3902	5	0.7005
+PF01501.19	Glycosyl transferase family 8	2	0.8860	2	0.3349	2	0.7532	2	0.6048
+PF02719.14	Polysaccharide biosynthesis protein	3	0.5872	3	0.3353	3	0.3692	3	0.9397
+PF12352.7	Snare region anchored in the vesicle membrane C-terminus	3	0.8288	3	0.3365	NA	NA	NA	NA
+PF08030.11	Ferric reductase NAD binding domain	4	0.5959	4	0.3390	4	0.4361	4	0.8442
+PF16010.4	Cytochrome domain of cellobiose dehydrogenase	2	0.3447	2	0.3471	2	0.7983	2	0.9009
+PF14226.5	non-haem dioxygenase in morphine synthesis N-terminal	4	0.8052	4	0.3503	4	0.3910	4	0.9495
+PF00957.20	Synaptobrevin	5	0.5220	5	0.3522	5	0.4730	5	0.6946
+PF13409.5	Glutathione S-transferase, N-terminal domain	NA	NA	5	0.3536	NA	NA	NA	NA
+PF06609.12	Fungal trichothecene efflux pump (TRI12)	NA	NA	7	0.3539	7	0.6104	NA	NA
+PF07732.14	Multicopper oxidase	7	0.6992	7	0.3542	7	0.3250	7	0.7821
+PF10323.8	Serpentine type 7TM GPCR chemoreceptor Srv	3	0.6485	2	0.3546	2	0.3897	2	0.2605
+PF02190.15	ATP-dependent protease La (LON) substrate-binding domain	4	0.9711	4	0.3547	4	0.8515	4	0.7238
+PF00967.16	Barwin family	5	0.5816	3	0.3615	NA	NA	5	0.6630
+PF00082.21	Subtilase family	NA	NA	32	0.3619	NA	NA	NA	NA
+PF08238.11	Sel1 repeat	15	0.3912	15	0.3637	15	0.7087	14	0.6724
+PF08616.9	Stabilization of polarity axis	2	0.5024	2	0.3643	2	0.4342	2	0.6380
+PF13426.6	PAS domain	8	0.7317	8	0.3655	8	0.4392	8	0.7326
+PF01435.17	Peptidase family M48	3	0.3779	3	0.3655	3	0.3260	3	0.5249
+PF00324.20	Amino acid permease	4	0.5936	4	0.3656	3	0.2384	3	0.2800
+PF13410.5	Glutathione S-transferase, C-terminal domain	NA	NA	5	0.3657	NA	NA	NA	NA
+PF00631.21	GGL domain	2	0.6491	2	0.3659	2	0.6956	2	0.8470
+PF07720.11	Tetratricopeptide repeat	2	0.8550	2	0.3661	2	0.9714	2	0.8751
+PF05577.11	Serine carboxypeptidase S28	7	0.5676	5	0.3662	NA	NA	5	0.7116
+PF00450.21	Serine carboxypeptidase	10	0.9528	10	0.3669	NA	NA	9	0.5383
+PF04145.14	Ctr copper transporter family	5	0.2684	5	0.3670	5	0.5852	5	0.8453
+PF14976.5	FAM72 protein	2	0.4878	2	0.3674	2	0.7819	2	0.7997
+PF03179.14	Vacuolar (H+)-ATPase G subunit	2	0.6881	2	0.3675	2	0.7926	NA	NA
+PF02469.21	Fasciclin domain	2	0.8536	2	0.3685	2	0.6837	2	0.8043
+PF15405.5	Pleckstrin homology domain	4	0.2869	4	0.3710	NA	NA	4	0.8468
+PF01417.19	ENTH domain	3	0.7037	2	0.3763	2	0.4994	2	0.7339
+PF12937.6	F-box-like	13	0.4054	14	0.3768	13	0.4599	13	0.6077
+PF02145.14	Rap/ran-GAP	2	0.4661	2	0.3780	2	0.3964	2	0.6736
+PF01331.18	mRNA capping enzyme, catalytic domain	2	0.4673	2	0.3854	2	0.6520	2	0.6108
+PF01488.19	Shikimate / quinate 5-dehydrogenase	2	0.8190	2	0.3869	2	0.5012	2	0.8625
+PF03619.15	Organic solute transporter Ostalpha	2	0.4155	2	0.3869	2	0.3956	2	0.6361
+PF00245.19	Alkaline phosphatase	3	0.0209	3	0.3929	3	0.4966	3	0.5974
+PF07970.11	Endoplasmic reticulum vesicle transporter	2	0.5738	2	0.3943	2	0.4860	2	0.7316
+PF13850.5	Endoplasmic Reticulum-Golgi Intermediate Compartment (ERGIC)	2	0.5871	2	0.3952	2	0.4650	2	0.7294
+PF00096.25	Zinc finger, C2H2 type	NA	NA	38	0.3952	NA	NA	NA	NA
+PF11187.7	Protein of unknown function (DUF2974)	8	0.7343	8	0.4003	8	0.8040	8	0.9477
+PF01221.17	Dynein light chain type 1	2	0.7211	2	0.4056	NA	NA	NA	NA
+PF00665.25	Integrase core domain	35	0.5289	25	0.4099	23	0.4550	23	0.0663
+PF04193.13	PQ loop repeat	NA	NA	9	0.4117	9	0.7474	NA	NA
+PF00448.21	SRP54-type protein, GTPase domain	2	0.5120	2	0.4150	2	0.7742	2	0.8198
+PF05739.18	SNARE domain	3	0.5806	3	0.4156	3	0.6821	3	0.7084
+PF13967.5	Late exocytosis, associated with Golgi transport	8	0.5028	8	0.4304	8	0.7003	8	0.5304
+PF00403.25	Heavy-metal-associated domain	3	0.5755	3	0.4318	3	0.2258	3	0.6104
+PF00728.21	Glycosyl hydrolase family 20, catalytic domain	3	0.9566	3	0.4322	3	0.4377	3	0.9490
+PF03600.15	Citrate transporter	4	0.6831	3	0.4326	3	0.5409	NA	NA
+PF03661.12	Uncharacterised protein family (UPF0121)	3	0.4681	3	0.4338	3	0.4351	3	0.5331
+PF16209.4	Phospholipid-translocating ATPase N-terminal	5	0.4722	5	0.4340	5	0.2984	5	0.9223
+PF10302.8	DUF2407 ubiquitin-like domain	2	0.5290	2	0.4344	2	0.3980	2	0.6287
+PF00854.20	POT family	NA	NA	19	0.4358	21	0.6098	NA	NA
+PF06813.12	Nodulin-like	2	0.6202	2	0.4359	2	0.4328	NA	NA
+PF06522.10	NADH-ubiquinone reductase complex 1 MLRQ subunit	2	0.7058	2	0.4367	2	0.8807	NA	NA
+PF03134.18	TB2/DP1, HVA22 family	5	0.3616	5	0.4374	5	0.1870	5	0.6724
+PF03006.19	Haemolysin-III related	3	0.5327	3	0.4459	3	0.8781	3	0.8619
+PF02881.18	SRP54-type protein, helical bundle domain	2	0.4908	2	0.4460	2	0.7733	2	0.7949
+PF08447.11	PAS fold	5	0.7712	5	0.4472	5	0.2880	5	0.6096
+PF00933.20	Glycosyl hydrolase family 3 N terminal domain	2	0.5915	2	0.4478	2	0.7089	NA	NA
+PF14703.5	Cytosolic domain of 10TM putative phosphate transporter	8	0.5229	8	0.4512	8	0.7100	8	0.5275
+PF13365.5	Trypsin-like peptidase domain	7	0.3996	6	0.4725	8	0.5984	7	0.7243
+PF00646.32	F-box domain	35	0.9585	34	0.4729	32	0.4856	32	0.6661
+PF00790.18	VHS domain	2	0.5329	2	0.4742	2	0.6765	2	0.7149
+PF14845.5	beta-acetyl hexosaminidase like	2	0.8875	2	0.4802	2	0.3336	2	0.8669
+PF05368.12	NmrA-like family	4	0.8244	4	0.4810	4	0.5150	NA	NA
+PF14616.5	Domain of unknown function (DUF4451)	2	0.4065	2	0.4810	2	0.4917	2	0.4144
+PF03101.14	FAR1 DNA-binding domain	NA	NA	7	0.4818	NA	NA	NA	NA
+PF01843.18	DIL domain	4	0.3478	4	0.4835	4	0.5127	4	0.6641
+PF11754.7	Velvet factor	3	0.4997	3	0.4836	3	0.4927	3	0.5498
+PF00786.27	P21-Rho-binding domain	4	0.1266	4	0.4836	4	0.4738	4	0.5279
+PF01124.17	MAPEG family	6	0.7339	6	0.4842	6	0.5750	NA	NA
+PF13202.5	EF hand	20	0.5070	20	0.4852	20	0.5831	NA	NA
+PF02205.19	WH2 motif	2	0.5200	2	0.4855	2	0.5708	2	0.7385
+PF09439.9	Signal recognition particle receptor beta subunit	11	0.7036	11	0.4863	11	0.8927	NA	NA
+PF03029.16	Conserved hypothetical ATP binding protein	4	0.8207	4	0.4865	4	0.8969	4	0.7761
+PF09729.8	Gti1/Pac2 family	NA	NA	7	0.4873	NA	NA	NA	NA
+PF03167.18	Uracil DNA glycosylase superfamily	2	0.4743	2	0.4875	2	0.4446	2	0.5299
+PF03188.15	Eukaryotic cytochrome b561	5	0.5971	5	0.4955	5	0.5743	5	0.7074
+PF13832.5	PHD-zinc-finger like domain	4	0.4464	4	0.4963	4	0.6757	4	0.7055
+PF12804.6	MobA-like NTP transferase domain	3	0.5342	3	0.4979	3	0.8269	NA	NA
+PF01569.20	PAP2 superfamily	9	0.9920	9	0.4981	9	0.8668	9	0.9372
+PF00445.17	Ribonuclease T2 family	8	0.8871	5	0.4986	NA	NA	8	0.8479
+PF01214.17	Casein kinase II regulatory subunit	3	0.5002	3	0.4994	3	0.6029	3	0.8221
+PF00388.18	Phosphatidylinositol-specific phospholipase C, X domain	2	0.5777	2	0.4998	2	0.4946	NA	NA
+PF05057.13	Putative serine esterase (DUF676)	4	0.5801	4	0.5003	4	0.5553	4	0.8641
+PF00246.23	Zinc carboxypeptidase	NA	NA	11	0.5060	10	0.6106	10	0.8669
+PF10436.8	Mitochondrial branched-chain alpha-ketoacid dehydrogenase kinase	3	0.3879	3	0.5064	3	0.5709	3	0.6660
+PF08450.11	SMP-30/Gluconolaconase/LRE-like region	3	0.5850	3	0.5100	3	0.3204	3	0.7300
+PF08028.10	Acyl-CoA dehydrogenase, C-terminal domain	NA	NA	7	0.5120	NA	NA	NA	NA
+PF02893.19	GRAM domain	4	0.5738	4	0.5163	4	0.5767	4	0.8436
+PF12861.6	Anaphase-promoting complex subunit 11 RING-H2 finger	4	0.5811	4	0.5183	4	0.6807	4	0.8076
+PF13405.5	EF-hand domain	10	0.6237	10	0.5189	10	0.8039	NA	NA
+PF00995.22	Sec1 family	4	0.8557	4	0.5206	4	0.7715	4	0.7976
+PF05277.11	Protein of unknown function (DUF726)	2	0.5002	2	0.5206	2	0.6836	2	0.5913
+PF12409.7	P5-type ATPase cation transporter	2	0.5730	2	0.5213	2	0.3248	2	0.7504
+PF13774.5	Regulated-SNARE-like domain	3	0.7052	3	0.5215	3	0.6507	3	0.8852
+PF04061.13	ORMDL family	2	0.8903	2	0.5216	2	0.4634	NA	NA
+PF01496.18	V-type ATPase 116kDa subunit family	4	0.5319	3	0.5231	3	0.4852	NA	NA
+PF00667.19	FAD binding domain	3	0.5884	3	0.5242	3	0.2501	3	0.6980
+PF01733.17	Nucleoside transporter	3	0.7142	3	0.5253	3	0.5702	3	0.8672
+PF07651.15	ANTH domain	3	0.7072	3	0.5363	3	0.5127	3	0.8527
+PF01055.25	Glycosyl hydrolases family 31	3	0.8860	3	0.5367	NA	NA	NA	NA
+PF03908.12	Sec20	2	0.8528	2	0.5379	2	0.9455	NA	NA
+PF13450.5	NAD(P)-binding Rossmann-like domain	NA	NA	10	0.5384	NA	NA	NA	NA
+PF13641.5	Glycosyltransferase like family 2	6	0.6807	6	0.5392	6	0.5622	6	0.8048
+PF05875.11	Ceramidase	NA	NA	2	0.5418	2	0.4805	2	0.9242
+PF03222.12	Tryptophan/tyrosine permease family	3	0.7069	3	0.5437	3	0.4343	NA	NA
+PF00690.25	Cation transporter/ATPase, N-terminus	NA	NA	13	0.5459	13	0.6798	NA	NA
+PF08240.11	Alcohol dehydrogenase GroES-like domain	9	0.5837	9	0.5470	9	0.5765	NA	NA
+PF06220.11	U1 zinc finger	3	0.5752	3	0.5499	NA	NA	3	0.6284
+PF03009.16	Glycerophosphoryl diester phosphodiesterase family	3	0.8533	3	0.5506	3	0.6520	3	0.8505
+PF06428.10	GDP/GTP exchange factor Sec2p	3	0.5041	3	0.5511	3	0.4948	3	0.6377
+PF01529.19	DHHC palmitoyltransferase	3	0.5306	3	0.5522	3	0.6102	3	0.6721
+PF00632.24	HECT-domain (ubiquitin-transferase)	5	0.4709	5	0.5612	5	0.5900	5	0.6677
+PF02928.15	C5HC2 zinc finger	4	0.6657	4	0.5672	4	0.8741	4	0.7266
+PF13672.5	Protein phosphatase 2C	6	0.5875	6	0.5674	6	0.5632	6	0.8090
+PF00415.17	Regulator of chromosome condensation (RCC1) repeat	6	0.5812	6	0.5675	6	0.5785	6	0.8463
+PF08284.10	Retroviral aspartyl protease	NA	NA	5	0.5696	NA	NA	NA	NA
+PF04926.14	Poly(A) polymerase predicted RNA binding domain	3	0.4860	3	0.5704	3	0.5969	3	0.6035
+PF00244.19	14-3-3 protein	3	0.5225	3	0.5705	3	0.9456	NA	NA
+PF12821.6	Threonine/Serine exporter, ThrE	2	0.5854	2	0.5711	2	0.3672	NA	NA
+PF03198.13	Glucanosyltransferase	5	0.8865	6	0.5711	5	0.5002	NA	NA
+PF01564.16	Spermine/spermidine synthase domain	2	0.6193	2	0.5715	2	0.8786	2	0.8641
+PF07859.12	alpha/beta hydrolase fold	4	0.7961	4	0.5716	4	0.5919	4	0.8463
+PF00144.23	Beta-lactamase	11	0.9210	11	0.5722	12	0.5827	NA	NA
+PF08569.10	Mo25-like	3	0.5978	3	0.5733	3	0.6715	3	0.8176
+PF00026.22	Eukaryotic aspartyl protease	3	0.5860	3	0.5735	3	0.5431	3	0.5428
+PF03171.19	2OG-Fe(II) oxygenase superfamily	NA	NA	3	0.5749	3	0.5116	NA	NA
+PF14634.5	zinc-RING finger domain	2	0.6666	2	0.5749	2	0.5118	2	0.8660
+PF00503.19	G-protein alpha subunit	3	0.5309	3	0.5755	3	0.7453	3	0.8080
+PF01150.16	GDA1/CD39 (nucleoside phosphatase) family	3	0.6662	3	0.5762	3	0.8309	3	0.7989
+PF02689.13	Helicase	3	0.6354	3	0.5773	3	0.7773	3	0.7322
+PF10431.8	C-terminal, D2-small domain, of ClpB protein	3	0.8539	3	0.5779	3	0.5441	3	0.9477
+PF06738.11	Putative threonine/serine exporter	2	0.5852	2	0.5954	2	0.3687	NA	NA
+PF01019.20	Gamma-glutamyltranspeptidase	4	0.9498	4	0.5974	4	0.4276	4	0.8714
+PF12998.6	Inhibitor of growth proteins N-terminal histone-binding	3	0.5887	3	0.5979	3	0.6841	3	0.6726
+PF00320.26	GATA zinc finger	10	0.8263	9	0.5986	10	0.2076	9	0.7566
+PF04928.16	Poly(A) polymerase central domain	3	0.5002	3	0.6001	3	0.5979	3	0.6027
+PF02902.18	Ulp1 protease family, C-terminal catalytic domain	3	0.5331	3	0.6053	3	0.4868	3	0.8508
+PF01679.16	Proteolipid membrane potential modulator	NA	NA	4	0.6116	NA	NA	NA	NA
+PF16561.4	Glycogen recognition site of AMP-activated protein kinase	3	0.6641	3	0.6151	3	0.8785	NA	NA
+PF00939.18	Sodium:sulfate symporter transmembrane region	2	0.8865	2	0.6154	2	0.6898	NA	NA
+PF02597.19	ThiS family	2	0.6204	2	0.6174	NA	NA	2	0.8169
+PF09471.9	IgA Peptidase M64	NA	NA	4	0.6209	3	0.4840	NA	NA
+PF00447.16	HSF-type DNA-binding	NA	NA	19	0.6213	19	0.3352	20	0.8382
+PF01909.22	Nucleotidyltransferase domain	6	0.6681	6	0.6221	6	0.1373	6	0.6331
+PF02798.19	Glutathione S-transferase, N-terminal domain	NA	NA	7	0.6242	NA	NA	NA	NA
+PF00043.24	Glutathione S-transferase, C-terminal domain	NA	NA	7	0.6252	NA	NA	NA	NA
+PF02544.15	3-oxo-5-alpha-steroid 4-dehydrogenase	NA	NA	4	0.6270	4	0.7392	NA	NA
+PF06966.11	Protein of unknown function (DUF1295)	4	0.9510	4	0.6401	4	0.7319	NA	NA
+PF08031.11	Berberine and berberine like	7	0.8185	7	0.6410	6	0.4152	6	0.5951
+PF06058.12	Dcp1-like decapping family	4	0.6499	4	0.6417	4	0.7736	3	0.7062
+PF06779.13	Uncharacterised MFS-type transporter YbfB	NA	NA	4	0.6433	NA	NA	NA	NA
+PF03109.15	ABC1 family	3	0.9551	3	0.6509	3	0.7143	NA	NA
+PF01704.17	UTP--glucose-1-phosphate uridylyltransferase	3	0.8706	3	0.6523	NA	NA	NA	NA
+PF11700.7	Vacuole effluxer Atg22 like	NA	NA	6	0.6530	4	0.6505	4	0.8201
+PF00860.19	Permease family	3	0.8213	3	0.6540	3	0.6803	NA	NA
+PF01363.20	FYVE zinc finger	5	0.4492	5	0.6544	5	0.6774	5	0.7545
+PF00491.20	Arginase family	NA	NA	2	0.6549	NA	NA	NA	NA
+PF14447.5	Prokaryotic RING finger family 4	2	0.8909	2	0.6573	2	0.5914	2	0.8685
+PF13923.5	Zinc finger, C3HC4 type (RING finger)	21	0.7405	21	0.6593	21	0.8271	21	0.8193
+PF05648.13	Peroxisomal biogenesis factor 11 (PEX11)	3	0.8502	3	0.6692	3	0.7363	3	0.8650
+PF04757.13	Pex2 / Pex12 amino terminal region	2	0.3465	2	0.6694	2	0.3858	2	0.5377
+PF07738.12	Sad1 / UNC-like C-terminal	3	0.6697	3	0.6698	3	0.6157	3	0.8021
+PF12906.6	RING-variant domain	3	0.6579	3	0.6700	3	0.6819	3	0.7091
+PF03357.20	Snf7	5	0.5900	5	0.6703	NA	NA	NA	NA
+PF04468.11	PSP1 C-terminal conserved region	2	0.5830	2	0.6709	2	0.7470	2	0.7624
+PF00098.22	Zinc knuckle	18	0.8912	15	0.6710	NA	NA	16	0.8073
+PF01428.15	AN1-like Zinc finger	4	0.3887	4	0.6712	4	0.5897	4	0.9473
+PF11901.7	Protein of unknown function (DUF3421)	NA	NA	6	0.6715	NA	NA	NA	NA
+PF03031.17	NLI interacting factor-like phosphatase	NA	NA	7	0.6719	7	0.7732	NA	NA
+PF01553.20	Acyltransferase	10	0.7890	10	0.6723	10	0.7720	NA	NA
+PF12763.6	Cytoskeletal-regulatory complex EF hand	5	0.9197	5	0.6725	5	0.7735	NA	NA
+PF00225.22	Kinesin motor domain	15	0.2396	15	0.6728	14	0.4429	15	0.7349
+PF02201.17	SWIB/MDM2 domain	2	0.5924	2	0.6729	2	0.5104	2	0.7537
+PF12874.6	Zinc-finger of C2H2 type	NA	NA	22	0.6743	NA	NA	NA	NA
+PF00258.24	Flavodoxin	NA	NA	5	0.6747	5	0.5332	5	0.7141
+PF07716.14	Basic region leucine zipper	9	0.8731	9	0.6749	9	0.6851	9	0.8483
+PF04511.14	Der1-like family	NA	NA	2	0.6754	NA	NA	NA	NA
+PF01412.17	Putative GTPase activating protein for Arf	6	0.7937	6	0.6763	6	0.7900	6	0.8729
+PF01793.15	Glycolipid 2-alpha-mannosyltransferase	4	0.5845	4	0.6768	4	0.6789	4	0.8770
+PF12814.6	Meiotic cell cortex C-terminal pleckstrin homology	4	0.5019	4	0.6908	4	0.7896	4	0.6611
+PF00027.28	Cyclic nucleotide-binding domain	5	0.8280	5	0.6918	5	0.9082	NA	NA
+PF16796.4	Microtubule binding	15	0.2542	15	0.6919	14	0.4364	15	0.7374
+PF02714.14	Calcium-dependent channel, 7TM region, putative phosphate	9	0.7319	9	0.6920	9	0.8824	9	0.5350
+PF08583.9	Cytochrome c oxidase biogenesis protein Cmc1 like	4	0.8803	4	0.6924	NA	NA	NA	NA
+PF00892.19	EamA-like transporter family	NA	NA	11	0.6925	11	0.6328	11	0.9736
+PF09747.8	Coiled-coil domain containing protein (DUF2052)	2	0.5861	2	0.6940	NA	NA	2	0.6678
+PF00235.18	Profilin	NA	NA	2	0.6943	NA	NA	NA	NA
+PF00611.22	Fes/CIP4, and EFC/F-BAR homology domain	4	0.6976	4	0.6944	4	0.8000	NA	NA
+PF00756.19	Putative esterase	NA	NA	4	0.6947	NA	NA	NA	NA
+PF01565.22	FAD binding domain	10	0.8549	9	0.6948	9	0.5394	9	0.6361
+PF00300.21	Histidine phosphatase superfamily (branch 1)	NA	NA	4	0.6948	NA	NA	NA	NA
+PF13854.5	Kelch motif	3	0.7770	3	0.6949	3	0.7968	3	0.8787
+PF03836.14	RasGAP C-terminus	3	0.6880	3	0.6955	3	0.7697	3	0.9489
+PF00307.30	Calponin homology (CH) domain	7	0.5249	7	0.6958	7	0.6530	7	0.8385
+PF00755.19	Choline/Carnitine o-acyltransferase	4	0.6679	4	0.6960	4	0.6833	4	0.8703
+PF09668.9	Aspartyl protease	4	0.7160	4	0.6962	4	0.8738	4	0.8248
+PF09325.9	Vps5 C terminal like	2	0.6673	2	0.6964	2	0.7117	2	0.8476
+PF12710.6	haloacid dehalogenase-like hydrolase	5	0.6637	5	0.6998	5	0.7973	5	0.9379
+PF04082.17	Fungal specific transcription factor domain	22	0.7164	22	0.7038	22	0.7711	22	0.6630
+PF03874.15	RNA polymerase Rpb4	2	0.7276	2	0.7042	NA	NA	2	0.8615
+PF00996.17	GDP dissociation inhibitor	2	0.5825	2	0.7061	2	0.8747	NA	NA
+PF01284.22	Membrane-associating domain	2	0.5787	2	0.7100	2	0.4672	2	0.8071
+PF05995.11	Cysteine dioxygenase type I	2	0.5237	2	0.7101	2	0.5315	2	0.6637
+PF04389.16	Peptidase family M28	NA	NA	4	0.7119	NA	NA	NA	NA
+PF13417.5	Glutathione S-transferase, N-terminal domain	NA	NA	8	0.7163	NA	NA	NA	NA
+PF07529.12	HSA	2	0.5879	2	0.7183	2	0.9788	2	0.8180
+PF01839.22	FG-GAP repeat	NA	NA	2	0.7217	NA	NA	NA	NA
+PF01554.17	MatE	6	0.6377	6	0.7218	6	0.5792	6	0.7942
+PF03131.16	bZIP Maf transcription factor	NA	NA	5	0.7296	5	0.7722	NA	NA
+PF01699.23	Sodium/calcium exchanger protein	5	0.7072	5	0.7344	5	0.6848	NA	NA
+PF00389.29	D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain	2	0.5037	2	0.7350	2	0.5885	2	0.5264
+PF00782.19	Dual specificity phosphatase, catalytic domain	5	0.5957	5	0.7355	5	0.6829	5	0.8170
+PF08598.10	Sds3-like	2	0.7159	2	0.7357	NA	NA	2	0.7699
+PF00335.19	Tetraspanin family	2	0.8484	2	0.7399	2	0.7376	2	0.8965
+PF02845.15	CUE domain	5	0.5933	5	0.7472	NA	NA	5	0.8077
+PF12661.6	Human growth factor-like EGF	2	0.6936	2	0.7484	2	0.5888	2	0.7865
+PF02826.18	D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain	5	0.4434	5	0.7526	5	0.4967	5	0.3685
+PF00319.17	SRF-type transcription factor (DNA-binding and dimerisation domain)	NA	NA	4	0.7587	NA	NA	NA	NA
+PF13606.5	Ankyrin repeat	18	0.2664	18	0.7590	18	0.6674	18	0.2512
+PF00487.23	Fatty acid desaturase	NA	NA	9	0.7593	NA	NA	NA	NA
+PF12789.6	Phage tail repeat like	2	0.5893	2	0.7597	2	0.7750	2	0.7341
+PF01243.19	Pyridoxamine 5'-phosphate oxidase	2	0.8093	2	0.7604	2	0.7723	NA	NA
+PF16652.4	Pleckstrin homology domain	2	0.8526	2	0.7607	2	0.7517	2	0.7535
+PF03807.16	NADP oxidoreductase coenzyme F420-dependent	3	0.9163	3	0.7611	3	0.8722	3	0.9778
+PF01466.18	Skp1 family, dimerisation domain	4	0.5021	4	0.7612	NA	NA	4	0.7570
+PF02128.14	Fungalysin metallopeptidase (M36)	NA	NA	6	0.7613	6	0.9640	6	0.9340
+PF02204.17	Vacuolar sorting protein 9 (VPS9) domain	3	0.5220	3	0.7614	3	0.5882	3	0.7126
+PF00616.18	GTPase-activator protein for Ras-like GTPase	4	0.7327	4	0.7614	4	0.9044	4	0.9185
+PF16891.4	Serine-threonine protein phosphatase N-terminal domain	2	0.9681	2	0.7615	2	0.9210	2	0.9793
+PF00930.20	Dipeptidyl peptidase IV (DPP IV) N-terminal region	2	0.6996	2	0.7616	2	0.6761	2	0.8385
+PF02776.17	Thiamine pyrophosphate enzyme, N-terminal TPP binding domain	3	0.8662	3	0.7618	3	0.7899	3	0.7789
+PF00141.22	Peroxidase	NA	NA	2	0.7619	2	0.8117	2	0.8641
+PF13625.5	Helicase conserved C-terminal domain	2	0.8594	2	0.7619	2	0.8075	2	0.8652
+PF01694.21	Rhomboid family	NA	NA	5	0.7621	NA	NA	NA	NA
+PF16203.4	ERCC3/RAD25/XPB C-terminal helicase	2	0.8643	2	0.7625	2	0.8072	2	0.8654
+PF00988.21	Carbamoyl-phosphate synthase small chain, CPSase domain	NA	NA	3	0.7629	NA	NA	NA	NA
+PF03637.16	Mob1/phocein family	4	0.8876	4	0.7640	NA	NA	4	0.9848
+PF00656.21	Caspase domain	NA	NA	10	0.7648	9	0.7088	9	0.7958
+PF03271.16	EB1-like C-terminal motif	2	0.5319	2	0.7659	2	0.6980	2	0.7319
+PF00072.23	Response regulator receiver domain	10	0.9035	10	0.7677	NA	NA	NA	NA
+PF00326.20	Prolyl oligopeptidase family	NA	NA	15	0.7681	NA	NA	NA	NA
+PF01041.16	DegT/DnrJ/EryC1/StrS aminotransferase family	2	0.8568	2	0.7698	2	0.7908	2	0.8856
+PF00241.19	Cofilin/tropomyosin-type actin-binding protein	4	0.9546	4	0.7710	4	0.9983	NA	NA
+PF02771.15	Acyl-CoA dehydrogenase, N-terminal domain	NA	NA	8	0.7718	NA	NA	NA	NA
+PF01265.16	Cytochrome c/c1 heme lyase	2	0.8794	2	0.7720	2	0.9892	2	0.9726
+PF01507.18	Phosphoadenosine phosphosulfate reductase family	2	0.5849	2	0.7729	2	0.3224	2	0.8616
+PF00205.21	Thiamine pyrophosphate enzyme, central domain	3	0.8588	3	0.7734	3	0.7775	3	0.7850
+PF04140.13	Isoprenylcysteine carboxyl methyltransferase (ICMT) family	2	0.8124	2	0.7738	2	0.7697	2	0.8488
+PF13917.5	Zinc knuckle	8	0.8969	9	0.7739	NA	NA	8	0.8751
+PF01118.23	Semialdehyde dehydrogenase, NAD binding domain	2	0.9308	2	0.7744	2	0.8080	NA	NA
+PF02775.20	Thiamine pyrophosphate enzyme, C-terminal TPP binding domain	3	0.8615	3	0.7754	3	0.7867	3	0.7813
+PF01027.19	Inhibitor of apoptosis-promoting Bax1	NA	NA	3	0.7785	3	0.7482	3	0.7308
+PF04768.12	NAT, N-acetyltransferase, of N-acetylglutamate synthase	2	0.5853	2	0.7793	2	0.7738	2	0.9737
+PF00903.24	Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily	NA	NA	2	0.7813	NA	NA	NA	NA
+PF13881.5	Ubiquitin-2 like Rad60 SUMO-like	NA	NA	7	0.7869	NA	NA	NA	NA
+PF00462.23	Glutaredoxin	NA	NA	5	0.7974	NA	NA	NA	NA
+PF03259.16	Roadblock/LC7 domain	NA	NA	2	0.8004	NA	NA	NA	NA
+PF01073.18	3-beta hydroxysteroid dehydrogenase/isomerase family	NA	NA	13	0.8005	NA	NA	NA	NA
+PF00730.24	HhH-GPD superfamily base excision DNA repair protein	2	0.6484	2	0.8022	2	0.7851	2	0.7937
+PF00175.20	Oxidoreductase NAD-binding domain	7	0.6505	7	0.8028	7	0.3918	7	0.8607
+PF10257.8	Retinoic acid induced 16-like protein	2	0.5844	2	0.8030	2	0.8869	2	0.8683
+PF00613.19	Phosphoinositide 3-kinase family, accessory domain (PIK domain)	2	0.6104	2	0.8092	2	0.3379	2	0.7831
+PF02880.15	Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain III	2	0.8876	2	0.8155	2	0.7777	NA	NA
+PF01062.20	Bestrophin, RFP-TM, chloride channel	5	0.6213	5	0.8161	5	0.6391	5	0.6335
+PF13183.5	4Fe-4S dicluster domain	NA	NA	2	0.8225	NA	NA	NA	NA
+PF13534.5	4Fe-4S dicluster domain	NA	NA	2	0.8274	NA	NA	NA	NA
+PF13237.5	4Fe-4S dicluster domain	NA	NA	2	0.8275	NA	NA	NA	NA
+PF07304.10	Steroid receptor RNA activator (SRA1)	3	0.8569	3	0.8338	NA	NA	NA	NA
+PF13520.5	Amino acid permease	NA	NA	4	0.8340	2	0.3045	3	0.6353
+PF14520.5	Helix-hairpin-helix domain	NA	NA	2	0.8341	2	0.7909	NA	NA
+PF13350.5	Tyrosine phosphatase family	2	0.8207	2	0.8348	2	0.7903	2	0.8664
+PF13540.5	Regulator of chromosome condensation (RCC1) repeat	5	0.8059	5	0.8354	5	0.7787	NA	NA
+PF13865.5	C-terminal duplication domain of Friend of PRMT1	2	0.8870	2	0.8362	2	0.8411	2	0.8692
+PF03694.12	Erg28 like protein	2	0.8268	2	0.8364	2	0.8115	2	0.8681
+PF07393.10	Exocyst complex component Sec10	2	0.6652	2	0.8367	2	0.7753	2	0.8487
+PF02879.15	Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain II	2	0.8821	2	0.8367	2	0.7782	NA	NA
+PF12349.7	Sterol-sensing domain of SREBP cleavage-activation	2	0.5756	2	0.8370	2	0.5783	2	0.7193
+PF03798.15	TLC domain	3	0.8882	3	0.8373	NA	NA	3	0.9780
+PF13460.5	NAD(P)H-binding	NA	NA	8	0.8510	8	0.8274	NA	NA
+PF00441.23	Acyl-CoA dehydrogenase, C-terminal domain	NA	NA	10	0.8514	NA	NA	NA	NA
+PF00158.25	Sigma-54 interaction domain	2	0.8594	2	0.8523	2	0.7926	2	0.8672
+PF17120.4	Zinc-ribbon, C4HC2 type	NA	NA	2	0.8528	2	0.7789	2	0.8642
+PF00351.20	Biopterin-dependent aromatic amino acid hydroxylase	2	0.8206	2	0.8532	2	0.6881	2	0.8478
+PF08282.11	haloacid dehalogenase-like hydrolase	4	0.7966	4	0.8533	4	0.9062	NA	NA
+PF02770.18	Acyl-CoA dehydrogenase, middle domain	NA	NA	10	0.8533	NA	NA	NA	NA
+PF00023.29	Ankyrin repeat	21	0.4218	21	0.8537	21	0.6799	21	0.5339
+PF01549.23	ShK domain-like	2	0.7527	2	0.8550	NA	NA	NA	NA
+PF00582.25	Universal stress protein family	NA	NA	3	0.8550	NA	NA	NA	NA
+PF08407.10	Chitin synthase N-terminal	2	0.7999	2	0.8555	2	0.7876	NA	NA
+PF04909.13	Amidohydrolase	2	0.8656	2	0.8565	2	0.8223	2	0.8740
+PF03561.14	Allantoicase repeat	NA	NA	4	0.8598	NA	NA	NA	NA
+PF05462.10	Slime mold cyclic AMP receptor	NA	NA	2	0.8614	NA	NA	NA	NA
+PF10551.8	MULE transposase domain	3	0.6651	3	0.8630	NA	NA	3	0.9734
+PF00170.20	bZIP transcription factor	NA	NA	12	0.8642	NA	NA	12	0.8155
+PF01172.17	Shwachman-Bodian-Diamond syndrome (SBDS) protein	NA	NA	3	0.8645	NA	NA	NA	NA
+PF03015.18	Male sterility protein	12	0.8287	10	0.8654	NA	NA	NA	NA
+PF02373.21	JmjC domain, hydroxylase	17	0.5246	17	0.8658	17	0.5926	18	0.2810
+PF00924.17	Mechanosensitive ion channel	NA	NA	3	0.8665	3	0.6807	NA	NA
+PF13637.5	Ankyrin repeats (many copies)	21	0.4652	21	0.8672	21	0.7033	21	0.6325
+PF01644.16	Chitin synthase	2	0.8074	2	0.8682	2	0.7833	NA	NA
+PF07819.12	PGAP1-like protein	3	0.8899	3	0.8685	NA	NA	3	0.8163
+PF11496.7	Class II histone deacetylase complex subunits 2 and 3	3	0.6678	3	0.8696	3	0.7132	3	0.7244
+PF08557.9	Sphingolipid Delta4-desaturase (DES)	2	0.9917	2	0.8708	NA	NA	NA	NA
+PF01227.21	GTP cyclohydrolase I	3	0.8707	3	0.8736	3	0.7552	3	0.8442
+PF17216.2	Rrp44-like cold shock domain	2	0.8910	2	0.8748	NA	NA	NA	NA
+PF00612.26	IQ calmodulin-binding motif	7	0.4660	7	0.8758	7	0.4269	7	0.7973
+PF08654.9	DASH complex subunit Dad2	NA	NA	2	0.8760	NA	NA	NA	NA
+PF14572.5	Phosphoribosyl synthetase-associated domain	3	0.8863	3	0.8777	NA	NA	3	0.9487
+PF00278.21	Pyridoxal-dependent decarboxylase, C-terminal sheet domain	5	0.9910	3	0.8833	4	0.9034	5	0.8639
+PF07504.12	Fungalysin/Thermolysin Propeptide Motif	NA	NA	5	0.8839	NA	NA	5	0.9473
+PF00780.21	CNH domain	5	0.6669	5	0.8921	NA	NA	NA	NA
+PF01915.21	Glycosyl hydrolase family 3 C-terminal domain	2	0.5858	3	0.8922	2	0.7002	NA	NA
+PF04515.11	Plasma-membrane choline transporter	NA	NA	3	0.8954	3	0.7956	NA	NA
+PF02219.16	Methylenetetrahydrofolate reductase	4	0.3142	4	0.8998	4	0.2372	4	0.5343
+PF13949.5	ALIX V-shaped domain binding to HIV	2	0.8868	2	0.9015	2	0.6724	2	0.8624
+PF14310.5	Fibronectin type III-like domain	2	0.5825	3	0.9020	2	0.6813	NA	NA
+PF01974.16	tRNA intron endonuclease, catalytic C-terminal domain	2	0.9568	2	0.9030	2	0.8740	2	0.8617
+PF13793.5	N-terminal domain of ribose phosphate pyrophosphokinase	3	0.8886	3	0.9032	NA	NA	3	0.9479
+PF02020.17	eIF4-gamma/eIF5/eIF2-epsilon	NA	NA	2	0.9045	NA	NA	NA	NA
+PF00433.23	Protein kinase C terminal domain	5	0.9538	5	0.9049	NA	NA	5	0.9294
+PF01873.16	Domain found in IF2B/IF5	2	0.9195	2	0.9079	NA	NA	NA	NA
+PF07766.12	LETM1-like protein	2	0.9926	2	0.9084	2	0.9022	NA	NA
+PF13085.5	2Fe-2S iron-sulfur cluster binding domain	NA	NA	3	0.9091	NA	NA	NA	NA
+PF03435.17	Saccharopine dehydrogenase NADP binding domain	NA	NA	8	0.9095	NA	NA	NA	NA
+PF09451.9	Autophagy-related protein 27	NA	NA	3	0.9105	NA	NA	NA	NA
+PF04752.11	ChaC-like protein	2	0.7306	2	0.9114	NA	NA	NA	NA
+PF13802.5	Galactose mutarotase-like	2	0.9597	2	0.9119	NA	NA	NA	NA
+PF13894.5	C2H2-type zinc finger	NA	NA	13	0.9125	NA	NA	11	0.9778
+PF13692.5	Glycosyl transferases group 1	2	0.7045	2	0.9127	2	0.8247	2	0.7838
+PF14559.5	Tetratricopeptide repeat	3	0.9920	3	0.9130	NA	NA	3	0.9760
+PF13975.5	gag-polyprotein putative aspartyl protease	7	0.8537	6	0.9131	6	0.7733	6	0.8383
+PF01544.17	CorA-like Mg2+ transporter protein	4	0.9526	4	0.9132	4	0.9749	4	0.9774
+PF09342.10	Domain of unknown function (DUF1986)	2	0.8563	2	0.9133	2	0.9721	2	0.8016
+PF16177.4	Acetyl-coenzyme A synthetase N-terminus	2	0.9596	2	0.9136	NA	NA	NA	NA
+PF01591.17	6-phosphofructo-2-kinase	NA	NA	2	0.9141	NA	NA	NA	NA
+PF07228.11	Stage II sporulation protein E (SpoIIE)	NA	NA	4	0.9142	4	0.9076	NA	NA
+PF08390.10	TRAM1-like protein	2	0.9508	2	0.9145	2	0.8532	2	0.8607
+PF00643.23	B-box zinc finger	2	0.8864	2	0.9148	2	0.7882	2	0.9396
+PF03097.17	BRO1-like domain	2	0.8902	2	0.9149	2	0.6847	2	0.8632
+PF05653.13	Magnesium transporter NIPA	6	0.8497	6	0.9156	5	0.5617	6	0.9386
+PF05822.11	Pyrimidine 5'-nucleotidase (UMPH-1)	NA	NA	9	0.9160	NA	NA	NA	NA
+PF06888.11	Putative Phosphatase	NA	NA	2	0.9161	NA	NA	NA	NA
+PF00501.27	AMP-binding enzyme	NA	NA	26	0.9161	NA	NA	NA	NA
+PF05532.11	CsbD-like	NA	NA	2	0.9164	NA	NA	NA	NA
+PF07915.12	Glucosidase II beta subunit-like protein	2	0.9564	2	0.9179	2	0.8740	NA	NA
+PF00075.23	RNase H	6	0.8856	6	0.9230	NA	NA	NA	NA
+PF05879.11	Root hair defective 3 GTP-binding protein (RHD3)	NA	NA	2	0.9263	NA	NA	NA	NA
+PF01652.17	Eukaryotic initiation factor 4E	4	0.8580	4	0.9282	NA	NA	4	0.9485
+PF00498.25	FHA domain	10	0.8801	10	0.9326	10	0.8644	10	0.7583
+PF04178.11	Got1/Sft2-like family	3	0.7286	3	0.9373	NA	NA	NA	NA
+PF03828.18	Cid1 family poly A polymerase	3	0.6619	3	0.9379	3	0.4833	3	0.6057
+PF06202.13	Amylo-alpha-1,6-glucosidase	2	0.8725	2	0.9449	NA	NA	2	0.8620
+PF00250.17	Forkhead domain	NA	NA	2	0.9487	NA	NA	2	0.8708
+PF00230.19	Major intrinsic protein	8	0.6653	8	0.9492	8	0.8719	10	0.8488
+PF01693.15	Caulimovirus viroplasmin	4	0.9915	4	0.9502	4	0.9976	NA	NA
+PF01432.19	Peptidase family M3	NA	NA	3	0.9506	NA	NA	NA	NA
+PF12171.7	Zinc-finger double-stranded RNA-binding	NA	NA	7	0.9506	7	0.8967	7	0.9491
+PF04777.12	Erv1 / Alr family	2	0.9938	2	0.9507	NA	NA	NA	NA
+PF02297.16	Cytochrome oxidase c subunit VIb	NA	NA	2	0.9508	NA	NA	NA	NA
+PF03931.14	Skp1 family, tetramerisation domain	5	0.9191	5	0.9510	NA	NA	4	0.7540
+PF13188.6	PAS domain	NA	NA	2	0.9518	2	0.8429	2	0.7291
+PF00806.18	Pumilio-family RNA binding repeat	NA	NA	4	0.9521	NA	NA	NA	NA
+PF13893.5	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)	NA	NA	13	0.9525	NA	NA	13	0.9444
+PF16653.4	Saccharopine dehydrogenase C-terminal domain	NA	NA	2	0.9530	NA	NA	NA	NA
+PF01966.21	HD domain	2	0.8813	2	0.9538	NA	NA	2	0.9767
+PF00789.19	UBX domain	NA	NA	6	0.9545	NA	NA	NA	NA
+PF01230.22	HIT domain	NA	NA	3	0.9563	NA	NA	NA	NA
+PF03765.14	CRAL/TRIO, N-terminal domain	NA	NA	4	0.9579	4	0.9422	NA	NA
+PF00484.18	Carbonic anhydrase	2	0.8572	2	0.9586	2	0.8654	NA	NA
+PF08711.10	TFIIS helical bundle-like domain	2	0.8843	2	0.9590	2	0.9775	2	0.9631
+PF13419.5	Haloacid dehalogenase-like hydrolase	5	0.9582	5	0.9629	NA	NA	NA	NA
+PF02375.16	jmjN domain	4	0.8900	4	0.9644	4	0.7955	4	0.7476
+PF08429.10	PLU-1-like protein	4	0.8473	4	0.9653	4	0.7722	4	0.7076
+PF03909.16	BSD domain	NA	NA	2	0.9660	NA	NA	NA	NA
+PF06027.11	Solute carrier family 35	NA	NA	4	0.9664	4	0.7762	NA	NA
+PF00650.19	CRAL/TRIO domain	NA	NA	4	0.9668	4	0.9423	NA	NA
+PF02157.14	Mannose-6-phosphate receptor	2	0.7551	2	0.9676	NA	NA	NA	NA
+PF16078.4	2-oxoglutarate dehydrogenase N-terminus	NA	NA	2	0.9676	NA	NA	NA	NA
+PF05362.12	Lon protease (S16) C-terminal proteolytic domain	2	0.9517	2	0.9680	2	0.7885	NA	NA
+PF02181.22	Formin Homology 2 Domain	2	0.9583	2	0.9683	NA	NA	2	0.8769
+PF13738.5	Pyridine nucleotide-disulphide oxidoreductase	4	0.8865	4	0.9685	NA	NA	NA	NA
+PF16870.4	2-oxoglutarate dehydrogenase C-terminal	NA	NA	2	0.9685	NA	NA	NA	NA
+PF01012.20	Electron transfer flavoprotein domain	NA	NA	2	0.9717	NA	NA	NA	NA
+PF01253.21	Translation initiation factor SUI1	2	0.9729	2	0.9720	2	0.8283	NA	NA
+PF03152.13	Ubiquitin fusion degradation protein UFD1	NA	NA	2	0.9792	2	0.9748	NA	NA
+PF13906.5	C-terminus of AA_permease	NA	NA	2	0.9796	NA	NA	NA	NA
+PF16558.4	Amino-terminal Zinc-binding domain of ubiquitin ligase E3A	2	0.8612	2	0.9812	2	0.9768	NA	NA
+PF04110.12	Ubiquitin-like autophagy protein Apg12	NA	NA	2	0.9815	2	0.9870	NA	NA
+PF00588.18	SpoU rRNA Methylase family	2	0.7356	2	0.9817	2	0.8838	2	0.8060
+PF02991.15	Autophagy protein Atg8 ubiquitin like	NA	NA	2	0.9819	2	0.9882	NA	NA
+PF01369.19	Sec7 domain	11	0.7320	11	0.9826	11	0.6793	11	0.8751
+PF03114.17	BAR domain	4	0.8499	4	0.9876	NA	NA	4	0.9485
+PF00494.18	Squalene/phytoene synthase	2	0.9731	2	0.9882	NA	NA	NA	NA
+PF01212.20	Beta-eliminating lyase	NA	NA	6	0.9885	NA	NA	NA	NA
+PF10296.8	Maintenance of mitochondrial morphology protein 1	2	0.9519	2	0.9921	2	0.7080	2	0.9470
+PF13238.5	AAA domain	NA	NA	2	0.9929	NA	NA	NA	NA
+PF00328.21	Histidine phosphatase superfamily (branch 2)	10	0.8858	10	0.9930	10	0.7733	NA	NA
+PF03184.18	DDE superfamily endonuclease	2	0.6656	2	0.9933	NA	NA	2	0.8663
+PF00610.20	Domain found in Dishevelled, Egl-10, and Pleckstrin (DEP)	3	0.9568	3	0.9935	2	0.7736	2	0.7394
+PF04032.15	RNAse P Rpr2/Rpp21/SNM1 subunit domain	2	0.9907	2	0.9940	2	0.9053	2	0.8526
+PF03226.13	Yippee zinc-binding/DNA-binding /Mis18, centromere assembly	3	0.8508	3	0.9943	3	0.8729	3	0.9496
+PF09435.9	Fungal protein of unknown function (DUF2015)	2	0.8871	2	0.9944	2	0.9067	2	0.9302
+PF11559.7	Afadin- and alpha -actinin-Binding	NA	NA	2	0.9944	2	0.9787	2	0.8699
+PF00173.27	Cytochrome b5-like Heme/Steroid binding domain	NA	NA	17	0.9945	NA	NA	NA	NA
+PF05195.15	Aminopeptidase P, N-terminal domain	NA	NA	2	0.9956	NA	NA	NA	NA
+PF01485.20	IBR domain, a half RING-finger domain	5	0.7873	5	0.9968	5	0.6500	5	0.9440
+PF03547.17	Membrane transport protein	NA	NA	3	0.9968	2	0.8241	3	0.9491
+PF03492.14	SAM dependent carboxyl methyltransferase	4	0.5857	NA	NA	2	0.1731	2	0.1843
+PF01421.18	Reprolysin (M12B) family zinc metalloprotease	NA	NA	NA	NA	4	0.7802	3	0.3172
+PF16187.4	Middle or third domain of peptidase_M16	16	0.9597	NA	NA	15	0.7970	14	0.4389
+PF13574.5	Metallo-peptidase family M12B Reprolysin-like	NA	NA	NA	NA	5	0.5312	5	0.5206
+PF12222.7	Peptide N-acetyl-beta-D-glucosaminyl asparaginase amidase A	3	0.8837	NA	NA	3	0.7926	2	0.5251
+PF00200.22	Disintegrin	NA	NA	NA	NA	5	0.5398	5	0.5262
+PF13582.5	Metallo-peptidase family M12B Reprolysin-like	NA	NA	NA	NA	5	0.5464	5	0.5286
+PF13583.5	Metallo-peptidase family M12B Reprolysin-like	NA	NA	NA	NA	5	0.5410	5	0.5319
+PF13688.5	Metallo-peptidase family M12	NA	NA	NA	NA	5	0.5117	5	0.5393
+PF05193.20	Peptidase M16 inactive domain	NA	NA	NA	NA	30	0.5004	30	0.5395
+PF12796.6	Ankyrin repeats (3 copies)	24	0.4044	NA	NA	24	0.7470	24	0.6077
+PF00580.20	UvrD/REP helicase N-terminal domain	3	0.9725	NA	NA	3	0.7680	3	0.6113
+PF00176.22	SNF2 family N-terminal domain	13	0.3857	NA	NA	13	0.6763	13	0.6359
+PF00636.25	Ribonuclease III domain	NA	NA	NA	NA	NA	NA	6	0.6377
+PF05699.13	hAT family C-terminal dimerisation region	14	0.7939	NA	NA	NA	NA	13	0.6452
+PF00078.26	Reverse transcriptase (RNA-dependent DNA polymerase)	NA	NA	NA	NA	NA	NA	56	0.6926
+PF05406.14	WGR domain	3	0.5779	NA	NA	2	0.7484	2	0.7208
+PF02475.15	Met-10+ like-protein	3	0.7000	NA	NA	NA	NA	3	0.7254
+PF13650.5	Aspartyl protease	10	0.8909	NA	NA	8	0.6743	8	0.7293
+PF09825.8	Biotin-protein ligase, N terminal	NA	NA	NA	NA	6	0.5914	6	0.7299
+PF01204.17	Trehalase	4	0.9549	NA	NA	3	0.9529	3	0.7310
+PF04142.14	Nucleotide-sugar transporter	NA	NA	NA	NA	2	0.3969	2	0.7358
+PF05183.11	RNA dependent RNA polymerase	2	0.7335	NA	NA	2	0.7744	2	0.7359
+PF13245.5	AAA domain	NA	NA	NA	NA	NA	NA	12	0.7481
+PF00439.24	Bromodomain	9	0.5856	NA	NA	NA	NA	9	0.7486
+PF03368.13	Dicer dimerisation domain	NA	NA	NA	NA	NA	NA	5	0.7542
+PF00644.19	Poly(ADP-ribose) polymerase catalytic domain	2	0.8573	NA	NA	NA	NA	2	0.7569
+PF02146.16	Sir2 family	5	0.8865	NA	NA	5	0.7801	5	0.7821
+PF04855.11	SNF5 / SMARCB1 / INI1	2	0.7089	NA	NA	2	0.7757	2	0.7845
+PF13886.5	Domain of unknown function (DUF4203)	NA	NA	NA	NA	3	0.8421	4	0.7849
+PF14622.5	Ribonuclease-III-like	NA	NA	NA	NA	NA	NA	4	0.8058
+PF13621.5	Cupin-like domain	4	0.8118	NA	NA	4	0.9071	4	0.8129
+PF02225.21	PA domain	6	0.8666	NA	NA	6	0.8774	6	0.8130
+PF08325.9	WLM domain	2	0.8222	NA	NA	2	0.9655	2	0.8195
+PF14492.5	Elongation Factor G, domain II	NA	NA	NA	NA	NA	NA	5	0.8222
+PF05977.12	Transmembrane secretion effector	NA	NA	NA	NA	NA	NA	3	0.8232
+PF13959.5	Domain of unknown function (DUF4217)	NA	NA	NA	NA	NA	NA	3	0.8283
+PF00622.27	SPRY domain	NA	NA	NA	NA	9	0.8978	9	0.8484
+PF05224.11	NDT80 / PhoG like DNA-binding family	NA	NA	NA	NA	2	0.7983	2	0.8590
+PF08544.12	GHMP kinases C terminal	3	0.7385	NA	NA	3	0.6747	3	0.8592
+PF17184.3	Rit1 N-terminal domain	2	0.8601	NA	NA	NA	NA	2	0.8595
+PF13306.5	Leucine rich repeats (6 copies)	NA	NA	NA	NA	3	0.9170	3	0.8625
+PF02861.19	Clp amino terminal domain, pathogenicity island component	NA	NA	NA	NA	2	0.8371	2	0.8627
+PF01483.19	Proprotein convertase P-domain	NA	NA	NA	NA	8	0.9534	8	0.8631
+PF01713.20	Smr domain	2	0.9582	NA	NA	2	0.7141	2	0.8632
+PF04715.12	Anthranilate synthase component I, N terminal region	NA	NA	NA	NA	2	0.6779	2	0.8650
+PF03366.15	YEATS family	NA	NA	NA	NA	2	0.8519	2	0.8662
+PF02892.14	BED zinc finger	NA	NA	NA	NA	NA	NA	3	0.8672
+PF01702.17	Queuine tRNA-ribosyltransferase	2	0.8518	NA	NA	NA	NA	2	0.8673
+PF02582.13	Uncharacterised ACR, YagE family COG1723	2	0.8852	NA	NA	2	0.8012	2	0.8678
+PF07926.11	TPR/MLP1/MLP2-like protein	2	0.8890	NA	NA	NA	NA	2	0.8680
+PF00797.16	N-acetyltransferase	NA	NA	NA	NA	5	0.9094	5	0.8689
+PF00425.17	chorismate binding enzyme	NA	NA	NA	NA	2	0.6773	2	0.8738
+PF16213.4	Dimerisation and cyclophilin-binding domain of Mon2	5	0.5867	NA	NA	5	0.8259	5	0.8745
+PF00909.20	Ammonium Transporter Family	NA	NA	NA	NA	NA	NA	2	0.8787
+PF12848.6	ABC transporter	NA	NA	NA	NA	NA	NA	3	0.8796
+PF02784.15	Pyridoxal-dependent decarboxylase, pyridoxal binding domain	NA	NA	NA	NA	NA	NA	6	0.9171
+PF13857.5	Ankyrin repeats (many copies)	11	0.9060	NA	NA	NA	NA	11	0.9209
+PF00773.18	RNB domain	NA	NA	NA	NA	2	0.7981	2	0.9219
+PF02037.26	SAP domain	2	0.9208	NA	NA	2	0.9013	2	0.9310
+PF14324.5	PINIT domain	NA	NA	NA	NA	2	0.8752	2	0.9329
+PF00628.28	PHD-finger	NA	NA	NA	NA	NA	NA	12	0.9385
+PF01866.16	Putative diphthamide synthesis protein	NA	NA	NA	NA	NA	NA	2	0.9385
+PF04191.12	Phospholipid methyltransferase	NA	NA	NA	NA	3	0.8745	3	0.9417
+PF03553.13	Na+/H+ antiporter family	NA	NA	NA	NA	NA	NA	2	0.9418
+PF01981.15	Peptidyl-tRNA hydrolase PTH2	2	0.9607	NA	NA	NA	NA	2	0.9426
+PF09324.9	Domain of unknown function (DUF1981)	4	0.6634	NA	NA	4	0.9941	4	0.9454
+PF00675.19	Insulinase (Peptidase family M16)	NA	NA	NA	NA	26	0.8103	27	0.9478
+PF13921.5	Myb-like DNA-binding domain	NA	NA	NA	NA	NA	NA	14	0.9487
+PF08245.11	Mur ligase middle domain	2	0.9538	NA	NA	NA	NA	2	0.9487
+PF04129.11	Vps52 / Sac2 family	2	0.8966	NA	NA	2	0.7937	2	0.9497
+PF12832.6	MFS_1 like family	NA	NA	NA	NA	3	0.5156	3	0.9499
+PF13837.5	Myb/SANT-like DNA-binding domain	NA	NA	NA	NA	NA	NA	2	0.9505
+PF12813.6	XPG domain containing	NA	NA	NA	NA	2	0.9002	2	0.9508
+PF13578.5	Methyltransferase domain	NA	NA	NA	NA	NA	NA	2	0.9644
+PF00488.20	MutS domain V	NA	NA	NA	NA	4	0.9236	4	0.9646
+PF01585.22	G-patch domain	9	0.8615	NA	NA	NA	NA	9	0.9698
+PF02666.14	Phosphatidylserine decarboxylase	NA	NA	NA	NA	3	0.8073	3	0.9703
+PF12656.6	G-patch domain	5	0.9509	NA	NA	NA	NA	5	0.9727
+PF01170.17	Putative RNA methylase family UPF0020	2	0.9555	NA	NA	NA	NA	2	0.9730
+PF13393.5	Histidyl-tRNA synthetase	NA	NA	NA	NA	3	0.8516	3	0.9737
+PF07685.13	CobB/CobQ-like glutamine amidotransferase domain	NA	NA	NA	NA	NA	NA	2	0.9748
+PF07722.12	Peptidase C26	NA	NA	NA	NA	4	0.9490	4	0.9748
+PF10164.8	Uncharacterized conserved protein (DUF2367)	NA	NA	NA	NA	NA	NA	2	0.9752
+PF04078.12	Cell differentiation family, Rcd1-like	NA	NA	NA	NA	NA	NA	2	0.9753
+PF04500.15	FLYWCH zinc finger domain	2	0.9203	NA	NA	NA	NA	2	0.9754
+PF05746.14	DALR anticodon binding domain	2	0.8521	NA	NA	NA	NA	2	0.9770
+PF09445.9	RNA cap guanine-N2 methyltransferase	NA	NA	NA	NA	NA	NA	2	0.9772
+PF01077.21	Nitrite and sulphite reductase 4Fe-4S domain	NA	NA	NA	NA	3	0.4843	NA	NA
+PF01026.20	TatD related DNase	NA	NA	NA	NA	3	0.6779	NA	NA
+PF01152.20	Bacterial-like globin	NA	NA	NA	NA	3	0.6821	NA	NA
+PF02148.18	Zn-finger in ubiquitin-hydrolases and other protein	3	0.8629	NA	NA	3	0.7070	NA	NA
+PF05964.13	F/Y-rich N-terminus	NA	NA	NA	NA	4	0.7451	NA	NA
+PF05965.13	F/Y rich C-terminus	NA	NA	NA	NA	4	0.7537	NA	NA
+PF01406.18	tRNA synthetases class I (C) catalytic domain	NA	NA	NA	NA	2	0.7577	NA	NA
+PF13646.5	HEAT repeats	NA	NA	NA	NA	6	0.7743	NA	NA
+PF01583.19	Adenylylsulphate kinase	NA	NA	NA	NA	3	0.7773	NA	NA
+PF00097.24	Zinc finger, C3HC4 type (RING finger)	NA	NA	NA	NA	37	0.7783	NA	NA
+PF08264.12	Anticodon-binding domain of tRNA	NA	NA	NA	NA	6	0.7986	NA	NA
+PF10559.8	Plug domain of Sec61p	NA	NA	NA	NA	2	0.8161	NA	NA
+PF08423.10	Rad51	NA	NA	NA	NA	3	0.8651	NA	NA
+PF03399.15	SAC3/GANP family	NA	NA	NA	NA	3	0.8720	NA	NA
+PF00387.18	Phosphatidylinositol-specific phospholipase C, Y domain	NA	NA	NA	NA	2	0.8727	NA	NA
+PF05190.17	MutS family domain IV	NA	NA	NA	NA	2	0.8736	NA	NA
+PF00637.19	Region in Clathrin and VPS	NA	NA	NA	NA	2	0.8791	NA	NA
+PF13445.5	RING-type zinc-finger	NA	NA	NA	NA	35	0.8938	NA	NA
+PF00590.19	Tetrapyrrole (Corrin/Porphyrin) Methylases	NA	NA	NA	NA	2	0.8997	NA	NA
+PF13241.5	Putative NAD(P)-binding	NA	NA	NA	NA	2	0.9029	NA	NA
+PF00288.25	GHMP kinases N terminal domain	5	0.8517	NA	NA	5	0.9067	NA	NA
+PF00202.20	Aminotransferase class-III	NA	NA	NA	NA	4	0.9226	NA	NA
+PF02897.14	Prolyl oligopeptidase, N-terminal beta-propeller domain	NA	NA	NA	NA	9	0.9241	NA	NA
+PF10557.8	Cullin protein neddylation domain	NA	NA	NA	NA	4	0.9866	NA	NA
+PF01171.19	PP-loop family	NA	NA	NA	NA	3	0.9869	NA	NA
+PF13481.5	AAA domain	NA	NA	NA	NA	2	0.9870	NA	NA
+PF06745.12	KaiC	NA	NA	NA	NA	2	0.9893	NA	NA
+PF13920.5	Zinc finger, C3HC4 type (RING finger)	NA	NA	NA	NA	17	0.9896	NA	NA
+PF14392.5	Zinc knuckle	18	0.5667	NA	NA	NA	NA	NA	NA
+PF03901.16	Alg9-like mannosyltransferase family	3	0.5910	NA	NA	NA	NA	NA	NA
+PF14214.5	Helitron helicase-like domain at N-terminus	3	0.6210	NA	NA	NA	NA	NA	NA
+PF00406.21	Adenylate kinase	5	0.6983	NA	NA	NA	NA	NA	NA
+PF12855.6	Life-span regulatory factor	2	0.7061	NA	NA	NA	NA	NA	NA
+PF13358.5	DDE superfamily endonuclease	2	0.7318	NA	NA	NA	NA	NA	NA
+PF03732.16	Retrotransposon gag protein	8	0.7385	NA	NA	NA	NA	NA	NA
+PF03370.12	Carbohydrate/starch-binding module (family 21)	2	0.8006	NA	NA	NA	NA	NA	NA
+PF16760.4	Starch/carbohydrate-binding module (family 53)	2	0.8201	NA	NA	NA	NA	NA	NA
+PF01434.17	Peptidase family M41	2	0.8526	NA	NA	NA	NA	NA	NA
+PF16746.4	BAR domain of APPL family	3	0.8558	NA	NA	NA	NA	NA	NA
+PF01209.17	ubiE/COQ5 methyltransferase family	5	0.8710	NA	NA	NA	NA	NA	NA
+PF02138.17	Beige/BEACH domain	2	0.8795	NA	NA	NA	NA	NA	NA
+PF14844.5	PH domain associated with Beige/BEACH	2	0.8804	NA	NA	NA	NA	NA	NA
+PF05576.10	PS-10 peptidase S37	2	0.8806	NA	NA	NA	NA	NA	NA
+PF01426.17	BAH domain	4	0.9201	NA	NA	NA	NA	NA	NA
+PF04068.14	Possible Fer4-like domain in RNase L inhibitor, RLI	2	0.9320	NA	NA	NA	NA	NA	NA
+PF04130.12	Spc97 / Spc98 family	4	0.9396	NA	NA	NA	NA	NA	NA
+PF06087.11	Tyrosyl-DNA phosphodiesterase	2	0.9438	NA	NA	NA	NA	NA	NA
+PF01846.18	FF domain	2	0.9532	NA	NA	NA	NA	NA	NA
+PF00454.26	Phosphatidylinositol 3- and 4-kinase	8	0.9580	NA	NA	NA	NA	NA	NA
+PF02114.15	Phosducin	4	0.9692	NA	NA	NA	NA	NA	NA
+PF00564.23	PB1 domain	4	0.9730	NA	NA	NA	NA	NA	NA
+PF03162.12	Tyrosine phosphatase family	6	0.9907	NA	NA	NA	NA	NA	NA
+PF00694.18	Aconitase C-terminal domain	4	0.9909	NA	NA	NA	NA	NA	NA
+PF03105.18	SPX domain	8	0.9960	NA	NA	NA	NA	NA	NA
