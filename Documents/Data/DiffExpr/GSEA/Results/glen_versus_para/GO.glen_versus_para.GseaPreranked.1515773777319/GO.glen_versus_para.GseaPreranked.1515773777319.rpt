@@ -1,0 +1,20 @@
+producer_class	xtools.gsea.GseaPreranked
+producer_timestamp	1515773777319
+param	scoring_scheme	classic
+param	norm	meandiv
+param	make_sets	true
+param	gui	false
+param	set_max	100
+param	rnd_seed	timestamp
+param	rpt_label	GO.glen_versus_para
+param	gmx	../GO.term.gmt
+param	out	/home/adam/Documents/ThesisDocs/repository/Documents/Data/DiffExpr/GSEA/Results/glen_versus_para
+param	help	false
+param	zip_report	false
+param	create_svgs	false
+param	set_min	8
+param	nperm	1000
+param	rnk	/home/adam/Documents/ThesisDocs/repository/Documents/Data/DiffExpr/GSEA/Results/../Rank_Files/glen_versus_para.rnk
+param	plot_top_x	200
+
+file	glen_versus_para/GO.glen_versus_para.GseaPreranked.1515773777319/index.html
