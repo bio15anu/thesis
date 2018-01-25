@@ -397,6 +397,11 @@ cd ..
 cat ~/Documents/Data/Annotations/go_annotations.txt | cut -f2 | tr "," "\n" | sort | uniq | while read line; do echo -ne "${line}\t"; cat ~/Documents/Data/Annotations/go_annotations.txt | grep $line | cut -f1 | tr "\n" "\t"; echo; done > GO.temp.gmt
 ~/scripts/GSEA_parse_GO_terms.py go.obo GO.temp.gmt GO.term.gmt
 ```
+#### create GMT file for Pfam domains prior to GSEA
+```
+cat ~/Documents/Data/Annotations/Emuscae_annotation_report.xls | tail -n +2 | cut -f10 | tr "\`" "\n" | tr "^" "\t" | cut -f1,3 | sort | uniq | tail -n +2 > Pfam.temp.gmt
+cat Pfam.temp.gmt | cut -f1 | while read line; do cat Pfam.temp.gmt | grep ${line} | tr "\n" "\t"; cat ~/Documents/Data/Annotations/Emuscae_annotation_report.xls | grep ${line} | cut -f1 | tr "\n" "\t"; echo; done > Pfam.term.gmt
+```
 
 #### create GMT file for KEGG ORTHOLOGY (KO) terms prior to GSEA (query.ko downloaded from KAAS output)
 ```
@@ -421,6 +426,9 @@ cd Results
 
 #### run pre-ranked GSEA for all pairwise comparisons between GO terms (classic, 1000 permutations, exclude groups >100 & <8)
     ls | grep "_versus_" | while read file; do java -cp ~/bin/gsea-3.0_beta_3.jar xtools.gsea.GseaPreranked -gmx ~/Documents/Data/DiffExpr/GSEA/GO.term.gmt -norm meandiv -nperm 1000 -rnk ~/Documents/Data/DiffExpr/GSEA/Rank_Files/${file}.rnk -scoring_scheme classic -rpt_label GO.${file} -create_svgs false -make_sets true -plot_top_x 200 -rnd_seed timestamp -set_max 100 -set_min 8 -zip_report false -out ~/Documents/Data/DiffExpr/GSEA/Results/${file} -gui false; done
+
+#### run pre-ranked GSEA for all pairwise comparisons between PFAM domains (classic, 1000 permutations, exclude groups >250 & <2)
+    ls | grep "_versus_" | while read file; do java -cp ~/bin/gsea-3.0_beta_3.jar xtools.gsea.GseaPreranked -gmx ~/Documents/Data/DiffExpr/GSEA/Pfam.term.gmt -norm meandiv -nperm 1000 -rnk ~/Documents/Data/DiffExpr/GSEA/Rank_Files/${file}.rnk -scoring_scheme classic -rpt_label PFAM.${file} -create_svgs false -make_sets true -plot_top_x 200 -rnd_seed timestamp -set_max 250 -set_min 2 -zip_report false -out ~/Documents/Data/DiffExpr/GSEA/Results/${file} -gui false; done
 
 #### run pre-ranked GSEA for all pairwise comparisons between KO terms (classic, 1000 permutations, exclude groups >1000 & <2)
     ls | grep "_versus_" | while read file; do java -cp ~/bin/gsea-3.0_beta_3.jar xtools.gsea.GseaPreranked -gmx ~/Documents/Data/DiffExpr/GSEA/KO.term.gmt -norm meandiv -nperm 1000 -rnk ~/Documents/Data/DiffExpr/GSEA/Rank_Files/${file}.rnk -scoring_scheme classic -rpt_label KO.${file} -create_svgs false -make_sets true -plot_top_x 200 -rnd_seed timestamp -set_max 1000 -set_min 2 -zip_report false -out ~/Documents/Data/DiffExpr/GSEA/Results/${file} -gui false; done
