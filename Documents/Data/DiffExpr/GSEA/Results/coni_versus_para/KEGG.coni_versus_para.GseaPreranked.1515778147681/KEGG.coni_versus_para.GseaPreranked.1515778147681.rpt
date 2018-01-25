@@ -1,0 +1,20 @@
+producer_class	xtools.gsea.GseaPreranked
+producer_timestamp	1515778147681
+param	scoring_scheme	classic
+param	norm	meandiv
+param	make_sets	true
+param	gui	false
+param	set_max	1000
+param	rnd_seed	timestamp
+param	rpt_label	KEGG.coni_versus_para
+param	gmx	../KEGG.term.gmt
+param	out	/home/adam/Documents/ThesisDocs/repository/Documents/Data/DiffExpr/GSEA/Results/coni_versus_para
+param	help	false
+param	zip_report	false
+param	create_svgs	false
+param	set_min	2
+param	nperm	1000
+param	rnk	/home/adam/Documents/ThesisDocs/repository/Documents/Data/DiffExpr/GSEA/Results/../Rank_Files/coni_versus_para.rnk
+param	plot_top_x	200
+
+file	coni_versus_para/KEGG.coni_versus_para.GseaPreranked.1515778147681/index.html
