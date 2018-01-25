@@ -1,0 +1,28 @@
+library(edgeR)
+library(DESeq2)
+
+data = read.table("/home/adam/Documents/ThesisDocs/repository/Documents/Data/DiffExpr/../Assembly/Matrices/genes/matrix.counts.matrix", header=T, row.names=1, com='')
+col_ordering = c(8,9,10,1,2)
+rnaseqMatrix = data[,col_ordering]
+rnaseqMatrix = round(rnaseqMatrix)
+rnaseqMatrix = rnaseqMatrix[rowSums(cpm(rnaseqMatrix) > 1) >= 2,]
+conditions = data.frame(conditions=factor(c(rep("glen", 3), rep("symp", 2))))
+rownames(conditions) = colnames(rnaseqMatrix)
+ddsFullCountTable <- DESeqDataSetFromMatrix(
+    countData = rnaseqMatrix,
+    colData = conditions,
+    design = ~ conditions)
+dds = DESeq(ddsFullCountTable)
+contrast=c("conditions","glen","symp")
+res = results(dds, contrast)
+baseMeanA <- rowMeans(counts(dds, normalized=TRUE)[,colData(dds)$condition == "glen"])
+baseMeanB <- rowMeans(counts(dds, normalized=TRUE)[,colData(dds)$condition == "symp"])
+res = cbind(baseMeanA, baseMeanB, as.data.frame(res))
+res = cbind(sampleA="glen", sampleB="symp", as.data.frame(res))
+res$padj[is.na(res$padj)]  <- 1
+write.table(as.data.frame(res[order(res$pvalue),]), file='matrix.counts.matrix.glen_vs_symp.DESeq2.DE_results', sep='	', quote=FALSE)
+write.table(rnaseqMatrix, file='matrix.counts.matrix.glen_vs_symp.DESeq2.count_matrix', sep='	', quote=FALSE)
+source("/home/adam/bin/trinityrnaseq-Trinity-v2.4.0/Analysis/DifferentialExpression/R/rnaseq_plot_funcs.R")
+pdf("matrix.counts.matrix.glen_vs_symp.DESeq2.DE_results.MA_n_Volcano.pdf")
+plot_MA_and_Volcano(log2(res$baseMean+1), res$log2FoldChange, res$padj)
+dev.off()
