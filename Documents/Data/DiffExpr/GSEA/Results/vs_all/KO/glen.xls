@@ -1,0 +1,600 @@
+KO term	description	Size (vs. coni)	FDR (vs. coni)	Size (vs. symp)	FDR (vs. symp)	Size (vs. para)	FDR (vs. para)	Size (vs. spor)	FDR (vs. spor)
+K07497	 putative transposase	44	0.043943327	39	0.004020836	39	0.00091238675	35	0
+K01408	 insulysin	41	0.5818465	35	0.7324873	36	0.0009208087	36	0
+K00667	 fatty acid synthase subunit alpha, fungi type	4	0.07685464	NA	NA	4	0.46887654	4	0.105275564
+K01426	 amidase	9	0.39332938	9	0.9460029	8	0.9246956	9	0.14931665
+K09419	 heat shock transcription factor, other eukaryote	8	0.81168026	8	0.60971415	8	0.45254898	8	0.15779057
+K09184	 GATA-binding protein, other eukaryote	NA	NA	NA	NA	7	0.007991435	7	0.16864042
+K00555	 tRNA (guanine26-N2/guanine27-N2)-dimethyltransferase	3	0.073648684	NA	NA	NA	NA	3	0.17664674
+K09043	 AP-1-like transcription factor	2	0.8532163	2	0.7004164	2	0.43343148	2	0.18638209
+K11274	 chromosome transmission fidelity protein 4	3	0.046040658	3	0.8720261	3	0.7766082	3	0.20784406
+K03695	 ATP-dependent Clp protease ATP-binding subunit ClpB	5	0.3672284	5	0.66597843	5	0.5728683	5	0.21820332
+K02984	 small subunit ribosomal protein S3Ae	4	0.009960189	NA	NA	NA	NA	4	0.24608602
+K04799	 flap endonuclease-1	2	0.2218193	NA	NA	NA	NA	2	0.25512132
+K03349	 anaphase-promoting complex subunit 2	2	0.28134167	NA	NA	2	0.47505766	2	0.25559562
+K00605	 aminomethyltransferase	2	0.1505669	NA	NA	2	0.93715924	2	0.25566345
+K10755	 replication factor C subunit 2/4	2	0.27842754	2	0.71750796	2	0.8701326	2	0.2603754
+K11593	 eukaryotic translation initiation factor 2C	6	0.23190331	NA	NA	6	0.8269644	6	0.26088002
+K01952	 phosphoribosylformylglycinamidine synthase	2	0.21239127	2	0.69894654	2	0.84999317	2	0.2617573
+K15687	 E3 ubiquitin-protein ligase makorin	4	0.37314048	NA	NA	4	0.98947304	4	0.263855
+K10756	 replication factor C subunit 3/5	2	0.1859396	NA	NA	2	0.996578	2	0.26605812
+K06660	 cell cycle serine/threonine-protein kinase CDC5/MSD2	7	0.49363914	NA	NA	NA	NA	7	0.2694001
+K04711	 dihydroceramidase	2	0.7043475	2	0.1472094	2	0.49490407	2	0.27093107
+K00600	 glycine hydroxymethyltransferase	2	0.7126904	2	0.63831884	2	0.22784601	2	0.27177742
+K14537	 nuclear GTP-binding protein	2	0.19158801	NA	NA	2	0.9958252	2	0.27536333
+K00545	 catechol O-methyltransferase	4	0.81140155	4	0.7813472	4	0.866634	4	0.27557808
+K14298	 mRNA export factor	3	0.1124013	NA	NA	3	0.8904551	3	0.2785002
+K06902	 MFS transporter, UMF1 family	NA	NA	4	0.45693344	4	0.14424075	4	0.28688496
+K05658	 ATP-binding cassette, subfamily B (MDR/TAP), member 1	14	0.5191358	13	0.0498624	13	0.76050186	13	0.28844213
+K03355	 anaphase-promoting complex subunit 8	2	0.1851224	NA	NA	2	0.9237507	2	0.29171103
+K13126	 polyadenylate-binding protein	4	0.58049065	4	0.9216745	4	0.8778006	4	0.29224843
+K02987	 small subunit ribosomal protein S4e	5	0.0033200632	NA	NA	NA	NA	5	0.37685156
+K11434	 type I protein arginine methyltransferase	3	0.20483874	NA	NA	NA	NA	3	0.3783323
+K03006	 DNA-directed RNA polymerase II subunit RPB1	4	0.533942	4	0.78563416	4	0.72078574	4	0.38528484
+K15601	 lysine-specific demethylase 3	NA	NA	NA	NA	NA	NA	5	0.39177322
+K08994	 ion channel-forming bestrophin family protein	NA	NA	NA	NA	5	0.9665782	5	0.39180863
+K17675	 ATP-dependent RNA helicase SUPV3L1/SUV3	2	0.2965736	NA	NA	2	0.549199	2	0.39481476
+K09274	 HMG box factor, other	2	0.3205046	2	0.7070347	2	0.8927258	2	0.39488736
+K14812	 RNA exonuclease NGL2	2	0.51803035	NA	NA	2	0.71289915	2	0.3949705
+K10866	 DNA repair protein RAD50	2	0.5342177	NA	NA	2	0.42637196	2	0.3969055
+K03509	 DNA polymerase eta	2	0.38665274	NA	NA	NA	NA	2	0.3978777
+K21594	 translation factor GUF1, mitochondrial	2	0.44683772	2	0.9288437	2	0.82465214	2	0.40009457
+K15075	 DNA repair/transcription protein MET18/MMS19	2	0.33196852	NA	NA	2	0.9208539	2	0.40068343
+K02355	 elongation factor G	4	0.21811938	NA	NA	4	0.89033645	4	0.40344316
+K01341	 kexin	NA	NA	NA	NA	9	0.46685225	12	0.40365022
+K13339	 peroxin-6	2	0.68076664	2	0.9899402	2	0.93654436	2	0.4045268
+K09202	 regulatory protein SWI5	4	0.8073358	4	0.80867565	4	0.45435682	4	0.4079399
+K14651	 transcription initiation factor TFIID subunit 15	3	0.0114579275	NA	NA	NA	NA	3	0.40864536
+K14564	 nucleolar protein 56	3	0.6019915	NA	NA	2	0.7847564	2	0.40917143
+K09191	 general transcription factor IIIA	2	0.5416895	NA	NA	2	0.9235597	2	0.4113919
+K10638	 E3 ubiquitin-protein ligase UHRF1	3	0.5320453	NA	NA	3	0.98312426	3	0.42063922
+K03283	 heat shock 70kDa protein 1/2/6/8	9	0.13303769	9	0.7916784	NA	NA	7	0.42667606
+K11262	 acetyl-CoA carboxylase / biotin carboxylase 1	NA	NA	NA	NA	7	0.9922936	7	0.42833152
+K06176	 tRNA pseudouridine13 synthase	2	0.5327428	NA	NA	2	0.9074232	2	0.42877162
+K07466	 replication factor A1	2	0.22136806	NA	NA	2	0.5278317	2	0.43325606
+K04079	 molecular chaperone HtpG	3	0.0765257	3	0.697116	3	0.99736315	3	0.449589
+K01870	 isoleucyl-tRNA synthetase	2	0.65459365	NA	NA	2	0.88381386	2	0.45535251
+K02969	 small subunit ribosomal protein S20e	2	0.07356088	2	0.7868073	NA	NA	2	0.45591494
+K02875	 large subunit ribosomal protein L14e	2	0.5801938	2	0.98890084	NA	NA	2	0.45952296
+K02978	 small subunit ribosomal protein S27e	2	0.15254806	2	0.8605201	2	0.8872631	2	0.4633628
+K15562	 serine/threonine-protein kinase BUR1	2	0.6769486	2	0.95352	2	0.774604	2	0.46488923
+K00294	 1-pyrroline-5-carboxylate dehydrogenase	6	0.027868198	6	0.86978686	6	0.82045096	6	0.46797365
+K09458	 3-oxoacyl-[acyl-carrier-protein] synthase II	2	0.43303427	NA	NA	2	0.4947768	2	0.46973175
+K11374	 elongator complex protein 2	2	0.86773	NA	NA	NA	NA	2	0.46999496
+K02178	 checkpoint serine/threonine-protein kinase	2	0.41546994	2	0.9407019	2	0.48397171	2	0.4708907
+K00819	 ornithine--oxo-acid transaminase	3	0.6789585	3	0.34129754	3	0.7632906	3	0.47222915
+K03130	 transcription initiation factor TFIID subunit 5	4	0.6356404	NA	NA	NA	NA	4	0.47632
+K18693	 diacylglycerol diphosphate phosphatase / phosphatidate phosphatase	NA	NA	6	0.46663472	6	0.7628509	6	0.47786137
+K07140	 uncharacterized protein	2	0.29328945	NA	NA	2	0.99539876	2	0.47890595
+K14571	 ribosome biogenesis ATPase	3	0.21380197	NA	NA	3	0.7802014	3	0.47890612
+K14777	 ATP-dependent RNA helicase DDX47/RRP3	2	0.30672643	NA	NA	NA	NA	2	0.48146215
+K14797	 essential nuclear protein 1	2	0.68985254	NA	NA	NA	NA	2	0.4821882
+K11314	 transcriptional adapter 2-alpha	2	0.4884165	NA	NA	2	0.8203623	2	0.48275372
+K01881	 prolyl-tRNA synthetase	3	0.077093236	NA	NA	3	0.8939121	3	0.484714
+K01872	 alanyl-tRNA synthetase	2	0.27636117	2	0.92109907	2	0.75955826	2	0.48473847
+K08269	 serine/threonine-protein kinase ULK2	NA	NA	NA	NA	2	0.90604395	2	0.48521763
+K02212	 DNA replication licensing factor MCM4	2	0.639834	2	0.8605852	NA	NA	2	0.48557535
+K02870	 large subunit ribosomal protein L12e	4	0.07746702	NA	NA	NA	NA	4	0.48654532
+K20168	 TBC1 domain family member 15	NA	NA	2	0.8062266	2	0.56444335	2	0.49012667
+K14963	 COMPASS component SWD3	4	0.012209806	NA	NA	4	0.9928162	4	0.49028397
+K12769	 meiosis-specific transcription factor NDT80	2	0.5369247	2	0.8643853	2	0.5491628	2	0.49171194
+K04043	 molecular chaperone DnaK	2	0.1811745	2	0.8156142	NA	NA	2	0.49915785
+K10798	 poly [ADP-ribose] polymerase	NA	NA	NA	NA	NA	NA	2	0.5058108
+K21543	 transcription factor CRZ1	3	0.6515825	3	0.6650163	3	0.81326586	3	0.5175649
+K12897	 transformer-2 protein	2	0.8165451	2	0.68625844	2	0.9633012	2	0.54539585
+K13577	 solute carrier family 25 (mitochondrial dicarboxylate transporter), member 10	3	0.6692442	NA	NA	3	0.96496785	3	0.5509939
+K14326	 regulator of nonsense transcripts 1	2	0.85144794	NA	NA	2	0.9615562	2	0.5522603
+K01869	 leucyl-tRNA synthetase	2	0.57675356	NA	NA	2	0.94021964	2	0.55559003
+K19783	 DNA polymerase alpha-associated DNA helicase A	9	0.4500055	NA	NA	9	0.8959425	9	0.55848426
+K02890	 large subunit ribosomal protein L22	2	0.32222378	NA	NA	NA	NA	2	0.56012714
+K15289	 solute carrier family 35, member F5	3	0.86823595	3	0.6904716	3	0.79002005	3	0.56588185
+K11592	 endoribonuclease Dicer	6	0.7223323	NA	NA	NA	NA	5	0.5703521
+K21989	 calcium permeable stress-gated cation channel	NA	NA	9	0.8696804	9	0.8321521	9	0.5708217
+K14801	 pre-rRNA-processing protein TSR4	2	0.64016485	NA	NA	2	0.892144	2	0.574752
+K11446	 histone demethylase JARID1	NA	NA	NA	NA	6	0.88858265	6	0.5765516
+K01495	 GTP cyclohydrolase IA	NA	NA	2	0.83768994	2	0.532792	2	0.5831176
+K10401	 kinesin family member 18/19	3	0.7116293	NA	NA	3	0.89137226	3	0.58336264
+K14550	 U3 small nucleolar RNA-associated protein 10	2	0.6168797	NA	NA	2	0.84320295	2	0.59062237
+K01824	 cholestenol Delta-isomerase	3	0.08740915	3	0.61469424	3	0.9853257	3	0.59616435
+K21864	 voltage-dependent calcium channel	NA	NA	NA	NA	NA	NA	4	0.615829
+K15083	 DNA repair protein RAD16	2	0.63550943	NA	NA	2	0.7906688	2	0.6346729
+K00602	 phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase	2	0.19079486	2	0.68724763	2	0.8928545	2	0.642295
+K06067	 histone deacetylase 1/2	5	0.5795251	NA	NA	NA	NA	5	0.6514598
+K11367	 chromodomain-helicase-DNA-binding protein 1	NA	NA	NA	NA	NA	NA	3	0.65197223
+K04563	 cyclin-dependent kinase	4	0.6419797	NA	NA	NA	NA	4	0.6521726
+K14297	 nuclear pore complex protein Nup98-Nup96	2	0.9089711	2	0.6989294	2	0.7764028	2	0.6525104
+K07512	 mitochondrial trans-2-enoyl-CoA reductase	2	0.7997882	NA	NA	2	0.8858447	2	0.65433204
+K11121	 NAD-dependent histone deacetylase SIR2	NA	NA	NA	NA	3	0.78627133	3	0.6573358
+K11699	 RNA-dependent RNA polymerase	NA	NA	NA	NA	2	0.8863256	2	0.65771824
+K01697	 cystathionine beta-synthase	2	0.37249985	2	0.8852112	NA	NA	2	0.6590896
+K00558	 DNA (cytosine-5)-methyltransferase 1	3	0.5469487	NA	NA	NA	NA	4	0.65935767
+K02937	 large subunit ribosomal protein L7e	2	0.08024253	2	0.6997314	NA	NA	2	0.6599816
+K14308	 nuclear pore complex protein Nup54	2	0.44453987	NA	NA	2	0.9001108	2	0.6604744
+K10253	 DOPA 4,5-dioxygenase	2	0.790227	2	0.7098518	NA	NA	2	0.66344625
+K10754	 replication factor C subunit 1	2	0.51214325	NA	NA	NA	NA	2	0.66364646
+K14312	 nuclear pore complex protein Nup155	2	0.5460509	NA	NA	NA	NA	2	0.66434276
+K01739	 cystathionine gamma-synthase	7	0.003981529	NA	NA	7	0.9910401	7	0.666187
+K13192	 RNA-binding protein 26	2	0.19358914	NA	NA	2	0.56406903	2	0.6662592
+K18738	 heterogeneous nuclear rnp K-like protein	4	0.8380175	3	0.87011516	NA	NA	3	0.66736704
+K03014	 DNA-directed RNA polymerases I, II, and III subunit RPABC2	2	0.1832008	NA	NA	NA	NA	2	0.6704846
+K17065	 dynamin 1-like protein	6	0.527754	NA	NA	6	0.8978526	6	0.6716632
+K00058	 D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase	NA	NA	NA	NA	2	0.4592905	2	0.67448056
+K06640	 serine/threonine-protein kinase ATR	2	0.7137058	NA	NA	NA	NA	2	0.6755914
+K04648	 dynactin 1	3	0.3490803	3	0.66835684	3	0.510963	3	0.6801558
+K02838	 ribosome recycling factor	2	0.5335279	NA	NA	NA	NA	2	0.68143475
+K01613	 phosphatidylserine decarboxylase	4	0.8077403	4	0.6832978	NA	NA	4	0.6878847
+K02927	 large subunit ribosomal protein L40e	2	0.097083926	2	0.3854246	NA	NA	2	0.69087857
+K01942	 biotin---protein ligase	7	0.5888363	6	0.99684626	6	0.76616514	7	0.6911135
+K03258	 translation initiation factor 4B	2	0.18765798	2	0.79716206	NA	NA	2	0.69408673
+K18156	 mitochondrial inner membrane protease ATP23	2	0.3746693	NA	NA	NA	NA	2	0.69614553
+K11426	 SET and MYND domain-containing protein	4	0.21059701	4	0.9920997	4	0.8919634	4	0.7072497
+K06062	 histone acetyltransferase	2	0.9569296	2	0.81053543	NA	NA	2	0.716581
+K01681	 aconitate hydratase	3	0.5765985	3	0.785237	3	0.842569	3	0.7176146
+K01867	 tryptophanyl-tRNA synthetase	4	0.076165944	NA	NA	NA	NA	4	0.7184803
+K08284	 calcium channel MID1	2	0.8667711	NA	NA	2	0.75724214	2	0.7209629
+K01873	 valyl-tRNA synthetase	2	0.50646746	NA	NA	2	0.799903	2	0.72118634
+K02208	 cyclin-dependent kinase 8/11	3	0.2185612	NA	NA	3	0.82234883	3	0.72216094
+K09467	 zinc-finger protein CreA/MIG	NA	NA	2	0.86810595	2	0.93247795	2	0.72262406
+K12815	 pre-mRNA-splicing factor ATP-dependent RNA helicase DHX38/PRP16	2	0.6797256	NA	NA	2	0.99572086	2	0.72485906
+K01148	 poly(A)-specific ribonuclease	2	0.57577074	NA	NA	NA	NA	2	0.7249698
+K14859	 ribosome biogenesis protein SSF1/2	NA	NA	3	0.69526386	3	0.7589754	3	0.7260182
+K09423	 Myb-like DNA-binding protein BAS1	6	0.7191124	NA	NA	NA	NA	6	0.7275029
+K01537	 Ca2+-transporting ATPase	6	0.72955817	6	0.4412748	6	0.008486036	6	0.730842
+K15414	 complement component 1 Q subcomponent-binding protein, mitochondrial	2	0.5795561	NA	NA	NA	NA	2	0.7391503
+K09580	 protein disulfide-isomerase A1	2	0.5218189	2	0.93000305	NA	NA	2	0.74155664
+K06287	 septum formation protein	NA	NA	2	0.99405414	2	0.8463847	2	0.7437814
+K16055	 trehalose 6-phosphate synthase/phosphatase	2	0.30518183	NA	NA	2	0.9078915	2	0.75959694
+K13993	 HSP20 family protein	3	0.7201891	2	0.6732058	2	0.4822742	3	0.76018023
+K11407	 histone deacetylase 6	2	0.95433724	NA	NA	2	0.8749672	2	0.76212597
+K14835	 25S rRNA (cytosine2870-C5)-methyltransferase	2	0.3150415	NA	NA	NA	NA	2	0.762983
+K09497	 T-complex protein 1 subunit epsilon	4	0.0049800947	4	0.38987848	4	0.9532445	4	0.76474786
+K00928	 aspartate kinase	2	0.34482214	2	0.9308848	NA	NA	2	0.7660831
+K08818	 cell division cycle 2-like	2	0.29238692	NA	NA	NA	NA	2	0.7672106
+K01626	 3-deoxy-7-phosphoheptulonate synthase	2	0.90425897	NA	NA	NA	NA	2	0.77516025
+K13179	 ATP-dependent RNA helicase DDX18/HAS1	2	0.5452999	NA	NA	NA	NA	2	0.7796883
+K19718	 UBP3-associated protein BRE5	2	0.5066142	NA	NA	NA	NA	2	0.78160363
+K12880	 THO complex subunit 3	2	0.5568185	NA	NA	NA	NA	2	0.7832759
+K03514	 non-canonical poly(A) RNA polymerase PAPD5/7	NA	NA	NA	NA	NA	NA	2	0.7835727
+K15336	 tRNA (cytosine38-C5)-methyltransferase	2	0.888963	NA	NA	NA	NA	2	0.7848982
+K04482	 DNA repair protein RAD51	2	0.7670014	2	0.6980463	2	0.8719921	2	0.7870715
+K00804	 geranylgeranyl diphosphate synthase, type III	2	0.3922262	NA	NA	2	0.87543994	2	0.7895777
+K00773	 queuine tRNA-ribosyltransferase	NA	NA	NA	NA	NA	NA	2	0.79006994
+K19839	 Rho-type GTPase-activating protein 1/2	NA	NA	3	0.7772094	3	0.81862956	3	0.7916022
+K17790	 mitochondrial import inner membrane translocase subunit TIM22	2	0.5371698	NA	NA	NA	NA	2	0.7917138
+K07943	 ADP-ribosylation factor-like protein 2	2	0.5309323	2	0.67224526	2	0.9905496	2	0.7918256
+K09503	 DnaJ homolog subfamily A member 2	3	0.9190577	NA	NA	NA	NA	3	0.7928952
+K00327	 NADPH-ferrihemoprotein reductase	NA	NA	2	0.9450649	2	0.78498894	2	0.79390866
+K03678	 exosome complex component RRP45	2	0.26123127	NA	NA	NA	NA	2	0.79440105
+K11648	 SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily B member 1	NA	NA	NA	NA	NA	NA	2	0.79444355
+K16196	 eukaryotic translation initiation factor 2-alpha kinase 4	NA	NA	NA	NA	2	0.8771661	2	0.7953426
+K17053	 tRNAThr (cytosine32-N3)-methyltransferase	NA	NA	NA	NA	NA	NA	2	0.79551727
+K03231	 elongation factor 1-alpha	4	0.28861743	4	0.3146165	NA	NA	4	0.79557806
+K14709	 solute carrier family 39 (zinc transporter), member 1/2/3	4	0.9197085	3	0.64988387	3	0.8925344	3	0.7956914
+K06889	 uncharacterized protein	3	0.8015637	NA	NA	NA	NA	3	0.7957893
+K01880	 glycyl-tRNA synthetase	2	0.75313175	NA	NA	NA	NA	2	0.79639435
+K01409	 N6-L-threonylcarbamoyladenine synthase	2	0.37175834	NA	NA	NA	NA	2	0.7965243
+K03097	 casein kinase II subunit alpha	NA	NA	2	0.6998299	NA	NA	2	0.7968046
+K06158	 ATP-binding cassette, subfamily F, member 3	2	0.7060957	2	0.93437284	2	0.9303489	2	0.7979595
+K20298	 vacuolar protein sorting-associated protein 52	NA	NA	NA	NA	NA	NA	2	0.79796994
+K02220	 G2/mitotic-specific cyclin 1/2	2	0.65422624	NA	NA	NA	NA	2	0.79801136
+K12823	 ATP-dependent RNA helicase DDX5/DBP2	3	0.5366913	3	0.9499279	3	0.79406047	3	0.79826444
+K00728	 dolichyl-phosphate-mannose-protein mannosyltransferase	8	0.5288858	8	0.032286633	8	0.7634091	8	0.79908997
+K19487	 transcription factor SFP1	2	0.8023142	NA	NA	NA	NA	2	0.7996121
+K02922	 large subunit ribosomal protein L37e	2	0.18925245	NA	NA	NA	NA	2	0.8003238
+K00681	 gamma-glutamyltranspeptidase / glutathione hydrolase	NA	NA	NA	NA	4	0.5142827	4	0.80056894
+K03347	 cullin 1	2	0.9179673	NA	NA	2	0.8933333	2	0.80093765
+K11240	 tyrosine-protein phosphatase MSG5	NA	NA	2	0.9538983	2	0.8826128	2	0.8017176
+K12182	 hepatocyte growth factor-regulated tyrosine kinase substrate	NA	NA	2	0.675679	2	0.92346454	2	0.80197275
+K01417	 extracellular elastinolytic metalloproteinase	6	0.7996158	6	0.6705094	6	0.5835187	6	0.80396056
+K09244	 transcriptional regulatory protein AMDR	4	0.8662062	5	0.2581317	4	0.8737912	4	0.80396813
+K12472	 epidermal growth factor receptor substrate 15	NA	NA	2	0.63996524	2	0.57038885	2	0.8040442
+K11099	 small nuclear ribonucleoprotein G	2	0.1852645	2	0.70453286	NA	NA	2	0.8044333
+K03124	 transcription initiation factor TFIIB	3	0.7190135	NA	NA	3	0.75517726	3	0.80604637
+K02896	 large subunit ribosomal protein L24e	3	0.37772694	3	0.671522	NA	NA	3	0.806468
+K00077	 2-dehydropantoate 2-reductase	2	0.47238037	NA	NA	NA	NA	2	0.8070828
+K15436	 transportin-3	NA	NA	NA	NA	NA	NA	2	0.808294
+K22262	 WD repeat and FYVE domain-containing protein 3	NA	NA	NA	NA	NA	NA	2	0.80867875
+K12833	 pre-mRNA branch site protein p14	2	0.76936513	NA	NA	NA	NA	2	0.80962193
+K13289	 cathepsin A (carboxypeptidase C)	7	0.86560744	5	0.8395165	NA	NA	5	0.8107437
+K01081	 5'-nucleotidase	NA	NA	8	0.74422526	8	0.5457049	8	0.8146574
+K20247	 hercynylcysteine sulfoxide lyase	2	0.4901881	2	0.8097472	2	0.5580866	2	0.81524026
+K19788	 obg-like ATPase 1	2	0.46991715	2	0.78368056	NA	NA	2	0.816724
+K15110	 solute carrier family 25 (mitochondrial 2-oxodicarboxylate transporter), member 21	2	0.13807881	NA	NA	NA	NA	2	0.8173518
+K06944	 uncharacterized protein	3	0.52975523	3	0.931619	NA	NA	3	0.83000153
+K03320	 ammonium transporter, Amt family	2	0.53834665	2	0.8670042	2	0.7572364	2	0.8315537
+K12856	 pre-mRNA-processing factor 8	2	0.82134616	NA	NA	2	0.8698508	2	0.8326493
+K01855	 tRNA pseudouridine38/39 synthase	2	0.9848897	NA	NA	NA	NA	2	0.8645885
+K03316	 monovalent cation:H+ antiporter, CPA1 family	NA	NA	4	0.7931241	NA	NA	4	0.8646399
+K14855	 ribosome assembly protein 4	2	0.8682131	2	0.71111935	2	0.82092476	2	0.8671257
+K09291	 nucleoprotein TPR	NA	NA	NA	NA	NA	NA	2	0.867139
+K03363	 cell division cycle 20, cofactor of APC complex	2	0.5312243	NA	NA	NA	NA	2	0.8690502
+K10752	 histone-binding protein RBBP4	3	0.93233466	NA	NA	3	0.8914437	3	0.8724531
+K20032	 palmitoyltransferase ZDHHC13/17	NA	NA	NA	NA	NA	NA	2	0.8728406
+K08850	 aurora kinase, other	2	0.725954	NA	NA	2	0.7188119	2	0.8755868
+K09650	 rhomboid-like protein	2	0.63460845	2	0.5120045	2	0.5338338	2	0.8757176
+K17608	 striatin 1/3/4	NA	NA	NA	NA	2	0.9873355	2	0.8768132
+K15463	 tRNA A64-2'-O-ribosylphosphate transferase	NA	NA	NA	NA	NA	NA	2	0.8784115
+K03013	 DNA-directed RNA polymerases I, II, and III subunit RPABC1	2	0.7214991	2	0.9920587	NA	NA	2	0.8822633
+K08773	 RalA-binding protein 1	NA	NA	3	0.90464693	3	0.79625726	3	0.8866723
+K15859	 osomolarity two-component system, response regulator SKN7	7	0.53428906	6	0.6879328	7	0.87771755	6	0.8871048
+K17278	 membrane-associated progesterone receptor component	2	0.220727	2	0.38536254	NA	NA	2	0.8885591
+K10088	 protein OS-9	NA	NA	2	0.41666806	2	0.8434037	2	0.8891037
+K14640	 solute carrier family 20 (sodium-dependent phosphate transporter)	5	0.029802285	5	0.32317352	5	0.46582758	5	0.89098394
+K12859	 U5 snRNP protein, DIM1 family	2	0.71176386	NA	NA	NA	NA	2	0.89154196
+K12818	 ATP-dependent RNA helicase DHX8/PRP22	NA	NA	NA	NA	4	0.89061344	4	0.89228606
+K12836	 splicing factor U2AF 35 kDa subunit	2	0.30201787	NA	NA	NA	NA	2	0.89524966
+K06657	 G1/S-specific cyclin PLC2	2	0.98418033	2	0.86253625	NA	NA	2	0.89539075
+K04706	 E3 SUMO-protein ligase PIAS1	2	0.76353705	2	0.81305975	2	0.84639156	2	0.895636
+K03676	 glutaredoxin 3	NA	NA	2	0.7286242	2	0.9842509	2	0.89818233
+K05917	 sterol 14-demethylase	6	0.45476422	6	0.6982759	6	0.54384214	6	0.90188694
+K12606	 CCR4-NOT transcription complex subunit 9	2	0.852981	NA	NA	2	0.9898872	2	0.9084455
+K01194	 alpha,alpha-trehalase	NA	NA	3	0.8944404	NA	NA	3	0.9106938
+K07824	 benzoate 4-monooxygenase	20	0.5738249	17	0.11817064	NA	NA	18	0.9263605
+K19691	 osomolarity two-component system, sensor histidine kinase NIK1	7	0.36732057	7	0.1795462	7	0.8749726	7	0.92759514
+K00507	 stearoyl-CoA desaturase (Delta-9 desaturase)	7	0.4179568	7	0.02980058	7	0.54454726	7	0.9281063
+K02201	 pantetheine-phosphate adenylyltransferase	2	0.5780872	NA	NA	NA	NA	2	0.92854524
+K10772	 AP endonuclease 2	2	0.53039336	NA	NA	NA	NA	2	0.9314701
+K14951	 cation-transporting P-type ATPase 13A3/4/5	8	0.98741007	8	0.048251975	8	0.12957662	8	0.9353713
+K10610	 DNA damage-binding protein 1	2	0.6767326	NA	NA	2	0.9586825	2	0.9366803
+K05012	 chloride channel 3/4/5	3	0.78542185	NA	NA	3	0.99335986	3	0.93807024
+K04712	 sphingolipid 4-desaturase/C4-monooxygenase	NA	NA	2	0.69750434	2	0.9977103	2	0.94029766
+K14376	 poly(A) polymerase	NA	NA	NA	NA	3	0.98496425	3	0.9414997
+K09510	 DnaJ homolog subfamily B member 4	2	0.8857873	2	0.93052053	NA	NA	2	0.94248414
+K04709	 Acyl-CoA-dependent ceramide synthase	NA	NA	2	0.69671965	2	0.62827885	2	0.94341135
+K18045	 tyrosine-protein phosphatase SIW14	3	0.99648434	NA	NA	NA	NA	3	0.94346654
+K03885	 NADH dehydrogenase	2	0.53415483	2	0.49339053	2	0.8207982	2	0.9440069
+K03138	 transcription initiation factor TFIIF subunit alpha	2	0.86702335	NA	NA	NA	NA	2	0.9446691
+K03305	 proton-dependent oligopeptide transporter, POT family	18	0.5353477	19	0.67232484	17	0.6015354	18	0.94507015
+K03021	 DNA-directed RNA polymerase III subunit RPC2	2	0.7724131	NA	NA	NA	NA	2	0.9469304
+K15458	 SIT4-associating protein SAP185/190	2	0.6819597	NA	NA	2	0.82640934	2	0.9470109
+K06666	 general transcriptional corepressor TUP1	5	0.958484	NA	NA	5	0.9088917	4	0.9486803
+K00128	 aldehyde dehydrogenase (NAD+)	2	0.5329352	2	0.9351448	NA	NA	2	0.95182866
+K12471	 epsin	NA	NA	2	0.6843014	2	0.8173162	2	0.95292753
+K08964	 methylthioribulose-1-phosphate dehydratase	2	0.5435004	NA	NA	2	0.564563	2	0.9613107
+K01874	 methionyl-tRNA synthetase	4	0.3049922	NA	NA	4	0.96311826	4	0.96164036
+K01301	 N-acetylated-alpha-linked acidic dipeptidase	3	0.61540985	NA	NA	NA	NA	3	0.9655712
+K14642	 golgi apyrase	NA	NA	2	0.8675302	NA	NA	2	0.9692834
+K12394	 AP-1 complex subunit sigma 1/2	2	0.9824033	2	0.8125238	NA	NA	2	0.97073793
+K20238	 sphingolipid C9-methyltransferase	2	0.21329254	NA	NA	2	0.8884286	2	0.9707669
+K14007	 protein transport protein SEC24	3	0.44120532	NA	NA	NA	NA	3	0.9711701
+K08794	 calcium/calmodulin-dependent protein kinase I	NA	NA	NA	NA	4	0.9077597	4	0.9729695
+K18097	 glycerol 2-dehydrogenase (NADP+)	5	0.29993716	5	0.7844221	5	0.7554773	5	0.975587
+K08333	 phosphoinositide-3-kinase, regulatory subunit 4	2	0.7722237	NA	NA	2	0.993364	2	0.9762238
+K06685	 MOB kinase activator 1	NA	NA	3	0.6335143	3	0.98640907	3	0.97711307
+K15918	 D-glycerate 3-kinase	3	0.50935465	NA	NA	3	0.9290874	3	0.9779815
+K01477	 allantoicase	3	0.98634356	3	0.8711787	NA	NA	3	0.9782566
+K15628	 ATP-binding cassette, subfamily D (ALD), peroxisomal long-chain fatty acid import protein	2	0.7762605	2	0.93297416	NA	NA	2	0.9795888
+K11982	 E3 ubiquitin-protein ligase RNF115/126	NA	NA	3	0.67540544	3	0.76895636	3	0.97968197
+K21197	 G1/S-specific cyclin	NA	NA	4	0.92840946	NA	NA	4	0.9803958
+K01011	 thiosulfate/3-mercaptopyruvate sulfurtransferase	2	0.6801793	NA	NA	NA	NA	2	0.98070663
+K06867	 uncharacterized protein	5	0.934831	NA	NA	NA	NA	5	0.98080117
+K17508	 protein phosphatase PTC7	4	0.9836642	4	0.41405842	4	0.47486624	4	0.98102915
+K11968	 ariadne-1	NA	NA	NA	NA	5	0.5260018	5	0.98142284
+K11684	 bromodomain-containing factor 1	2	0.32838482	NA	NA	NA	NA	2	0.9820879
+K03317	 concentrative nucleoside transporter, CNT family	3	0.53051716	3	0.8636983	4	0.9314221	3	0.9823204
+K07117	 uncharacterized protein	NA	NA	2	0.9528043	NA	NA	2	0.982323
+K14002	 DnaJ-related protein SCJ1	2	0.5061872	2	0.9488772	2	0.93267703	2	0.98301923
+K06269	 serine/threonine-protein phosphatase PP1 catalytic subunit	NA	NA	2	0.869949	2	0.96705496	2	0.98374647
+K01322	 prolyl oligopeptidase	4	0.6798989	4	0.67181265	4	0.7681071	5	0.98499054
+K11229	 mitogen-activated protein kinase kinase kinase	NA	NA	2	0.6990776	2	0.8413237	2	0.986314
+K06883	 uncharacterized protein	NA	NA	NA	NA	NA	NA	3	0.98735887
+K01046	 triacylglycerol lipase	NA	NA	2	0.81540143	NA	NA	2	0.98904127
+K07904	 Ras-related protein Rab-11A	2	0.8116729	2	0.91944754	2	0.83920014	2	0.99157304
+K14403	 cleavage and polyadenylation specificity factor subunit 3	2	0.80692345	NA	NA	NA	NA	2	0.9918634
+K12585	 exosome complex exonuclease DIS3/RRP44	NA	NA	NA	NA	2	0.8362274	2	0.9926847
+K18328	 lariat debranching enzyme	NA	NA	NA	NA	NA	NA	2	0.9943751
+K01892	 histidyl-tRNA synthetase	2	0.91894394	NA	NA	2	0.8965018	2	0.9949817
+K04564	 superoxide dismutase, Fe-Mn family	4	0.0060430076	NA	NA	NA	NA	4	0.99517316
+K01868	 threonyl-tRNA synthetase	2	0.5818033	NA	NA	NA	NA	2	0.9954729
+K11594	 ATP-dependent RNA helicase DDX3X	2	0.8202424	NA	NA	NA	NA	2	0.995671
+K20929	 glyoxal/methylglyoxal oxidase	2	0.604138	2	0.77918667	NA	NA	2	0.9979562
+K07204	 regulatory associated protein of mTOR	2	0.76950395	NA	NA	2	0.8196196	2	0.9983501
+K19951	 TBC1 domain family member 8/9	NA	NA	NA	NA	3	0.84040916	3	0.9987073
+K06694	 26S proteasome non-ATPase regulatory subunit 10	2	0.820681	NA	NA	2	0.9958699	2	1
+K01535	 H+-transporting ATPase	6	0.5560678	6	0.31709865	6	0.019577313	NA	NA
+K00493	 unspecific monooxygenase	29	0.5798857	24	0.04301127	24	0.13865219	NA	NA
+K00627	 pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase)	2	0.21384148	NA	NA	2	0.20324518	NA	NA
+K03781	 catalase	NA	NA	2	0.6398198	2	0.3492047	NA	NA
+K00253	 isovaleryl-CoA dehydrogenase	2	0.5323659	2	0.4225078	2	0.43047032	NA	NA
+K00589	 uroporphyrin-III C-methyltransferase	2	0.92031103	NA	NA	2	0.43584335	NA	NA
+K14708	 solute carrier family 26 (sodium-independent sulfate anion transporter), member 11	NA	NA	6	0.36287943	6	0.45564404	NA	NA
+K13996	 protein disulfide-isomerase	4	0.5773783	4	0.77737737	4	0.46155444	NA	NA
+K01897	 long-chain acyl-CoA synthetase	NA	NA	9	0.56082565	9	0.47294748	NA	NA
+K07750	 methylsterol monooxygenase	NA	NA	3	0.6705833	3	0.47421193	NA	NA
+K17218	 sulfide:quinone oxidoreductase	NA	NA	2	0.6941449	2	0.4837485	NA	NA
+K08139	 MFS transporter, SP family, sugar:H+ symporter	NA	NA	2	0.9331618	2	0.49099216	NA	NA
+K07836	 Ras-related protein Rap-1B	NA	NA	2	0.414708	2	0.5218335	NA	NA
+K13507	 glycerol-3-phosphate O-acyltransferase / dihydroxyacetone phosphate acyltransferase	NA	NA	NA	NA	2	0.5218932	NA	NA
+K15015	 solute carrier family 32 (vesicular inhibitory amino acid transporter)	NA	NA	19	0.6702525	19	0.53453845	NA	NA
+K12881	 THO complex subunit 4	NA	NA	2	0.6664229	2	0.54657084	NA	NA
+K15731	 carboxy-terminal domain RNA polymerase II polypeptide A small phosphatase	NA	NA	2	0.7084705	2	0.5480864	NA	NA
+K13076	 sphingolipid 8-(E)-desaturase	2	0.78340644	2	0.9541187	2	0.5531333	NA	NA
+K17900	 lipase ATG15	NA	NA	3	0.7106353	3	0.5597781	NA	NA
+K13291	 terminal uridylyltransferase	NA	NA	4	0.71358335	4	0.56018156	NA	NA
+K02154	 V-type H+-transporting ATPase subunit a	NA	NA	4	0.41587645	4	0.56190544	NA	NA
+K00706	 1,3-beta-glucan synthase	NA	NA	4	0.033777155	4	0.56263715	NA	NA
+K00844	 hexokinase	2	0.34218284	NA	NA	2	0.5630605	NA	NA
+K12373	 hexosaminidase	NA	NA	2	0.7897596	2	0.5630791	NA	NA
+K22048	 mechanosensitive ion channel protein 4/5/6/7/8/9/10	3	0.9090843	3	0.6740996	3	0.565089	NA	NA
+K22134	 MFS transporter, DHA2 family, glioxin efflux transporter	3	0.7185336	3	0.79384464	3	0.58734506	NA	NA
+K10256	 omega-6 fatty acid desaturase / acyl-lipid omega-6 desaturase (Delta-12 desaturase)	2	0.28053752	2	0.68597597	2	0.63572586	NA	NA
+K00486	 kynurenine 3-monooxygenase	3	0.34530115	3	0.5139328	3	0.7014752	NA	NA
+K00698	 chitin synthase	NA	NA	21	0.003499632	21	0.7181849	NA	NA
+K06901	 putative MFS transporter, AGZA family, xanthine/uracil permease	NA	NA	3	0.3429487	3	0.74340993	NA	NA
+K01381	 saccharopepsin	NA	NA	3	0.43255344	3	0.75987196	NA	NA
+K07088	 uncharacterized protein	NA	NA	NA	NA	2	0.760587	NA	NA
+K08272	 calcium binding protein 39	NA	NA	2	0.62163275	2	0.7632051	NA	NA
+K20372	 TBC1 domain family member 20	NA	NA	3	0.68752956	3	0.76409876	NA	NA
+K10632	 BRCA1-associated protein	NA	NA	NA	NA	2	0.77022284	NA	NA
+K14802	 phospholipid-transporting ATPase	NA	NA	3	0.7849623	3	0.7706174	NA	NA
+K03327	 multidrug resistance protein, MATE family	NA	NA	6	0.9326458	6	0.77570885	NA	NA
+K07889	 Ras-related protein Rab-5C	NA	NA	3	0.6341763	3	0.77743024	NA	NA
+K21797	 phosphatidylinositol 4-phosphatase	NA	NA	3	0.86846423	3	0.7867988	NA	NA
+K07874	 Ras-related protein Rab-1A	NA	NA	3	0.68086785	3	0.78713614	NA	NA
+K20028	 palmitoyltransferase ZDHHC2/15/20	NA	NA	2	0.9324897	2	0.790935	NA	NA
+K21631	 Gti1/Pac2 family transcription factor	10	0.7183004	8	0.0035148503	9	0.79427445	NA	NA
+K01166	 ribonuclease T2	NA	NA	7	0.062147602	7	0.79960966	NA	NA
+K15014	 solute carrier family 29 (equilibrative nucleoside transporter), member 1/2/3	NA	NA	3	0.87271	3	0.8017296	NA	NA
+K10956	 protein transport protein SEC61 subunit alpha	3	0.4366865	3	0.471715	3	0.80594766	NA	NA
+K19806	 tyrosine-protein phosphatase 2/3	3	0.64174753	3	0.7039286	3	0.81257176	NA	NA
+K00218	 protochlorophyllide reductase	2	0.9161279	2	0.98843044	2	0.81390095	NA	NA
+K00624	 carnitine O-acetyltransferase	NA	NA	4	0.76812375	4	0.8169553	NA	NA
+K17686	 Cu+-exporting ATPase	NA	NA	3	0.8136483	3	0.81761074	NA	NA
+K21403	 2-phosphoxylose phosphatase	NA	NA	3	0.8765931	3	0.817641	NA	NA
+K11231	 osomolarity two-component system, sensor histidine kinase SLN1	NA	NA	NA	NA	2	0.8192607	NA	NA
+K21016	 feruloyl esterase	NA	NA	NA	NA	42	0.8211315	NA	NA
+K01282	 dipeptidyl aminopeptidase	NA	NA	2	0.8587134	2	0.8258485	NA	NA
+K06681	 Gdp/GTP exchange factor required for growth at low temperatures	NA	NA	2	0.38099232	2	0.82716846	NA	NA
+K03424	 TatD DNase family protein	2	0.95181763	NA	NA	2	0.8291942	NA	NA
+K01581	 ornithine decarboxylase	6	0.94478816	NA	NA	6	0.8350277	NA	NA
+K00108	 choline dehydrogenase	NA	NA	10	0.7314707	10	0.8372258	NA	NA
+K08726	 soluble epoxide hydrolase / lipid-phosphate phosphatase	4	0.50871193	4	0.76611394	4	0.839863	NA	NA
+K01230	 mannosyl-oligosaccharide alpha-1,2-mannosidase	NA	NA	8	0.64660156	7	0.8401776	NA	NA
+K17917	 sorting nexin-1/2	3	0.9574576	3	0.69135505	3	0.8406802	NA	NA
+K16073	 magnesium transporter	NA	NA	4	0.84433055	4	0.8410232	NA	NA
+K14457	 2-acylglycerol O-acyltransferase 2	NA	NA	20	0.4378585	20	0.8423787	NA	NA
+K08513	 vesicle-associated membrane protein 4	NA	NA	2	0.66768533	2	0.84283096	NA	NA
+K08286	 protein-serine/threonine kinase	NA	NA	11	0.3315432	11	0.8454453	NA	NA
+K13754	 solute carrier family 24 (sodium/potassium/calcium exchanger), member 6	NA	NA	NA	NA	2	0.84669524	NA	NA
+K20062	 arrestin-related trafficking adapter 4/5/7	NA	NA	2	0.699683	2	0.8471536	NA	NA
+K00101	 L-lactate dehydrogenase (cytochrome)	4	0.030167934	4	0.7791471	4	0.8508128	NA	NA
+K08073	 bifunctional polynucleotide phosphatase/kinase	2	0.6818994	NA	NA	2	0.8515472	NA	NA
+K07019	 uncharacterized protein	NA	NA	3	0.70963156	3	0.8675301	NA	NA
+K14729	 multifunctional beta-oxidation protein	NA	NA	6	0.82721376	6	0.8711804	NA	NA
+K09241	 transcriptional regulatory protein GAL4	NA	NA	4	0.77356833	4	0.87299883	NA	NA
+K00006	 glycerol-3-phosphate dehydrogenase (NAD+)	NA	NA	NA	NA	2	0.8736989	NA	NA
+K01956	 carbamoyl-phosphate synthase small subunit	NA	NA	2	0.810876	2	0.8787836	NA	NA
+K03321	 sulfate permease, SulP family	NA	NA	2	0.6421976	2	0.8789224	NA	NA
+K00963	 UTP--glucose-1-phosphate uridylyltransferase	2	0.7681539	2	0.43224108	2	0.8799882	NA	NA
+K09265	 transcription factor RLM1	NA	NA	2	0.86910564	2	0.88184893	NA	NA
+K20724	 transmembrane protein 33	NA	NA	3	0.8683006	3	0.8857355	NA	NA
+K17906	 autophagy-related protein 2	NA	NA	NA	NA	2	0.8859822	NA	NA
+K07304	 peptide-methionine (S)-S-oxide reductase	NA	NA	2	0.92317945	2	0.88632303	NA	NA
+K01210	 glucan 1,3-beta-glucosidase	NA	NA	12	0.558848	11	0.88665366	NA	NA
+K00505	 tyrosinase	NA	NA	22	0.6918777	24	0.8871054	NA	NA
+K10843	 DNA excision repair protein ERCC-3	NA	NA	2	0.90799266	2	0.88714707	NA	NA
+K03511	 DNA polymerase kappa	NA	NA	NA	NA	2	0.88744146	NA	NA
+K21421	 NADPH oxidase 2	NA	NA	2	0.8581449	2	0.8894005	NA	NA
+K03469	 ribonuclease HI	NA	NA	NA	NA	4	0.8895715	NA	NA
+K00354	 NADPH2 dehydrogenase	NA	NA	2	0.20093527	2	0.890248	NA	NA
+K13108	 smad nuclear-interacting protein 1	NA	NA	NA	NA	2	0.89143324	NA	NA
+K03441	 aquaglyceroporin related protein, other eukaryote	NA	NA	6	0.86182666	7	0.89277697	NA	NA
+K00235	 succinate dehydrogenase (ubiquinone) iron-sulfur subunit	3	0.57852674	3	0.05343	3	0.8953981	NA	NA
+K01539	 sodium/potassium-transporting ATPase subunit alpha	NA	NA	3	0.67526704	3	0.8955488	NA	NA
+K03948	 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 4	NA	NA	2	0.48616955	2	0.8969087	NA	NA
+K00432	 glutathione peroxidase	NA	NA	2	0.70968443	2	0.9029925	NA	NA
+K17800	 LETM1 and EF-hand domain-containing protein 1, mitochondrial	NA	NA	2	0.6984382	2	0.9050265	NA	NA
+K01580	 glutamate decarboxylase	2	0.8006742	NA	NA	2	0.90619135	NA	NA
+K06656	 G1/S-specific cyclin PLC1	NA	NA	4	0.051930893	4	0.9256595	NA	NA
+K00889	 1-phosphatidylinositol-4-phosphate 5-kinase	NA	NA	2	0.94788176	2	0.9277721	NA	NA
+K10436	 microtubule-associated protein, RP/EB family	NA	NA	NA	NA	2	0.9280938	NA	NA
+K01530	 phospholipid-translocating ATPase	NA	NA	4	0.6856312	4	0.9303517	NA	NA
+K21752	 Dr1-associated corepressor	NA	NA	2	0.95014286	2	0.93203366	NA	NA
+K00641	 homoserine O-acetyltransferase	2	0.5368713	2	0.83049005	2	0.9346865	NA	NA
+K12486	 stromal membrane-associated protein	NA	NA	NA	NA	3	0.9349092	NA	NA
+K11870	 ubiquitin carboxyl-terminal hydrolase 1	NA	NA	NA	NA	2	0.9529521	NA	NA
+K14758	 casein kinase I homolog HRR25	NA	NA	NA	NA	2	0.96122444	NA	NA
+K07901	 Ras-related protein Rab-8A	NA	NA	2	0.5674581	2	0.96445006	NA	NA
+K12393	 AP-1 complex subunit mu	2	0.9417975	NA	NA	2	0.96747565	NA	NA
+K13800	 UMP-CMP kinase	2	0.8625647	NA	NA	2	0.9683653	NA	NA
+K00297	 methylenetetrahydrofolate reductase (NADPH)	NA	NA	NA	NA	3	0.9699448	NA	NA
+K00654	 serine palmitoyltransferase	NA	NA	3	0.46980664	3	0.9808997	NA	NA
+K01452	 chitin deacetylase	NA	NA	6	0.6849041	5	0.9809621	NA	NA
+K03953	 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 9	2	0.32141358	2	0.5196506	2	0.9825648	NA	NA
+K07300	 Ca2+:H+ antiporter	NA	NA	3	0.061117742	3	0.9827211	NA	NA
+K05770	 translocator protein	NA	NA	7	0.867903	7	0.98347604	NA	NA
+K00966	 mannose-1-phosphate guanylyltransferase	NA	NA	3	0.7066508	3	0.98356515	NA	NA
+K00620	 glutamate N-acetyltransferase / amino-acid N-acetyltransferase	2	0.2895691	NA	NA	2	0.98401845	NA	NA
+K16938	 septin 3/9/12	2	0.5143917	2	0.73119307	2	0.9845514	NA	NA
+K12761	 carbon catabolite-derepressing protein kinase	NA	NA	2	0.17874004	2	0.9845585	NA	NA
+K00287	 dihydrofolate reductase	NA	NA	NA	NA	3	0.985641	NA	NA
+K14209	 solute carrier family 36 (proton-coupled amino acid transporter)	NA	NA	2	0.63837755	2	0.9865943	NA	NA
+K16302	 metal transporter CNNM	NA	NA	2	0.81734324	2	0.98672265	NA	NA
+K01070	 S-formylglutathione hydrolase	3	0.67961913	3	0.07197937	3	0.986958	NA	NA
+K10398	 kinesin family member 11	NA	NA	NA	NA	4	0.9869908	NA	NA
+K15109	 solute carrier family 25 (mitochondrial carnitine/acylcarnitine transporter), member 20/29	7	0.86583155	7	0.8826609	7	0.9908059	NA	NA
+K11246	 SHO1 osmosensor	NA	NA	3	0.6977082	3	0.9910977	NA	NA
+K01265	 methionyl aminopeptidase	3	0.99465024	NA	NA	3	0.99448377	NA	NA
+K04508	 transducin (beta)-like 1	2	0.60405517	NA	NA	2	0.9947166	NA	NA
+K18442	 brefeldin A-inhibited guanine nucleotide-exchange protein	NA	NA	NA	NA	8	0.99513334	NA	NA
+K07126	 uncharacterized protein	NA	NA	4	0.4271417	4	0.99665284	NA	NA
+K16066	 3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	2	0.67802477	2	0.8561292	2	0.99714345	NA	NA
+K00818	 acetylornithine aminotransferase	2	0.98124135	NA	NA	2	0.9972472	NA	NA
+K01336	 cerevisin	NA	NA	26	0	NA	NA	NA	NA
+K01312	 trypsin	NA	NA	36	0.01547404	NA	NA	NA	NA
+K03233	 elongation factor 1-gamma	4	0.56560284	4	0.02317703	NA	NA	NA	NA
+K01183	 chitinase	NA	NA	17	0.027695926	NA	NA	NA	NA
+K05994	 bacterial leucyl aminopeptidase	3	0.67691416	3	0.060683127	NA	NA	NA	NA
+K00164	 2-oxoglutarate dehydrogenase E1 component	2	0.5767518	2	0.1747139	NA	NA	NA	NA
+K13726	 metallopeptidase MepB	NA	NA	2	0.20202301	NA	NA	NA	NA
+K02155	 V-type H+-transporting ATPase 16kDa proteolipid subunit	2	0.8222055	2	0.3264926	NA	NA	NA	NA
+K11215	 transcription factor STE12	NA	NA	5	0.3324517	NA	NA	NA	NA
+K03671	 thioredoxin 1	4	0.67636085	4	0.33282584	NA	NA	NA	NA
+K00626	 acetyl-CoA C-acetyltransferase	4	0.58064467	4	0.35057533	NA	NA	NA	NA
+K09490	 heat shock 70kDa protein 5	2	0.43973026	2	0.35152835	NA	NA	NA	NA
+K13989	 Derlin-2/3	2	0.9838709	2	0.38515505	NA	NA	NA	NA
+K00222	 Delta14-sterol reductase	3	0.30820888	3	0.39070073	NA	NA	NA	NA
+K12350	 sphingomyelin phosphodiesterase	9	0.47521615	8	0.39078158	NA	NA	NA	NA
+K10418	 dynein light chain LC8-type	NA	NA	2	0.40505403	NA	NA	NA	NA
+K09051	 ATF/CREB family transcription factor	NA	NA	2	0.40911826	NA	NA	NA	NA
+K15371	 glutamate dehydrogenase	2	0.59444344	2	0.42654836	NA	NA	NA	NA
+K00799	 glutathione S-transferase	5	0.65185624	5	0.4331959	NA	NA	NA	NA
+K09568	 FK506-binding protein 1	2	0.94975126	2	0.4335867	NA	NA	NA	NA
+K08783	 extracellular matrix protein 14	11	0.9559083	9	0.43640065	NA	NA	NA	NA
+K11237	 bud emergence protein 1	NA	NA	2	0.44427595	NA	NA	NA	NA
+K00814	 alanine transaminase	2	0.7037423	2	0.4655265	NA	NA	NA	NA
+K20628	 expansin	NA	NA	3	0.46614733	NA	NA	NA	NA
+K00643	 5-aminolevulinate synthase	2	0.90295786	2	0.46783322	NA	NA	NA	NA
+K22068	 iron-sulfur cluster assembly enzyme ISCU, mitochondrial	NA	NA	2	0.50306034	NA	NA	NA	NA
+K00026	 malate dehydrogenase	2	0.6144035	2	0.5078289	NA	NA	NA	NA
+K05389	 potassium channel subfamily K, other eukaryote	NA	NA	2	0.51754993	NA	NA	NA	NA
+K05759	 profilin	2	0.8600373	2	0.52146477	NA	NA	NA	NA
+K00232	 acyl-CoA oxidase	3	0.66213584	3	0.56601816	NA	NA	NA	NA
+K20346	 p24 family protein alpha	2	0.54655826	2	0.5708962	NA	NA	NA	NA
+K00428	 cytochrome c peroxidase	2	0.8707623	2	0.601077	NA	NA	NA	NA
+K09660	 mannose-P-dolichol utilization defect 1	2	0.6860471	2	0.63366836	NA	NA	NA	NA
+K13350	 peroxisomal membrane protein 4	2	0.98027915	2	0.6338209	NA	NA	NA	NA
+K07297	 adiponectin receptor	NA	NA	3	0.6340254	NA	NA	NA	NA
+K10246	 fatty acid elongase 3	NA	NA	6	0.644683	NA	NA	NA	NA
+K02183	 calmodulin	NA	NA	6	0.66459453	NA	NA	NA	NA
+K03009	 DNA-directed RNA polymerases I, II, and III subunit RPABC4	2	0.5817502	2	0.6660624	NA	NA	NA	NA
+K11294	 nucleolin	5	0.63820255	5	0.6662138	NA	NA	NA	NA
+K01551	 arsenite-transporting ATPase	2	0.18096887	2	0.66627365	NA	NA	NA	NA
+K01092	 myo-inositol-1(or 4)-monophosphatase	4	0.32492432	4	0.669372	NA	NA	NA	NA
+K15437	 aminoacyl tRNA synthase complex-interacting multifunctional protein 1	2	0.5805191	2	0.669377	NA	NA	NA	NA
+K10601	 E3 ubiquitin-protein ligase synoviolin	NA	NA	2	0.67237115	NA	NA	NA	NA
+K09584	 protein disulfide-isomerase A6	3	0.41490757	3	0.6730343	NA	NA	NA	NA
+K17362	 acyl-coenzyme A thioesterase 13	3	0.5022002	3	0.67325205	NA	NA	NA	NA
+K01054	 acylglycerol lipase	NA	NA	12	0.6781092	NA	NA	NA	NA
+K02152	 V-type H+-transporting ATPase subunit G	NA	NA	2	0.6804254	NA	NA	NA	NA
+K07238	 zinc transporter, ZIP family	3	0.837116	3	0.6828387	NA	NA	NA	NA
+K19842	 RHO1 GDP-GTP exchange protein 1/2	NA	NA	7	0.68619317	NA	NA	NA	NA
+K12412	 pheromone receptor transcription factor	2	0.91769785	2	0.6888423	NA	NA	NA	NA
+K10576	 ubiquitin-conjugating enzyme E2 H	NA	NA	2	0.689847	NA	NA	NA	NA
+K01507	 inorganic pyrophosphatase	2	0.53250575	2	0.69174486	NA	NA	NA	NA
+K07897	 Ras-related protein Rab-7A	NA	NA	2	0.6931036	NA	NA	NA	NA
+K06683	 cell division control protein CDC15	NA	NA	3	0.6939842	NA	NA	NA	NA
+K03955	 NADH dehydrogenase (ubiquinone) 1 alpha/beta subcomplex 1	2	0.19517863	2	0.6945837	NA	NA	NA	NA
+K11142	 cytosol aminopeptidase	2	0.27514392	2	0.69503075	NA	NA	NA	NA
+K06630	 14-3-3 protein epsilon	NA	NA	3	0.6970685	NA	NA	NA	NA
+K04348	 serine/threonine-protein phosphatase 2B catalytic subunit	NA	NA	3	0.69777066	NA	NA	NA	NA
+K07119	 uncharacterized protein	NA	NA	2	0.7000892	NA	NA	NA	NA
+K04555	 ubiquitin-conjugating enzyme E2 G2	NA	NA	2	0.7019875	NA	NA	NA	NA
+K07827	 GTPase KRas	NA	NA	8	0.7033292	NA	NA	NA	NA
+K01259	 proline iminopeptidase	NA	NA	2	0.70629704	NA	NA	NA	NA
+K20368	 protein cornichon	2	0.23692882	2	0.7069515	NA	NA	NA	NA
+K14264	 kynurenine aminotransferase	NA	NA	2	0.70706385	NA	NA	NA	NA
+K04441	 p38 MAP kinase	NA	NA	2	0.7105535	NA	NA	NA	NA
+K15040	 voltage-dependent anion channel protein 2	2	0.29571155	2	0.7108361	NA	NA	NA	NA
+K03386	 peroxiredoxin (alkyl hydroperoxide reductase subunit C)	2	0.22070399	2	0.7148412	NA	NA	NA	NA
+K10395	 kinesin family member 4/21/27	NA	NA	3	0.7169141	NA	NA	NA	NA
+K17279	 receptor expression-enhancing protein 5/6	NA	NA	3	0.727009	NA	NA	NA	NA
+K01476	 arginase	2	0.9198672	2	0.7286188	NA	NA	NA	NA
+K19791	 iron transport multicopper oxidase	NA	NA	6	0.74763286	NA	NA	NA	NA
+K01669	 deoxyribodipyrimidine photo-lyase	2	0.3317556	2	0.77483904	NA	NA	NA	NA
+K02218	 casein kinase 1	NA	NA	2	0.78127974	NA	NA	NA	NA
+K00522	 ferritin heavy chain	2	0.52760625	2	0.7817868	NA	NA	NA	NA
+K00228	 coproporphyrinogen III oxidase	2	0.5039571	2	0.78266335	NA	NA	NA	NA
+K13299	 glutathione S-transferase kappa 1	2	0.64218235	2	0.78865385	NA	NA	NA	NA
+K20465	 oxysterol-binding protein-related protein 9/10/11	NA	NA	3	0.7902887	NA	NA	NA	NA
+K01893	 asparaginyl-tRNA synthetase	2	0.7009896	2	0.7907939	NA	NA	NA	NA
+K03032	 26S proteasome regulatory subunit N2	2	0.151369	2	0.7913589	NA	NA	NA	NA
+K06997	 PLP dependent protein	NA	NA	2	0.794144	NA	NA	NA	NA
+K01180	 endo-1,3(4)-beta-glucanase	2	0.5637669	2	0.8095522	NA	NA	NA	NA
+K03113	 translation initiation factor 1	NA	NA	2	0.8125683	NA	NA	NA	NA
+K05275	 pyridoxine 4-dehydrogenase	2	0.88027394	2	0.81331223	NA	NA	NA	NA
+K01951	 GMP synthase (glutamine-hydrolysing)	2	0.76998794	2	0.8184898	NA	NA	NA	NA
+K00002	 alcohol dehydrogenase (NADP+)	NA	NA	4	0.83234155	NA	NA	NA	NA
+K00948	 ribose-phosphate pyrophosphokinase	NA	NA	3	0.8426944	NA	NA	NA	NA
+K01835	 phosphoglucomutase	NA	NA	2	0.8460657	NA	NA	NA	NA
+K00987	 mRNA guanylyltransferase	NA	NA	2	0.8563495	NA	NA	NA	NA
+K00293	 saccharopine dehydrogenase (NADP+, L-glutamate forming)	2	0.89581424	2	0.85717875	NA	NA	NA	NA
+K13217	 pre-mRNA-processing factor 39	2	0.6131682	2	0.86017424	NA	NA	NA	NA
+K01267	 aspartyl aminopeptidase	2	0.34880763	2	0.8602308	NA	NA	NA	NA
+K04393	 cell division control protein 42	NA	NA	2	0.861033	NA	NA	NA	NA
+K14688	 solute carrier family 30 (zinc transporter), member 1	NA	NA	2	0.8640282	NA	NA	NA	NA
+K20301	 trafficking protein particle complex subunit 2	2	0.54415554	2	0.86411446	NA	NA	NA	NA
+K03028	 26S proteasome regulatory subunit N1	2	0.5319988	2	0.8650604	NA	NA	NA	NA
+K02564	 glucosamine-6-phosphate deaminase	2	0.30006617	2	0.86566097	NA	NA	NA	NA
+K01802	 peptidylprolyl isomerase	3	0.73368835	3	0.8658168	NA	NA	NA	NA
+K00939	 adenylate kinase	2	0.8033369	2	0.8690197	NA	NA	NA	NA
+K17822	 DCN1-like protein 1/2	2	0.7384495	2	0.8691443	NA	NA	NA	NA
+K04345	 protein kinase A	NA	NA	3	0.87051594	NA	NA	NA	NA
+K00074	 3-hydroxybutyryl-CoA dehydrogenase	2	0.23711361	2	0.8725694	NA	NA	NA	NA
+K04630	 guanine nucleotide-binding protein G(i) subunit alpha	NA	NA	3	0.8822562	NA	NA	NA	NA
+K13303	 serum/glucocorticoid-regulated kinase 2	NA	NA	3	0.8853246	NA	NA	NA	NA
+K03099	 son of sevenless	NA	NA	7	0.88684094	NA	NA	NA	NA
+K00237	 succinate dehydrogenase (ubiquinone) membrane anchor subunit	2	0.79711	2	0.8931173	NA	NA	NA	NA
+K01240	 uridine nucleosidase	3	0.97546935	2	0.90124124	NA	NA	NA	NA
+K01655	 homocitrate synthase	3	0.9173959	3	0.9013826	NA	NA	NA	NA
+K17255	 Rab GDP dissociation inhibitor	NA	NA	2	0.90572464	NA	NA	NA	NA
+K21545	 C2H2 transcription facotor	4	0.9433909	4	0.91645473	NA	NA	NA	NA
+K04518	 prephenate dehydratase	2	0.8534899	2	0.924475	NA	NA	NA	NA
+K01764	 cytochrome c heme-lyase	NA	NA	2	0.9261308	NA	NA	NA	NA
+K05349	 beta-glucosidase	NA	NA	3	0.926342	NA	NA	NA	NA
+K10082	 lectin, mannose-binding 2	2	0.21755734	2	0.92905736	NA	NA	NA	NA
+K00789	 S-adenosylmethionine synthetase	2	0.881809	2	0.9306692	NA	NA	NA	NA
+K21455	 transcription factor CON7	NA	NA	8	0.930977	NA	NA	NA	NA
+K01866	 tyrosyl-tRNA synthetase	NA	NA	2	0.93656117	NA	NA	NA	NA
+K00940	 nucleoside-diphosphate kinase	3	0.3308887	3	0.9408708	NA	NA	NA	NA
+K00688	 glycogen phosphorylase	2	0.23308213	2	0.94195205	NA	NA	NA	NA
+K09498	 T-complex protein 1 subunit zeta	2	0.21715795	2	0.9432311	NA	NA	NA	NA
+K04513	 Ras homolog gene family, member A	NA	NA	4	0.9444562	NA	NA	NA	NA
+K03115	 casein kinase II subunit beta	NA	NA	3	0.94470924	NA	NA	NA	NA
+K00326	 cytochrome-b5 reductase	6	0.9183784	6	0.94486046	NA	NA	NA	NA
+K15105	 solute carrier family 25 (mitochondrial aspartate/glutamate transporter), member 12/13	2	0.4900445	2	0.9456962	NA	NA	NA	NA
+K11228	 mitogen-activated protein kinase kinase kinase	NA	NA	2	0.9472797	NA	NA	NA	NA
+K04523	 ubiquilin	NA	NA	2	0.94799334	NA	NA	NA	NA
+K03521	 electron transfer flavoprotein beta subunit	2	0.5256731	2	0.9499842	NA	NA	NA	NA
+K00030	 isocitrate dehydrogenase (NAD+)	2	0.38651797	2	0.9517226	NA	NA	NA	NA
+K03809	 NAD(P)H dehydrogenase (quinone)	3	0.8762384	3	0.95411646	NA	NA	NA	NA
+K15100	 solute carrier family 25 (mitochondrial citrate transporter), member 1	3	0.9570492	2	0.9565616	NA	NA	NA	NA
+K00135	 succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	2	0.51793915	2	0.9608472	NA	NA	NA	NA
+K09553	 stress-induced-phosphoprotein 1	3	0.5494542	3	0.9757799	NA	NA	NA	NA
+K10967	 alpha 1,2-mannosyltransferase	NA	NA	4	0.9879386	NA	NA	NA	NA
+K05607	 methylglutaconyl-CoA hydratase	2	0.72286123	2	0.9899928	NA	NA	NA	NA
+K07232	 cation transport protein ChaC	NA	NA	2	0.9911322	NA	NA	NA	NA
+K11254	 histone H4	6	0.022622554	NA	NA	NA	NA	NA	NA
+K11251	 histone H2A	6	0.02882703	NA	NA	NA	NA	NA	NA
+K05864	 peptidyl-prolyl isomerase D	3	0.075360164	NA	NA	NA	NA	NA	NA
+K08762	 diazepam-binding inhibitor (GABA receptor modulator, acyl-CoA-binding protein)	2	0.19405183	NA	NA	NA	NA	NA	NA
+K08054	 calnexin	2	0.20016621	NA	NA	NA	NA	NA	NA
+K05692	 actin beta/gamma 1	4	0.21713684	NA	NA	NA	NA	NA	NA
+K01889	 phenylalanyl-tRNA synthetase alpha chain	2	0.24340971	NA	NA	NA	NA	NA	NA
+K03011	 DNA-directed RNA polymerase II subunit RPB3	3	0.2483957	NA	NA	NA	NA	NA	NA
+K00344	 NADPH2:quinone reductase	2	0.25651515	NA	NA	NA	NA	NA	NA
+K15563	 protein BUR2	2	0.25762963	NA	NA	NA	NA	NA	NA
+K13721	 aminopeptidase 2	9	0.29476887	NA	NA	NA	NA	NA	NA
+K13525	 transitional endoplasmic reticulum ATPase	4	0.3225479	NA	NA	NA	NA	NA	NA
+K00949	 thiamine pyrophosphokinase	2	0.32956913	NA	NA	NA	NA	NA	NA
+K09602	 ubiquitin thioesterase protein OTUB1	2	0.46976474	NA	NA	NA	NA	NA	NA
+K11279	 nucleosome assembly protein 1-like 1	2	0.51118994	NA	NA	NA	NA	NA	NA
+K18158	 nuclear control of ATPase protein 2	2	0.53128207	NA	NA	NA	NA	NA	NA
+K03242	 translation initiation factor 2 subunit 3	2	0.5352012	NA	NA	NA	NA	NA	NA
+K12176	 COP9 signalosome complex subunit 2	2	0.5758422	NA	NA	NA	NA	NA	NA
+K11253	 histone H3	4	0.6797107	NA	NA	NA	NA	NA	NA
+K03380	 phenol 2-monooxygenase	2	0.68091166	NA	NA	NA	NA	NA	NA
+K14785	 ESF2/ABP1 family protein	2	0.6835244	NA	NA	NA	NA	NA	NA
+K17402	 small subunit ribosomal protein S23	2	0.7248048	NA	NA	NA	NA	NA	NA
+K11252	 histone H2B	3	0.7321174	NA	NA	NA	NA	NA	NA
+K01885	 glutamyl-tRNA synthetase	2	0.7333085	NA	NA	NA	NA	NA	NA
+K01876	 aspartyl-tRNA synthetase	2	0.7381822	NA	NA	NA	NA	NA	NA
+K08178	 MFS transporter, SHS family, lactate transporter	2	0.76740295	NA	NA	NA	NA	NA	NA
+K11493	 regulator of chromosome condensation	2	0.78159934	NA	NA	NA	NA	NA	NA
+K11419	 histone-lysine N-methyltransferase SUV39H	8	0.7953399	NA	NA	NA	NA	NA	NA
+K09413	 forkhead transcription factor HCM1	2	0.8041287	NA	NA	NA	NA	NA	NA
+K03426	 NAD+ diphosphatase	2	0.8055243	NA	NA	NA	NA	NA	NA
+K14006	 protein transport protein SEC23	2	0.8177499	NA	NA	NA	NA	NA	NA
+K02677	 classical protein kinase C alpha type	2	0.84608763	NA	NA	NA	NA	NA	NA
+K02021	 putative ABC transport system ATP-binding protein	2	0.85337776	NA	NA	NA	NA	NA	NA
+K06689	 ubiquitin-conjugating enzyme E2 D	3	0.88446593	NA	NA	NA	NA	NA	NA
+K10625	 E3 ubiquitin-protein ligase UBR1	2	0.8976291	NA	NA	NA	NA	NA	NA
+K03282	 large conductance mechanosensitive channel	2	0.9085997	NA	NA	NA	NA	NA	NA
+K00826	 branched-chain amino acid aminotransferase	2	0.9088165	NA	NA	NA	NA	NA	NA
+K20241	 WD repeat-containing protein 44	2	0.9129097	NA	NA	NA	NA	NA	NA
+K12813	 pre-mRNA-splicing factor ATP-dependent RNA helicase DHX16	2	0.912966	NA	NA	NA	NA	NA	NA
+K03686	 molecular chaperone DnaJ	2	0.9275714	NA	NA	NA	NA	NA	NA
+K01176	 alpha-amylase	2	0.9454792	NA	NA	NA	NA	NA	NA
+K14572	 midasin	2	0.953062	NA	NA	NA	NA	NA	NA
+K13025	 ATP-dependent RNA helicase	2	0.96903133	NA	NA	NA	NA	NA	NA
+K12618	 5'-3' exoribonuclease 1	2	0.98347443	NA	NA	NA	NA	NA	NA

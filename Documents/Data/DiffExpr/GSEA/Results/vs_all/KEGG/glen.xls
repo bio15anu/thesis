@@ -1,0 +1,313 @@
+pathway	description	Size (vs. coni)	FDR (vs. coni)	Size (vs. symp)	FDR (vs. symp)	Size (vs. para)	FDR (vs. para)	Size (vs. spor)	FDR (vs. spor)
+KO03040	Spliceosome	157	0	NA	NA	NA	NA	155	0
+KO03430	Mismatch repair	20	0.0006824136	NA	NA	19	0.36669657	19	0.002720088
+KO04111	Cell cycle - yeast	113	0.03843562	NA	NA	112	0.8345788	111	0.0036066934
+KO03013	RNA transport	90	0	NA	NA	NA	NA	90	0.0074079684
+KO04110	Cell cycle	61	0.0018292718	NA	NA	NA	NA	60	0.009567084
+KO03440	Homologous recombination	15	0.0153462235	NA	NA	14	0.49454316	14	0.01325029
+KO03015	mRNA surveillance pathway	200	0	NA	NA	NA	NA	198	0.023597209
+KO03420	Nucleotide excision repair	39	0.00084325124	NA	NA	38	0.5633174	38	0.0295942
+KO03020	RNA polymerase	34	0	NA	NA	NA	NA	34	0.03424512
+KO04623	Cytosolic DNA-sensing pathway	18	0.00080658816	NA	NA	NA	NA	18	0.060370352
+KO00240	Pyrimidine metabolism	82	0	NA	NA	NA	NA	82	0.06451944
+KO00230	Purine metabolism	110	0	NA	NA	NA	NA	110	0.065858565
+KO03450	Non-homologous end-joining	6	0.111558974	NA	NA	6	0.96415323	6	0.06739811
+KO03410	Base excision repair	17	0.081094325	NA	NA	NA	NA	17	0.10494296
+KO04113	Meiosis - yeast	74	0.022994963	NA	NA	71	0.77942806	72	0.11231993
+KO00643	Styrene degradation	12	0.07137332	12	0.50613546	11	0.9432498	12	0.12774627
+KO00670	One carbon pool by folate	18	0.03848043	NA	NA	18	0.82957965	18	0.15433118
+KO03018	RNA degradation	50	0.0015435092	NA	NA	NA	NA	50	0.1608562
+KO00780	Biotin metabolism	9	0.1742948	NA	NA	8	0.33665073	9	0.17181557
+KO00254	Aflatoxin biosynthesis	NA	NA	NA	NA	7	0.9746789	7	0.19224599
+KO04612	Antigen processing and presentation	17	0.00077298033	17	0.87544465	NA	NA	15	0.19582815
+KO00140	Steroid hormone biosynthesis	6	0.2599249	6	0.6554105	NA	NA	6	0.19925122
+KO04514	Cell adhesion molecules (CAMs)	33	0.08514055	32	0.6097992	NA	NA	30	0.22539678
+KO04330	Notch signaling pathway	9	0.77814513	NA	NA	NA	NA	9	0.2655169
+KO05168	Herpes simplex infection	37	0.31857216	NA	NA	NA	NA	37	0.2807782
+KO00061	Fatty acid biosynthesis	23	0.42467377	NA	NA	22	0.24976574	22	0.28120995
+KO00970	Aminoacyl-tRNA biosynthesis	45	0	NA	NA	NA	NA	45	0.31431904
+KO04212	Longevity regulating pathway - worm	30	0.1037781	30	0.1207232	30	0.73414785	30	0.32500187
+KO04115	p53 signaling pathway	5	0.16714497	NA	NA	NA	NA	5	0.33192277
+KO00270	Cysteine and methionine metabolism	47	0	NA	NA	NA	NA	48	0.33362013
+KO04120	Ubiquitin mediated proteolysis	134	0.5364894	NA	NA	133	0.72978157	133	0.33597305
+KO00330	Arginine and proline metabolism	37	0.008995349	37	0.23098461	36	0.94177306	37	0.33599225
+KO02010	ABC transporters	19	0.48977298	18	0.12931289	18	0.7768979	18	0.33671427
+KO00791	Atrazine degradation	2	0.44068006	NA	NA	NA	NA	2	0.3377768
+KO05162	Measles	20	0.34178868	20	0.88822913	NA	NA	18	0.45659536
+KO00360	Phenylalanine metabolism	17	0.009252358	17	0.45744255	16	0.81182957	17	0.4590291
+KO00627	Aminobenzoate degradation	62	0.3310542	54	0.0030893504	55	0.27789524	57	0.46384054
+KO01523	Antifolate resistance	12	0.49036387	NA	NA	12	0.7821924	12	0.5017453
+KO05206	MicroRNAs in cancer	NA	NA	NA	NA	NA	NA	49	0.5529673
+KO00261	Monobactam biosynthesis	3	0.48944008	NA	NA	NA	NA	3	0.60763085
+KO00460	Cyanoamino acid metabolism	NA	NA	9	0.7637785	8	0.32253155	8	0.64173406
+KO00515	Mannose type O-glycan biosyntheis	8	0.3415948	8	0.015480169	8	0.57227856	8	0.64477897
+KO00533	Glycosaminoglycan biosynthesis - keratan sulfate	10	0.7975109	NA	NA	NA	NA	8	0.7412515
+KO04614	Renin-angiotensin system	11	0.7080147	9	0.41778877	10	0.9842739	10	0.74797523
+KO00626	Naphthalene degradation	2	0.103329554	2	0.37805972	2	0.5649557	2	0.75289637
+KO00600	Sphingolipid metabolism	NA	NA	21	0.04068598	21	0.8033218	22	0.7547196
+KO04213	Longevity regulating pathway - multiple species	51	0.5824967	51	0.40830782	49	0.7220955	49	0.75982744
+KO04976	Bile secretion	NA	NA	20	0.03400173	20	0.72743785	20	0.7709043
+KO00450	Selenocompound metabolism	16	0.019674469	NA	NA	16	0.89546365	16	0.7760968
+KO00785	Lipoic acid metabolism	2	0.9632497	2	0.8847613	2	0.7614826	2	0.7895533
+KO04940	Type I diabetes mellitus	3	0.49052328	NA	NA	NA	NA	3	0.79096824
+KO05202	Transcriptional misregulation in cancers	21	0.3204553	NA	NA	NA	NA	21	0.8203096
+KO00981	Insect hormone biosynthesis	2	0.3730478	2	0.8768921	NA	NA	2	0.8548468
+KO00903	Limonene and pinene degradation	2	0.37366834	2	0.8767473	NA	NA	2	0.86990285
+KO05134	Legionellosis	29	0.0029212385	29	0.05105697	NA	NA	27	0.8864997
+KO00340	Histidine metabolism	15	0.021324353	15	0.41644	NA	NA	15	0.95966846
+KO00830	Retinol metabolism	2	0.10828091	NA	NA	2	0.75204355	2	0.95982546
+KO00511	Other glycan degradation	3	0.3245914	3	0.45436224	3	0.2946377	NA	NA
+KO04136	Autophagy - other eukaryotes	NA	NA	NA	NA	22	0.3037879	NA	NA
+KO00071	Fatty acid degradation	55	0.15698615	50	0.001540157	50	0.30556053	NA	NA
+KO00052	Galactose metabolism	11	0.9460822	NA	NA	11	0.3195811	NA	NA
+KO05033	Nicotine addiction	NA	NA	19	0.41911328	19	0.38603592	NA	NA
+KO00531	Glycosaminoglycan degradation	NA	NA	2	0.65668315	2	0.44099817	NA	NA
+KO00604	Glycosphingolipid biosynthesis - ganglio series	NA	NA	2	0.6452452	2	0.45982394	NA	NA
+KO00380	Tryptophan metabolism	65	0.10657333	60	0.0014216834	59	0.48693907	NA	NA
+KO00524	Neomycin, kanamycin and gentamicin biosynthesis	2	0.21264614	NA	NA	2	0.4937948	NA	NA
+KO00603	Glycosphingolipid biosynthesis - globo and isoglobo series	NA	NA	2	0.64703137	2	0.5228092	NA	NA
+KO03320	PPAR signaling pathway	26	0.3237114	26	0.061379604	26	0.5569659	NA	NA
+KO00920	Sulfur metabolism	18	0.1020633	NA	NA	18	0.56458044	NA	NA
+KO04138	Autophagy - yeast	NA	NA	108	0.048844676	110	0.5691719	NA	NA
+KO01040	Biosynthesis of unsaturated fatty acids	53	0.007968268	54	0.115826376	52	0.5700213	NA	NA
+KO00680	Methane metabolism	17	0.37399167	17	0.65670305	17	0.5850399	NA	NA
+KO00562	Inositol phosphate metabolism	NA	NA	22	0.2095753	22	0.5877751	NA	NA
+KO04216	Ferroptosis	21	0.46433657	21	0.35105166	21	0.6710643	NA	NA
+KO02024	Quorum sensing	17	0.96379876	17	0.48995662	17	0.6957871	NA	NA
+KO04920	Adipocytokine signaling pathway	NA	NA	14	0.3480429	14	0.7013832	NA	NA
+KO00290	Valine, leucine and isoleucine biosynthesis	10	0.30017993	NA	NA	10	0.70774794	NA	NA
+KO00965	Betalain biosynthesis	NA	NA	27	0.41824576	29	0.72329646	NA	NA
+KO00520	Amino sugar and nucleotide sugar metabolism	NA	NA	73	0	71	0.73662966	NA	NA
+KO00514	Other types of O-glycan biosynthesis	NA	NA	12	0.117526636	12	0.73925394	NA	NA
+KO00500	Starch and sucrose metabolism	NA	NA	42	0.16262488	40	0.7404399	NA	NA
+KO00260	Glycine, serine and threonine metabolism	NA	NA	43	0.37292123	43	0.74089855	NA	NA
+KO00790	Folate biosynthesis	20	0.6855379	NA	NA	19	0.7417106	NA	NA
+KO05032	Morphine addiction	NA	NA	28	0.81103	28	0.748708	NA	NA
+KO00561	Glycerolipid metabolism	NA	NA	67	0.3050575	66	0.7546176	NA	NA
+KO04727	GABAergic synapse	NA	NA	34	0.8000216	34	0.7574873	NA	NA
+KO00950	Isoquinoline alkaloid biosynthesis	NA	NA	26	0.40297094	28	0.7725263	NA	NA
+KO00521	Streptomycin biosynthesis	9	0.26789036	9	0.33800498	9	0.7807254	NA	NA
+KO00660	C5-Branched dibasic acid metabolism	3	0.9539703	NA	NA	3	0.7983295	NA	NA
+KO00430	Taurine and hypotaurine metabolism	NA	NA	NA	NA	10	0.8187702	NA	NA
+KO04975	Fat digestion and absorption	NA	NA	24	0.289854	23	0.8203458	NA	NA
+KO00350	Tyrosine metabolism	NA	NA	39	0.1298137	41	0.8274723	NA	NA
+KO05226	Gastric cancer	NA	NA	37	0.70203507	36	0.90352863	NA	NA
+KO04340	Hedgehog signaling pathway	NA	NA	9	0.6782313	9	0.90531135	NA	NA
+KO00100	Steroid biosynthesis	NA	NA	33	0.22462137	31	0.9085012	NA	NA
+KO04140	Autophagy - animal	NA	NA	NA	NA	43	0.90875465	NA	NA
+KO04137	Mitophagy - animal	NA	NA	25	0.2881873	25	0.90994936	NA	NA
+KO00010	Glycolysis / Gluconeogenesis	31	0.00046221213	30	0.35272312	30	0.9146278	NA	NA
+KO00480	Glutathione metabolism	98	0.7925994	97	0.0024160217	97	0.91946316	NA	NA
+KO04973	Carbohydrate digestion and absorption	7	0.9153831	NA	NA	7	0.93173397	NA	NA
+KO04112	Cell cycle - Caulobacter	NA	NA	NA	NA	3	0.9528494	NA	NA
+KO04964	Proximal tubule bicarbonate reclamation	NA	NA	6	0.91581225	6	0.9699206	NA	NA
+KO00564	Glycerophospholipid metabolism	NA	NA	34	0.9440299	33	0.97154903	NA	NA
+KO00625	Chloroalkane and chloroalkene degradation	7	0.09016087	7	0.416653	7	0.9720303	NA	NA
+KO05012	Parkinson's disease	66	0	66	0	NA	NA	NA	NA
+KO05016	Huntington's disease	92	0	92	0	NA	NA	NA	NA
+KO00190	Oxidative phosphorylation	85	6.61824E-05	85	0	NA	NA	NA	NA
+KO05010	Alzheimer's disease	109	0.00029278535	103	0	NA	NA	NA	NA
+KO04932	Non-alcoholic fatty liver disease (NAFLD)	54	0.0010540173	54	0	NA	NA	NA	NA
+KO04145	Phagosome	48	0.17473505	48	0	NA	NA	NA	NA
+KO05110	Vibrio cholerae infection	33	0.2782044	33	0	NA	NA	NA	NA
+KO05323	Rheumatoid arthritis	NA	NA	18	0	NA	NA	NA	NA
+KO04966	Collecting duct acid secretion	NA	NA	16	0.0002878253	NA	NA	NA	NA
+KO05152	Tuberculosis	NA	NA	39	0.0016801712	NA	NA	NA	NA
+KO05120	Epithelial cell signaling in Helicobacter pylori infection	NA	NA	27	0.0017473466	NA	NA	NA	NA
+KO05418	Fluid shear stress and atherosclerosis	33	0.121997	32	0.0022650203	NA	NA	NA	NA
+KO04972	Pancreatic secretion	NA	NA	53	0.0036148326	NA	NA	NA	NA
+KO02020	Two-component system	30	0.04533624	29	0.006454846	NA	NA	NA	NA
+KO04721	Synaptic vesicle cycle	NA	NA	45	0.0065723765	NA	NA	NA	NA
+KO03060	Protein export	19	0.08701662	19	0.008677207	NA	NA	NA	NA
+KO04260	Cardiac muscle contraction	15	0.51609445	15	0.008829499	NA	NA	NA	NA
+KO04080	Neuroactive ligand-receptor interaction	NA	NA	43	0.008859445	NA	NA	NA	NA
+KO04974	Protein digestion and absorption	NA	NA	39	0.012524673	NA	NA	NA	NA
+KO04723	Retrograde endocannabinoid signaling	NA	NA	66	0.019464236	NA	NA	NA	NA
+KO03050	Proteasome	60	0	60	0.020912865	NA	NA	NA	NA
+KO04141	Protein processing in endoplasmic reticulum	114	0.0002755627	112	0.021608042	NA	NA	NA	NA
+KO04075	Plant hormone signal transduction	NA	NA	53	0.023095716	NA	NA	NA	NA
+KO04022	cGMP - PKG signaling pathway	NA	NA	28	0.023247402	NA	NA	NA	NA
+KO00362	Benzoate degradation	27	0.1653462	24	0.025622474	NA	NA	NA	NA
+KO05100	Bacterial invasion of epithelial cells	21	0.9029765	20	0.04722503	NA	NA	NA	NA
+KO05204	Chemical carcinogenesis	9	0.6899496	9	0.048403922	NA	NA	NA	NA
+KO00710	Carbon fixation in photosynthetic organisms	14	0.006475214	14	0.048481453	NA	NA	NA	NA
+KO05131	Shigellosis	22	0.7107604	22	0.04975299	NA	NA	NA	NA
+KO03070	Bacterial secretion system	15	0.35175997	15	0.05113502	NA	NA	NA	NA
+KO04142	Lysosome	NA	NA	39	0.05114859	NA	NA	NA	NA
+KO00982	Drug metabolism - cytochrome P450	8	0.47873643	8	0.0669935	NA	NA	NA	NA
+KO00513	Various types of N-glycan biosynthesis	NA	NA	23	0.08124428	NA	NA	NA	NA
+KO04621	NOD-like receptor signaling pathway	30	0.15446378	29	0.08299607	NA	NA	NA	NA
+KO04530	Tight junction	NA	NA	29	0.084205	NA	NA	NA	NA
+KO00030	Pentose phosphate pathway	16	0.031582177	16	0.09193071	NA	NA	NA	NA
+KO00020	Citrate cycle (TCA cycle)	29	0	29	0.09319914	NA	NA	NA	NA
+KO04011	MAPK signaling pathway - yeast	NA	NA	98	0.105912104	NA	NA	NA	NA
+KO00220	Arginine biosynthesis	21	0.01991303	21	0.10631093	NA	NA	NA	NA
+KO04024	cAMP signaling pathway	NA	NA	33	0.10958795	NA	NA	NA	NA
+KO00510	N-Glycan biosynthesis	34	0.89838576	33	0.11054572	NA	NA	NA	NA
+KO00250	Alanine, aspartate and glutamate metabolism	31	0.00064991775	31	0.12066279	NA	NA	NA	NA
+KO05014	Amyotrophic lateral sclerosis (ALS)	NA	NA	11	0.123933	NA	NA	NA	NA
+KO05132	Salmonella infection	22	0.801976	22	0.12776265	NA	NA	NA	NA
+KO04070	Phosphatidylinositol signaling system	NA	NA	28	0.14574912	NA	NA	NA	NA
+KO04261	Adrenergic signaling in cardiomyocytes	NA	NA	26	0.16022769	NA	NA	NA	NA
+KO00980	Metabolism of xenobiotics by cytochrome P450	10	0.5399658	10	0.160951	NA	NA	NA	NA
+KO04914	Progesterone-mediated oocyte maturation	33	0.4369703	32	0.1641817	NA	NA	NA	NA
+KO04391	Hippo signaling pathway -fly	14	0.8987116	14	0.18555681	NA	NA	NA	NA
+KO04152	AMPK signaling pathway	NA	NA	39	0.20481478	NA	NA	NA	NA
+KO05130	Pathogenic Escherichia coli infection	25	0.43804842	24	0.2055531	NA	NA	NA	NA
+KO04926	Relaxin signaling pathway	NA	NA	27	0.2065626	NA	NA	NA	NA
+KO04611	Platelet activation	NA	NA	21	0.20771629	NA	NA	NA	NA
+KO04924	Renin secretion	NA	NA	16	0.2091948	NA	NA	NA	NA
+KO00592	alpha-Linolenic acid metabolism	4	0.3716505	4	0.22169806	NA	NA	NA	NA
+KO04724	Glutamatergic synapse	NA	NA	16	0.2240242	NA	NA	NA	NA
+KO00860	Porphyrin and chlorophyll metabolism	22	0.3303366	22	0.22410925	NA	NA	NA	NA
+KO04020	Calcium signaling pathway	NA	NA	21	0.22453487	NA	NA	NA	NA
+KO04626	Plant-pathogen interaction	10	0.25678328	10	0.22498614	NA	NA	NA	NA
+KO04728	Dopaminergic synapse	NA	NA	36	0.23013444	NA	NA	NA	NA
+KO04390	Hippo signaling pathway	NA	NA	18	0.23114756	NA	NA	NA	NA
+KO04740	Olfactory transduction	NA	NA	10	0.23196931	NA	NA	NA	NA
+KO04015	Rap1 signaling pathway	NA	NA	37	0.23508018	NA	NA	NA	NA
+KO00310	Lysine degradation	28	0.3720022	28	0.23659499	NA	NA	NA	NA
+KO04720	Long-term potentiation	NA	NA	28	0.23781832	NA	NA	NA	NA
+KO04014	Ras signaling pathway	NA	NA	52	0.23839667	NA	NA	NA	NA
+KO04744	Phototransduction	NA	NA	7	0.24781287	NA	NA	NA	NA
+KO00630	Glyoxylate and dicarboxylate metabolism	29	0.0059612966	29	0.26002398	NA	NA	NA	NA
+KO04114	Oocyte meiosis	NA	NA	45	0.26016563	NA	NA	NA	NA
+KO04151	PI3K-Akt signaling pathway	NA	NA	50	0.260456	NA	NA	NA	NA
+KO05133	Pertussis	NA	NA	17	0.2606749	NA	NA	NA	NA
+KO04921	Oxytocin signaling pathway	NA	NA	44	0.2649926	NA	NA	NA	NA
+KO04064	NF-kappa B signaling pathway	NA	NA	6	0.26664266	NA	NA	NA	NA
+KO04370	VEGF signaling pathway	NA	NA	21	0.27203396	NA	NA	NA	NA
+KO04962	Vasopressin-regulated water reabsorption	20	0.9728636	20	0.27385983	NA	NA	NA	NA
+KO00280	Valine, leucine and isoleucine degradation	30	0.0011991501	30	0.28394893	NA	NA	NA	NA
+KO04664	Fc epsilon RI signaling pathway	NA	NA	22	0.28558418	NA	NA	NA	NA
+KO04722	Neurotrophin signaling pathway	NA	NA	41	0.28929362	NA	NA	NA	NA
+KO05164	Influenza A	77	0.36308601	72	0.3151861	NA	NA	NA	NA
+KO04726	Serotonergic synapse	NA	NA	19	0.3163432	NA	NA	NA	NA
+KO05031	Amphetamine addiction	NA	NA	18	0.3169214	NA	NA	NA	NA
+KO04933	AGE-RAGE signaling pathway in diabetic complications	NA	NA	19	0.32141358	NA	NA	NA	NA
+KO04068	FoxO signaling pathway	NA	NA	35	0.3236863	NA	NA	NA	NA
+KO04016	MAPK signaling pathway - plant	NA	NA	14	0.32441366	NA	NA	NA	NA
+KO04071	Sphingolipid signaling pathway	NA	NA	43	0.33728632	NA	NA	NA	NA
+KO04658	Th1 and Th2 cell differentiation	NA	NA	8	0.33867088	NA	NA	NA	NA
+KO04540	Gap junction	NA	NA	27	0.34135768	NA	NA	NA	NA
+KO04013	MAPK signaling pathway - fly	NA	NA	35	0.3485395	NA	NA	NA	NA
+KO04725	Cholinergic synapse	NA	NA	18	0.34896353	NA	NA	NA	NA
+KO00640	Propanoate metabolism	26	0.020208573	26	0.34913534	NA	NA	NA	NA
+KO04659	Th17 cell differentiation	NA	NA	11	0.3510109	NA	NA	NA	NA
+KO04971	Gastric acid secretion	NA	NA	17	0.3512948	NA	NA	NA	NA
+KO00960	Tropane, piperidine and pyridine alkaloid biosynthesis	4	0.12227608	4	0.35143223	NA	NA	NA	NA
+KO04392	Hippo signaling pathway - multiple species	NA	NA	13	0.35180464	NA	NA	NA	NA
+KO04380	Osteoclast differentiation	NA	NA	8	0.35292923	NA	NA	NA	NA
+KO04912	GnRH signaling pathway	NA	NA	33	0.3648241	NA	NA	NA	NA
+KO05142	Chagas disease (American trypanosomiasis)	NA	NA	9	0.3737653	NA	NA	NA	NA
+KO05205	Proteoglycans in cancer	NA	NA	48	0.37669817	NA	NA	NA	NA
+KO04062	Chemokine signaling pathway	NA	NA	39	0.37771708	NA	NA	NA	NA
+KO04520	Adherens junction	NA	NA	18	0.37818038	NA	NA	NA	NA
+KO04662	B cell receptor signaling pathway	NA	NA	23	0.38211948	NA	NA	NA	NA
+KO05146	Amoebiasis	NA	NA	12	0.38251793	NA	NA	NA	NA
+KO04730	Long-term depression	NA	NA	16	0.3844731	NA	NA	NA	NA
+KO05030	Cocaine addiction	NA	NA	7	0.395124	NA	NA	NA	NA
+KO04712	Circadian rhythm - plant	NA	NA	5	0.403202	NA	NA	NA	NA
+KO04713	Circadian entrainment	NA	NA	16	0.40441543	NA	NA	NA	NA
+KO00620	Pyruvate metabolism	41	0.006049208	41	0.4052945	NA	NA	NA	NA
+KO04915	Estrogen signaling pathway	NA	NA	40	0.40647262	NA	NA	NA	NA
+KO05167	Kaposi's sarcoma-associated herpesvirus infection	NA	NA	31	0.4161711	NA	NA	NA	NA
+KO04320	Dorso-ventral axis formation	NA	NA	16	0.41865247	NA	NA	NA	NA
+KO05231	Choline metabolism in cancer	NA	NA	27	0.41911024	NA	NA	NA	NA
+KO04960	Aldosterone-regulated sodium reabsorption	NA	NA	15	0.42094216	NA	NA	NA	NA
+KO00400	Phenylalanine, tyrosine and tryptophan biosynthesis	76	0.00018975491	76	0.4215898	NA	NA	NA	NA
+KO05160	Hepatitis C	NA	NA	30	0.4252348	NA	NA	NA	NA
+KO05211	Renal cell carcinoma	NA	NA	27	0.42846712	NA	NA	NA	NA
+KO04670	Leukocyte transendothelial migration	NA	NA	22	0.44672996	NA	NA	NA	NA
+KO00040	Pentose and glucuronate interconversions	NA	NA	8	0.45469964	NA	NA	NA	NA
+KO00053	Ascorbate and aldarate metabolism	4	0.33260068	4	0.45544133	NA	NA	NA	NA
+KO00590	Arachidonic acid metabolism	8	0.7751457	8	0.45713457	NA	NA	NA	NA
+KO04750	Inflammatory mediator regulation of TRP channels	NA	NA	15	0.46902645	NA	NA	NA	NA
+KO04916	Melanogenesis	NA	NA	47	0.47146624	NA	NA	NA	NA
+KO05200	Pathways in cancer	NA	NA	57	0.47255388	NA	NA	NA	NA
+KO04978	Mineral absorption	NA	NA	11	0.4728132	NA	NA	NA	NA
+KO00900	Terpenoid backbone biosynthesis	21	0.8615048	21	0.47379568	NA	NA	NA	NA
+KO04660	T cell receptor signaling pathway	NA	NA	35	0.4748038	NA	NA	NA	NA
+KO05219	Bladder cancer	NA	NA	9	0.47736543	NA	NA	NA	NA
+KO05416	Viral myocarditis	6	0.16912015	6	0.4885163	NA	NA	NA	NA
+KO04310	Wnt signaling pathway	NA	NA	32	0.49148145	NA	NA	NA	NA
+KO04010	MAPK signaling pathway	NA	NA	47	0.4918557	NA	NA	NA	NA
+KO04650	Natural killer cell mediated cytotoxicity	NA	NA	27	0.50106204	NA	NA	NA	NA
+KO00072	Synthesis and degradation of ketone bodies	7	0.3608395	7	0.50174034	NA	NA	NA	NA
+KO04146	Peroxisome	56	0.021679288	56	0.5029524	NA	NA	NA	NA
+KO04970	Salivary secretion	NA	NA	14	0.508404	NA	NA	NA	NA
+KO04371	Apelin signaling pathway	NA	NA	31	0.51481813	NA	NA	NA	NA
+KO04918	Thyroid hormone synthesis	NA	NA	15	0.5247476	NA	NA	NA	NA
+KO04270	Vascular smooth muscle contraction	NA	NA	18	0.5259972	NA	NA	NA	NA
+KO00062	Fatty acid elongation	14	0.78028727	14	0.53498465	NA	NA	NA	NA
+KO00410	beta-Alanine metabolism	13	0.32545072	13	0.53676516	NA	NA	NA	NA
+KO04360	Axon guidance	NA	NA	32	0.5688532	NA	NA	NA	NA
+KO00910	Nitrogen metabolism	9	0.85182214	9	0.56948936	NA	NA	NA	NA
+KO04341	Hedgehog signaling pathway - fly	NA	NA	14	0.56961006	NA	NA	NA	NA
+KO05145	Toxoplasmosis	17	0.6575632	17	0.59277695	NA	NA	NA	NA
+KO00051	Fructose and mannose metabolism	13	0.66409576	13	0.6103375	NA	NA	NA	NA
+KO05215	Prostate cancer	NA	NA	23	0.6103833	NA	NA	NA	NA
+KO05020	Prion diseases	NA	NA	9	0.61211735	NA	NA	NA	NA
+KO00930	Caprolactam degradation	NA	NA	5	0.6128121	NA	NA	NA	NA
+KO04931	Insulin resistance	12	0.23175012	12	0.6234376	NA	NA	NA	NA
+KO00650	Butanoate metabolism	17	0.16541	17	0.6348947	NA	NA	NA	NA
+KO04620	Toll-like receptor signaling pathway	NA	NA	4	0.64009506	NA	NA	NA	NA
+KO05221	Acute myeloid leukemia	NA	NA	17	0.64589185	NA	NA	NA	NA
+KO00401	Novobiocin biosynthesis	2	0.5650572	2	0.65279096	NA	NA	NA	NA
+KO04217	Necroptosis	43	0.0016006761	42	0.657941	NA	NA	NA	NA
+KO04624	Toll and Imd signaling pathway	NA	NA	7	0.66268086	NA	NA	NA	NA
+KO04922	Glucagon signaling pathway	NA	NA	34	0.6953606	NA	NA	NA	NA
+KO00740	Riboflavin metabolism	NA	NA	11	0.6983987	NA	NA	NA	NA
+KO05410	Hypertrophic cardiomyopathy (HCM)	5	0.05865209	5	0.7037189	NA	NA	NA	NA
+KO04911	Insulin secretion	NA	NA	8	0.70705295	NA	NA	NA	NA
+KO04917	Prolactin signaling pathway	NA	NA	21	0.70803756	NA	NA	NA	NA
+KO04072	Phospholipase D signaling pathway	NA	NA	32	0.7100722	NA	NA	NA	NA
+KO04350	TGF-beta signaling pathway	NA	NA	14	0.73916924	NA	NA	NA	NA
+KO01524	Platinum drug resistance	21	0.5329266	21	0.739706	NA	NA	NA	NA
+KO04630	Jak-STAT signaling pathway	NA	NA	13	0.7486369	NA	NA	NA	NA
+KO04742	Taste transduction	NA	NA	3	0.7607875	NA	NA	NA	NA
+KO00760	Nicotinate and nicotinamide metabolism	26	0.6607495	25	0.76574457	NA	NA	NA	NA
+KO04913	Ovarian Steroidogenesis	NA	NA	3	0.76796544	NA	NA	NA	NA
+KO04710	Circadian rhythm	NA	NA	10	0.76915747	NA	NA	NA	NA
+KO04923	Regulation of lipolysis in adipocyte	NA	NA	18	0.8161433	NA	NA	NA	NA
+KO00940	Phenylpropanoid biosynthesis	NA	NA	3	0.8520494	NA	NA	NA	NA
+KO04510	Focal adhesion	NA	NA	32	0.8727001	NA	NA	NA	NA
+KO00440	Phosphonate and phosphinate metabolism	2	0.7848078	2	0.8738944	NA	NA	NA	NA
+KO05214	Glioma	NA	NA	28	0.8778306	NA	NA	NA	NA
+KO00232	Caffeine metabolism	2	0.82723236	2	0.87816566	NA	NA	NA	NA
+KO05140	Leishmaniasis	NA	NA	5	0.87859994	NA	NA	NA	NA
+KO04550	Signaling pathways regulating pluripotency of stem cells	NA	NA	14	0.88008296	NA	NA	NA	NA
+KO04215	Apoptosis - multiple species	2	0.86565495	2	0.88042665	NA	NA	NA	NA
+KO02026	Biofilm formation - Escherichia coli	2	0.11487398	2	0.9036092	NA	NA	NA	NA
+KO00750	Vitamin B6 metabolism	7	0.58457476	7	0.91339344	NA	NA	NA	NA
+KO02025	Biofilm formation - Pseudomonas aeruginosa	NA	NA	7	0.91644067	NA	NA	NA	NA
+KO00300	Lysine biosynthesis	13	0.17284222	13	0.9165403	NA	NA	NA	NA
+KO04622	RIG-I-like receptor signaling pathway	7	0.9057693	7	0.9189655	NA	NA	NA	NA
+KO00909	Sesquiterpenoid and triterpenoid biosynthesis	NA	NA	2	0.9226892	NA	NA	NA	NA
+KO04666	Fc gamma R-mediated phagocytosis	NA	NA	23	0.9229679	NA	NA	NA	NA
+KO05213	Endometrial cancer	NA	NA	23	0.94964504	NA	NA	NA	NA
+KO05322	Systemic lupus erythematosus	22	0	NA	NA	NA	NA	NA	NA
+KO05169	Epstein-Barr virus infection	92	0.00026025364	NA	NA	NA	NA	NA	NA
+KO00563	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis	16	0.048758682	NA	NA	NA	NA	NA	NA
+KO05166	HTLV-I infection	64	0.050626863	NA	NA	NA	NA	NA	NA
+KO00720	Carbon fixation pathways in prokaryotes	14	0.08148891	NA	NA	NA	NA	NA	NA
+KO05412	Arrhythmogenic right ventricular cardiomyopathy (ARVC)	4	0.10272265	NA	NA	NA	NA	NA	NA
+KO00770	Pantothenate and CoA biosynthesis	17	0.10393524	NA	NA	NA	NA	NA	NA
+KO00130	Ubiquinone and other terpenoid-quinone biosynthesis	23	0.1728394	NA	NA	NA	NA	NA	NA
+KO04930	Type II diabetes mellitus	5	0.27518663	NA	NA	NA	NA	NA	NA
+KO04066	HIF-1 signaling pathway	19	0.33862478	NA	NA	NA	NA	NA	NA
+KO04122	Sulfur relay system	10	0.38898286	NA	NA	NA	NA	NA	NA
+KO05222	Small cell lung cancer	5	0.46026072	NA	NA	NA	NA	NA	NA
+KO04139	Mitophagy - yeast	48	0.46200162	NA	NA	NA	NA	NA	NA
+KO00623	Toluene degradation	2	0.5500367	NA	NA	NA	NA	NA	NA
+KO04657	IL-17 signaling pathway	10	0.6509936	NA	NA	NA	NA	NA	NA
+KO05034	Alcoholism	55	0.6588265	NA	NA	NA	NA	NA	NA
+KO05143	African trypanosomiasis	3	0.8018147	NA	NA	NA	NA	NA	NA
+KO05230	Central carbon metabolism in cancer	17	0.83207893	NA	NA	NA	NA	NA	NA
+KO00565	Ether lipid metabolism	7	0.83215547	NA	NA	NA	NA	NA	NA
+KO05414	Dilated cardiomyopathy (DCM)	7	0.89631397	NA	NA	NA	NA	NA	NA
+KO05203	Viral carcinogenesis	67	0.899158	NA	NA	NA	NA	NA	NA
+KO00730	Thiamine metabolism	10	0.903378	NA	NA	NA	NA	NA	NA
+KO04668	TNF signaling pathway	9	0.9410458	NA	NA	NA	NA	NA	NA
+KO04745	Phototransduction - fly	12	0.9510792	NA	NA	NA	NA	NA	NA
+KO04210	Apoptosis	21	0.99824196	NA	NA	NA	NA	NA	NA
