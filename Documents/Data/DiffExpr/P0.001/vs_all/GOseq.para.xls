@@ -1,0 +1,1403 @@
+GO term	description	size	FDR (vs coni)	size	FDR (vs glen)	size	FDR (vs symp)	size	FDR (vs spor)
+GO:0005576	extracellular region	NA	NA	174	2.44E-05	159	8.58E-10	185	1.00E+00
+GO:0005975	carbohydrate metabolic process	NA	NA	NA	NA	278	5.91E-08	NA	NA
+GO:0003824	catalytic activity	3239	6.99E-11	3176	8.97E-01	2998	1.37E-07	NA	NA
+GO:0016491	oxidoreductase activity	550	3.90E-03	516	1.00E+00	487	2.30E-05	NA	NA
+GO:0008236	serine-type peptidase activity	166	4.15E-03	155	5.07E-12	138	2.78E-05	157	5.87E-05
+GO:0017171	serine hydrolase activity	166	4.15E-03	155	5.07E-12	138	2.78E-05	157	5.87E-05
+GO:0031225	anchored component of membrane	NA	NA	NA	NA	32	3.78E-05	NA	NA
+GO:0003674	molecular_function	5395	6.73E-47	5342	1.00E+00	5090	4.10E-05	NA	NA
+GO:0006040	amino sugar metabolic process	NA	NA	40	1.00E+00	40	4.10E-05	NA	NA
+GO:0004252	serine-type endopeptidase activity	131	1.65E-01	117	2.48E-10	106	4.51E-05	123	6.86E-03
+GO:0044421	extracellular region part	NA	NA	59	1.18E-05	57	4.51E-05	75	8.45E-02
+GO:0004553	hydrolase activity, hydrolyzing O-glycosyl compounds	NA	NA	75	9.34E-02	71	4.51E-05	NA	NA
+GO:0030312	external encapsulating structure	NA	NA	NA	NA	35	4.51E-05	NA	NA
+GO:0005618	cell wall	NA	NA	NA	NA	35	4.51E-05	NA	NA
+GO:0045229	external encapsulating structure organization	NA	NA	NA	NA	96	4.51E-05	NA	NA
+GO:0071555	cell wall organization	NA	NA	NA	NA	96	4.51E-05	NA	NA
+GO:0009405	pathogenesis	NA	NA	78	7.21E-01	65	4.85E-05	79	1.00E+00
+GO:0006022	aminoglycan metabolic process	NA	NA	NA	NA	36	4.85E-05	NA	NA
+GO:0016798	hydrolase activity, acting on glycosyl bonds	NA	NA	84	5.26E-02	81	5.30E-05	NA	NA
+GO:0007586	digestion	28	1.91E-02	25	1.64E-05	24	5.34E-05	26	9.71E-03
+GO:0071554	cell wall organization or biogenesis	NA	NA	NA	NA	118	5.72E-05	NA	NA
+GO:1901071	glucosamine-containing compound metabolic process	NA	NA	NA	NA	37	5.72E-05	NA	NA
+GO:0005976	polysaccharide metabolic process	NA	NA	NA	NA	67	5.87E-05	NA	NA
+GO:0016757	transferase activity, transferring glycosyl groups	NA	NA	NA	NA	126	1.49E-04	NA	NA
+GO:0006030	chitin metabolic process	NA	NA	NA	NA	34	1.65E-04	NA	NA
+GO:0051704	multi-organism process	NA	NA	168	5.20E-01	155	3.34E-04	166	1.00E+00
+GO:0000050	urea cycle	9	2.62E-02	NA	NA	9	5.14E-04	NA	NA
+GO:0044723	carbohydrate metabolic process	219	1.70E-01	NA	NA	202	5.26E-04	NA	NA
+GO:1901564	organonitrogen compound metabolic process	590	4.40E-15	NA	NA	577	6.45E-04	NA	NA
+GO:0044281	small molecule metabolic process	739	1.70E-20	NA	NA	722	7.18E-04	NA	NA
+GO:0005615	extracellular space	NA	NA	50	1.36E-06	47	7.49E-04	63	2.23E-02
+GO:0016758	transferase activity, transferring hexosyl groups	NA	NA	NA	NA	92	1.23E-03	NA	NA
+GO:0009277	fungal-type cell wall	NA	NA	NA	NA	22	1.71E-03	NA	NA
+GO:0031224	intrinsic component of membrane	NA	NA	NA	NA	1118	1.90E-03	NA	NA
+GO:1901135	carbohydrate derivative metabolic process	250	2.54E-09	NA	NA	235	2.15E-03	NA	NA
+GO:0055114	oxidation-reduction process	435	5.53E-03	407	1.00E+00	385	2.62E-03	NA	NA
+GO:0008194	UDP-glycosyltransferase activity	NA	NA	NA	NA	44	2.62E-03	NA	NA
+GO:1901136	carbohydrate derivative catabolic process	70	2.45E-02	NA	NA	56	4.46E-03	NA	NA
+GO:0010383	cell wall polysaccharide metabolic process	NA	NA	NA	NA	19	5.32E-03	NA	NA
+GO:0004497	monooxygenase activity	NA	NA	103	2.74E-01	98	7.14E-03	107	1.00E+00
+GO:0006525	arginine metabolic process	18	2.46E-01	NA	NA	19	7.14E-03	NA	NA
+GO:0005886	plasma membrane	NA	NA	NA	NA	290	8.69E-03	NA	NA
+GO:0019627	urea metabolic process	14	6.96E-02	NA	NA	14	9.30E-03	NA	NA
+GO:0006081	cellular aldehyde metabolic process	29	2.70E-02	NA	NA	27	1.11E-02	NA	NA
+GO:0008152	metabolic process	3865	2.09E-69	3820	1.00E+00	3640	1.34E-02	NA	NA
+GO:0008150	biological_process	5439	1.40E-53	NA	NA	5143	1.42E-02	NA	NA
+GO:0006037	cell wall chitin metabolic process	NA	NA	NA	NA	10	1.42E-02	NA	NA
+GO:0020037	heme binding	NA	NA	94	1.00E+00	88	1.45E-02	NA	NA
+GO:0046906	tetrapyrrole binding	NA	NA	94	1.00E+00	88	1.45E-02	NA	NA
+GO:0006026	aminoglycan catabolic process	NA	NA	NA	NA	23	1.56E-02	NA	NA
+GO:0044036	cell wall macromolecule metabolic process	NA	NA	NA	NA	23	1.58E-02	NA	NA
+GO:0072350	tricarboxylic acid metabolic process	30	2.99E-03	NA	NA	30	1.62E-02	NA	NA
+GO:0008061	chitin binding	NA	NA	NA	NA	24	1.77E-02	NA	NA
+GO:0004181	metallocarboxypeptidase activity	NA	NA	11	1.00E+00	6	1.89E-02	NA	NA
+GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	NA	NA	127	8.97E-01	121	1.91E-02	131	1.00E+00
+GO:0046348	amino sugar catabolic process	NA	NA	NA	NA	24	1.91E-02	NA	NA
+GO:1901072	glucosamine-containing compound catabolic process	NA	NA	NA	NA	24	1.91E-02	NA	NA
+GO:0044710	metabolic process	1924	4.11E-22	NA	NA	1782	2.35E-02	NA	NA
+GO:0019953	sexual reproduction	NA	NA	11	4.61E-02	12	3.16E-02	NA	NA
+GO:0044425	membrane part	NA	NA	NA	NA	1430	3.16E-02	NA	NA
+GO:0044262	cellular carbohydrate metabolic process	NA	NA	NA	NA	81	3.16E-02	NA	NA
+GO:1901565	organonitrogen compound catabolic process	142	2.40E-03	NA	NA	129	3.24E-02	NA	NA
+GO:0016209	antioxidant activity	NA	NA	NA	NA	42	3.25E-02	NA	NA
+GO:0031505	fungal-type cell wall organization	NA	NA	NA	NA	51	3.33E-02	NA	NA
+GO:0008233	peptidase activity	497	1.81E-01	539	8.51E-03	446	4.21E-02	462	4.29E-02
+GO:0071852	fungal-type cell wall organization or biogenesis	NA	NA	NA	NA	73	4.21E-02	NA	NA
+GO:0016906	sterol 3-beta-glucosyltransferase activity	NA	NA	NA	NA	13	4.21E-02	NA	NA
+GO:0102205	cholesterol allpha-glucosyltransferase activity	NA	NA	NA	NA	13	4.21E-02	NA	NA
+GO:0102203	brassicasterol glucosyltransferase activity	NA	NA	NA	NA	13	4.21E-02	NA	NA
+GO:0102202	soladodine glucosyltransferase activity	NA	NA	NA	NA	13	4.21E-02	NA	NA
+GO:0030259	lipid glycosylation	NA	NA	NA	NA	13	4.21E-02	NA	NA
+GO:0071966	fungal-type cell wall polysaccharide metabolic process	NA	NA	NA	NA	8	4.48E-02	NA	NA
+GO:0006032	chitin catabolic process	NA	NA	NA	NA	21	4.94E-02	NA	NA
+GO:0006508	proteolysis	383	4.93E-03	375	4.83E-05	351	5.94E-02	365	1.89E-01
+GO:0006099	tricarboxylic acid cycle	29	7.39E-03	NA	NA	29	5.94E-02	NA	NA
+GO:0006101	citrate metabolic process	29	7.39E-03	NA	NA	29	5.94E-02	NA	NA
+GO:0044264	cellular polysaccharide metabolic process	NA	NA	NA	NA	29	6.11E-02	NA	NA
+GO:0070011	peptidase activity, acting on L-amino acid peptides	477	1.85E-01	511	1.04E-02	424	6.34E-02	441	3.78E-02
+GO:0006526	arginine biosynthetic process	14	2.35E-01	NA	NA	14	6.34E-02	NA	NA
+GO:0035251	UDP-glucosyltransferase activity	NA	NA	NA	NA	21	6.34E-02	NA	NA
+GO:0043436	oxoacid metabolic process	429	2.69E-14	NA	NA	427	7.08E-02	NA	NA
+GO:0019752	carboxylic acid metabolic process	413	1.92E-15	NA	NA	413	7.11E-02	NA	NA
+GO:0000786	nucleosome	21	1.55E-08	22	1.18E-05	21	7.12E-02	22	3.95E-01
+GO:1990104	DNA bending complex	21	1.55E-08	22	1.18E-05	21	7.12E-02	22	3.95E-01
+GO:0006082	organic acid metabolic process	430	3.30E-14	NA	NA	428	7.12E-02	NA	NA
+GO:0004100	chitin synthase activity	NA	NA	NA	NA	15	7.72E-02	NA	NA
+GO:0000982	transcription factor activity, RNA polymerase II proximal promoter sequence-specific DNA binding	NA	NA	NA	NA	58	7.72E-02	NA	NA
+GO:0071941	nitrogen cycle metabolic process	NA	NA	NA	NA	22	7.92E-02	NA	NA
+GO:0016021	integral component of membrane	NA	NA	NA	NA	1090	9.13E-02	NA	NA
+GO:0004180	carboxypeptidase activity	NA	NA	31	6.62E-02	23	9.34E-02	25	2.56E-01
+GO:0000003	reproduction	NA	NA	43	4.61E-02	41	9.54E-02	NA	NA
+GO:0044114	development of symbiont in host	5	2.89E-01	NA	NA	5	9.54E-02	NA	NA
+GO:0044115	development of symbiont involved in interaction with host	5	2.89E-01	NA	NA	5	9.54E-02	NA	NA
+GO:0044111	development involved in symbiotic interaction	5	2.89E-01	NA	NA	5	9.54E-02	NA	NA
+GO:0051273	beta-glucan metabolic process	NA	NA	NA	NA	10	9.54E-02	NA	NA
+GO:0005506	iron ion binding	NA	NA	93	1.00E+00	86	9.96E-02	NA	NA
+GO:0006553	lysine metabolic process	16	1.97E-03	16	9.04E-03	16	1.05E-01	NA	NA
+GO:0009084	glutamine family amino acid biosynthetic process	22	2.29E-01	NA	NA	24	1.06E-01	NA	NA
+GO:0000144	cellular bud neck septin ring	NA	NA	NA	NA	5	1.07E-01	NA	NA
+GO:0042256	mature ribosome assembly	NA	NA	NA	NA	5	1.08E-01	NA	NA
+GO:0046527	glucosyltransferase activity	NA	NA	NA	NA	24	1.10E-01	NA	NA
+GO:0016020	membrane	NA	NA	NA	NA	1222	1.15E-01	NA	NA
+GO:0000987	proximal promoter sequence-specific DNA binding	NA	NA	NA	NA	53	1.23E-01	NA	NA
+GO:0001159	proximal promoter sequence-specific DNA binding	NA	NA	NA	NA	53	1.23E-01	NA	NA
+GO:0070085	glycosylation	NA	NA	NA	NA	86	1.33E-01	NA	NA
+GO:1901566	organonitrogen compound biosynthetic process	345	4.02E-12	NA	NA	344	1.38E-01	NA	NA
+GO:1901605	alpha-amino acid metabolic process	184	2.36E-09	NA	NA	186	1.38E-01	NA	NA
+GO:0016787	hydrolase activity	1578	1.11E-01	1542	5.33E-02	1422	1.43E-01	1506	1.00E+00
+GO:0005575	cellular_component	5146	2.67E-58	NA	NA	4955	1.55E-01	NA	NA
+GO:0000788	nuclear nucleosome	8	1.67E-03	8	7.81E-02	8	1.60E-01	8	1.00E+00
+GO:0044699	biological_process	3444	1.06E-15	NA	NA	3261	1.80E-01	NA	NA
+GO:0044703	multi-organism reproductive process	NA	NA	18	2.48E-01	19	1.89E-01	NA	NA
+GO:0009064	glutamine family amino acid metabolic process	52	3.69E-03	NA	NA	57	1.89E-01	NA	NA
+GO:0006520	cellular amino acid metabolic process	247	1.51E-09	NA	NA	249	2.11E-01	NA	NA
+GO:0000298	endopolyphosphatase activity	NA	NA	NA	NA	6	2.17E-01	NA	NA
+GO:0044815	DNA packaging complex	26	3.22E-08	27	2.44E-05	26	2.24E-01	27	5.42E-01
+GO:0009514	glyoxysome	2	2.89E-01	NA	NA	2	2.27E-01	NA	NA
+GO:0043565	sequence-specific DNA binding	NA	NA	178	1.00E+00	159	2.27E-01	NA	NA
+GO:0016645	oxidoreductase activity, acting on the CH-NH group of donors	NA	NA	NA	NA	21	2.43E-01	NA	NA
+GO:0070887	cellular response to chemical stimulus	NA	NA	NA	NA	121	2.47E-01	NA	NA
+GO:0044283	small molecule biosynthetic process	276	2.05E-04	NA	NA	273	2.66E-01	NA	NA
+GO:0008235	metalloexopeptidase activity	NA	NA	NA	NA	23	2.66E-01	NA	NA
+GO:0000272	polysaccharide catabolic process	NA	NA	NA	NA	40	2.66E-01	NA	NA
+GO:0008483	transaminase activity	20	4.78E-02	NA	NA	21	2.72E-01	NA	NA
+GO:0016769	transferase activity, transferring nitrogenous groups	20	4.78E-02	NA	NA	21	2.72E-01	NA	NA
+GO:0016722	oxidoreductase activity, oxidizing metal ions	NA	NA	NA	NA	7	2.79E-01	NA	NA
+GO:0000399	cellular bud neck septin structure	NA	NA	NA	NA	7	2.87E-01	NA	NA
+GO:0008238	exopeptidase activity	NA	NA	73	5.20E-01	64	2.95E-01	68	1.00E+00
+GO:0022610	biological adhesion	NA	NA	NA	NA	21	2.95E-01	NA	NA
+GO:0032501	multicellular organismal process	NA	NA	174	6.40E-01	164	3.18E-01	169	1.00E+00
+GO:0015926	glucosidase activity	NA	NA	24	3.85E-01	22	3.38E-01	NA	NA
+GO:0043603	cellular amide metabolic process	101	2.94E-01	NA	NA	101	3.38E-01	NA	NA
+GO:0003700	DNA binding transcription factor activity	NA	NA	NA	NA	193	3.38E-01	NA	NA
+GO:0001071	DNA binding transcription factor activity	NA	NA	NA	NA	193	3.38E-01	NA	NA
+GO:0009085	lysine biosynthetic process	14	1.79E-02	14	6.62E-02	14	3.49E-01	NA	NA
+GO:0006979	response to oxidative stress	NA	NA	NA	NA	76	3.49E-01	NA	NA
+GO:0040007	growth	NA	NA	NA	NA	76	3.56E-01	86	1.00E+00
+GO:0034406	cell wall beta-glucan metabolic process	NA	NA	NA	NA	3	3.60E-01	NA	NA
+GO:0070879	fungal-type cell wall beta-glucan metabolic process	NA	NA	NA	NA	3	3.60E-01	NA	NA
+GO:0008375	acetylglucosaminyltransferase activity	NA	NA	NA	NA	23	3.61E-01	NA	NA
+GO:0000011	vacuole inheritance	NA	NA	NA	NA	8	3.69E-01	NA	NA
+GO:0035690	cellular response to drug	NA	NA	NA	NA	15	3.89E-01	NA	NA
+GO:0000909	sporocarp development involved in sexual reproduction	NA	NA	7	2.20E-01	8	4.10E-01	NA	NA
+GO:0034599	cellular response to oxidative stress	NA	NA	NA	NA	55	4.10E-01	NA	NA
+GO:1900376	regulation of secondary metabolite biosynthetic process	9	3.84E-01	8	2.48E-01	8	4.10E-01	NA	NA
+GO:0004568	chitinase activity	NA	NA	NA	NA	16	4.17E-01	NA	NA
+GO:0043169	cation binding	NA	NA	1334	1.00E+00	1258	4.22E-01	1312	1.00E+00
+GO:0000142	cellular bud neck contractile ring	NA	NA	NA	NA	3	4.23E-01	NA	NA
+GO:0005777	peroxisome	NA	NA	NA	NA	65	4.23E-01	NA	NA
+GO:0003786	actin lateral binding	NA	NA	NA	NA	3	4.23E-01	NA	NA
+GO:0046394	carboxylic acid biosynthetic process	188	1.87E-04	NA	NA	188	4.37E-01	NA	NA
+GO:0016053	organic acid biosynthetic process	188	1.87E-04	NA	NA	188	4.37E-01	NA	NA
+GO:0032993	protein-DNA complex	42	6.03E-11	43	8.59E-04	41	4.48E-01	42	1.00E+00
+GO:0044707	multicellular organismal process	NA	NA	169	1.00E+00	159	4.50E-01	161	1.00E+00
+GO:0006073	cellular glucan metabolic process	NA	NA	NA	NA	25	4.50E-01	NA	NA
+GO:0044042	glucan metabolic process	NA	NA	NA	NA	25	4.50E-01	NA	NA
+GO:0004175	endopeptidase activity	NA	NA	397	1.96E-01	321	4.57E-01	333	1.98E-01
+GO:0046982	protein heterodimerization activity	42	8.53E-04	43	9.51E-04	41	4.57E-01	43	1.00E+00
+GO:0046914	transition metal ion binding	NA	NA	NA	NA	423	4.57E-01	432	1.00E+00
+GO:0004753	saccharopine dehydrogenase activity	NA	NA	3	2.95E-01	3	4.57E-01	NA	NA
+GO:0043604	amide biosynthetic process	44	6.29E-02	NA	NA	45	4.57E-01	NA	NA
+GO:0005951	carbamoyl-phosphate synthase complex	NA	NA	NA	NA	3	4.57E-01	NA	NA
+GO:0022904	respiratory electron transport chain	NA	NA	NA	NA	38	4.57E-01	NA	NA
+GO:1902906	proteasome storage granule assembly	NA	NA	NA	NA	3	4.57E-01	NA	NA
+GO:0000976	transcription regulatory region sequence-specific DNA binding	NA	NA	NA	NA	68	4.57E-01	NA	NA
+GO:0005275	amine transmembrane transporter activity	NA	NA	NA	NA	3	4.57E-01	NA	NA
+GO:0015837	amine transport	NA	NA	NA	NA	3	4.57E-01	NA	NA
+GO:0006097	glyoxylate cycle	NA	NA	NA	NA	3	4.57E-01	NA	NA
+GO:0000978	RNA polymerase II proximal promoter sequence-specific DNA binding	NA	NA	NA	NA	45	4.57E-01	NA	NA
+GO:0046872	metal ion binding	NA	NA	1328	1.00E+00	1252	4.58E-01	1306	1.00E+00
+GO:0042255	ribosome assembly	9	1.16E-01	NA	NA	9	4.64E-01	NA	NA
+GO:0004503	monophenol monooxygenase activity	NA	NA	23	1.00E+00	25	4.75E-01	32	1.00E+00
+GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen	NA	NA	23	1.00E+00	25	4.75E-01	32	1.00E+00
+GO:0030584	sporocarp development	9	4.22E-01	8	2.48E-01	9	4.81E-01	NA	NA
+GO:0030582	reproductive fruiting body development	9	4.22E-01	8	2.48E-01	9	4.81E-01	NA	NA
+GO:0075259	spore-bearing structure development	9	4.22E-01	8	2.48E-01	9	4.81E-01	NA	NA
+GO:0008652	cellular amino acid biosynthetic process	132	1.94E-04	133	1.00E+00	132	4.81E-01	NA	NA
+GO:0015036	disulfide oxidoreductase activity	NA	NA	NA	NA	17	4.81E-01	NA	NA
+GO:0022900	electron transport chain	NA	NA	NA	NA	40	5.14E-01	NA	NA
+GO:0045121	membrane raft	NA	NA	NA	NA	9	5.16E-01	NA	NA
+GO:0032161	cleavage apparatus septin structure	NA	NA	NA	NA	10	6.37E-01	NA	NA
+GO:0010927	cellular component assembly involved in morphogenesis	NA	NA	NA	NA	29	6.37E-01	NA	NA
+GO:0016646	oxidoreductase activity, acting on the CH-NH group of donors, NAD or NADP as acceptor	NA	NA	NA	NA	19	6.37E-01	NA	NA
+GO:1901607	alpha-amino acid biosynthetic process	124	4.91E-04	NA	NA	124	6.39E-01	NA	NA
+GO:0048608	reproductive structure development	NA	NA	11	6.13E-01	10	6.41E-01	NA	NA
+GO:0009117	nucleotide metabolic process	172	3.40E-13	NA	NA	169	6.42E-01	NA	NA
+GO:0007119	budding cell isotropic bud growth	NA	NA	NA	NA	4	6.42E-01	NA	NA
+GO:0004322	ferroxidase activity	NA	NA	NA	NA	4	6.42E-01	NA	NA
+GO:0016724	oxidoreductase activity, oxidizing metal ions, oxygen as acceptor	NA	NA	NA	NA	4	6.42E-01	NA	NA
+GO:0048039	ubiquinone binding	NA	NA	NA	NA	4	6.42E-01	NA	NA
+GO:0044764	multi-organism cellular process	NA	NA	NA	NA	29	6.69E-01	NA	NA
+GO:0006826	iron ion transport	NA	NA	NA	NA	4	6.70E-01	NA	NA
+GO:0032432	actin filament bundle	NA	NA	NA	NA	4	6.70E-01	NA	NA
+GO:0016052	carbohydrate catabolic process	NA	NA	NA	NA	75	6.96E-01	NA	NA
+GO:0006047	UDP-N-acetylglucosamine metabolic process	NA	NA	NA	NA	4	6.96E-01	NA	NA
+GO:0006048	UDP-N-acetylglucosamine biosynthetic process	NA	NA	NA	NA	4	6.96E-01	NA	NA
+GO:0006753	nucleoside phosphate metabolic process	175	9.78E-13	NA	NA	172	6.99E-01	NA	NA
+GO:0045239	tricarboxylic acid cycle enzyme complex	4	2.07E-01	NA	NA	4	6.99E-01	NA	NA
+GO:0042450	arginine biosynthetic process via ornithine	4	2.07E-01	NA	NA	4	6.99E-01	NA	NA
+GO:0030062	mitochondrial tricarboxylic acid cycle enzyme complex	4	2.07E-01	NA	NA	4	6.99E-01	NA	NA
+GO:0045240	dihydrolipoyl dehydrogenase complex	4	2.07E-01	NA	NA	4	6.99E-01	NA	NA
+GO:0045252	oxoglutarate dehydrogenase complex	4	2.07E-01	NA	NA	4	6.99E-01	NA	NA
+GO:0005947	mitochondrial alpha-ketoglutarate dehydrogenase complex	4	2.07E-01	NA	NA	4	6.99E-01	NA	NA
+GO:0009353	mitochondrial oxoglutarate dehydrogenase complex	4	2.07E-01	NA	NA	4	6.99E-01	NA	NA
+GO:0033845	hydroxymethylfurfural reductase (NADPH) activity	NA	NA	NA	NA	4	6.99E-01	NA	NA
+GO:0046487	glyoxylate metabolic process	NA	NA	NA	NA	4	6.99E-01	NA	NA
+GO:0030446	hyphal cell wall	NA	NA	NA	NA	4	6.99E-01	NA	NA
+GO:0007155	cell adhesion	NA	NA	NA	NA	19	6.99E-01	NA	NA
+GO:0033833	hydroxymethylfurfural reductase (NADH) activity	NA	NA	NA	NA	4	6.99E-01	NA	NA
+GO:0004602	glutathione peroxidase activity	NA	NA	NA	NA	4	6.99E-01	NA	NA
+GO:0033859	furaldehyde metabolic process	NA	NA	NA	NA	4	6.99E-01	NA	NA
+GO:0004088	carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity	NA	NA	NA	NA	4	6.99E-01	NA	NA
+GO:0016668	oxidoreductase activity, acting on a sulfur group of donors, NAD(P) as acceptor	NA	NA	NA	NA	11	7.16E-01	NA	NA
+GO:0048037	cofactor binding	219	3.39E-02	NA	NA	200	7.22E-01	NA	NA
+GO:0009225	nucleotide-sugar metabolic process	NA	NA	NA	NA	11	7.22E-01	NA	NA
+GO:0009055	electron transfer activity	32	4.21E-01	NA	NA	32	7.26E-01	NA	NA
+GO:0043455	regulation of secondary metabolic process	NA	NA	10	4.14E-01	11	7.28E-01	NA	NA
+GO:0019878	lysine biosynthetic process via aminoadipic acid	11	2.83E-01	11	3.58E-01	11	7.42E-01	NA	NA
+GO:0055086	nucleobase-containing small molecule metabolic process	208	2.41E-12	NA	NA	204	7.42E-01	NA	NA
+GO:0046349	amino sugar biosynthetic process	NA	NA	NA	NA	11	7.42E-01	NA	NA
+GO:0042493	response to drug	NA	NA	NA	NA	20	7.42E-01	NA	NA
+GO:0006879	cellular iron ion homeostasis	NA	NA	NA	NA	21	7.50E-01	NA	NA
+GO:0072528	pyrimidine-containing compound biosynthetic process	30	4.04E-05	NA	NA	30	7.57E-01	NA	NA
+GO:0006121	mitochondrial electron transport, succinate to ubiquinone	NA	NA	NA	NA	5	8.04E-01	NA	NA
+GO:0042579	microbody	NA	NA	88	1.00E+00	77	8.21E-01	NA	NA
+GO:0044712	catabolic process	409	3.23E-01	348	1.00E+00	331	8.29E-01	NA	NA
+GO:0030258	lipid modification	NA	NA	NA	NA	54	8.29E-01	NA	NA
+GO:0016746	transferase activity, transferring acyl groups	NA	NA	NA	NA	151	8.49E-01	NA	NA
+GO:0000981	RNA polymerase II transcription factor activity, sequence-specific DNA binding	NA	NA	NA	NA	133	8.52E-01	NA	NA
+GO:0006074	(1->3)-beta-D-glucan metabolic process	NA	NA	NA	NA	5	8.59E-01	NA	NA
+GO:0004099	chitin deacetylase activity	NA	NA	NA	NA	5	8.61E-01	NA	NA
+GO:0006591	ornithine metabolic process	NA	NA	NA	NA	12	8.73E-01	NA	NA
+GO:0047134	protein-disulfide reductase activity	NA	NA	NA	NA	5	8.73E-01	NA	NA
+GO:0045454	cell redox homeostasis	NA	NA	NA	NA	32	8.79E-01	NA	NA
+GO:0004364	glutathione transferase activity	NA	NA	NA	NA	5	8.82E-01	NA	NA
+GO:0030447	filamentous growth	NA	NA	NA	NA	55	8.82E-01	NA	NA
+GO:0004791	thioredoxin-disulfide reductase activity	NA	NA	NA	NA	5	8.82E-01	NA	NA
+GO:0009986	cell surface	NA	NA	NA	NA	21	8.82E-01	NA	NA
+GO:0006091	generation of precursor metabolites and energy	98	1.68E-04	NA	NA	98	9.03E-01	NA	NA
+GO:0070417	cellular response to cold	5	3.32E-01	NA	NA	5	9.29E-01	NA	NA
+GO:0003988	acetyl-CoA C-acyltransferase activity	5	3.47E-01	NA	NA	5	9.62E-01	NA	NA
+GO:0055072	iron ion homeostasis	NA	NA	NA	NA	23	9.62E-01	NA	NA
+GO:0034221	fungal-type cell wall chitin biosynthetic process	NA	NA	NA	NA	5	9.62E-01	NA	NA
+GO:0005940	septin ring	NA	NA	NA	NA	13	9.62E-01	NA	NA
+GO:0006038	cell wall chitin biosynthetic process	NA	NA	NA	NA	5	9.62E-01	NA	NA
+GO:0030445	yeast-form cell wall	NA	NA	NA	NA	5	9.65E-01	NA	NA
+GO:0044406	adhesion of symbiont to host	NA	NA	NA	NA	5	9.65E-01	NA	NA
+GO:0046658	anchored component of plasma membrane	NA	NA	NA	NA	13	9.77E-01	NA	NA
+GO:0033573	high-affinity iron permease complex	NA	NA	1	1.00E+00	1	1.00E+00	1	1.00E+00
+GO:0033215	iron assimilation by reduction and transport	NA	NA	1	1.00E+00	1	1.00E+00	1	1.00E+00
+GO:0034605	cellular response to heat	29	4.87E-02	NA	NA	28	1.00E+00	28	1.00E+00
+GO:0043936	asexual sporulation resulting in formation of a cellular spore	NA	NA	NA	NA	7	1.00E+00	9	1.00E+00
+GO:0016531	copper chaperone activity	NA	NA	1	1.00E+00	1	1.00E+00	NA	NA
+GO:1901292	nucleoside phosphate catabolic process	NA	NA	24	1.00E+00	23	1.00E+00	NA	NA
+GO:0008253	5'-nucleotidase activity	NA	NA	14	1.00E+00	14	1.00E+00	NA	NA
+GO:0008252	nucleotidase activity	NA	NA	15	1.00E+00	15	1.00E+00	NA	NA
+GO:0044711	biosynthetic process	713	8.90E-26	NA	NA	698	1.00E+00	NA	NA
+GO:0072527	pyrimidine-containing compound metabolic process	34	6.33E-05	NA	NA	34	1.00E+00	NA	NA
+GO:0009063	cellular amino acid catabolic process	49	4.16E-04	NA	NA	51	1.00E+00	NA	NA
+GO:0016614	oxidoreductase activity, acting on CH-OH group of donors	112	1.67E-03	NA	NA	96	1.00E+00	NA	NA
+GO:0003746	translation elongation factor activity	14	1.18E-02	NA	NA	14	1.00E+00	NA	NA
+GO:0003755	peptidyl-prolyl cis-trans isomerase activity	17	1.19E-02	NA	NA	17	1.00E+00	NA	NA
+GO:0006152	purine nucleoside catabolic process	18	7.28E-02	NA	NA	16	1.00E+00	NA	NA
+GO:0009409	response to cold	6	1.26E-01	NA	NA	6	1.00E+00	NA	NA
+GO:0043167	ion binding	2249	3.89E-01	NA	NA	2107	1.00E+00	NA	NA
+GO:0001012	RNA polymerase II regulatory region DNA binding	NA	NA	NA	NA	61	1.00E+00	NA	NA
+GO:0007313	maternal specification of dorsal/ventral axis, oocyte, soma encoded	NA	NA	NA	NA	1	1.00E+00	NA	NA
+GO:0046434	organophosphate catabolic process	NA	NA	NA	NA	39	1.00E+00	NA	NA
+GO:0008422	beta-glucosidase activity	NA	NA	NA	NA	16	1.00E+00	NA	NA
+GO:0030246	carbohydrate binding	NA	NA	NA	NA	25	1.00E+00	NA	NA
+GO:0001067	regulatory region nucleic acid binding	NA	NA	NA	NA	92	1.00E+00	NA	NA
+GO:0003874	6-pyruvoyltetrahydropterin synthase activity	NA	NA	NA	NA	1	1.00E+00	NA	NA
+GO:0045257	succinate dehydrogenase complex (ubiquinone)	NA	NA	NA	NA	7	1.00E+00	NA	NA
+GO:0008063	Toll signaling pathway	NA	NA	NA	NA	1	1.00E+00	NA	NA
+GO:0004033	aldo-keto reductase (NADP) activity	NA	NA	NA	NA	7	1.00E+00	NA	NA
+GO:0000747	conjugation with cellular fusion	NA	NA	NA	NA	7	1.00E+00	NA	NA
+GO:0007117	budding cell bud growth	NA	NA	NA	NA	6	1.00E+00	NA	NA
+GO:0045281	succinate dehydrogenase complex	NA	NA	NA	NA	7	1.00E+00	NA	NA
+GO:0051278	fungal-type cell wall polysaccharide biosynthetic process	NA	NA	NA	NA	6	1.00E+00	NA	NA
+GO:0006066	alcohol metabolic process	NA	NA	NA	NA	105	1.00E+00	NA	NA
+GO:0005749	mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)	NA	NA	NA	NA	7	1.00E+00	NA	NA
+GO:0008106	alcohol dehydrogenase (NADP+) activity	NA	NA	NA	NA	7	1.00E+00	NA	NA
+GO:0006518	peptide metabolic process	NA	NA	NA	NA	53	1.00E+00	NA	NA
+GO:0001775	cell activation	NA	NA	NA	NA	1	1.00E+00	NA	NA
+GO:0022804	active transmembrane transporter activity	NA	NA	NA	NA	160	1.00E+00	NA	NA
+GO:0045283	fumarate reductase complex	NA	NA	NA	NA	7	1.00E+00	NA	NA
+GO:0032156	septin cytoskeleton	NA	NA	NA	NA	14	1.00E+00	NA	NA
+GO:0007118	budding cell apical bud growth	NA	NA	NA	NA	6	1.00E+00	NA	NA
+GO:0004338	glucan exo-1,3-beta-glucosidase activity	NA	NA	NA	NA	6	1.00E+00	NA	NA
+GO:0016684	oxidoreductase activity, acting on peroxide as acceptor	NA	NA	NA	NA	16	1.00E+00	NA	NA
+GO:0006123	mitochondrial electron transport, cytochrome c to oxygen	NA	NA	NA	NA	7	1.00E+00	NA	NA
+GO:0044212	transcription regulatory region DNA binding	NA	NA	NA	NA	92	1.00E+00	NA	NA
+GO:0045180	basal cortex	NA	NA	NA	NA	1	1.00E+00	NA	NA
+GO:0000975	transcription regulatory region DNA binding	NA	NA	NA	NA	92	1.00E+00	NA	NA
+GO:0033692	cellular polysaccharide biosynthetic process	NA	NA	NA	NA	15	1.00E+00	NA	NA
+GO:0018904	ether metabolic process	NA	NA	NA	NA	7	1.00E+00	NA	NA
+GO:0000803	sex chromosome	NA	NA	NA	NA	1	1.00E+00	NA	NA
+GO:0006662	glycerol ether metabolic process	NA	NA	NA	NA	7	1.00E+00	NA	NA
+GO:0000977	RNA polymerase II regulatory region sequence-specific DNA binding	NA	NA	NA	NA	59	1.00E+00	NA	NA
+GO:0070569	uridylyltransferase activity	NA	NA	NA	NA	7	1.00E+00	NA	NA
+GO:0007343	egg activation	NA	NA	NA	NA	1	1.00E+00	NA	NA
+GO:0005788	endoplasmic reticulum lumen	NA	NA	NA	NA	14	1.00E+00	NA	NA
+GO:0007306	eggshell chorion assembly	NA	NA	NA	NA	1	1.00E+00	NA	NA
+GO:0015035	protein disulfide oxidoreductase activity	NA	NA	NA	NA	16	1.00E+00	NA	NA
+GO:0015291	secondary active transmembrane transporter activity	NA	NA	NA	NA	79	1.00E+00	NA	NA
+GO:0008553	hydrogen-exporting ATPase activity, phosphorylative mechanism	NA	NA	NA	NA	7	1.00E+00	NA	NA
+GO:0061865	polarized secretion of basement membrane proteins in epithelium	NA	NA	NA	NA	1	1.00E+00	NA	NA
+GO:0000271	polysaccharide biosynthetic process	NA	NA	NA	NA	15	1.00E+00	NA	NA
+GO:0004601	peroxidase activity	NA	NA	NA	NA	16	1.00E+00	NA	NA
+GO:0055085	transmembrane transport	NA	NA	NA	NA	392	1.00E+00	NA	NA
+GO:0070592	cell wall polysaccharide biosynthetic process	NA	NA	NA	NA	6	1.00E+00	NA	NA
+GO:0000806	Y chromosome	NA	NA	NA	NA	1	1.00E+00	NA	NA
+GO:0032155	cell division site part	NA	NA	NA	NA	62	1.00E+00	NA	NA
+GO:0080058	protein deglutathionylation	NA	NA	NA	NA	1	1.00E+00	NA	NA
+GO:0046983	protein dimerization activity	110	7.71E-02	111	7.32E-02	NA	NA	111	1.00E+00
+GO:0019748	secondary metabolic process	NA	NA	43	2.59E-01	NA	NA	42	1.00E+00
+GO:0044550	secondary metabolite biosynthetic process	NA	NA	32	3.38E-01	NA	NA	32	1.00E+00
+GO:0006334	nucleosome assembly	25	3.27E-02	25	1.00E+00	NA	NA	25	1.00E+00
+GO:0009089	lysine biosynthetic process via diaminopimelate	2	2.89E-01	2	1.00E+00	NA	NA	2	1.00E+00
+GO:0046451	diaminopimelate metabolic process	2	2.89E-01	2	1.00E+00	NA	NA	2	1.00E+00
+GO:0044257	cellular protein catabolic process	NA	NA	14	1.00E+00	NA	NA	13	1.00E+00
+GO:0030745	dimethylhistidine N-methyltransferase activity	NA	NA	2	1.00E+00	NA	NA	2	1.00E+00
+GO:0018200	peptidyl-glutamic acid modification	NA	NA	1	1.00E+00	NA	NA	1	1.00E+00
+GO:0103067	4alpha-carboxy-5alpha-cholesta-8-en-3beta-ol:NAD(P)+ 3-dehydrogenase (decarboxylating) activity	NA	NA	2	1.00E+00	NA	NA	2	1.00E+00
+GO:0103066	4alpha-carboxy-4beta-methyl-5alpha-cholesta-8-en-3beta-ol:NAD(P)+ 3-oxidoreductase (decarboxylating) activity	NA	NA	2	1.00E+00	NA	NA	2	1.00E+00
+GO:0004185	serine-type carboxypeptidase activity	NA	NA	9	1.00E+00	NA	NA	7	1.00E+00
+GO:0046937	phytochelatin metabolic process	NA	NA	8	1.00E+00	NA	NA	7	1.00E+00
+GO:0000252	C-3 sterol dehydrogenase (C-4 sterol decarboxylase) activity	NA	NA	2	1.00E+00	NA	NA	2	1.00E+00
+GO:0061133	endopeptidase activator activity	NA	NA	3	1.00E+00	NA	NA	3	1.00E+00
+GO:1990190	peptide-glutamate-N-acetyltransferase activity	NA	NA	1	1.00E+00	NA	NA	1	1.00E+00
+GO:0015440	peptide-transporting ATPase activity	NA	NA	4	1.00E+00	NA	NA	4	1.00E+00
+GO:0070840	dynein complex binding	NA	NA	2	1.00E+00	NA	NA	2	1.00E+00
+GO:0030920	peptidyl-serine acetylation	NA	NA	1	1.00E+00	NA	NA	1	1.00E+00
+GO:0016504	peptidase activator activity	NA	NA	3	1.00E+00	NA	NA	3	1.00E+00
+GO:0018002	N-terminal peptidyl-glutamic acid acetylation	NA	NA	1	1.00E+00	NA	NA	1	1.00E+00
+GO:0015421	oligopeptide-transporting ATPase activity	NA	NA	2	1.00E+00	NA	NA	2	1.00E+00
+GO:0090374	oligopeptide export from mitochondrion	NA	NA	2	1.00E+00	NA	NA	2	1.00E+00
+GO:0046938	phytochelatin biosynthetic process	NA	NA	8	1.00E+00	NA	NA	7	1.00E+00
+GO:0042393	histone binding	NA	NA	48	1.00E+00	NA	NA	46	1.00E+00
+GO:0047012	sterol-4-alpha-carboxylate 3-dehydrogenase (decarboxylating) activity	NA	NA	2	1.00E+00	NA	NA	2	1.00E+00
+GO:0017198	N-terminal peptidyl-serine acetylation	NA	NA	1	1.00E+00	NA	NA	1	1.00E+00
+GO:0007039	protein catabolic process in the vacuole	NA	NA	7	1.00E+00	NA	NA	6	1.00E+00
+GO:0000470	maturation of LSU-rRNA	25	4.23E-05	NA	NA	NA	NA	25	1.00E+00
+GO:0003677	DNA binding	576	4.81E-02	NA	NA	NA	NA	566	1.00E+00
+GO:0035242	protein-arginine omega-N asymmetric methyltransferase activity	3	7.76E-02	NA	NA	NA	NA	3	1.00E+00
+GO:0019919	peptidyl-arginine methylation, to asymmetrical-dimethyl arginine	3	7.76E-02	NA	NA	NA	NA	3	1.00E+00
+GO:0072529	pyrimidine-containing compound catabolic process	6	1.12E-01	NA	NA	NA	NA	5	1.00E+00
+GO:0009408	response to heat	45	2.07E-01	NA	NA	NA	NA	44	1.00E+00
+GO:0022626	cytosolic ribosome	11	2.16E-01	NA	NA	NA	NA	11	1.00E+00
+GO:0046135	pyrimidine nucleoside catabolic process	5	3.14E-01	NA	NA	NA	NA	4	1.00E+00
+GO:0031428	box C/D snoRNP complex	6	4.25E-01	NA	NA	NA	NA	5	1.00E+00
+GO:0051604	protein maturation	NA	NA	NA	NA	NA	NA	49	1.00E+00
+GO:0002697	regulation of immune effector process	NA	NA	NA	NA	NA	NA	9	1.00E+00
+GO:0061134	peptidase regulator activity	NA	NA	NA	NA	NA	NA	13	1.00E+00
+GO:0006266	DNA ligation	NA	NA	NA	NA	NA	NA	3	1.00E+00
+GO:0015843	methylammonium transport	NA	NA	NA	NA	NA	NA	2	1.00E+00
+GO:0035363	histone locus body	NA	NA	NA	NA	NA	NA	2	1.00E+00
+GO:0009628	response to abiotic stimulus	NA	NA	NA	NA	NA	NA	140	1.00E+00
+GO:0046087	cytidine metabolic process	NA	NA	NA	NA	NA	NA	1	1.00E+00
+GO:0007000	nucleolus organization	NA	NA	NA	NA	NA	NA	2	1.00E+00
+GO:0006216	cytidine catabolic process	NA	NA	NA	NA	NA	NA	1	1.00E+00
+GO:0003909	DNA ligase activity	NA	NA	NA	NA	NA	NA	3	1.00E+00
+GO:0051457	maintenance of protein location in nucleus	NA	NA	NA	NA	NA	NA	2	1.00E+00
+GO:1901700	response to oxygen-containing compound	NA	NA	NA	NA	NA	NA	51	1.00E+00
+GO:0071472	cellular response to salt stress	NA	NA	NA	NA	NA	NA	9	1.00E+00
+GO:0071310	cellular response to organic substance	NA	NA	NA	NA	NA	NA	46	1.00E+00
+GO:0003910	DNA ligase (ATP) activity	NA	NA	NA	NA	NA	NA	3	1.00E+00
+GO:0050688	regulation of defense response to virus	NA	NA	NA	NA	NA	NA	4	1.00E+00
+GO:0052699	ergothioneine biosynthetic process	NA	NA	NA	NA	NA	NA	4	1.00E+00
+GO:0004126	cytidine deaminase activity	NA	NA	NA	NA	NA	NA	1	1.00E+00
+GO:0004222	metalloendopeptidase activity	NA	NA	NA	NA	NA	NA	61	1.00E+00
+GO:0051103	DNA ligation involved in DNA repair	NA	NA	NA	NA	NA	NA	2	1.00E+00
+GO:0072489	methylammonium transmembrane transport	NA	NA	NA	NA	NA	NA	2	1.00E+00
+GO:0035079	polytene chromosome puffing	NA	NA	NA	NA	NA	NA	3	1.00E+00
+GO:0052698	ergothioneine metabolic process	NA	NA	NA	NA	NA	NA	4	1.00E+00
+GO:0016886	ligase activity, forming phosphoric ester bonds	NA	NA	NA	NA	NA	NA	4	1.00E+00
+GO:0052701	cellular modified histidine metabolic process	NA	NA	NA	NA	NA	NA	4	1.00E+00
+GO:0015200	methylammonium transmembrane transporter activity	NA	NA	NA	NA	NA	NA	2	1.00E+00
+GO:0009651	response to salt stress	NA	NA	NA	NA	NA	NA	12	1.00E+00
+GO:0009972	cytidine deamination	NA	NA	NA	NA	NA	NA	1	1.00E+00
+GO:0097305	response to alcohol	NA	NA	NA	NA	NA	NA	16	1.00E+00
+GO:0007323	peptide pheromone maturation	NA	NA	NA	NA	NA	NA	28	1.00E+00
+GO:0043156	chromatin remodeling in response to cation stress	NA	NA	NA	NA	NA	NA	1	1.00E+00
+GO:0071432	peptide mating pheromone maturation involved in conjugation with cellular fusion	NA	NA	NA	NA	NA	NA	21	1.00E+00
+GO:0009266	response to temperature stimulus	NA	NA	NA	NA	NA	NA	58	1.00E+00
+GO:0043043	peptide biosynthetic process	NA	NA	NA	NA	NA	NA	12	1.00E+00
+GO:0008469	histone-arginine N-methyltransferase activity	NA	NA	NA	NA	NA	NA	3	1.00E+00
+GO:1990417	snoRNA release from pre-rRNA	NA	NA	NA	NA	NA	NA	1	1.00E+00
+GO:0052703	cellular modified histidine biosynthetic process	NA	NA	NA	NA	NA	NA	4	1.00E+00
+GO:0002831	regulation of response to biotic stimulus	NA	NA	NA	NA	NA	NA	25	1.00E+00
+GO:0016540	protein autoprocessing	NA	NA	NA	NA	NA	NA	1	1.00E+00
+GO:0030576	Cajal body organization	NA	NA	NA	NA	NA	NA	2	1.00E+00
+GO:0015398	high-affinity secondary active ammonium transmembrane transporter activity	NA	NA	NA	NA	NA	NA	2	1.00E+00
+GO:0071396	cellular response to lipid	NA	NA	NA	NA	NA	NA	11	1.00E+00
+GO:0046133	pyrimidine ribonucleoside catabolic process	NA	NA	NA	NA	NA	NA	1	1.00E+00
+GO:0061135	endopeptidase regulator activity	NA	NA	NA	NA	NA	NA	13	1.00E+00
+GO:0010033	response to organic substance	NA	NA	NA	NA	NA	NA	84	1.00E+00
+GO:0019755	one-carbon compound transport	NA	NA	NA	NA	NA	NA	2	1.00E+00
+GO:0072488	ammonium transmembrane transport	NA	NA	NA	NA	NA	NA	2	1.00E+00
+GO:0035080	heat shock-mediated polytene chromosome puffing	NA	NA	NA	NA	NA	NA	3	1.00E+00
+GO:0090599	alpha-glucosidase activity	NA	NA	3	1.14E-01	NA	NA	NA	NA
+GO:0031415	NatA complex	NA	NA	3	4.97E-01	NA	NA	NA	NA
+GO:0009066	aspartate family amino acid metabolic process	60	5.24E-04	61	1.00E+00	NA	NA	NA	NA
+GO:0009067	aspartate family amino acid biosynthetic process	53	1.85E-03	54	1.00E+00	NA	NA	NA	NA
+GO:0006084	acetyl-CoA metabolic process	22	2.92E-02	21	1.00E+00	NA	NA	NA	NA
+GO:0006637	acyl-CoA metabolic process	47	6.86E-02	47	1.00E+00	NA	NA	NA	NA
+GO:0035383	thioester metabolic process	47	6.86E-02	47	1.00E+00	NA	NA	NA	NA
+GO:0016903	oxidoreductase activity, acting on the aldehyde or oxo group of donors	31	2.58E-01	32	1.00E+00	NA	NA	NA	NA
+GO:0004028	3-chloroallyl aldehyde dehydrogenase activity	2	2.89E-01	2	1.00E+00	NA	NA	NA	NA
+GO:0006598	polyamine catabolic process	2	2.89E-01	2	1.00E+00	NA	NA	NA	NA
+GO:0019482	beta-alanine metabolic process	2	2.89E-01	2	1.00E+00	NA	NA	NA	NA
+GO:0019477	L-lysine catabolic process	2	2.89E-01	2	1.00E+00	NA	NA	NA	NA
+GO:0019483	beta-alanine biosynthetic process	2	2.89E-01	2	1.00E+00	NA	NA	NA	NA
+GO:0006554	lysine catabolic process	2	2.89E-01	2	1.00E+00	NA	NA	NA	NA
+GO:0046440	L-lysine metabolic process	2	2.89E-01	2	1.00E+00	NA	NA	NA	NA
+GO:0065004	protein-DNA complex assembly	50	3.75E-01	52	1.00E+00	NA	NA	NA	NA
+GO:0034728	nucleosome organization	42	4.45E-01	42	1.00E+00	NA	NA	NA	NA
+GO:0004806	triglyceride lipase activity	NA	NA	84	1.00E+00	NA	NA	NA	NA
+GO:0080019	fatty-acyl-CoA reductase (alcohol-forming) activity	NA	NA	12	1.00E+00	NA	NA	NA	NA
+GO:0052716	hydroquinone:oxygen oxidoreductase activity	NA	NA	8	1.00E+00	NA	NA	NA	NA
+GO:0004133	glycogen debranching enzyme activity	NA	NA	1	1.00E+00	NA	NA	NA	NA
+GO:0004055	argininosuccinate synthase activity	NA	NA	1	1.00E+00	NA	NA	NA	NA
+GO:0004135	amylo-alpha-1,6-glucosidase activity	NA	NA	1	1.00E+00	NA	NA	NA	NA
+GO:1900558	austinol metabolic process	NA	NA	1	1.00E+00	NA	NA	NA	NA
+GO:0004134	4-alpha-glucanotransferase activity	NA	NA	1	1.00E+00	NA	NA	NA	NA
+GO:0046271	phenylpropanoid catabolic process	NA	NA	5	1.00E+00	NA	NA	NA	NA
+GO:0032450	maltose alpha-glucosidase activity	NA	NA	1	1.00E+00	NA	NA	NA	NA
+GO:0070867	mating projection tip membrane	NA	NA	3	1.00E+00	NA	NA	NA	NA
+GO:0018206	peptidyl-methionine modification	NA	NA	7	1.00E+00	NA	NA	NA	NA
+GO:0009808	lignin metabolic process	NA	NA	5	1.00E+00	NA	NA	NA	NA
+GO:0016682	oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor	NA	NA	9	1.00E+00	NA	NA	NA	NA
+GO:0003977	UDP-N-acetylglucosamine diphosphorylase activity	NA	NA	1	1.00E+00	NA	NA	NA	NA
+GO:0033512	L-lysine catabolic process to acetyl-CoA via saccharopine	NA	NA	1	1.00E+00	NA	NA	NA	NA
+GO:0004573	mannosyl-oligosaccharide glucosidase activity	NA	NA	1	1.00E+00	NA	NA	NA	NA
+GO:0016751	S-succinyltransferase activity	NA	NA	1	1.00E+00	NA	NA	NA	NA
+GO:0102965	alcohol-forming fatty acyl-CoA reductase activity	NA	NA	11	1.00E+00	NA	NA	NA	NA
+GO:1902390	regulation of N-terminal peptidyl-serine acetylation	NA	NA	1	1.00E+00	NA	NA	NA	NA
+GO:0050263	ribosylpyrimidine nucleosidase activity	NA	NA	2	1.00E+00	NA	NA	NA	NA
+GO:1900561	dehydroaustinol metabolic process	NA	NA	1	1.00E+00	NA	NA	NA	NA
+GO:0010698	acetyltransferase activator activity	NA	NA	1	1.00E+00	NA	NA	NA	NA
+GO:0017196	N-terminal peptidyl-methionine acetylation	NA	NA	7	1.00E+00	NA	NA	NA	NA
+GO:0031365	N-terminal protein amino acid modification	NA	NA	14	1.00E+00	NA	NA	NA	NA
+GO:0046274	lignin catabolic process	NA	NA	5	1.00E+00	NA	NA	NA	NA
+GO:1902391	positive regulation of N-terminal peptidyl-serine acetylation	NA	NA	1	1.00E+00	NA	NA	NA	NA
+GO:0032504	multicellular organism reproduction	NA	NA	2	1.00E+00	NA	NA	NA	NA
+GO:0044438	microbody part	NA	NA	35	1.00E+00	NA	NA	NA	NA
+GO:0102500	beta-maltose 4-alpha-glucanotransferase activity	NA	NA	1	1.00E+00	NA	NA	NA	NA
+GO:0070636	nicotinic acid riboside hydrolase activity	NA	NA	2	1.00E+00	NA	NA	NA	NA
+GO:0010025	wax biosynthetic process	NA	NA	12	1.00E+00	NA	NA	NA	NA
+GO:0016620	oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor	NA	NA	24	1.00E+00	NA	NA	NA	NA
+GO:0016160	amylase activity	NA	NA	2	1.00E+00	NA	NA	NA	NA
+GO:0004655	porphobilinogen synthase activity	NA	NA	1	1.00E+00	NA	NA	NA	NA
+GO:0005798	Golgi-associated vesicle	NA	NA	15	1.00E+00	NA	NA	NA	NA
+GO:0031414	N-terminal protein acetyltransferase complex	NA	NA	7	1.00E+00	NA	NA	NA	NA
+GO:0045437	uridine nucleosidase activity	NA	NA	2	1.00E+00	NA	NA	NA	NA
+GO:1900560	austinol biosynthetic process	NA	NA	1	1.00E+00	NA	NA	NA	NA
+GO:0003407	neural retina development	NA	NA	1	1.00E+00	NA	NA	NA	NA
+GO:0006474	N-terminal protein amino acid acetylation	NA	NA	9	1.00E+00	NA	NA	NA	NA
+GO:0050062	long-chain-fatty-acyl-CoA reductase activity	NA	NA	12	1.00E+00	NA	NA	NA	NA
+GO:0004754	saccharopine dehydrogenase (NAD+, L-lysine-forming) activity	NA	NA	1	1.00E+00	NA	NA	NA	NA
+GO:0004362	glutathione-disulfide reductase activity	NA	NA	1	1.00E+00	NA	NA	NA	NA
+GO:0009166	nucleotide catabolic process	NA	NA	15	1.00E+00	NA	NA	NA	NA
+GO:0009698	phenylpropanoid metabolic process	NA	NA	5	1.00E+00	NA	NA	NA	NA
+GO:0019474	L-lysine catabolic process to acetyl-CoA	NA	NA	1	1.00E+00	NA	NA	NA	NA
+GO:0004556	alpha-amylase activity	NA	NA	2	1.00E+00	NA	NA	NA	NA
+GO:0103025	alpha-amylase activity (releasing maltohexaose)	NA	NA	2	1.00E+00	NA	NA	NA	NA
+GO:0016748	succinyltransferase activity	NA	NA	3	1.00E+00	NA	NA	NA	NA
+GO:1900563	dehydroaustinol biosynthetic process	NA	NA	1	1.00E+00	NA	NA	NA	NA
+GO:0003854	3-beta-hydroxy-delta5-steroid dehydrogenase activity	NA	NA	13	1.00E+00	NA	NA	NA	NA
+GO:0004035	alkaline phosphatase activity	NA	NA	3	1.00E+00	NA	NA	NA	NA
+GO:0004149	dihydrolipoyllysine-residue succinyltransferase activity	NA	NA	1	1.00E+00	NA	NA	NA	NA
+GO:1901655	cellular response to ketone	NA	NA	1	1.00E+00	NA	NA	NA	NA
+GO:0010166	wax metabolic process	NA	NA	12	1.00E+00	NA	NA	NA	NA
+GO:0000053	argininosuccinate metabolic process	NA	NA	1	1.00E+00	NA	NA	NA	NA
+GO:0030140	trans-Golgi network transport vesicle	NA	NA	2	1.00E+00	NA	NA	NA	NA
+GO:0004558	alpha-1,4-glucosidase activity	NA	NA	1	1.00E+00	NA	NA	NA	NA
+GO:0036245	cellular response to menadione	NA	NA	1	1.00E+00	NA	NA	NA	NA
+GO:0044439	peroxisomal part	NA	NA	35	1.00E+00	NA	NA	NA	NA
+GO:0005507	copper ion binding	NA	NA	19	1.00E+00	NA	NA	NA	NA
+GO:0004755	saccharopine dehydrogenase (NADP+, L-glutamate-forming) activity	NA	NA	2	1.00E+00	NA	NA	NA	NA
+GO:0003735	structural constituent of ribosome	155	3.27E-95	NA	NA	NA	NA	NA	NA
+GO:0044391	ribosomal subunit	145	2.26E-79	NA	NA	NA	NA	NA	NA
+GO:0005198	structural molecule activity	205	4.67E-74	NA	NA	NA	NA	NA	NA
+GO:0006412	translation	212	6.90E-73	NA	NA	NA	NA	NA	NA
+GO:0044237	cellular metabolic process	3126	1.24E-72	NA	NA	NA	NA	NA	NA
+GO:0030529	intracellular ribonucleoprotein complex	457	2.17E-72	NA	NA	NA	NA	NA	NA
+GO:0071704	organic substance metabolic process	3469	3.00E-68	NA	NA	NA	NA	NA	NA
+GO:0044238	primary metabolic process	3327	7.18E-64	NA	NA	NA	NA	NA	NA
+GO:0005840	ribosome	126	1.51E-62	NA	NA	NA	NA	NA	NA
+GO:0044424	intracellular part	4492	3.11E-62	NA	NA	NA	NA	NA	NA
+GO:0044464	cell part	4706	1.03E-58	NA	NA	NA	NA	NA	NA
+GO:0032991	macromolecular complex	1770	6.84E-58	NA	NA	NA	NA	NA	NA
+GO:0009987	cellular process	4181	5.77E-53	NA	NA	NA	NA	NA	NA
+GO:0044445	cytosolic part	131	3.87E-52	NA	NA	NA	NA	NA	NA
+GO:0009058	biosynthetic process	1346	1.60E-48	NA	NA	NA	NA	NA	NA
+GO:0015934	large ribosomal subunit	85	2.85E-48	NA	NA	NA	NA	NA	NA
+GO:0044249	cellular biosynthetic process	1256	2.98E-48	NA	NA	NA	NA	NA	NA
+GO:1901576	organic substance biosynthetic process	1310	3.81E-48	NA	NA	NA	NA	NA	NA
+GO:0043170	macromolecule metabolic process	2450	1.52E-47	NA	NA	NA	NA	NA	NA
+GO:0044260	cellular macromolecule metabolic process	2154	4.94E-45	NA	NA	NA	NA	NA	NA
+GO:0044444	cytoplasmic part	3046	7.56E-45	NA	NA	NA	NA	NA	NA
+GO:0043228	non-membrane-bounded organelle	638	7.18E-39	NA	NA	NA	NA	NA	NA
+GO:0043232	intracellular non-membrane-bounded organelle	638	7.18E-39	NA	NA	NA	NA	NA	NA
+GO:0043226	organelle	2997	4.44E-37	NA	NA	NA	NA	NA	NA
+GO:0043229	intracellular organelle	2994	5.83E-37	NA	NA	NA	NA	NA	NA
+GO:0034645	cellular macromolecule biosynthetic process	672	1.40E-36	NA	NA	NA	NA	NA	NA
+GO:0009059	macromolecule biosynthetic process	724	2.95E-36	NA	NA	NA	NA	NA	NA
+GO:0019538	protein metabolic process	1234	5.31E-36	NA	NA	NA	NA	NA	NA
+GO:0044446	intracellular organelle part	2563	2.09E-33	NA	NA	NA	NA	NA	NA
+GO:0044422	organelle part	2573	7.88E-33	NA	NA	NA	NA	NA	NA
+GO:0003723	RNA binding	577	3.15E-32	NA	NA	NA	NA	NA	NA
+GO:0044267	cellular protein metabolic process	889	2.96E-31	NA	NA	NA	NA	NA	NA
+GO:0015935	small ribosomal subunit	60	1.90E-30	NA	NA	NA	NA	NA	NA
+GO:0002181	cytoplasmic translation	83	1.54E-29	NA	NA	NA	NA	NA	NA
+GO:0022625	cytosolic large ribosomal subunit	47	4.92E-29	NA	NA	NA	NA	NA	NA
+GO:0044429	mitochondrial part	496	1.59E-28	NA	NA	NA	NA	NA	NA
+GO:0006807	nitrogen compound metabolic process	1888	3.90E-26	NA	NA	NA	NA	NA	NA
+GO:1901363	heterocyclic compound binding	2201	1.33E-25	NA	NA	NA	NA	NA	NA
+GO:0097159	organic cyclic compound binding	2210	4.13E-25	NA	NA	NA	NA	NA	NA
+GO:0003676	nucleic acid binding	1237	6.87E-25	NA	NA	NA	NA	NA	NA
+GO:0032543	mitochondrial translation	80	7.21E-24	NA	NA	NA	NA	NA	NA
+GO:0034641	cellular nitrogen compound metabolic process	1665	3.17E-22	NA	NA	NA	NA	NA	NA
+GO:0006725	cellular aromatic compound metabolic process	1616	4.11E-22	NA	NA	NA	NA	NA	NA
+GO:0022627	cytosolic small ribosomal subunit	33	1.67E-21	NA	NA	NA	NA	NA	NA
+GO:1901360	organic cyclic compound metabolic process	1720	2.97E-21	NA	NA	NA	NA	NA	NA
+GO:0046483	heterocycle metabolic process	1621	4.75E-21	NA	NA	NA	NA	NA	NA
+GO:0006139	nucleobase-containing compound metabolic process	1519	9.41E-21	NA	NA	NA	NA	NA	NA
+GO:0019843	rRNA binding	45	1.62E-20	NA	NA	NA	NA	NA	NA
+GO:0007005	mitochondrion organization	184	4.75E-20	NA	NA	NA	NA	NA	NA
+GO:0043231	intracellular membrane-bounded organelle	2721	1.65E-19	NA	NA	NA	NA	NA	NA
+GO:0043227	membrane-bounded organelle	2722	1.80E-19	NA	NA	NA	NA	NA	NA
+GO:0000315	organellar large ribosomal subunit	38	1.31E-18	NA	NA	NA	NA	NA	NA
+GO:0005762	mitochondrial large ribosomal subunit	38	1.31E-18	NA	NA	NA	NA	NA	NA
+GO:0005488	binding	3694	2.53E-18	NA	NA	NA	NA	NA	NA
+GO:0044763	cellular process	2756	3.51E-17	NA	NA	NA	NA	NA	NA
+GO:0005622	intracellular	160	6.13E-17	NA	NA	NA	NA	NA	NA
+GO:0005829	cytosol	1250	5.00E-16	NA	NA	NA	NA	NA	NA
+GO:0005739	mitochondrion	426	3.23E-15	NA	NA	NA	NA	NA	NA
+GO:0005634	nucleus	1755	3.92E-14	NA	NA	NA	NA	NA	NA
+GO:0006457	protein folding	97	3.63E-13	NA	NA	NA	NA	NA	NA
+GO:0009123	nucleoside monophosphate metabolic process	77	1.23E-12	NA	NA	NA	NA	NA	NA
+GO:0009124	nucleoside monophosphate biosynthetic process	58	3.37E-12	NA	NA	NA	NA	NA	NA
+GO:0006364	rRNA processing	194	4.04E-12	NA	NA	NA	NA	NA	NA
+GO:0043234	protein complex	1316	5.89E-12	NA	NA	NA	NA	NA	NA
+GO:0016072	rRNA metabolic process	199	5.91E-12	NA	NA	NA	NA	NA	NA
+GO:0009161	ribonucleoside monophosphate metabolic process	73	2.35E-11	NA	NA	NA	NA	NA	NA
+GO:0019693	ribose phosphate metabolic process	93	2.35E-11	NA	NA	NA	NA	NA	NA
+GO:0016070	RNA metabolic process	991	2.47E-11	NA	NA	NA	NA	NA	NA
+GO:0044428	nuclear part	978	3.75E-11	NA	NA	NA	NA	NA	NA
+GO:0009260	ribonucleotide biosynthetic process	69	3.78E-11	NA	NA	NA	NA	NA	NA
+GO:0090304	nucleic acid metabolic process	1325	4.76E-11	NA	NA	NA	NA	NA	NA
+GO:0009156	ribonucleoside monophosphate biosynthetic process	54	7.20E-11	NA	NA	NA	NA	NA	NA
+GO:1901293	nucleoside phosphate biosynthetic process	116	8.39E-11	NA	NA	NA	NA	NA	NA
+GO:0009165	nucleotide biosynthetic process	116	8.39E-11	NA	NA	NA	NA	NA	NA
+GO:0005730	nucleolus	239	9.34E-11	NA	NA	NA	NA	NA	NA
+GO:0071840	cellular component organization or biogenesis	1325	1.36E-10	NA	NA	NA	NA	NA	NA
+GO:0046390	ribose phosphate biosynthetic process	72	2.06E-10	NA	NA	NA	NA	NA	NA
+GO:0009259	ribonucleotide metabolic process	83	4.09E-10	NA	NA	NA	NA	NA	NA
+GO:0009141	nucleoside triphosphate metabolic process	46	5.29E-10	NA	NA	NA	NA	NA	NA
+GO:0034470	ncRNA processing	311	5.56E-10	NA	NA	NA	NA	NA	NA
+GO:1901657	glycosyl compound metabolic process	111	6.05E-10	NA	NA	NA	NA	NA	NA
+GO:0034660	ncRNA metabolic process	360	6.87E-10	NA	NA	NA	NA	NA	NA
+GO:0009116	nucleoside metabolic process	108	7.05E-10	NA	NA	NA	NA	NA	NA
+GO:0009119	ribonucleoside metabolic process	95	8.53E-10	NA	NA	NA	NA	NA	NA
+GO:0022618	ribonucleoprotein complex assembly	124	9.33E-10	NA	NA	NA	NA	NA	NA
+GO:0072521	purine-containing compound metabolic process	109	9.98E-10	NA	NA	NA	NA	NA	NA
+GO:0034622	cellular macromolecular complex assembly	291	1.33E-09	NA	NA	NA	NA	NA	NA
+GO:0009167	purine ribonucleoside monophosphate metabolic process	51	2.54E-09	NA	NA	NA	NA	NA	NA
+GO:0009126	purine nucleoside monophosphate metabolic process	51	2.54E-09	NA	NA	NA	NA	NA	NA
+GO:0022613	ribonucleoprotein complex biogenesis	87	3.17E-09	NA	NA	NA	NA	NA	NA
+GO:0071826	ribonucleoprotein complex subunit organization	135	3.38E-09	NA	NA	NA	NA	NA	NA
+GO:0042455	ribonucleoside biosynthetic process	65	3.44E-09	NA	NA	NA	NA	NA	NA
+GO:0009127	purine nucleoside monophosphate biosynthetic process	43	3.51E-09	NA	NA	NA	NA	NA	NA
+GO:0005763	mitochondrial small ribosomal subunit	25	3.51E-09	NA	NA	NA	NA	NA	NA
+GO:0000314	organellar small ribosomal subunit	25	3.51E-09	NA	NA	NA	NA	NA	NA
+GO:0009168	purine ribonucleoside monophosphate biosynthetic process	43	3.51E-09	NA	NA	NA	NA	NA	NA
+GO:0065003	macromolecular complex assembly	356	5.86E-09	NA	NA	NA	NA	NA	NA
+GO:0051082	unfolded protein binding	63	6.22E-09	NA	NA	NA	NA	NA	NA
+GO:0009142	nucleoside triphosphate biosynthetic process	36	7.64E-09	NA	NA	NA	NA	NA	NA
+GO:0009199	ribonucleoside triphosphate metabolic process	39	9.93E-09	NA	NA	NA	NA	NA	NA
+GO:0072522	purine-containing compound biosynthetic process	67	9.97E-09	NA	NA	NA	NA	NA	NA
+GO:0042254	ribosome biogenesis	51	9.97E-09	NA	NA	NA	NA	NA	NA
+GO:1901659	glycosyl compound biosynthetic process	71	1.71E-08	NA	NA	NA	NA	NA	NA
+GO:0009163	nucleoside biosynthetic process	68	1.84E-08	NA	NA	NA	NA	NA	NA
+GO:0006164	purine nucleotide biosynthetic process	62	2.10E-08	NA	NA	NA	NA	NA	NA
+GO:0006163	purine nucleotide metabolic process	75	2.14E-08	NA	NA	NA	NA	NA	NA
+GO:0009201	ribonucleoside triphosphate biosynthetic process	32	2.14E-08	NA	NA	NA	NA	NA	NA
+GO:1901137	carbohydrate derivative biosynthetic process	148	2.70E-08	NA	NA	NA	NA	NA	NA
+GO:0016043	cellular component organization	1261	3.17E-08	NA	NA	NA	NA	NA	NA
+GO:0009144	purine nucleoside triphosphate metabolic process	38	3.34E-08	NA	NA	NA	NA	NA	NA
+GO:0009152	purine ribonucleotide biosynthetic process	60	3.61E-08	NA	NA	NA	NA	NA	NA
+GO:0000502	proteasome complex	30	6.09E-08	NA	NA	NA	NA	NA	NA
+GO:0090407	organophosphate biosynthetic process	195	6.13E-08	NA	NA	NA	NA	NA	NA
+GO:0042278	purine nucleoside metabolic process	85	7.91E-08	NA	NA	NA	NA	NA	NA
+GO:0009150	purine ribonucleotide metabolic process	72	1.12E-07	NA	NA	NA	NA	NA	NA
+GO:0009205	purine ribonucleoside triphosphate metabolic process	37	1.26E-07	NA	NA	NA	NA	NA	NA
+GO:0044455	mitochondrial membrane part	115	1.45E-07	NA	NA	NA	NA	NA	NA
+GO:0019637	organophosphate metabolic process	295	2.73E-07	NA	NA	NA	NA	NA	NA
+GO:0009145	purine nucleoside triphosphate biosynthetic process	30	3.20E-07	NA	NA	NA	NA	NA	NA
+GO:0009206	purine ribonucleoside triphosphate biosynthetic process	30	3.20E-07	NA	NA	NA	NA	NA	NA
+GO:0006996	organelle organization	697	3.55E-07	NA	NA	NA	NA	NA	NA
+GO:0046128	purine ribonucleoside metabolic process	82	3.73E-07	NA	NA	NA	NA	NA	NA
+GO:1902589	organelle organization	546	5.09E-07	NA	NA	NA	NA	NA	NA
+GO:0005737	cytoplasm	1264	1.07E-06	NA	NA	NA	NA	NA	NA
+GO:0046129	purine ribonucleoside biosynthetic process	54	1.15E-06	NA	NA	NA	NA	NA	NA
+GO:0042451	purine nucleoside biosynthetic process	54	1.15E-06	NA	NA	NA	NA	NA	NA
+GO:0005839	proteasome core complex	14	1.54E-06	NA	NA	NA	NA	NA	NA
+GO:0031597	cytosolic proteasome complex	14	1.57E-06	NA	NA	NA	NA	NA	NA
+GO:0046034	ATP metabolic process	33	2.89E-06	NA	NA	NA	NA	NA	NA
+GO:0044085	cellular component biogenesis	129	5.76E-06	NA	NA	NA	NA	NA	NA
+GO:0070003	threonine-type peptidase activity	15	6.50E-06	NA	NA	NA	NA	NA	NA
+GO:0004298	threonine-type endopeptidase activity	15	6.50E-06	NA	NA	NA	NA	NA	NA
+GO:0006754	ATP biosynthetic process	26	8.13E-06	NA	NA	NA	NA	NA	NA
+GO:0006396	RNA processing	271	8.69E-06	NA	NA	NA	NA	NA	NA
+GO:0006221	pyrimidine nucleotide biosynthetic process	20	9.80E-06	NA	NA	NA	NA	NA	NA
+GO:0000027	ribosomal large subunit assembly	30	1.03E-05	NA	NA	NA	NA	NA	NA
+GO:0044427	chromosomal part	402	1.09E-05	NA	NA	NA	NA	NA	NA
+GO:0015985	energy coupled proton transport, down electrochemical gradient	19	1.43E-05	NA	NA	NA	NA	NA	NA
+GO:0015986	ATP synthesis coupled proton transport	19	1.43E-05	NA	NA	NA	NA	NA	NA
+GO:0051186	cofactor metabolic process	163	1.45E-05	NA	NA	NA	NA	NA	NA
+GO:0061077	chaperone-mediated protein folding	22	1.58E-05	NA	NA	NA	NA	NA	NA
+GO:0006839	mitochondrial transport	106	1.73E-05	NA	NA	NA	NA	NA	NA
+GO:0022607	cellular component assembly	491	1.73E-05	NA	NA	NA	NA	NA	NA
+GO:0044271	cellular nitrogen compound biosynthetic process	647	1.80E-05	NA	NA	NA	NA	NA	NA
+GO:0006732	coenzyme metabolic process	144	2.00E-05	NA	NA	NA	NA	NA	NA
+GO:1902101	positive regulation of metaphase/anaphase transition of cell cycle	32	2.11E-05	NA	NA	NA	NA	NA	NA
+GO:1901970	positive regulation of mitotic sister chromatid separation	32	2.11E-05	NA	NA	NA	NA	NA	NA
+GO:0045842	positive regulation of mitotic metaphase/anaphase transition	32	2.11E-05	NA	NA	NA	NA	NA	NA
+GO:0005832	chaperonin-containing T-complex	12	2.19E-05	NA	NA	NA	NA	NA	NA
+GO:0006220	pyrimidine nucleotide metabolic process	21	2.31E-05	NA	NA	NA	NA	NA	NA
+GO:0051246	regulation of protein metabolic process	255	2.37E-05	NA	NA	NA	NA	NA	NA
+GO:0031974	membrane-enclosed lumen	163	2.71E-05	NA	NA	NA	NA	NA	NA
+GO:0090501	RNA phosphodiester bond hydrolysis	46	3.36E-05	NA	NA	NA	NA	NA	NA
+GO:0034515	proteasome storage granule	10	3.57E-05	NA	NA	NA	NA	NA	NA
+GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	71	4.63E-05	NA	NA	NA	NA	NA	NA
+GO:0000276	mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	7	4.79E-05	NA	NA	NA	NA	NA	NA
+GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	7	4.79E-05	NA	NA	NA	NA	NA	NA
+GO:0005732	small nucleolar ribonucleoprotein complex	23	4.79E-05	NA	NA	NA	NA	NA	NA
+GO:0018130	heterocycle biosynthetic process	646	5.69E-05	NA	NA	NA	NA	NA	NA
+GO:0045840	positive regulation of mitotic nuclear division	37	6.23E-05	NA	NA	NA	NA	NA	NA
+GO:0032268	regulation of cellular protein metabolic process	250	6.25E-05	NA	NA	NA	NA	NA	NA
+GO:0071011	precatalytic spliceosome	40	8.15E-05	NA	NA	NA	NA	NA	NA
+GO:0097526	spliceosomal tri-snRNP complex	21	8.38E-05	NA	NA	NA	NA	NA	NA
+GO:0097525	spliceosomal snRNP complex	21	8.38E-05	NA	NA	NA	NA	NA	NA
+GO:0019438	aromatic compound biosynthetic process	630	1.08E-04	NA	NA	NA	NA	NA	NA
+GO:0016071	mRNA metabolic process	254	1.12E-04	NA	NA	NA	NA	NA	NA
+GO:0072655	establishment of protein localization to mitochondrion	48	1.58E-04	NA	NA	NA	NA	NA	NA
+GO:0070585	protein localization to mitochondrion	48	1.58E-04	NA	NA	NA	NA	NA	NA
+GO:0019773	proteasome core complex, alpha-subunit complex	7	1.62E-04	NA	NA	NA	NA	NA	NA
+GO:1902099	regulation of metaphase/anaphase transition of cell cycle	49	1.70E-04	NA	NA	NA	NA	NA	NA
+GO:0030071	regulation of mitotic metaphase/anaphase transition	49	1.70E-04	NA	NA	NA	NA	NA	NA
+GO:0031261	DNA replication preinitiation complex	11	1.82E-04	NA	NA	NA	NA	NA	NA
+GO:0006458	'de novo' protein folding	19	1.94E-04	NA	NA	NA	NA	NA	NA
+GO:1901362	organic cyclic compound biosynthetic process	718	2.71E-04	NA	NA	NA	NA	NA	NA
+GO:0099132	ATP hydrolysis coupled cation transmembrane transport	6	2.95E-04	NA	NA	NA	NA	NA	NA
+GO:0010965	regulation of mitotic sister chromatid separation	47	2.95E-04	NA	NA	NA	NA	NA	NA
+GO:0051188	cofactor biosynthetic process	106	3.07E-04	NA	NA	NA	NA	NA	NA
+GO:0032787	monocarboxylic acid metabolic process	147	3.09E-04	NA	NA	NA	NA	NA	NA
+GO:0051785	positive regulation of nuclear division	48	3.98E-04	NA	NA	NA	NA	NA	NA
+GO:0000469	cleavage involved in rRNA processing	35	4.04E-04	NA	NA	NA	NA	NA	NA
+GO:0051984	positive regulation of chromosome segregation	38	4.52E-04	NA	NA	NA	NA	NA	NA
+GO:0008135	translation factor activity, RNA binding	60	4.91E-04	NA	NA	NA	NA	NA	NA
+GO:0034654	nucleobase-containing compound biosynthetic process	558	4.91E-04	NA	NA	NA	NA	NA	NA
+GO:0043933	macromolecular complex subunit organization	591	5.01E-04	NA	NA	NA	NA	NA	NA
+GO:0007006	mitochondrial membrane organization	27	5.02E-04	NA	NA	NA	NA	NA	NA
+GO:0044183	protein binding involved in protein folding	15	5.13E-04	NA	NA	NA	NA	NA	NA
+GO:0032434	regulation of proteasomal ubiquitin-dependent protein catabolic process	67	5.27E-04	NA	NA	NA	NA	NA	NA
+GO:0061136	regulation of proteasomal protein catabolic process	67	5.27E-04	NA	NA	NA	NA	NA	NA
+GO:1901800	positive regulation of proteasomal protein catabolic process	49	5.52E-04	NA	NA	NA	NA	NA	NA
+GO:0032436	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	49	5.52E-04	NA	NA	NA	NA	NA	NA
+GO:1990204	oxidoreductase complex	41	6.88E-04	NA	NA	NA	NA	NA	NA
+GO:1903364	positive regulation of cellular protein catabolic process	57	7.30E-04	NA	NA	NA	NA	NA	NA
+GO:0006090	pyruvate metabolic process	23	7.87E-04	NA	NA	NA	NA	NA	NA
+GO:0009108	coenzyme biosynthetic process	90	7.87E-04	NA	NA	NA	NA	NA	NA
+GO:0044724	carbohydrate catabolic process	40	9.60E-04	NA	NA	NA	NA	NA	NA
+GO:0005681	spliceosomal complex	117	1.04E-03	NA	NA	NA	NA	NA	NA
+GO:0009069	serine family amino acid metabolic process	37	1.11E-03	NA	NA	NA	NA	NA	NA
+GO:0045732	positive regulation of protein catabolic process	59	1.38E-03	NA	NA	NA	NA	NA	NA
+GO:1990542	mitochondrial transmembrane transport	63	1.46E-03	NA	NA	NA	NA	NA	NA
+GO:1903362	regulation of cellular protein catabolic process	75	1.67E-03	NA	NA	NA	NA	NA	NA
+GO:0005743	mitochondrial inner membrane	138	1.67E-03	NA	NA	NA	NA	NA	NA
+GO:0042176	regulation of protein catabolic process	79	1.67E-03	NA	NA	NA	NA	NA	NA
+GO:0006733	oxidoreduction coenzyme metabolic process	48	1.67E-03	NA	NA	NA	NA	NA	NA
+GO:0070013	intracellular organelle lumen	123	1.67E-03	NA	NA	NA	NA	NA	NA
+GO:0006790	sulfur compound metabolic process	125	1.67E-03	NA	NA	NA	NA	NA	NA
+GO:2001252	positive regulation of chromosome organization	56	1.67E-03	NA	NA	NA	NA	NA	NA
+GO:0008168	methyltransferase activity	127	1.74E-03	NA	NA	NA	NA	NA	NA
+GO:0070481	nuclear-transcribed mRNA catabolic process, non-stop decay	11	1.77E-03	NA	NA	NA	NA	NA	NA
+GO:0046112	nucleobase biosynthetic process	19	1.83E-03	NA	NA	NA	NA	NA	NA
+GO:0006397	mRNA processing	199	1.86E-03	NA	NA	NA	NA	NA	NA
+GO:0009112	nucleobase metabolic process	35	1.87E-03	NA	NA	NA	NA	NA	NA
+GO:0009081	branched-chain amino acid metabolic process	22	1.91E-03	NA	NA	NA	NA	NA	NA
+GO:0009092	homoserine metabolic process	16	1.92E-03	NA	NA	NA	NA	NA	NA
+GO:0051781	positive regulation of cell division	57	1.94E-03	NA	NA	NA	NA	NA	NA
+GO:0008541	proteasome regulatory particle, lid subcomplex	11	2.05E-03	NA	NA	NA	NA	NA	NA
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	82	2.06E-03	NA	NA	NA	NA	NA	NA
+GO:1901606	alpha-amino acid catabolic process	43	2.06E-03	NA	NA	NA	NA	NA	NA
+GO:0046132	pyrimidine ribonucleoside biosynthetic process	11	2.06E-03	NA	NA	NA	NA	NA	NA
+GO:0009220	pyrimidine ribonucleotide biosynthetic process	11	2.06E-03	NA	NA	NA	NA	NA	NA
+GO:0009129	pyrimidine nucleoside monophosphate metabolic process	11	2.06E-03	NA	NA	NA	NA	NA	NA
+GO:0009130	pyrimidine nucleoside monophosphate biosynthetic process	11	2.06E-03	NA	NA	NA	NA	NA	NA
+GO:0005759	mitochondrial matrix	99	2.06E-03	NA	NA	NA	NA	NA	NA
+GO:0019866	organelle inner membrane	144	2.12E-03	NA	NA	NA	NA	NA	NA
+GO:0006414	translational elongation	20	2.13E-03	NA	NA	NA	NA	NA	NA
+GO:0006793	phosphorus metabolic process	520	2.14E-03	NA	NA	NA	NA	NA	NA
+GO:0016741	transferase activity, transferring one-carbon groups	138	2.18E-03	NA	NA	NA	NA	NA	NA
+GO:1903050	regulation of proteolysis involved in cellular protein catabolic process	73	2.54E-03	NA	NA	NA	NA	NA	NA
+GO:0046131	pyrimidine ribonucleoside metabolic process	14	2.56E-03	NA	NA	NA	NA	NA	NA
+GO:0000028	ribosomal small subunit assembly	15	2.59E-03	NA	NA	NA	NA	NA	NA
+GO:0043233	organelle lumen	126	2.67E-03	NA	NA	NA	NA	NA	NA
+GO:1902292	cell cycle DNA replication initiation	14	2.67E-03	NA	NA	NA	NA	NA	NA
+GO:1902975	mitotic DNA replication initiation	14	2.67E-03	NA	NA	NA	NA	NA	NA
+GO:0016874	ligase activity	140	2.67E-03	NA	NA	NA	NA	NA	NA
+GO:1902315	nuclear cell cycle DNA replication initiation	14	2.67E-03	NA	NA	NA	NA	NA	NA
+GO:0044743	protein transmembrane import into intracellular organelle	38	2.67E-03	NA	NA	NA	NA	NA	NA
+GO:0032270	positive regulation of cellular protein metabolic process	120	2.67E-03	NA	NA	NA	NA	NA	NA
+GO:0033047	regulation of mitotic sister chromatid segregation	54	2.80E-03	NA	NA	NA	NA	NA	NA
+GO:0033045	regulation of sister chromatid segregation	54	2.80E-03	NA	NA	NA	NA	NA	NA
+GO:0051983	regulation of chromosome segregation	54	2.80E-03	NA	NA	NA	NA	NA	NA
+GO:0005687	U4 snRNP	5	2.80E-03	NA	NA	NA	NA	NA	NA
+GO:1990726	Lsm1-7-Pat1 complex	5	2.89E-03	NA	NA	NA	NA	NA	NA
+GO:0030162	regulation of proteolysis	82	2.94E-03	NA	NA	NA	NA	NA	NA
+GO:0006213	pyrimidine nucleoside metabolic process	20	3.08E-03	NA	NA	NA	NA	NA	NA
+GO:0031440	regulation of mRNA 3'-end processing	7	3.37E-03	NA	NA	NA	NA	NA	NA
+GO:0016853	isomerase activity	76	3.40E-03	NA	NA	NA	NA	NA	NA
+GO:0044282	small molecule catabolic process	105	3.45E-03	NA	NA	NA	NA	NA	NA
+GO:0045862	positive regulation of proteolysis	55	3.45E-03	NA	NA	NA	NA	NA	NA
+GO:1903052	positive regulation of proteolysis involved in cellular protein catabolic process	55	3.45E-03	NA	NA	NA	NA	NA	NA
+GO:0046540	U4/U6 x U5 tri-snRNP complex	18	3.57E-03	NA	NA	NA	NA	NA	NA
+GO:0051247	positive regulation of protein metabolic process	122	3.73E-03	NA	NA	NA	NA	NA	NA
+GO:0046933	proton-transporting ATP synthase activity, rotational mechanism	7	3.76E-03	NA	NA	NA	NA	NA	NA
+GO:0033044	regulation of chromosome organization	109	3.90E-03	NA	NA	NA	NA	NA	NA
+GO:0016859	cis-trans isomerase activity	18	3.90E-03	NA	NA	NA	NA	NA	NA
+GO:0005524	ATP binding	717	3.90E-03	NA	NA	NA	NA	NA	NA
+GO:0010499	proteasomal ubiquitin-independent protein catabolic process	5	3.94E-03	NA	NA	NA	NA	NA	NA
+GO:0030554	adenyl nucleotide binding	723	4.07E-03	NA	NA	NA	NA	NA	NA
+GO:0043248	proteasome assembly	21	4.13E-03	NA	NA	NA	NA	NA	NA
+GO:0008278	cohesin complex	5	4.15E-03	NA	NA	NA	NA	NA	NA
+GO:0006098	pentose-phosphate shunt	5	4.30E-03	NA	NA	NA	NA	NA	NA
+GO:0051156	glucose 6-phosphate metabolic process	7	4.34E-03	NA	NA	NA	NA	NA	NA
+GO:0032559	adenyl ribonucleotide binding	719	4.35E-03	NA	NA	NA	NA	NA	NA
+GO:0036094	small molecule binding	1060	4.66E-03	NA	NA	NA	NA	NA	NA
+GO:0016790	thiolester hydrolase activity	15	4.66E-03	NA	NA	NA	NA	NA	NA
+GO:0042645	mitochondrial nucleoid	12	4.79E-03	NA	NA	NA	NA	NA	NA
+GO:0009295	nucleoid	12	4.79E-03	NA	NA	NA	NA	NA	NA
+GO:0044248	cellular catabolic process	552	5.07E-03	NA	NA	NA	NA	NA	NA
+GO:0071806	protein transmembrane transport	44	5.20E-03	NA	NA	NA	NA	NA	NA
+GO:0065002	intracellular protein transmembrane transport	44	5.20E-03	NA	NA	NA	NA	NA	NA
+GO:0000096	sulfur amino acid metabolic process	42	5.22E-03	NA	NA	NA	NA	NA	NA
+GO:1901575	organic substance catabolic process	725	5.43E-03	NA	NA	NA	NA	NA	NA
+GO:0000775	chromosome, centromeric region	42	5.46E-03	NA	NA	NA	NA	NA	NA
+GO:0046395	carboxylic acid catabolic process	86	5.46E-03	NA	NA	NA	NA	NA	NA
+GO:0016054	organic acid catabolic process	86	5.46E-03	NA	NA	NA	NA	NA	NA
+GO:0090502	RNA phosphodiester bond hydrolysis, endonucleolytic	31	5.55E-03	NA	NA	NA	NA	NA	NA
+GO:0044272	sulfur compound biosynthetic process	72	6.35E-03	NA	NA	NA	NA	NA	NA
+GO:0000154	rRNA modification	25	6.35E-03	NA	NA	NA	NA	NA	NA
+GO:0008380	RNA splicing	130	6.52E-03	NA	NA	NA	NA	NA	NA
+GO:0031331	positive regulation of cellular catabolic process	66	6.82E-03	NA	NA	NA	NA	NA	NA
+GO:0007064	mitotic sister chromatid cohesion	10	6.93E-03	NA	NA	NA	NA	NA	NA
+GO:0005682	U5 snRNP	13	6.96E-03	NA	NA	NA	NA	NA	NA
+GO:0045787	positive regulation of cell cycle	96	6.96E-03	NA	NA	NA	NA	NA	NA
+GO:0009147	pyrimidine nucleoside triphosphate metabolic process	10	6.96E-03	NA	NA	NA	NA	NA	NA
+GO:1901068	guanosine-containing compound metabolic process	19	7.87E-03	NA	NA	NA	NA	NA	NA
+GO:0006417	regulation of translation	75	7.88E-03	NA	NA	NA	NA	NA	NA
+GO:0072524	pyridine-containing compound metabolic process	39	8.36E-03	NA	NA	NA	NA	NA	NA
+GO:0006270	DNA replication initiation	22	8.49E-03	NA	NA	NA	NA	NA	NA
+GO:0018208	peptidyl-proline modification	13	8.58E-03	NA	NA	NA	NA	NA	NA
+GO:0016289	CoA hydrolase activity	8	9.11E-03	NA	NA	NA	NA	NA	NA
+GO:0009218	pyrimidine ribonucleotide metabolic process	13	9.25E-03	NA	NA	NA	NA	NA	NA
+GO:0007062	sister chromatid cohesion	16	9.61E-03	NA	NA	NA	NA	NA	NA
+GO:0071013	catalytic step 2 spliceosome	49	9.62E-03	NA	NA	NA	NA	NA	NA
+GO:0006260	DNA replication	52	1.04E-02	NA	NA	NA	NA	NA	NA
+GO:0005689	U12-type spliceosomal complex	9	1.05E-02	NA	NA	NA	NA	NA	NA
+GO:0044822	RNA binding	61	1.06E-02	NA	NA	NA	NA	NA	NA
+GO:0003729	mRNA binding	61	1.06E-02	NA	NA	NA	NA	NA	NA
+GO:0031966	mitochondrial membrane	221	1.12E-02	NA	NA	NA	NA	NA	NA
+GO:0009451	RNA modification	116	1.13E-02	NA	NA	NA	NA	NA	NA
+GO:0015992	proton transport	39	1.16E-02	NA	NA	NA	NA	NA	NA
+GO:0030684	preribosome	73	1.18E-02	NA	NA	NA	NA	NA	NA
+GO:0006399	tRNA metabolic process	167	1.18E-02	NA	NA	NA	NA	NA	NA
+GO:0000377	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile	107	1.18E-02	NA	NA	NA	NA	NA	NA
+GO:0000398	mRNA splicing, via spliceosome	107	1.18E-02	NA	NA	NA	NA	NA	NA
+GO:0000375	RNA splicing, via transesterification reactions	107	1.18E-02	NA	NA	NA	NA	NA	NA
+GO:0008757	S-adenosylmethionine-dependent methyltransferase activity	90	1.23E-02	NA	NA	NA	NA	NA	NA
+GO:1901265	nucleoside phosphate binding	1024	1.24E-02	NA	NA	NA	NA	NA	NA
+GO:0000166	nucleotide binding	1024	1.24E-02	NA	NA	NA	NA	NA	NA
+GO:0031429	box H/ACA snoRNP complex	4	1.25E-02	NA	NA	NA	NA	NA	NA
+GO:0072588	box H/ACA RNP complex	4	1.25E-02	NA	NA	NA	NA	NA	NA
+GO:0009896	positive regulation of catabolic process	69	1.30E-02	NA	NA	NA	NA	NA	NA
+GO:0003899	DNA-directed 5'-3' RNA polymerase activity	39	1.34E-02	NA	NA	NA	NA	NA	NA
+GO:0060260	regulation of transcription initiation from RNA polymerase II promoter	14	1.39E-02	NA	NA	NA	NA	NA	NA
+GO:0034719	SMN-Sm protein complex	4	1.40E-02	NA	NA	NA	NA	NA	NA
+GO:0000413	protein peptidyl-prolyl isomerization	11	1.42E-02	NA	NA	NA	NA	NA	NA
+GO:0010608	posttranscriptional regulation of gene expression	113	1.42E-02	NA	NA	NA	NA	NA	NA
+GO:0007088	regulation of mitotic nuclear division	73	1.42E-02	NA	NA	NA	NA	NA	NA
+GO:1901992	positive regulation of mitotic cell cycle phase transition	53	1.42E-02	NA	NA	NA	NA	NA	NA
+GO:0005654	nucleoplasm	57	1.50E-02	NA	NA	NA	NA	NA	NA
+GO:1901070	guanosine-containing compound biosynthetic process	6	1.50E-02	NA	NA	NA	NA	NA	NA
+GO:0016801	hydrolase activity, acting on ether bonds	4	1.59E-02	NA	NA	NA	NA	NA	NA
+GO:0046134	pyrimidine nucleoside biosynthetic process	14	1.69E-02	NA	NA	NA	NA	NA	NA
+GO:0000811	GINS complex	4	1.69E-02	NA	NA	NA	NA	NA	NA
+GO:0019439	aromatic compound catabolic process	148	1.69E-02	NA	NA	NA	NA	NA	NA
+GO:0019682	glyceraldehyde-3-phosphate metabolic process	6	1.70E-02	NA	NA	NA	NA	NA	NA
+GO:0005666	DNA-directed RNA polymerase III complex	21	1.70E-02	NA	NA	NA	NA	NA	NA
+GO:0006272	leading strand elongation	6	1.73E-02	NA	NA	NA	NA	NA	NA
+GO:0031595	nuclear proteasome complex	6	1.78E-02	NA	NA	NA	NA	NA	NA
+GO:1902600	hydrogen ion transmembrane transport	33	1.78E-02	NA	NA	NA	NA	NA	NA
+GO:0006796	phosphate-containing compound metabolic process	477	1.83E-02	NA	NA	NA	NA	NA	NA
+GO:0006096	glycolytic process	14	1.86E-02	NA	NA	NA	NA	NA	NA
+GO:0009894	regulation of catabolic process	110	1.89E-02	NA	NA	NA	NA	NA	NA
+GO:0006818	hydrogen transport	41	1.91E-02	NA	NA	NA	NA	NA	NA
+GO:0005838	proteasome regulatory particle	4	1.98E-02	NA	NA	NA	NA	NA	NA
+GO:0031970	organelle envelope lumen	40	1.98E-02	NA	NA	NA	NA	NA	NA
+GO:0030892	mitotic cohesin complex	4	1.98E-02	NA	NA	NA	NA	NA	NA
+GO:0000798	nuclear cohesin complex	4	1.98E-02	NA	NA	NA	NA	NA	NA
+GO:0016879	ligase activity, forming carbon-nitrogen bonds	52	1.98E-02	NA	NA	NA	NA	NA	NA
+GO:0045931	positive regulation of mitotic cell cycle	71	1.98E-02	NA	NA	NA	NA	NA	NA
+GO:0034990	nuclear mitotic cohesin complex	4	1.98E-02	NA	NA	NA	NA	NA	NA
+GO:0031329	regulation of cellular catabolic process	106	1.98E-02	NA	NA	NA	NA	NA	NA
+GO:0043648	dicarboxylic acid metabolic process	55	2.05E-02	NA	NA	NA	NA	NA	NA
+GO:0000177	cytoplasmic exosome (RNase complex)	9	2.11E-02	NA	NA	NA	NA	NA	NA
+GO:1901361	organic cyclic compound catabolic process	160	2.12E-02	NA	NA	NA	NA	NA	NA
+GO:0044265	cellular macromolecule catabolic process	258	2.22E-02	NA	NA	NA	NA	NA	NA
+GO:0006974	cellular response to DNA damage stimulus	248	2.26E-02	NA	NA	NA	NA	NA	NA
+GO:0046496	nicotinamide nucleotide metabolic process	35	2.29E-02	NA	NA	NA	NA	NA	NA
+GO:0019362	pyridine nucleotide metabolic process	35	2.29E-02	NA	NA	NA	NA	NA	NA
+GO:0034062	5'-3' RNA polymerase activity	41	2.32E-02	NA	NA	NA	NA	NA	NA
+GO:0001510	RNA methylation	43	2.32E-02	NA	NA	NA	NA	NA	NA
+GO:2000142	regulation of DNA-templated transcription, initiation	15	2.34E-02	NA	NA	NA	NA	NA	NA
+GO:0042776	mitochondrial ATP synthesis coupled proton transport	7	2.36E-02	NA	NA	NA	NA	NA	NA
+GO:0030490	maturation of SSU-rRNA	48	2.41E-02	NA	NA	NA	NA	NA	NA
+GO:0090068	positive regulation of cell cycle process	86	2.49E-02	NA	NA	NA	NA	NA	NA
+GO:0009148	pyrimidine nucleoside triphosphate biosynthetic process	9	2.49E-02	NA	NA	NA	NA	NA	NA
+GO:0006189	'de novo' IMP biosynthetic process	9	2.60E-02	NA	NA	NA	NA	NA	NA
+GO:0044452	nucleolar part	53	2.62E-02	NA	NA	NA	NA	NA	NA
+GO:0009083	branched-chain amino acid catabolic process	9	2.62E-02	NA	NA	NA	NA	NA	NA
+GO:0044270	cellular nitrogen compound catabolic process	142	2.67E-02	NA	NA	NA	NA	NA	NA
+GO:0035327	transcriptionally active chromatin	9	2.75E-02	NA	NA	NA	NA	NA	NA
+GO:0034655	nucleobase-containing compound catabolic process	124	2.77E-02	NA	NA	NA	NA	NA	NA
+GO:0036387	pre-replicative complex	9	2.79E-02	NA	NA	NA	NA	NA	NA
+GO:0006103	2-oxoglutarate metabolic process	9	2.79E-02	NA	NA	NA	NA	NA	NA
+GO:0005656	nuclear pre-replicative complex	9	2.79E-02	NA	NA	NA	NA	NA	NA
+GO:0001882	nucleoside binding	863	2.83E-02	NA	NA	NA	NA	NA	NA
+GO:0051783	regulation of nuclear division	90	2.83E-02	NA	NA	NA	NA	NA	NA
+GO:0003743	translation initiation factor activity	40	2.83E-02	NA	NA	NA	NA	NA	NA
+GO:0050667	homocysteine metabolic process	12	2.88E-02	NA	NA	NA	NA	NA	NA
+GO:0009164	nucleoside catabolic process	19	2.97E-02	NA	NA	NA	NA	NA	NA
+GO:0010638	positive regulation of organelle organization	91	2.97E-02	NA	NA	NA	NA	NA	NA
+GO:1901658	glycosyl compound catabolic process	19	2.97E-02	NA	NA	NA	NA	NA	NA
+GO:0006555	methionine metabolic process	37	2.99E-02	NA	NA	NA	NA	NA	NA
+GO:0006950	response to stress	548	3.07E-02	NA	NA	NA	NA	NA	NA
+GO:1901989	positive regulation of cell cycle phase transition	57	3.09E-02	NA	NA	NA	NA	NA	NA
+GO:0016881	acid-amino acid ligase activity	12	3.09E-02	NA	NA	NA	NA	NA	NA
+GO:0032259	methylation	87	3.12E-02	NA	NA	NA	NA	NA	NA
+GO:0071428	rRNA-containing ribonucleoprotein complex export from nucleus	30	3.27E-02	NA	NA	NA	NA	NA	NA
+GO:0071426	ribonucleoprotein complex export from nucleus	30	3.27E-02	NA	NA	NA	NA	NA	NA
+GO:0000054	ribosomal subunit export from nucleus	30	3.27E-02	NA	NA	NA	NA	NA	NA
+GO:0033753	ribosome localization	30	3.27E-02	NA	NA	NA	NA	NA	NA
+GO:0007007	inner mitochondrial membrane organization	17	3.27E-02	NA	NA	NA	NA	NA	NA
+GO:0046700	heterocycle catabolic process	145	3.43E-02	NA	NA	NA	NA	NA	NA
+GO:0032549	ribonucleoside binding	862	3.43E-02	NA	NA	NA	NA	NA	NA
+GO:0000462	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	30	3.53E-02	NA	NA	NA	NA	NA	NA
+GO:0030150	protein import into mitochondrial matrix	16	3.66E-02	NA	NA	NA	NA	NA	NA
+GO:0098687	chromosomal region	120	3.69E-02	NA	NA	NA	NA	NA	NA
+GO:0008649	rRNA methyltransferase activity	16	3.71E-02	NA	NA	NA	NA	NA	NA
+GO:0006461	protein complex assembly	185	3.71E-02	NA	NA	NA	NA	NA	NA
+GO:0001522	pseudouridine synthesis	16	3.76E-02	NA	NA	NA	NA	NA	NA
+GO:0019774	proteasome core complex, beta-subunit complex	7	3.79E-02	NA	NA	NA	NA	NA	NA
+GO:0006534	cysteine metabolic process	19	3.79E-02	NA	NA	NA	NA	NA	NA
+GO:0009056	catabolic process	800	3.83E-02	NA	NA	NA	NA	NA	NA
+GO:0006085	acetyl-CoA biosynthetic process	13	3.87E-02	NA	NA	NA	NA	NA	NA
+GO:1901407	regulation of phosphorylation of RNA polymerase II C-terminal domain	7	3.89E-02	NA	NA	NA	NA	NA	NA
+GO:1901409	positive regulation of phosphorylation of RNA polymerase II C-terminal domain	7	3.89E-02	NA	NA	NA	NA	NA	NA
+GO:0016829	lyase activity	112	3.96E-02	NA	NA	NA	NA	NA	NA
+GO:0000479	endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	19	3.97E-02	NA	NA	NA	NA	NA	NA
+GO:0005758	mitochondrial intermembrane space	39	3.99E-02	NA	NA	NA	NA	NA	NA
+GO:0009173	pyrimidine ribonucleoside monophosphate metabolic process	7	4.02E-02	NA	NA	NA	NA	NA	NA
+GO:0009174	pyrimidine ribonucleoside monophosphate biosynthetic process	7	4.02E-02	NA	NA	NA	NA	NA	NA
+GO:0046049	UMP metabolic process	7	4.02E-02	NA	NA	NA	NA	NA	NA
+GO:0008250	oligosaccharyltransferase complex	7	4.02E-02	NA	NA	NA	NA	NA	NA
+GO:0000176	nuclear exosome (RNase complex)	10	4.02E-02	NA	NA	NA	NA	NA	NA
+GO:0006222	UMP biosynthetic process	7	4.02E-02	NA	NA	NA	NA	NA	NA
+GO:0015078	hydrogen ion transmembrane transporter activity	53	4.02E-02	NA	NA	NA	NA	NA	NA
+GO:0008540	proteasome regulatory particle, base subcomplex	10	4.04E-02	NA	NA	NA	NA	NA	NA
+GO:0008173	RNA methyltransferase activity	42	4.04E-02	NA	NA	NA	NA	NA	NA
+GO:0000178	exosome (RNase complex)	13	4.11E-02	NA	NA	NA	NA	NA	NA
+GO:0070651	nonfunctional rRNA decay	13	4.11E-02	NA	NA	NA	NA	NA	NA
+GO:0016078	tRNA catabolic process	13	4.11E-02	NA	NA	NA	NA	NA	NA
+GO:0006401	RNA catabolic process	77	4.11E-02	NA	NA	NA	NA	NA	NA
+GO:0031390	Ctf18 RFC-like complex	7	4.19E-02	NA	NA	NA	NA	NA	NA
+GO:0000967	rRNA 5'-end processing	7	4.24E-02	NA	NA	NA	NA	NA	NA
+GO:0034471	ncRNA 5'-end processing	7	4.24E-02	NA	NA	NA	NA	NA	NA
+GO:0031167	rRNA methylation	16	4.24E-02	NA	NA	NA	NA	NA	NA
+GO:0016624	oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor	7	4.29E-02	NA	NA	NA	NA	NA	NA
+GO:0031123	RNA 3'-end processing	63	4.30E-02	NA	NA	NA	NA	NA	NA
+GO:0019464	glycine decarboxylation via glycine cleavage system	5	4.40E-02	NA	NA	NA	NA	NA	NA
+GO:0006546	glycine catabolic process	5	4.40E-02	NA	NA	NA	NA	NA	NA
+GO:0005960	glycine cleavage complex	5	4.40E-02	NA	NA	NA	NA	NA	NA
+GO:0009071	serine family amino acid catabolic process	5	4.40E-02	NA	NA	NA	NA	NA	NA
+GO:0004527	exonuclease activity	38	4.40E-02	NA	NA	NA	NA	NA	NA
+GO:0043414	macromolecule methylation	85	4.40E-02	NA	NA	NA	NA	NA	NA
+GO:0000463	maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	13	4.50E-02	NA	NA	NA	NA	NA	NA
+GO:0002182	cytoplasmic translational elongation	5	4.57E-02	NA	NA	NA	NA	NA	NA
+GO:0055029	nuclear DNA-directed RNA polymerase complex	40	4.65E-02	NA	NA	NA	NA	NA	NA
+GO:0071265	L-methionine biosynthetic process	20	4.65E-02	NA	NA	NA	NA	NA	NA
+GO:0071266	'de novo' L-methionine biosynthetic process	10	4.66E-02	NA	NA	NA	NA	NA	NA
+GO:0006188	IMP biosynthetic process	10	4.72E-02	NA	NA	NA	NA	NA	NA
+GO:0046040	IMP metabolic process	10	4.72E-02	NA	NA	NA	NA	NA	NA
+GO:0006207	'de novo' pyrimidine nucleobase biosynthetic process	10	4.77E-02	NA	NA	NA	NA	NA	NA
+GO:0019856	pyrimidine nucleobase biosynthetic process	10	4.77E-02	NA	NA	NA	NA	NA	NA
+GO:0003727	single-stranded RNA binding	31	4.77E-02	NA	NA	NA	NA	NA	NA
+GO:0002832	negative regulation of response to biotic stimulus	3	4.79E-02	NA	NA	NA	NA	NA	NA
+GO:0009057	macromolecule catabolic process	337	4.90E-02	NA	NA	NA	NA	NA	NA
+GO:0006383	transcription from RNA polymerase III promoter	24	4.94E-02	NA	NA	NA	NA	NA	NA
+GO:0006626	protein targeting to mitochondrion	17	4.96E-02	NA	NA	NA	NA	NA	NA
+GO:1901990	regulation of mitotic cell cycle phase transition	99	5.01E-02	NA	NA	NA	NA	NA	NA
+GO:0043596	nuclear replication fork	39	5.02E-02	NA	NA	NA	NA	NA	NA
+GO:0033554	cellular response to stress	444	5.05E-02	NA	NA	NA	NA	NA	NA
+GO:0033177	proton-transporting two-sector ATPase complex, proton-transporting domain	15	5.11E-02	NA	NA	NA	NA	NA	NA
+GO:0000036	acyl carrier activity	3	5.22E-02	NA	NA	NA	NA	NA	NA
+GO:0044620	ACP phosphopantetheine attachment site binding	3	5.22E-02	NA	NA	NA	NA	NA	NA
+GO:0051192	prosthetic group binding	3	5.22E-02	NA	NA	NA	NA	NA	NA
+GO:0016579	protein deubiquitination	20	5.22E-02	NA	NA	NA	NA	NA	NA
+GO:0000478	endonucleolytic cleavage involved in rRNA processing	20	5.53E-02	NA	NA	NA	NA	NA	NA
+GO:0035639	purine ribonucleoside triphosphate binding	858	5.66E-02	NA	NA	NA	NA	NA	NA
+GO:0001883	purine nucleoside binding	858	5.66E-02	NA	NA	NA	NA	NA	NA
+GO:0019279	L-methionine biosynthetic process from L-homoserine via cystathionine	5	5.66E-02	NA	NA	NA	NA	NA	NA
+GO:0046036	CTP metabolic process	5	5.66E-02	NA	NA	NA	NA	NA	NA
+GO:0009208	pyrimidine ribonucleoside triphosphate metabolic process	5	5.66E-02	NA	NA	NA	NA	NA	NA
+GO:0030532	small nuclear ribonucleoprotein complex	49	5.66E-02	NA	NA	NA	NA	NA	NA
+GO:0032550	purine ribonucleoside binding	858	5.66E-02	NA	NA	NA	NA	NA	NA
+GO:0006241	CTP biosynthetic process	5	5.66E-02	NA	NA	NA	NA	NA	NA
+GO:0009209	pyrimidine ribonucleoside triphosphate biosynthetic process	5	5.66E-02	NA	NA	NA	NA	NA	NA
+GO:0034661	ncRNA catabolic process	17	5.67E-02	NA	NA	NA	NA	NA	NA
+GO:0000428	DNA-directed RNA polymerase complex	41	5.73E-02	NA	NA	NA	NA	NA	NA
+GO:0031118	rRNA pseudouridine synthesis	5	5.76E-02	NA	NA	NA	NA	NA	NA
+GO:0017076	purine nucleotide binding	864	5.78E-02	NA	NA	NA	NA	NA	NA
+GO:0003860	3-hydroxyisobutyryl-CoA hydrolase activity	5	5.81E-02	NA	NA	NA	NA	NA	NA
+GO:0006206	pyrimidine nucleobase metabolic process	17	5.81E-02	NA	NA	NA	NA	NA	NA
+GO:0042273	ribosomal large subunit biogenesis	28	5.82E-02	NA	NA	NA	NA	NA	NA
+GO:0044205	'de novo' UMP biosynthetic process	5	5.94E-02	NA	NA	NA	NA	NA	NA
+GO:0006531	aspartate metabolic process	5	6.06E-02	NA	NA	NA	NA	NA	NA
+GO:0044819	mitotic G1/S transition checkpoint	5	6.15E-02	NA	NA	NA	NA	NA	NA
+GO:0032555	purine ribonucleotide binding	860	6.15E-02	NA	NA	NA	NA	NA	NA
+GO:0004739	pyruvate dehydrogenase (acetyl-transferring) activity	5	6.29E-02	NA	NA	NA	NA	NA	NA
+GO:0042030	ATPase inhibitor activity	3	6.29E-02	NA	NA	NA	NA	NA	NA
+GO:0016774	phosphotransferase activity, carboxyl group as acceptor	5	6.29E-02	NA	NA	NA	NA	NA	NA
+GO:0004738	pyruvate dehydrogenase activity	5	6.29E-02	NA	NA	NA	NA	NA	NA
+GO:0071025	RNA surveillance	14	6.32E-02	NA	NA	NA	NA	NA	NA
+GO:0017038	protein import	73	6.33E-02	NA	NA	NA	NA	NA	NA
+GO:0035770	ribonucleoprotein granule	53	6.34E-02	NA	NA	NA	NA	NA	NA
+GO:0036464	cytoplasmic ribonucleoprotein granule	53	6.34E-02	NA	NA	NA	NA	NA	NA
+GO:0004301	epoxide hydrolase activity	3	6.41E-02	NA	NA	NA	NA	NA	NA
+GO:0016803	ether hydrolase activity	3	6.41E-02	NA	NA	NA	NA	NA	NA
+GO:0034715	pICln-Sm protein complex	3	6.41E-02	NA	NA	NA	NA	NA	NA
+GO:0008320	protein transmembrane transporter activity	11	6.46E-02	NA	NA	NA	NA	NA	NA
+GO:0022884	macromolecule transmembrane transporter activity	11	6.46E-02	NA	NA	NA	NA	NA	NA
+GO:0008298	intracellular mRNA localization	21	6.51E-02	NA	NA	NA	NA	NA	NA
+GO:0072546	ER membrane protein complex	8	6.51E-02	NA	NA	NA	NA	NA	NA
+GO:0006403	RNA localization	21	6.51E-02	NA	NA	NA	NA	NA	NA
+GO:0043632	modification-dependent macromolecule catabolic process	171	6.52E-02	NA	NA	NA	NA	NA	NA
+GO:0071046	nuclear polyadenylation-dependent ncRNA catabolic process	11	6.53E-02	NA	NA	NA	NA	NA	NA
+GO:0090503	RNA phosphodiester bond hydrolysis, exonucleolytic	11	6.53E-02	NA	NA	NA	NA	NA	NA
+GO:0000459	exonucleolytic trimming involved in rRNA processing	11	6.53E-02	NA	NA	NA	NA	NA	NA
+GO:0071035	nuclear polyadenylation-dependent rRNA catabolic process	11	6.53E-02	NA	NA	NA	NA	NA	NA
+GO:0031125	rRNA 3'-end processing	11	6.53E-02	NA	NA	NA	NA	NA	NA
+GO:0071038	nuclear polyadenylation-dependent tRNA catabolic process	11	6.53E-02	NA	NA	NA	NA	NA	NA
+GO:0000467	exonucleolytic trimming to generate mature 3'-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	11	6.53E-02	NA	NA	NA	NA	NA	NA
+GO:0071029	nuclear ncRNA surveillance	11	6.53E-02	NA	NA	NA	NA	NA	NA
+GO:0006281	DNA repair	196	6.53E-02	NA	NA	NA	NA	NA	NA
+GO:0043634	polyadenylation-dependent ncRNA catabolic process	11	6.53E-02	NA	NA	NA	NA	NA	NA
+GO:0070478	nuclear-transcribed mRNA catabolic process, 3'-5' exonucleolytic nonsense-mediated decay	11	6.53E-02	NA	NA	NA	NA	NA	NA
+GO:0032553	ribonucleotide binding	880	6.86E-02	NA	NA	NA	NA	NA	NA
+GO:0072523	purine-containing compound catabolic process	25	6.86E-02	NA	NA	NA	NA	NA	NA
+GO:0097367	carbohydrate derivative binding	933	6.90E-02	NA	NA	NA	NA	NA	NA
+GO:0042407	cristae formation	3	6.95E-02	NA	NA	NA	NA	NA	NA
+GO:0043094	cellular metabolic compound salvage	25	6.98E-02	NA	NA	NA	NA	NA	NA
+GO:0035384	thioester biosynthetic process	19	7.02E-02	NA	NA	NA	NA	NA	NA
+GO:0071616	acyl-CoA biosynthetic process	19	7.02E-02	NA	NA	NA	NA	NA	NA
+GO:0005623	cell	11	7.05E-02	NA	NA	NA	NA	NA	NA
+GO:0000097	sulfur amino acid biosynthetic process	37	7.05E-02	NA	NA	NA	NA	NA	NA
+GO:0009263	deoxyribonucleotide biosynthetic process	8	7.24E-02	NA	NA	NA	NA	NA	NA
+GO:0009262	deoxyribonucleotide metabolic process	8	7.24E-02	NA	NA	NA	NA	NA	NA
+GO:0000387	spliceosomal snRNP assembly	18	7.29E-02	NA	NA	NA	NA	NA	NA
+GO:0005685	U1 snRNP	18	7.31E-02	NA	NA	NA	NA	NA	NA
+GO:0008408	3'-5' exonuclease activity	25	7.34E-02	NA	NA	NA	NA	NA	NA
+GO:0042180	cellular ketone metabolic process	25	7.36E-02	NA	NA	NA	NA	NA	NA
+GO:0019346	transsulfuration	11	7.48E-02	NA	NA	NA	NA	NA	NA
+GO:0001178	regulation of transcriptional start site selection at RNA polymerase II promoter	3	7.60E-02	NA	NA	NA	NA	NA	NA
+GO:0070646	protein modification by small protein removal	33	7.71E-02	NA	NA	NA	NA	NA	NA
+GO:0004576	oligosaccharyl transferase activity	3	7.76E-02	NA	NA	NA	NA	NA	NA
+GO:0004072	aspartate kinase activity	3	7.76E-02	NA	NA	NA	NA	NA	NA
+GO:0010257	NADH dehydrogenase complex assembly	3	7.76E-02	NA	NA	NA	NA	NA	NA
+GO:0061780	mitotic cohesin loading	3	7.76E-02	NA	NA	NA	NA	NA	NA
+GO:0009090	homoserine biosynthetic process	3	7.76E-02	NA	NA	NA	NA	NA	NA
+GO:0006044	N-acetylglucosamine metabolic process	3	7.76E-02	NA	NA	NA	NA	NA	NA
+GO:0016405	CoA-ligase activity	3	7.76E-02	NA	NA	NA	NA	NA	NA
+GO:0000966	RNA 5'-end processing	8	7.81E-02	NA	NA	NA	NA	NA	NA
+GO:0006573	valine metabolic process	11	7.90E-02	NA	NA	NA	NA	NA	NA
+GO:0006739	NADP metabolic process	11	7.91E-02	NA	NA	NA	NA	NA	NA
+GO:0006144	purine nucleobase metabolic process	18	7.93E-02	NA	NA	NA	NA	NA	NA
+GO:0033615	mitochondrial proton-transporting ATP synthase complex assembly	6	8.19E-02	NA	NA	NA	NA	NA	NA
+GO:0043461	proton-transporting ATP synthase complex assembly	6	8.19E-02	NA	NA	NA	NA	NA	NA
+GO:0030880	RNA polymerase complex	43	8.37E-02	NA	NA	NA	NA	NA	NA
+GO:0045271	respiratory chain complex I	9	9.24E-02	NA	NA	NA	NA	NA	NA
+GO:0005747	mitochondrial respiratory chain complex I	9	9.24E-02	NA	NA	NA	NA	NA	NA
+GO:0030964	NADH dehydrogenase complex	9	9.24E-02	NA	NA	NA	NA	NA	NA
+GO:0044451	nucleoplasm part	235	9.44E-02	NA	NA	NA	NA	NA	NA
+GO:0043022	ribosome binding	15	9.46E-02	NA	NA	NA	NA	NA	NA
+GO:0043021	ribonucleoprotein complex binding	26	9.53E-02	NA	NA	NA	NA	NA	NA
+GO:0016836	hydro-lyase activity	26	9.76E-02	NA	NA	NA	NA	NA	NA
+GO:0000175	3'-5'-exoribonuclease activity	15	1.04E-01	NA	NA	NA	NA	NA	NA
+GO:0034427	nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'	12	1.06E-01	NA	NA	NA	NA	NA	NA
+GO:0000056	ribosomal small subunit export from nucleus	9	1.10E-01	NA	NA	NA	NA	NA	NA
+GO:0071051	polyadenylation-dependent snoRNA 3'-end processing	6	1.11E-01	NA	NA	NA	NA	NA	NA
+GO:1901987	regulation of cell cycle phase transition	106	1.11E-01	NA	NA	NA	NA	NA	NA
+GO:0008143	poly(A) binding	6	1.11E-01	NA	NA	NA	NA	NA	NA
+GO:0070717	poly-purine tract binding	6	1.11E-01	NA	NA	NA	NA	NA	NA
+GO:0040017	positive regulation of locomotion	4	1.12E-01	NA	NA	NA	NA	NA	NA
+GO:0006448	regulation of translational elongation	12	1.12E-01	NA	NA	NA	NA	NA	NA
+GO:0042454	ribonucleoside catabolic process	16	1.16E-01	NA	NA	NA	NA	NA	NA
+GO:0009113	purine nucleobase biosynthetic process	9	1.17E-01	NA	NA	NA	NA	NA	NA
+GO:0031126	snoRNA 3'-end processing	9	1.18E-01	NA	NA	NA	NA	NA	NA
+GO:0034475	U4 snRNA 3'-end processing	9	1.19E-01	NA	NA	NA	NA	NA	NA
+GO:0016272	prefoldin complex	6	1.21E-01	NA	NA	NA	NA	NA	NA
+GO:0030170	pyridoxal phosphate binding	47	1.23E-01	NA	NA	NA	NA	NA	NA
+GO:0000956	nuclear-transcribed mRNA catabolic process	62	1.23E-01	NA	NA	NA	NA	NA	NA
+GO:0090342	regulation of cell aging	6	1.26E-01	NA	NA	NA	NA	NA	NA
+GO:0019692	deoxyribose phosphate metabolic process	6	1.28E-01	NA	NA	NA	NA	NA	NA
+GO:0009265	2'-deoxyribonucleotide biosynthetic process	6	1.28E-01	NA	NA	NA	NA	NA	NA
+GO:0046385	deoxyribose phosphate biosynthetic process	6	1.28E-01	NA	NA	NA	NA	NA	NA
+GO:0009219	pyrimidine deoxyribonucleotide metabolic process	6	1.28E-01	NA	NA	NA	NA	NA	NA
+GO:0005996	monosaccharide metabolic process	39	1.28E-01	NA	NA	NA	NA	NA	NA
+GO:0009221	pyrimidine deoxyribonucleotide biosynthetic process	6	1.28E-01	NA	NA	NA	NA	NA	NA
+GO:0009394	2'-deoxyribonucleotide metabolic process	6	1.28E-01	NA	NA	NA	NA	NA	NA
+GO:0016073	snRNA metabolic process	27	1.28E-01	NA	NA	NA	NA	NA	NA
+GO:0004784	superoxide dismutase activity	6	1.28E-01	NA	NA	NA	NA	NA	NA
+GO:0016721	oxidoreductase activity, acting on superoxide radicals as acceptor	6	1.28E-01	NA	NA	NA	NA	NA	NA
+GO:0051168	nuclear export	72	1.29E-01	NA	NA	NA	NA	NA	NA
+GO:0043173	nucleotide salvage	9	1.29E-01	NA	NA	NA	NA	NA	NA
+GO:0044454	nuclear chromosome part	294	1.29E-01	NA	NA	NA	NA	NA	NA
+GO:0003962	cystathionine gamma-synthase activity	9	1.29E-01	NA	NA	NA	NA	NA	NA
+GO:0016607	nuclear speck	6	1.30E-01	NA	NA	NA	NA	NA	NA
+GO:0030163	protein catabolic process	143	1.31E-01	NA	NA	NA	NA	NA	NA
+GO:0005657	replication fork	44	1.32E-01	NA	NA	NA	NA	NA	NA
+GO:0006631	fatty acid metabolic process	94	1.32E-01	NA	NA	NA	NA	NA	NA
+GO:0051276	chromosome organization	145	1.32E-01	NA	NA	NA	NA	NA	NA
+GO:0000472	endonucleolytic cleavage to generate mature 5'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	6	1.33E-01	NA	NA	NA	NA	NA	NA
+GO:0016075	rRNA catabolic process	16	1.33E-01	NA	NA	NA	NA	NA	NA
+GO:0001709	cell fate determination	6	1.33E-01	NA	NA	NA	NA	NA	NA
+GO:0000480	endonucleolytic cleavage in 5'-ETS of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	6	1.33E-01	NA	NA	NA	NA	NA	NA
+GO:0005663	DNA replication factor C complex	6	1.34E-01	NA	NA	NA	NA	NA	NA
+GO:0005851	eukaryotic translation initiation factor 2B complex	6	1.34E-01	NA	NA	NA	NA	NA	NA
+GO:0006536	glutamate metabolic process	20	1.34E-01	NA	NA	NA	NA	NA	NA
+GO:0016877	ligase activity, forming carbon-sulfur bonds	31	1.34E-01	NA	NA	NA	NA	NA	NA
+GO:0043168	anion binding	1093	1.34E-01	NA	NA	NA	NA	NA	NA
+GO:0051130	positive regulation of cellular component organization	133	1.36E-01	NA	NA	NA	NA	NA	NA
+GO:0042181	ketone biosynthetic process	16	1.37E-01	NA	NA	NA	NA	NA	NA
+GO:0006086	acetyl-CoA biosynthetic process from pyruvate	9	1.38E-01	NA	NA	NA	NA	NA	NA
+GO:0005967	mitochondrial pyruvate dehydrogenase complex	9	1.38E-01	NA	NA	NA	NA	NA	NA
+GO:0045254	pyruvate dehydrogenase complex	9	1.38E-01	NA	NA	NA	NA	NA	NA
+GO:0005736	DNA-directed RNA polymerase I complex	13	1.39E-01	NA	NA	NA	NA	NA	NA
+GO:0051716	cellular response to stimulus	486	1.41E-01	NA	NA	NA	NA	NA	NA
+GO:0010604	positive regulation of macromolecule metabolic process	283	1.51E-01	NA	NA	NA	NA	NA	NA
+GO:0031514	motile cilium	2	1.53E-01	NA	NA	NA	NA	NA	NA
+GO:0044782	cilium organization	2	1.53E-01	NA	NA	NA	NA	NA	NA
+GO:0097223	sperm part	2	1.53E-01	NA	NA	NA	NA	NA	NA
+GO:0036126	sperm flagellum	2	1.53E-01	NA	NA	NA	NA	NA	NA
+GO:0071047	polyadenylation-dependent mRNA catabolic process	13	1.53E-01	NA	NA	NA	NA	NA	NA
+GO:0018094	protein polyglycylation	2	1.53E-01	NA	NA	NA	NA	NA	NA
+GO:0007288	sperm axoneme assembly	2	1.53E-01	NA	NA	NA	NA	NA	NA
+GO:1902093	positive regulation of flagellated sperm motility	2	1.53E-01	NA	NA	NA	NA	NA	NA
+GO:0035082	axoneme assembly	2	1.53E-01	NA	NA	NA	NA	NA	NA
+GO:1901317	regulation of flagellated sperm motility	2	1.53E-01	NA	NA	NA	NA	NA	NA
+GO:0043633	polyadenylation-dependent RNA catabolic process	13	1.53E-01	NA	NA	NA	NA	NA	NA
+GO:2000147	positive regulation of cell motility	2	1.53E-01	NA	NA	NA	NA	NA	NA
+GO:0071042	nuclear polyadenylation-dependent mRNA catabolic process	13	1.53E-01	NA	NA	NA	NA	NA	NA
+GO:0000287	magnesium ion binding	63	1.53E-01	NA	NA	NA	NA	NA	NA
+GO:0043928	exonucleolytic nuclear-transcribed mRNA catabolic process involved in deadenylation-dependent decay	13	1.55E-01	NA	NA	NA	NA	NA	NA
+GO:0071027	nuclear RNA surveillance	13	1.55E-01	NA	NA	NA	NA	NA	NA
+GO:0030686	90S preribosome	13	1.57E-01	NA	NA	NA	NA	NA	NA
+GO:0043628	ncRNA 3'-end processing	32	1.58E-01	NA	NA	NA	NA	NA	NA
+GO:0034754	cellular hormone metabolic process	4	1.60E-01	NA	NA	NA	NA	NA	NA
+GO:0043186	P granule	4	1.60E-01	NA	NA	NA	NA	NA	NA
+GO:0006402	mRNA catabolic process	64	1.60E-01	NA	NA	NA	NA	NA	NA
+GO:0010817	regulation of hormone levels	4	1.60E-01	NA	NA	NA	NA	NA	NA
+GO:0042445	hormone metabolic process	4	1.60E-01	NA	NA	NA	NA	NA	NA
+GO:0006446	regulation of translational initiation	13	1.60E-01	NA	NA	NA	NA	NA	NA
+GO:0016627	oxidoreductase activity, acting on the CH-CH group of donors	41	1.60E-01	NA	NA	NA	NA	NA	NA
+GO:0036402	proteasome-activating ATPase activity	7	1.68E-01	NA	NA	NA	NA	NA	NA
+GO:0071049	nuclear retention of pre-mRNA with aberrant 3'-ends at the site of transcription	4	1.72E-01	NA	NA	NA	NA	NA	NA
+GO:0015672	monovalent inorganic cation transport	61	1.73E-01	NA	NA	NA	NA	NA	NA
+GO:1990841	promoter-specific chromatin binding	4	1.74E-01	NA	NA	NA	NA	NA	NA
+GO:0070181	small ribosomal subunit rRNA binding	4	1.77E-01	NA	NA	NA	NA	NA	NA
+GO:0060211	regulation of nuclear-transcribed mRNA poly(A) tail shortening	4	1.79E-01	NA	NA	NA	NA	NA	NA
+GO:0006743	ubiquinone metabolic process	13	1.81E-01	NA	NA	NA	NA	NA	NA
+GO:1901661	quinone metabolic process	13	1.81E-01	NA	NA	NA	NA	NA	NA
+GO:0006386	termination of RNA polymerase III transcription	4	1.81E-01	NA	NA	NA	NA	NA	NA
+GO:1901663	quinone biosynthetic process	13	1.81E-01	NA	NA	NA	NA	NA	NA
+GO:0006744	ubiquinone biosynthetic process	13	1.81E-01	NA	NA	NA	NA	NA	NA
+GO:0042797	tRNA transcription from RNA polymerase III promoter	4	1.81E-01	NA	NA	NA	NA	NA	NA
+GO:0019239	deaminase activity	10	1.82E-01	NA	NA	NA	NA	NA	NA
+GO:0043177	organic acid binding	13	1.82E-01	NA	NA	NA	NA	NA	NA
+GO:0031406	carboxylic acid binding	13	1.82E-01	NA	NA	NA	NA	NA	NA
+GO:0016835	carbon-oxygen lyase activity	37	1.82E-01	NA	NA	NA	NA	NA	NA
+GO:0042721	mitochondrial inner membrane protein insertion complex	8	1.87E-01	NA	NA	NA	NA	NA	NA
+GO:0006549	isoleucine metabolic process	10	1.89E-01	NA	NA	NA	NA	NA	NA
+GO:0009097	isoleucine biosynthetic process	10	1.89E-01	NA	NA	NA	NA	NA	NA
+GO:0009615	response to virus	10	1.93E-01	NA	NA	NA	NA	NA	NA
+GO:0001405	presequence translocase-associated import motor	4	1.95E-01	NA	NA	NA	NA	NA	NA
+GO:0008033	tRNA processing	112	1.96E-01	NA	NA	NA	NA	NA	NA
+GO:0001306	age-dependent response to oxidative stress	4	1.96E-01	NA	NA	NA	NA	NA	NA
+GO:1900441	negative regulation of filamentous growth of a population of unicellular organisms in response to neutral pH	2	1.96E-01	NA	NA	NA	NA	NA	NA
+GO:1900742	negative regulation of filamentous growth of a population of unicellular organisms in response to pH	2	1.96E-01	NA	NA	NA	NA	NA	NA
+GO:0045827	negative regulation of isoprenoid metabolic process	2	1.96E-01	NA	NA	NA	NA	NA	NA
+GO:0050684	regulation of mRNA processing	21	1.96E-01	NA	NA	NA	NA	NA	NA
+GO:0097315	response to N-acetyl-D-glucosamine	2	1.96E-01	NA	NA	NA	NA	NA	NA
+GO:0048874	homeostasis of number of cells in a free-living population	2	1.96E-01	NA	NA	NA	NA	NA	NA
+GO:0009372	quorum sensing	2	1.96E-01	NA	NA	NA	NA	NA	NA
+GO:0003724	RNA helicase activity	37	1.96E-01	NA	NA	NA	NA	NA	NA
+GO:0071033	nuclear retention of pre-mRNA at the site of transcription	7	1.96E-01	NA	NA	NA	NA	NA	NA
+GO:1900435	negative regulation of filamentous growth of a population of unicellular organisms in response to starvation	2	1.96E-01	NA	NA	NA	NA	NA	NA
+GO:1900444	negative regulation of filamentous growth of a population of unicellular organisms in response to biotic stimulus	2	1.96E-01	NA	NA	NA	NA	NA	NA
+GO:0001324	age-dependent response to oxidative stress involved in chronological cell aging	4	1.96E-01	NA	NA	NA	NA	NA	NA
+GO:0097316	cellular response to N-acetyl-D-glucosamine	2	1.96E-01	NA	NA	NA	NA	NA	NA
+GO:0019281	L-methionine biosynthetic process from homoserine via O-succinyl-L-homoserine and cystathionine	4	1.96E-01	NA	NA	NA	NA	NA	NA
+GO:0006265	DNA topological change	4	1.96E-01	NA	NA	NA	NA	NA	NA
+GO:0005688	U6 snRNP	7	1.96E-01	NA	NA	NA	NA	NA	NA
+GO:0040031	snRNA modification	4	1.97E-01	NA	NA	NA	NA	NA	NA
+GO:0031120	snRNA pseudouridine synthesis	4	1.97E-01	NA	NA	NA	NA	NA	NA
+GO:0046039	GTP metabolic process	4	1.98E-01	NA	NA	NA	NA	NA	NA
+GO:0006183	GTP biosynthetic process	4	1.98E-01	NA	NA	NA	NA	NA	NA
+GO:0009157	deoxyribonucleoside monophosphate biosynthetic process	4	1.98E-01	NA	NA	NA	NA	NA	NA
+GO:0009176	pyrimidine deoxyribonucleoside monophosphate metabolic process	4	1.98E-01	NA	NA	NA	NA	NA	NA
+GO:0051302	regulation of cell division	107	1.98E-01	NA	NA	NA	NA	NA	NA
+GO:0009177	pyrimidine deoxyribonucleoside monophosphate biosynthetic process	4	1.98E-01	NA	NA	NA	NA	NA	NA
+GO:0009162	deoxyribonucleoside monophosphate metabolic process	4	1.98E-01	NA	NA	NA	NA	NA	NA
+GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	4	1.99E-01	NA	NA	NA	NA	NA	NA
+GO:0009086	methionine biosynthetic process	34	2.01E-01	NA	NA	NA	NA	NA	NA
+GO:0002183	cytoplasmic translational initiation	25	2.01E-01	NA	NA	NA	NA	NA	NA
+GO:0000712	resolution of meiotic recombination intermediates	4	2.05E-01	NA	NA	NA	NA	NA	NA
+GO:0000785	chromatin	232	2.06E-01	NA	NA	NA	NA	NA	NA
+GO:0019365	pyridine nucleotide salvage	4	2.06E-01	NA	NA	NA	NA	NA	NA
+GO:0046497	nicotinate nucleotide metabolic process	4	2.06E-01	NA	NA	NA	NA	NA	NA
+GO:1903460	mitotic DNA replication leading strand elongation	4	2.06E-01	NA	NA	NA	NA	NA	NA
+GO:0070635	nicotinamide riboside hydrolase activity	4	2.06E-01	NA	NA	NA	NA	NA	NA
+GO:0004047	aminomethyltransferase activity	2	2.06E-01	NA	NA	NA	NA	NA	NA
+GO:0019357	nicotinate nucleotide biosynthetic process	4	2.06E-01	NA	NA	NA	NA	NA	NA
+GO:0003688	DNA replication origin binding	10	2.06E-01	NA	NA	NA	NA	NA	NA
+GO:0019358	nicotinate nucleotide salvage	4	2.06E-01	NA	NA	NA	NA	NA	NA
+GO:0008477	purine nucleosidase activity	4	2.06E-01	NA	NA	NA	NA	NA	NA
+GO:0016434	rRNA (cytosine) methyltransferase activity	4	2.07E-01	NA	NA	NA	NA	NA	NA
+GO:0000808	origin recognition complex	4	2.07E-01	NA	NA	NA	NA	NA	NA
+GO:0019202	amino acid kinase activity	4	2.07E-01	NA	NA	NA	NA	NA	NA
+GO:0080130	L-phenylalanine:2-oxoglutarate aminotransferase activity	4	2.07E-01	NA	NA	NA	NA	NA	NA
+GO:0035246	peptidyl-arginine N-methylation	4	2.07E-01	NA	NA	NA	NA	NA	NA
+GO:0035247	peptidyl-arginine omega-N-methylation	4	2.07E-01	NA	NA	NA	NA	NA	NA
+GO:0034506	chromosome, centromeric core domain	4	2.07E-01	NA	NA	NA	NA	NA	NA
+GO:0016812	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides	4	2.07E-01	NA	NA	NA	NA	NA	NA
+GO:0008716	D-alanine-D-alanine ligase activity	4	2.07E-01	NA	NA	NA	NA	NA	NA
+GO:0005664	nuclear origin of replication recognition complex	4	2.07E-01	NA	NA	NA	NA	NA	NA
+GO:0070546	L-phenylalanine aminotransferase activity	4	2.07E-01	NA	NA	NA	NA	NA	NA
+GO:0030127	COPII vesicle coat	4	2.07E-01	NA	NA	NA	NA	NA	NA
+GO:0010469	regulation of receptor activity	4	2.07E-01	NA	NA	NA	NA	NA	NA
+GO:0016884	carbon-nitrogen ligase activity, with glutamine as amido-N-donor	14	2.09E-01	NA	NA	NA	NA	NA	NA
+GO:0015077	monovalent inorganic cation transmembrane transporter activity	78	2.13E-01	NA	NA	NA	NA	NA	NA
+GO:0051028	mRNA transport	67	2.16E-01	NA	NA	NA	NA	NA	NA
+GO:1902626	assembly of large subunit precursor of preribosome	5	2.16E-01	NA	NA	NA	NA	NA	NA
+GO:0006817	phosphate ion transport	11	2.16E-01	NA	NA	NA	NA	NA	NA
+GO:0007346	regulation of mitotic cell cycle	173	2.19E-01	NA	NA	NA	NA	NA	NA
+GO:0043649	dicarboxylic acid catabolic process	7	2.21E-01	NA	NA	NA	NA	NA	NA
+GO:0003954	NADH dehydrogenase activity	18	2.24E-01	NA	NA	NA	NA	NA	NA
+GO:0044247	cellular polysaccharide catabolic process	7	2.24E-01	NA	NA	NA	NA	NA	NA
+GO:0042555	MCM complex	7	2.24E-01	NA	NA	NA	NA	NA	NA
+GO:0018193	peptidyl-amino acid modification	129	2.30E-01	NA	NA	NA	NA	NA	NA
+GO:0016651	oxidoreductase activity, acting on NAD(P)H	53	2.30E-01	NA	NA	NA	NA	NA	NA
+GO:0050658	RNA transport	77	2.35E-01	NA	NA	NA	NA	NA	NA
+GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	110	2.35E-01	NA	NA	NA	NA	NA	NA
+GO:0051236	establishment of RNA localization	77	2.35E-01	NA	NA	NA	NA	NA	NA
+GO:0050657	nucleic acid transport	77	2.35E-01	NA	NA	NA	NA	NA	NA
+GO:0000447	endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	14	2.35E-01	NA	NA	NA	NA	NA	NA
+GO:0034472	snRNA 3'-end processing	18	2.36E-01	NA	NA	NA	NA	NA	NA
+GO:1903311	regulation of mRNA metabolic process	22	2.36E-01	NA	NA	NA	NA	NA	NA
+GO:0005852	eukaryotic translation initiation factor 3 complex	14	2.40E-01	NA	NA	NA	NA	NA	NA
+GO:0019941	modification-dependent protein catabolic process	157	2.44E-01	NA	NA	NA	NA	NA	NA
+GO:0032780	negative regulation of ATPase activity	2	2.44E-01	NA	NA	NA	NA	NA	NA
+GO:0006511	ubiquitin-dependent protein catabolic process	157	2.44E-01	NA	NA	NA	NA	NA	NA
+GO:0004532	exoribonuclease activity	18	2.47E-01	NA	NA	NA	NA	NA	NA
+GO:0016896	exoribonuclease activity, producing 5'-phosphomonoesters	18	2.47E-01	NA	NA	NA	NA	NA	NA
+GO:0030687	preribosome, large subunit precursor	22	2.49E-01	NA	NA	NA	NA	NA	NA
+GO:0090151	establishment of protein localization to mitochondrial membrane	16	2.49E-01	NA	NA	NA	NA	NA	NA
+GO:0043623	cellular protein complex assembly	120	2.50E-01	NA	NA	NA	NA	NA	NA
+GO:0010498	proteasomal protein catabolic process	111	2.58E-01	NA	NA	NA	NA	NA	NA
+GO:0000780	condensed nuclear chromosome, centromeric region	11	2.60E-01	NA	NA	NA	NA	NA	NA
+GO:0070180	large ribosomal subunit rRNA binding	2	2.61E-01	NA	NA	NA	NA	NA	NA
+GO:1901269	lipooligosaccharide metabolic process	2	2.62E-01	NA	NA	NA	NA	NA	NA
+GO:0009245	lipid A biosynthetic process	2	2.62E-01	NA	NA	NA	NA	NA	NA
+GO:0000035	acyl binding	2	2.62E-01	NA	NA	NA	NA	NA	NA
+GO:0046493	lipid A metabolic process	2	2.62E-01	NA	NA	NA	NA	NA	NA
+GO:1901271	lipooligosaccharide biosynthetic process	2	2.62E-01	NA	NA	NA	NA	NA	NA
+GO:0034755	iron ion transmembrane transport	2	2.64E-01	NA	NA	NA	NA	NA	NA
+GO:0046130	purine ribonucleoside catabolic process	15	2.67E-01	NA	NA	NA	NA	NA	NA
+GO:0042049	cellular acyl-CoA homeostasis	2	2.71E-01	NA	NA	NA	NA	NA	NA
+GO:0009132	nucleoside diphosphate metabolic process	11	2.73E-01	NA	NA	NA	NA	NA	NA
+GO:0045903	positive regulation of translational fidelity	2	2.73E-01	NA	NA	NA	NA	NA	NA
+GO:0005686	U2 snRNP	15	2.76E-01	NA	NA	NA	NA	NA	NA
+GO:0036003	positive regulation of transcription from RNA polymerase II promoter in response to stress	8	2.78E-01	NA	NA	NA	NA	NA	NA
+GO:0006913	nucleocytoplasmic transport	94	2.79E-01	NA	NA	NA	NA	NA	NA
+GO:0051169	nuclear transport	94	2.79E-01	NA	NA	NA	NA	NA	NA
+GO:0016482	cytosolic transport	336	2.79E-01	NA	NA	NA	NA	NA	NA
+GO:0016604	nuclear body	15	2.79E-01	NA	NA	NA	NA	NA	NA
+GO:0045455	ecdysteroid metabolic process	2	2.79E-01	NA	NA	NA	NA	NA	NA
+GO:0008205	ecdysone metabolic process	2	2.79E-01	NA	NA	NA	NA	NA	NA
+GO:0009143	nucleoside triphosphate catabolic process	2	2.80E-01	NA	NA	NA	NA	NA	NA
+GO:0006353	DNA-templated transcription, termination	15	2.80E-01	NA	NA	NA	NA	NA	NA
+GO:0034513	box H/ACA snoRNA binding	2	2.80E-01	NA	NA	NA	NA	NA	NA
+GO:0051131	chaperone-mediated protein complex assembly	2	2.84E-01	NA	NA	NA	NA	NA	NA
+GO:0008170	N-methyltransferase activity	49	2.88E-01	NA	NA	NA	NA	NA	NA
+GO:0003913	DNA photolyase activity	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0080129	proteasome core complex assembly	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0006107	oxaloacetate metabolic process	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0003960	NADPH:quinone reductase activity	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0061351	neural precursor cell proliferation	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0003904	deoxyribodipyrimidine photo-lyase activity	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0044786	cell cycle DNA replication	15	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0006574	valine catabolic process	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0008569	ATP-dependent microtubule motor activity, minus-end-directed	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0052736	beta-glucanase activity	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0007275	multicellular organism development	19	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0046102	inosine metabolic process	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0004775	succinate-CoA ligase (ADP-forming) activity	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0048867	stem cell fate determination	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0006575	cellular modified amino acid metabolic process	74	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0004736	pyruvate carboxylase activity	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0000936	primary cell septum	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0016274	protein-arginine N-methyltransferase activity	8	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0004087	carbamoyl-phosphate synthase (ammonia) activity	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0006532	aspartate biosynthetic process	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0001887	selenium compound metabolic process	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0019323	pentose catabolic process	8	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0061617	MICOS complex	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0004449	isocitrate dehydrogenase (NAD+) activity	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0061408	positive regulation of transcription from RNA polymerase II promoter in response to heat stress	5	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0016429	tRNA (adenine-N1-)-methyltransferase activity	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0046078	dUMP metabolic process	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0001401	mitochondrial sorting and assembly machinery complex	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:1902683	regulation of receptor localization to synapse	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0003922	GMP synthase (glutamine-hydrolyzing) activity	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0051095	regulation of helicase activity	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0006226	dUMP biosynthetic process	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0016273	arginine N-methyltransferase activity	8	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0071540	eukaryotic translation initiation factor 3 complex, eIF3e	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0032981	mitochondrial respiratory chain complex I assembly	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0019321	pentose metabolic process	8	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0071541	eukaryotic translation initiation factor 3 complex, eIF3m	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0008425	2-polyprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0052861	glucan endo-1,3-beta-glucanase activity, C-3 substituted reducing group	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0000349	generation of catalytic spliceosome for first transesterification step	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0004579	dolichyl-diphosphooligosaccharide-protein glycotransferase activity	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0048478	replication fork protection	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0071020	post-spliceosomal complex	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0032299	ribonuclease H2 complex	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0045793	positive regulation of cell size	8	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0006041	glucosamine metabolic process	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0009642	response to light intensity	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0034511	U3 snoRNA binding	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0032440	2-alkenal reductase [NAD(P)] activity	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0006043	glucosamine catabolic process	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0045898	regulation of RNA polymerase II transcriptional preinitiation complex assembly	8	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0009644	response to high light intensity	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0046037	GMP metabolic process	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:1902684	negative regulation of receptor localization to synapse	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0004151	dihydroorotase activity	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0033317	pantothenate biosynthetic process from valine	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:2000311	regulation of AMPA receptor activity	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0052862	glucan endo-1,4-beta-glucanase activity, C-3 substituted reducing group	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0031515	tRNA (m1A) methyltransferase complex	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:1900449	regulation of glutamate receptor signaling pathway	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0010992	ubiquitin recycling	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0097031	mitochondrial respiratory chain complex I biogenesis	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0009374	biotin binding	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0030580	quinone cofactor methyltransferase activity	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0006259	DNA metabolic process	440	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0051097	negative regulation of helicase activity	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0071162	CMG complex	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0004774	succinate-CoA ligase activity	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0005754	mitochondrial proton-transporting ATP synthase, catalytic core	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0015742	alpha-ketoglutarate transport	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0006177	GMP biosynthetic process	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:1902473	regulation of protein localization to synapse	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0006076	(1->3)-beta-D-glucan catabolic process	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0016282	eukaryotic 43S preinitiation complex	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0044457	cell septum part	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0006541	glutamine metabolic process	15	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0006363	termination of RNA polymerase I transcription	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0004342	glucosamine-6-phosphate deaminase activity	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0045267	proton-transporting ATP synthase, catalytic core	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0016426	tRNA (adenine) methyltransferase activity	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0043187	cell septum surface	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0033293	monocarboxylic acid binding	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0031325	positive regulation of cellular metabolic process	302	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0030994	primary cell septum disassembly	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0004069	L-aspartate:2-oxoglutarate aminotransferase activity	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0007405	neuroblast proliferation	2	2.89E-01	NA	NA	NA	NA	NA	NA
+GO:0070475	rRNA base methylation	8	2.90E-01	NA	NA	NA	NA	NA	NA
+GO:0050896	response to stimulus	666	2.94E-01	NA	NA	NA	NA	NA	NA
+GO:1900151	regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	5	2.94E-01	NA	NA	NA	NA	NA	NA
+GO:0061013	regulation of mRNA catabolic process	5	2.94E-01	NA	NA	NA	NA	NA	NA
+GO:0019783	ubiquitin-like protein-specific protease activity	19	2.98E-01	NA	NA	NA	NA	NA	NA
+GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	24	2.98E-01	NA	NA	NA	NA	NA	NA
+GO:0008428	ribonuclease inhibitor activity	5	3.07E-01	NA	NA	NA	NA	NA	NA
+GO:0007292	female gamete generation	24	3.10E-01	NA	NA	NA	NA	NA	NA
+GO:0006801	superoxide metabolic process	8	3.10E-01	NA	NA	NA	NA	NA	NA
+GO:0009304	tRNA transcription	5	3.10E-01	NA	NA	NA	NA	NA	NA
+GO:0000291	nuclear-transcribed mRNA catabolic process, exonucleolytic	16	3.10E-01	NA	NA	NA	NA	NA	NA
+GO:0006385	transcription elongation from RNA polymerase III promoter	5	3.10E-01	NA	NA	NA	NA	NA	NA
+GO:0006888	ER to Golgi vesicle-mediated transport	72	3.11E-01	NA	NA	NA	NA	NA	NA
+GO:0060255	regulation of macromolecule metabolic process	872	3.14E-01	NA	NA	NA	NA	NA	NA
+GO:0009251	glucan catabolic process	8	3.14E-01	NA	NA	NA	NA	NA	NA
+GO:1902582	intracellular transport	501	3.15E-01	NA	NA	NA	NA	NA	NA
+GO:0006521	regulation of cellular amino acid metabolic process	24	3.15E-01	NA	NA	NA	NA	NA	NA
+GO:0051607	defense response to virus	8	3.15E-01	NA	NA	NA	NA	NA	NA
+GO:0007276	gamete generation	33	3.17E-01	NA	NA	NA	NA	NA	NA
+GO:0008169	C-methyltransferase activity	8	3.17E-01	NA	NA	NA	NA	NA	NA
+GO:0016878	acid-thiol ligase activity	8	3.19E-01	NA	NA	NA	NA	NA	NA
+GO:0034765	regulation of ion transmembrane transport	5	3.23E-01	NA	NA	NA	NA	NA	NA
+GO:0051726	regulation of cell cycle	240	3.26E-01	NA	NA	NA	NA	NA	NA
+GO:0040012	regulation of locomotion	9	3.26E-01	NA	NA	NA	NA	NA	NA
+GO:0000779	condensed chromosome, centromeric region	12	3.28E-01	NA	NA	NA	NA	NA	NA
+GO:0071014	post-mRNA release spliceosomal complex	28	3.29E-01	NA	NA	NA	NA	NA	NA
+GO:0009082	branched-chain amino acid biosynthetic process	12	3.31E-01	NA	NA	NA	NA	NA	NA
+GO:1900062	regulation of replicative cell aging	5	3.32E-01	NA	NA	NA	NA	NA	NA
+GO:0019842	vitamin binding	21	3.33E-01	NA	NA	NA	NA	NA	NA
+GO:0052803	imidazole-containing compound metabolic process	12	3.33E-01	NA	NA	NA	NA	NA	NA
+GO:0003857	3-hydroxyacyl-CoA dehydrogenase activity	5	3.33E-01	NA	NA	NA	NA	NA	NA
+GO:0016655	oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor	20	3.34E-01	NA	NA	NA	NA	NA	NA
+GO:0009200	deoxyribonucleoside triphosphate metabolic process	5	3.37E-01	NA	NA	NA	NA	NA	NA
+GO:0009211	pyrimidine deoxyribonucleoside triphosphate metabolic process	5	3.37E-01	NA	NA	NA	NA	NA	NA
+GO:0009133	nucleoside diphosphate biosynthetic process	5	3.38E-01	NA	NA	NA	NA	NA	NA
+GO:0016628	oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor	12	3.39E-01	NA	NA	NA	NA	NA	NA
+GO:0019205	nucleobase-containing compound kinase activity	24	3.41E-01	NA	NA	NA	NA	NA	NA
+GO:0031298	replication fork protection complex	5	3.45E-01	NA	NA	NA	NA	NA	NA
+GO:0009948	anterior/posterior axis specification	5	3.45E-01	NA	NA	NA	NA	NA	NA
+GO:0030915	Smc5-Smc6 complex	5	3.46E-01	NA	NA	NA	NA	NA	NA
+GO:0007008	outer mitochondrial membrane organization	5	3.47E-01	NA	NA	NA	NA	NA	NA
+GO:0034356	NAD biosynthesis via nicotinamide riboside salvage pathway	5	3.48E-01	NA	NA	NA	NA	NA	NA
+GO:1901681	sulfur compound binding	12	3.49E-01	NA	NA	NA	NA	NA	NA
+GO:0019784	NEDD8-specific protease activity	5	3.49E-01	NA	NA	NA	NA	NA	NA
+GO:0046365	monosaccharide catabolic process	16	3.49E-01	NA	NA	NA	NA	NA	NA
+GO:0070993	translation preinitiation complex	5	3.49E-01	NA	NA	NA	NA	NA	NA
+GO:0016433	rRNA (adenine) methyltransferase activity	5	3.49E-01	NA	NA	NA	NA	NA	NA
+GO:0009982	pseudouridine synthase activity	12	3.49E-01	NA	NA	NA	NA	NA	NA
+GO:0060590	ATPase regulator activity	16	3.49E-01	NA	NA	NA	NA	NA	NA
+GO:0016776	phosphotransferase activity, phosphate group as acceptor	16	3.50E-01	NA	NA	NA	NA	NA	NA
+GO:0019867	outer membrane	59	3.51E-01	NA	NA	NA	NA	NA	NA
+GO:0045292	mRNA cis splicing, via spliceosome	58	3.51E-01	NA	NA	NA	NA	NA	NA
+GO:0018196	peptidyl-asparagine modification	5	3.51E-01	NA	NA	NA	NA	NA	NA
+GO:0018279	protein N-linked glycosylation via asparagine	5	3.51E-01	NA	NA	NA	NA	NA	NA
+GO:0031391	Elg1 RFC-like complex	5	3.51E-01	NA	NA	NA	NA	NA	NA
+GO:0031389	Rad17 RFC-like complex	5	3.51E-01	NA	NA	NA	NA	NA	NA
+GO:0006261	DNA-dependent DNA replication	5	3.51E-01	NA	NA	NA	NA	NA	NA
+GO:0016229	steroid dehydrogenase activity	16	3.54E-01	NA	NA	NA	NA	NA	NA
+GO:0006006	glucose metabolic process	24	3.56E-01	NA	NA	NA	NA	NA	NA
+GO:0006413	translational initiation	33	3.58E-01	NA	NA	NA	NA	NA	NA
+GO:0072593	reactive oxygen species metabolic process	16	3.60E-01	NA	NA	NA	NA	NA	NA
+GO:0030120	vesicle coat	16	3.63E-01	NA	NA	NA	NA	NA	NA
+GO:0072594	establishment of protein localization to organelle	136	3.70E-01	NA	NA	NA	NA	NA	NA
+GO:0005515	protein binding	1014	3.72E-01	NA	NA	NA	NA	NA	NA
+GO:2000144	positive regulation of DNA-templated transcription, initiation	9	3.76E-01	NA	NA	NA	NA	NA	NA
+GO:0060261	positive regulation of transcription initiation from RNA polymerase II promoter	9	3.76E-01	NA	NA	NA	NA	NA	NA
+GO:0031386	protein tag	3	3.79E-01	NA	NA	NA	NA	NA	NA
+GO:0006379	mRNA cleavage	17	3.81E-01	NA	NA	NA	NA	NA	NA
+GO:0006271	DNA strand elongation involved in DNA replication	21	3.83E-01	NA	NA	NA	NA	NA	NA
+GO:0006544	glycine metabolic process	9	3.83E-01	NA	NA	NA	NA	NA	NA
+GO:0051603	proteolysis involved in cellular protein catabolic process	176	4.01E-01	NA	NA	NA	NA	NA	NA
+GO:0045461	sterigmatocystin biosynthetic process	6	4.04E-01	NA	NA	NA	NA	NA	NA
+GO:0015931	nucleobase-containing compound transport	93	4.04E-01	NA	NA	NA	NA	NA	NA
+GO:0045460	sterigmatocystin metabolic process	6	4.04E-01	NA	NA	NA	NA	NA	NA
+GO:0031072	heat shock protein binding	25	4.07E-01	NA	NA	NA	NA	NA	NA
+GO:0005929	cilium	3	4.08E-01	NA	NA	NA	NA	NA	NA
+GO:0016814	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amidines	17	4.08E-01	NA	NA	NA	NA	NA	NA
+GO:0001578	microtubule bundle formation	3	4.08E-01	NA	NA	NA	NA	NA	NA
+GO:2000145	regulation of cell motility	6	4.10E-01	NA	NA	NA	NA	NA	NA
+GO:0009893	positive regulation of metabolic process	323	4.12E-01	NA	NA	NA	NA	NA	NA
+GO:0050661	NADP binding	13	4.17E-01	NA	NA	NA	NA	NA	NA
+GO:0071822	protein complex subunit organization	279	4.20E-01	NA	NA	NA	NA	NA	NA
+GO:0000243	commitment complex	9	4.20E-01	NA	NA	NA	NA	NA	NA
+GO:1902983	DNA strand elongation involved in mitotic DNA replication	13	4.21E-01	NA	NA	NA	NA	NA	NA
+GO:1901069	guanosine-containing compound catabolic process	13	4.21E-01	NA	NA	NA	NA	NA	NA
+GO:1902296	DNA strand elongation involved in cell cycle DNA replication	13	4.21E-01	NA	NA	NA	NA	NA	NA
+GO:1902319	DNA strand elongation involved in nuclear cell cycle DNA replication	13	4.21E-01	NA	NA	NA	NA	NA	NA
+GO:0002252	immune effector process	13	4.22E-01	NA	NA	NA	NA	NA	NA
+GO:0005684	U2-type spliceosomal complex	49	4.25E-01	NA	NA	NA	NA	NA	NA
+GO:0080090	regulation of primary metabolic process	879	4.27E-01	NA	NA	NA	NA	NA	NA
+GO:0031119	tRNA pseudouridine synthesis	9	4.30E-01	NA	NA	NA	NA	NA	NA
+GO:0008175	tRNA methyltransferase activity	21	4.34E-01	NA	NA	NA	NA	NA	NA
+GO:0030544	Hsp70 protein binding	17	4.38E-01	NA	NA	NA	NA	NA	NA
+GO:0072525	pyridine-containing compound biosynthetic process	21	4.38E-01	NA	NA	NA	NA	NA	NA
+GO:0033260	nuclear DNA replication	13	4.39E-01	NA	NA	NA	NA	NA	NA
+GO:0045944	positive regulation of transcription from RNA polymerase II promoter	141	4.40E-01	NA	NA	NA	NA	NA	NA
+GO:0016810	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	79	4.46E-01	NA	NA	NA	NA	NA	NA
+GO:0042335	cuticle development	9	4.47E-01	NA	NA	NA	NA	NA	NA

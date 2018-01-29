@@ -1,0 +1,587 @@
+GO term	Description	size	FDR (vs glen)	size	FDR (vs symp)	size	FDR (vs para)	size	FDR (vs spor)
+GO:0016298	lipase activity	172	3.20E-35	164	1.76E-30	169	3.75E-29	172	7.63E-20
+GO:0052689	carboxylic ester hydrolase activity	202	1.86E-29	194	4.78E-25	197	6.03E-26	201	2.56E-17
+GO:0016042	lipid catabolic process	212	2.78E-30	205	5.21E-25	209	2.22E-24	212	3.91E-18
+GO:0004806	triglyceride lipase activity	142	2.78E-30	136	7.87E-25	139	2.22E-24	142	6.45E-18
+GO:0006629	lipid metabolic process	521	2.11E-17	510	6.14E-20	509	2.01E-19	516	1.72E-07
+GO:0005576	extracellular region	206	2.07E-08	182	3.17E-13	191	9.61E-06	194	1.03E-03
+GO:0044712	catabolic process	421	2.46E-11	403	4.23E-11	409	7.21E-09	412	4.15E-06
+GO:0004553	hydrolase activity, hydrolyzing O-glycosyl compounds	99	7.41E-10	95	4.23E-11	94	2.48E-06	98	4.65E-04
+GO:0016798	hydrolase activity, acting on glycosyl bonds	109	1.37E-08	105	2.05E-09	104	1.22E-05	107	1.36E-03
+GO:0006022	aminoglycan metabolic process	50	1.96E-05	47	2.05E-09	49	8.98E-03	51	3.70E-02
+GO:0006026	aminoglycan catabolic process	36	5.49E-06	33	4.25E-09	35	2.28E-03	37	2.38E-02
+GO:0006641	triglyceride metabolic process	56	1.96E-07	54	4.79E-09	55	1.41E-09	57	4.43E-03
+GO:0000272	polysaccharide catabolic process	56	1.37E-08	53	5.85E-09	54	5.87E-05	54	1.21E-03
+GO:0006638	neutral lipid metabolic process	57	2.97E-07	55	8.63E-09	56	2.47E-09	58	5.07E-03
+GO:0006639	acylglycerol metabolic process	57	2.97E-07	55	8.63E-09	56	2.47E-09	58	5.07E-03
+GO:0031224	intrinsic component of membrane	1231	9.36E-01	1192	1.73E-08	1185	1.20E-03	NA	NA
+GO:0005976	polysaccharide metabolic process	86	3.38E-06	83	1.87E-08	83	7.21E-04	83	2.18E-02
+GO:0008061	chitin binding	36	5.49E-06	31	2.62E-08	34	5.01E-03	35	8.11E-02
+GO:0006030	chitin metabolic process	45	7.20E-05	42	4.53E-08	44	3.32E-02	44	5.67E-02
+GO:0005975	carbohydrate metabolic process	329	1.81E-04	317	9.12E-08	317	6.18E-04	321	3.93E-01
+GO:0006032	chitin catabolic process	31	1.85E-05	28	1.25E-07	30	9.90E-03	30	3.45E-02
+GO:0008194	UDP-glycosyltransferase activity	56	2.83E-02	55	1.68E-07	56	7.18E-02	NA	NA
+GO:0016209	antioxidant activity	57	4.53E-04	56	1.87E-07	57	2.16E-04	58	9.23E-02
+GO:0005811	lipid droplet	36	1.71E-06	34	2.27E-07	35	4.32E-07	37	4.24E-02
+GO:1901071	glucosamine-containing compound metabolic process	48	2.70E-04	45	5.15E-07	47	7.18E-02	47	1.07E-01
+GO:0016021	integral component of membrane	NA	NA	1157	5.36E-07	1156	9.02E-03	NA	NA
+GO:0032365	intracellular lipid transport	21	4.71E-07	21	7.34E-07	21	2.09E-08	20	3.35E-05
+GO:0032366	intracellular sterol transport	21	4.71E-07	21	7.34E-07	21	2.09E-08	20	3.35E-05
+GO:0006040	amino sugar metabolic process	51	2.70E-04	48	7.34E-07	50	1.53E-01	50	2.05E-01
+GO:0005886	plasma membrane	320	3.09E-01	307	9.06E-07	309	2.32E-01	NA	NA
+GO:0046503	glycerolipid catabolic process	29	3.52E-05	27	1.60E-06	28	2.23E-06	29	4.24E-02
+GO:0046464	acylglycerol catabolic process	25	1.06E-05	23	1.76E-06	24	2.23E-06	25	1.03E-02
+GO:0046461	neutral lipid catabolic process	25	1.06E-05	23	1.76E-06	24	2.23E-06	25	1.03E-02
+GO:0019433	triglyceride catabolic process	25	1.06E-05	23	1.76E-06	24	2.23E-06	25	1.03E-02
+GO:1901072	glucosamine-containing compound catabolic process	34	1.12E-04	31	2.12E-06	33	3.90E-02	33	8.08E-02
+GO:0046348	amino sugar catabolic process	34	1.12E-04	31	2.12E-06	33	3.90E-02	33	8.08E-02
+GO:0071554	cell wall organization or biogenesis	140	1.03E-01	137	4.80E-06	135	2.23E-01	NA	NA
+GO:0047372	acylglycerol lipase activity	24	2.00E-04	22	5.84E-06	23	7.17E-06	24	2.28E-02
+GO:0044421	extracellular region part	88	1.31E-09	80	6.03E-06	89	7.97E-03	87	4.86E-06
+GO:0004568	chitinase activity	22	6.39E-05	22	1.17E-05	22	1.09E-01	22	3.81E-01
+GO:1901136	carbohydrate derivative catabolic process	71	3.24E-04	67	1.37E-05	70	4.49E-02	71	5.92E-02
+GO:0045229	external encapsulating structure organization	119	5.98E-02	116	1.42E-05	114	2.38E-01	NA	NA
+GO:0071555	cell wall organization	119	5.98E-02	116	1.42E-05	114	2.38E-01	NA	NA
+GO:0044459	plasma membrane part	151	3.38E-03	144	1.51E-05	140	4.11E-03	144	1.00E+00
+GO:0004100	chitin synthase activity	23	3.46E-01	22	1.60E-05	23	9.80E-01	NA	NA
+GO:0009056	catabolic process	829	3.57E-05	807	4.71E-05	800	7.32E-05	806	5.48E-02
+GO:0015918	sterol transport	25	2.84E-05	25	5.57E-05	25	6.04E-07	24	8.39E-04
+GO:1901575	organic substance catabolic process	751	6.41E-06	731	5.65E-05	725	6.69E-05	734	2.32E-02
+GO:0007165	signal transduction	354	1.00E+00	340	1.16E-04	NA	NA	NA	NA
+GO:0005615	extracellular space	76	2.83E-08	69	3.21E-04	77	4.52E-02	75	1.18E-05
+GO:0016758	transferase activity, transferring hexosyl groups	110	1.13E-01	107	3.34E-04	107	5.75E-01	NA	NA
+GO:0015850	organic hydroxy compound transport	35	1.98E-04	35	3.34E-04	35	1.22E-05	34	2.28E-02
+GO:0007186	G-protein coupled receptor signaling pathway	48	5.68E-02	43	4.28E-04	47	1.79E-01	48	2.16E-01
+GO:0016757	transferase activity, transferring glycosyl groups	145	5.40E-01	141	4.28E-04	NA	NA	NA	NA
+GO:0016491	oxidoreductase activity	570	9.55E-01	549	5.09E-04	550	1.22E-02	NA	NA
+GO:0016906	sterol 3-beta-glucosyltransferase activity	15	5.07E-02	15	5.69E-04	15	4.53E-02	14	1.00E+00
+GO:0030259	lipid glycosylation	15	5.07E-02	15	5.69E-04	15	4.53E-02	14	1.00E+00
+GO:0102203	brassicasterol glucosyltransferase activity	15	5.07E-02	15	5.69E-04	15	4.53E-02	14	1.00E+00
+GO:0102205	cholesterol allpha-glucosyltransferase activity	15	5.07E-02	15	5.69E-04	15	4.53E-02	14	1.00E+00
+GO:0102202	soladodine glucosyltransferase activity	15	5.07E-02	15	5.69E-04	15	4.53E-02	14	1.00E+00
+GO:0044703	multi-organism reproductive process	23	7.80E-01	22	7.31E-04	NA	NA	NA	NA
+GO:0004497	monooxygenase activity	125	2.17E-03	117	8.94E-04	122	7.32E-05	117	4.28E-05
+GO:0004930	G-protein coupled receptor activity	37	3.97E-03	32	1.10E-03	36	4.70E-03	37	5.20E-03
+GO:0046486	glycerolipid metabolic process	118	1.55E-02	115	1.24E-03	116	1.75E-04	NA	NA
+GO:0008375	acetylglucosaminyltransferase activity	NA	NA	30	1.40E-03	NA	NA	NA	NA
+GO:0044255	cellular lipid metabolic process	336	6.30E-01	332	1.47E-03	329	1.03E-03	NA	NA
+GO:0035251	UDP-glucosyltransferase activity	25	5.35E-02	25	1.55E-03	25	4.53E-02	24	1.00E+00
+GO:0004888	transmembrane signaling receptor activity	38	5.97E-03	33	1.90E-03	37	2.07E-03	38	2.21E-03
+GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	151	2.40E-02	141	1.90E-03	145	4.87E-04	141	2.32E-03
+GO:0016020	membrane	NA	NA	1288	2.35E-03	NA	NA	NA	NA
+GO:0044242	cellular lipid catabolic process	71	1.57E-02	70	3.64E-03	70	9.02E-03	71	3.10E-01
+GO:0044425	membrane part	NA	NA	1506	3.72E-03	1498	9.68E-01	NA	NA
+GO:0004871	signal transducer activity	91	6.74E-01	85	3.80E-03	88	6.30E-02	89	8.92E-01
+GO:0031226	intrinsic component of plasma membrane	97	2.66E-02	92	4.52E-03	87	3.27E-02	91	4.03E-01
+GO:0016052	carbohydrate catabolic process	94	2.52E-03	90	5.91E-03	90	8.69E-02	90	1.20E-01
+GO:0019953	sexual reproduction	NA	NA	11	5.91E-03	NA	NA	NA	NA
+GO:0038023	signaling receptor activity	58	2.83E-02	53	6.59E-03	56	1.80E-03	57	5.07E-03
+GO:0060089	molecular transducer activity	93	7.90E-01	87	6.59E-03	90	8.76E-02	91	1.00E+00
+GO:0007166	cell surface receptor signaling pathway	87	8.20E-01	81	7.90E-03	NA	NA	NA	NA
+GO:0055114	oxidation-reduction process	NA	NA	439	8.80E-03	435	1.15E-01	NA	NA
+GO:0015926	glucosidase activity	29	5.77E-02	28	8.90E-03	29	4.36E-01	29	1.00E+00
+GO:0046527	glucosyltransferase activity	28	1.50E-01	28	9.50E-03	27	9.63E-02	NA	NA
+GO:0004872	receptor activity	60	5.07E-02	55	1.34E-02	58	3.90E-03	59	9.46E-03
+GO:1901615	organic hydroxy compound metabolic process	141	2.11E-01	140	1.66E-02	137	6.42E-02	NA	NA
+GO:0006066	alcohol metabolic process	117	2.01E-01	116	1.79E-02	114	4.56E-02	NA	NA
+GO:0016788	hydrolase activity, acting on ester bonds	682	9.53E-03	605	2.12E-02	589	2.23E-02	605	1.79E-02
+GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen	36	2.41E-05	30	2.37E-02	37	5.76E-02	36	1.68E-02
+GO:0004503	monophenol monooxygenase activity	36	2.41E-05	30	2.37E-02	37	5.76E-02	36	1.68E-02
+GO:0008422	beta-glucosidase activity	23	2.29E-02	22	2.37E-02	23	1.79E-01	23	9.14E-01
+GO:0031225	anchored component of membrane	39	7.97E-02	39	2.57E-02	32	1.90E-01	NA	NA
+GO:0000131	incipient cellular bud site	NA	NA	15	2.74E-02	NA	NA	NA	NA
+GO:0004144	diacylglycerol O-acyltransferase activity	23	1.11E-01	23	2.95E-02	23	1.48E-02	24	8.07E-01
+GO:0006869	lipid transport	59	1.93E-02	60	3.68E-02	59	1.08E-02	59	7.07E-01
+GO:0005604	basement membrane	5	7.94E-01	5	3.92E-02	5	5.73E-01	5	8.07E-01
+GO:0044420	extracellular matrix component	5	7.94E-01	5	3.92E-02	5	5.73E-01	5	8.07E-01
+GO:0005201	extracellular matrix structural constituent	5	7.94E-01	5	3.92E-02	5	5.73E-01	5	8.07E-01
+GO:0005887	integral component of plasma membrane	76	5.01E-01	71	3.92E-02	71	3.77E-01	73	1.00E+00
+GO:0016746	transferase activity, transferring acyl groups	162	1.00E+00	161	4.23E-02	161	3.00E-01	NA	NA
+GO:0051704	multi-organism process	188	1.00E+00	172	4.75E-02	177	1.00E+00	182	1.00E+00
+GO:0019751	polyol metabolic process	38	1.00E+00	36	5.73E-02	36	2.15E-01	38	1.00E+00
+GO:0016411	acylglycerol O-acyltransferase activity	30	1.30E-01	30	6.20E-02	30	3.74E-02	31	1.00E+00
+GO:0000399	cellular bud neck septin structure	7	4.30E-01	7	6.20E-02	NA	NA	NA	NA
+GO:0020037	heme binding	NA	NA	102	6.74E-02	98	4.80E-02	96	4.71E-02
+GO:0046906	tetrapyrrole binding	NA	NA	102	6.74E-02	98	4.80E-02	96	4.71E-02
+GO:0042744	hydrogen peroxide catabolic process	NA	NA	7	6.77E-02	NA	NA	NA	NA
+GO:0042743	hydrogen peroxide metabolic process	NA	NA	7	6.77E-02	NA	NA	NA	NA
+GO:0019432	triglyceride biosynthetic process	25	2.23E-01	25	7.62E-02	25	4.18E-02	26	1.00E+00
+GO:0046463	acylglycerol biosynthetic process	25	2.23E-01	25	7.62E-02	25	4.18E-02	26	1.00E+00
+GO:0046460	neutral lipid biosynthetic process	25	2.23E-01	25	7.62E-02	25	4.18E-02	26	1.00E+00
+GO:0000003	reproduction	44	1.00E+00	39	8.14E-02	NA	NA	NA	NA
+GO:1901617	organic hydroxy compound biosynthetic process	74	1.00E+00	75	8.83E-02	72	4.17E-01	NA	NA
+GO:0046165	alcohol biosynthetic process	64	7.90E-01	65	8.83E-02	62	4.42E-01	NA	NA
+GO:0016747	transferase activity, transferring acyl groups other than amino-acyl groups	137	1.00E+00	137	9.40E-02	135	3.00E-01	NA	NA
+GO:0005506	iron ion binding	NA	NA	103	9.41E-02	100	7.32E-02	96	2.32E-02
+GO:0030148	sphingolipid biosynthetic process	NA	NA	26	1.12E-01	24	2.15E-01	NA	NA
+GO:0030427	site of polarized growth	57	7.90E-01	56	1.12E-01	NA	NA	NA	NA
+GO:0032005	signal transduction involved in conjugation with cellular fusion	12	2.25E-01	12	1.15E-01	NA	NA	NA	NA
+GO:0006665	sphingolipid metabolic process	NA	NA	35	1.23E-01	33	5.12E-01	NA	NA
+GO:0055085	transmembrane transport	NA	NA	409	1.60E-01	404	2.35E-01	NA	NA
+GO:0019400	alditol metabolic process	27	4.30E-01	27	1.75E-01	27	8.54E-02	28	1.00E+00
+GO:0006071	glycerol metabolic process	27	4.30E-01	27	1.75E-01	27	8.54E-02	28	1.00E+00
+GO:0009187	cyclic nucleotide metabolic process	4	6.56E-02	4	1.79E-01	4	2.15E-01	4	3.24E-02
+GO:0055002	striated muscle cell development	6	9.36E-01	6	1.79E-01	6	1.00E+00	6	8.07E-01
+GO:0055001	muscle cell development	6	9.36E-01	6	1.79E-01	6	1.00E+00	6	8.07E-01
+GO:0004099	chitin deacetylase activity	9	1.00E+00	6	1.79E-01	8	7.93E-01	8	1.00E+00
+GO:0032178	medial membrane band	4	7.97E-02	4	1.79E-01	4	2.15E-01	NA	NA
+GO:0000148	1,3-beta-D-glucan synthase complex	4	7.90E-01	4	1.79E-01	4	2.15E-01	NA	NA
+GO:0003843	1,3-beta-D-glucan synthase activity	4	7.90E-01	4	1.79E-01	4	2.15E-01	NA	NA
+GO:0102756	very-long-chain 3-ketoacyl-CoA synthase activity	9	7.90E-01	9	1.79E-01	9	3.00E-01	NA	NA
+GO:0102338	3-oxo-lignoceronyl-CoA synthase activity	9	7.90E-01	9	1.79E-01	9	3.00E-01	NA	NA
+GO:0019368	fatty acid elongation, unsaturated fatty acid	9	7.90E-01	9	1.79E-01	9	3.00E-01	NA	NA
+GO:0034626	fatty acid elongation, polyunsaturated fatty acid	9	7.90E-01	9	1.79E-01	9	3.00E-01	NA	NA
+GO:0019367	fatty acid elongation, saturated fatty acid	9	7.90E-01	9	1.79E-01	9	3.00E-01	NA	NA
+GO:0102337	3-oxo-cerotoyl-CoA synthase activity	9	7.90E-01	9	1.79E-01	9	3.00E-01	NA	NA
+GO:0009922	fatty acid elongase activity	9	7.90E-01	9	1.79E-01	9	3.00E-01	NA	NA
+GO:0102336	3-oxo-arachidoyl-CoA synthase activity	9	7.90E-01	9	1.79E-01	9	3.00E-01	NA	NA
+GO:0034625	fatty acid elongation, monounsaturated fatty acid	9	7.90E-01	9	1.79E-01	9	3.00E-01	NA	NA
+GO:0051274	beta-glucan biosynthetic process	5	1.00E+00	6	1.79E-01	5	5.75E-01	NA	NA
+GO:0006074	(1->3)-beta-D-glucan metabolic process	NA	NA	6	1.79E-01	6	1.00E+00	NA	NA
+GO:0016242	negative regulation of macroautophagy	NA	NA	4	1.79E-01	4	1.00E+00	NA	NA
+GO:0032105	negative regulation of response to extracellular stimulus	NA	NA	4	1.79E-01	NA	NA	NA	NA
+GO:0000329	fungal-type vacuole membrane	NA	NA	133	1.79E-01	NA	NA	NA	NA
+GO:0032108	negative regulation of response to nutrient levels	NA	NA	4	1.79E-01	NA	NA	NA	NA
+GO:0030312	external encapsulating structure	NA	NA	40	1.79E-01	NA	NA	NA	NA
+GO:0005618	cell wall	NA	NA	40	1.79E-01	NA	NA	NA	NA
+GO:0022604	regulation of cell morphogenesis	68	1.00E+00	68	1.83E-01	NA	NA	NA	NA
+GO:0042973	glucan endo-1,3-beta-D-glucosidase activity	7	3.95E-01	6	1.89E-01	NA	NA	NA	NA
+GO:0003008	system process	44	8.03E-01	43	1.99E-01	43	2.55E-02	NA	NA
+GO:0000746	conjugation	11	7.90E-01	11	2.18E-01	NA	NA	NA	NA
+GO:0031177	phosphopantetheine binding	NA	NA	9	2.24E-01	10	1.00E+00	9	1.00E+00
+GO:0072593	reactive oxygen species metabolic process	NA	NA	16	2.32E-01	NA	NA	NA	NA
+GO:0001894	tissue homeostasis	11	1.00E+00	11	2.32E-01	11	9.68E-01	NA	NA
+GO:0016126	sterol biosynthetic process	49	5.79E-01	50	2.35E-01	49	2.45E-01	NA	NA
+GO:0016241	regulation of macroautophagy	NA	NA	11	2.36E-01	11	9.72E-01	NA	NA
+GO:0019901	protein kinase binding	NA	NA	25	2.36E-01	NA	NA	NA	NA
+GO:0072341	modified amino acid binding	NA	NA	17	2.36E-01	NA	NA	NA	NA
+GO:0017171	serine hydrolase activity	170	1.04E-01	137	2.47E-01	NA	NA	167	9.20E-02
+GO:0008236	serine-type peptidase activity	170	1.04E-01	137	2.47E-01	NA	NA	167	9.20E-02
+GO:0030258	lipid modification	58	1.00E+00	57	2.47E-01	57	9.91E-01	NA	NA
+GO:0071805	potassium ion transmembrane transport	NA	NA	11	2.55E-01	12	1.00E+00	NA	NA
+GO:0071804	cellular potassium ion transport	NA	NA	11	2.55E-01	12	1.00E+00	NA	NA
+GO:0005774	vacuolar membrane	NA	NA	188	2.55E-01	NA	NA	NA	NA
+GO:0051273	beta-glucan metabolic process	NA	NA	14	2.55E-01	NA	NA	NA	NA
+GO:0022857	transmembrane transporter activity	NA	NA	423	2.63E-01	416	7.42E-01	NA	NA
+GO:0015079	potassium ion transmembrane transporter activity	NA	NA	22	2.63E-01	NA	NA	NA	NA
+GO:0044036	cell wall macromolecule metabolic process	29	1.00E+00	29	2.65E-01	28	1.00E+00	30	1.00E+00
+GO:0009277	fungal-type cell wall	NA	NA	26	2.68E-01	NA	NA	NA	NA
+GO:0008360	regulation of cell shape	57	7.90E-01	57	2.93E-01	NA	NA	NA	NA
+GO:0010383	cell wall polysaccharide metabolic process	23	1.00E+00	23	2.94E-01	22	1.00E+00	22	1.00E+00
+GO:0022603	regulation of anatomical structure morphogenesis	85	1.00E+00	85	3.00E-01	NA	NA	NA	NA
+GO:0004338	glucan exo-1,3-beta-glucosidase activity	10	7.83E-01	9	3.01E-01	10	5.90E-01	10	6.31E-01
+GO:0009405	pathogenesis	83	1.00E+00	73	3.16E-01	NA	NA	NA	NA
+GO:0045216	cell-cell junction organization	17	1.00E+00	17	3.24E-01	17	1.36E-01	NA	NA
+GO:0034330	cell junction organization	17	1.00E+00	17	3.24E-01	17	1.36E-01	NA	NA
+GO:0004252	serine-type endopeptidase activity	131	2.70E-01	102	3.29E-01	NA	NA	130	1.58E-01
+GO:0032878	regulation of establishment or maintenance of cell polarity	26	8.42E-01	26	3.33E-01	NA	NA	NA	NA
+GO:0001700	embryonic development via the syncytial blastoderm	NA	NA	9	3.36E-01	9	1.00E+00	NA	NA
+GO:0022414	reproductive process	NA	NA	166	3.49E-01	NA	NA	NA	NA
+GO:0030445	yeast-form cell wall	NA	NA	7	3.67E-01	7	1.00E+00	NA	NA
+GO:0030428	cell septum	44	1.00E+00	42	3.77E-01	NA	NA	NA	NA
+GO:0000909	sporocarp development involved in sexual reproduction	NA	NA	7	4.01E-01	NA	NA	NA	NA
+GO:0034329	cell junction assembly	NA	NA	12	4.05E-01	12	1.36E-01	NA	NA
+GO:0006694	steroid biosynthetic process	62	9.99E-01	63	4.05E-01	62	7.21E-01	NA	NA
+GO:0016459	myosin complex	NA	NA	15	4.05E-01	NA	NA	NA	NA
+GO:0000747	conjugation with cellular fusion	NA	NA	7	4.05E-01	NA	NA	NA	NA
+GO:0035848	oviduct morphogenesis	3	7.90E-01	3	4.13E-01	3	5.73E-01	3	8.07E-01
+GO:0060729	intestinal epithelial structure maintenance	3	7.90E-01	3	4.13E-01	3	5.73E-01	3	8.07E-01
+GO:0022600	digestive system process	3	7.90E-01	3	4.13E-01	3	5.73E-01	3	8.07E-01
+GO:0030277	maintenance of gastrointestinal epithelium	3	7.90E-01	3	4.13E-01	3	5.73E-01	3	8.07E-01
+GO:0005581	collagen trimer	3	7.90E-01	3	4.13E-01	3	5.73E-01	3	8.07E-01
+GO:0055013	cardiac muscle cell development	3	7.90E-01	3	4.13E-01	3	5.73E-01	3	8.07E-01
+GO:0098651	basement membrane collagen trimer	3	7.90E-01	3	4.13E-01	3	5.73E-01	3	8.07E-01
+GO:0055006	cardiac cell development	3	7.90E-01	3	4.13E-01	3	5.73E-01	3	8.07E-01
+GO:0048621	post-embryonic digestive tract morphogenesis	3	7.90E-01	3	4.13E-01	3	5.73E-01	3	8.07E-01
+GO:0005587	collagen type IV trimer	3	7.90E-01	3	4.13E-01	3	5.73E-01	3	8.07E-01
+GO:0098642	network-forming collagen trimer	3	7.90E-01	3	4.13E-01	3	5.73E-01	3	8.07E-01
+GO:0019932	second-messenger-mediated signaling	NA	NA	12	4.13E-01	12	5.18E-01	12	9.14E-01
+GO:0006075	(1->3)-beta-D-glucan biosynthetic process	4	7.90E-01	5	4.13E-01	4	2.15E-01	NA	NA
+GO:0009986	cell surface	26	1.00E+00	24	4.13E-01	22	3.00E-01	NA	NA
+GO:0016125	sterol metabolic process	56	9.23E-01	57	4.13E-01	56	5.08E-01	NA	NA
+GO:0007626	locomotory behavior	NA	NA	24	4.13E-01	25	1.00E+00	NA	NA
+GO:0030659	cytoplasmic vesicle membrane	NA	NA	57	4.13E-01	57	1.00E+00	NA	NA
+GO:0009253	peptidoglycan catabolic process	NA	NA	5	4.13E-01	NA	NA	NA	NA
+GO:0005935	cellular bud neck	NA	NA	27	4.13E-01	NA	NA	NA	NA
+GO:0019900	kinase binding	NA	NA	27	4.13E-01	NA	NA	NA	NA
+GO:0006027	glycosaminoglycan catabolic process	NA	NA	5	4.13E-01	NA	NA	NA	NA
+GO:0030203	glycosaminoglycan metabolic process	NA	NA	5	4.13E-01	NA	NA	NA	NA
+GO:0000270	peptidoglycan metabolic process	NA	NA	5	4.13E-01	NA	NA	NA	NA
+GO:0019221	cytokine-mediated signaling pathway	NA	NA	5	4.15E-01	NA	NA	NA	NA
+GO:0007600	sensory perception	24	1.00E+00	24	4.16E-01	24	5.73E-01	NA	NA
+GO:0000144	cellular bud neck septin ring	NA	NA	5	4.16E-01	NA	NA	NA	NA
+GO:0044437	vacuolar part	NA	NA	237	4.16E-01	NA	NA	NA	NA
+GO:0035556	intracellular signal transduction	NA	NA	202	4.31E-01	NA	NA	NA	NA
+GO:0031106	septin ring organization	NA	NA	10	4.32E-01	NA	NA	NA	NA
+GO:0032185	septin cytoskeleton organization	NA	NA	10	4.32E-01	NA	NA	NA	NA
+GO:1990355	L-methionine salvage from methionine sulphoxide	NA	NA	3	4.44E-01	NA	NA	NA	NA
+GO:0012506	vesicle membrane	NA	NA	58	4.46E-01	58	1.00E+00	NA	NA
+GO:0019207	kinase regulator activity	NA	NA	44	4.47E-01	NA	NA	NA	NA
+GO:0032102	negative regulation of response to external stimulus	NA	NA	5	4.68E-01	NA	NA	NA	NA
+GO:0032161	cleavage apparatus septin structure	10	1.00E+00	10	4.85E-01	NA	NA	NA	NA
+GO:0031520	plasma membrane of cell tip	3	6.16E-01	3	4.85E-01	NA	NA	NA	NA
+GO:0019933	cAMP-mediated signaling	3	3.11E-01	3	4.92E-01	3	5.90E-01	3	1.48E-01
+GO:0019935	cyclic-nucleotide-mediated signaling	3	3.11E-01	3	4.92E-01	3	5.90E-01	3	1.48E-01
+GO:0061160	regulation of establishment of bipolar cell polarity regulating cell shape	NA	NA	3	4.92E-01	NA	NA	3	1.00E+00
+GO:0061172	regulation of establishment of bipolar cell polarity	NA	NA	3	4.92E-01	NA	NA	3	1.00E+00
+GO:0035842	old cell tip after activation of bipolar cell growth	3	3.57E-01	3	4.92E-01	3	5.90E-01	NA	NA
+GO:1990873	intrinsic component of plasma membrane of cell tip	3	3.57E-01	3	4.92E-01	3	5.90E-01	NA	NA
+GO:0005937	mating projection	NA	NA	3	4.92E-01	NA	NA	NA	NA
+GO:0005933	cellular bud	NA	NA	3	4.92E-01	NA	NA	NA	NA
+GO:0050954	sensory perception of mechanical stimulus	NA	NA	10	4.92E-01	NA	NA	NA	NA
+GO:0030534	adult behavior	NA	NA	16	4.92E-01	17	3.72E-01	NA	NA
+GO:0042761	very long-chain fatty acid biosynthetic process	11	1.00E+00	11	4.92E-01	11	8.37E-01	NA	NA
+GO:0009792	embryo development ending in birth or egg hatching	NA	NA	10	4.92E-01	NA	NA	NA	NA
+GO:0009790	embryo development	NA	NA	10	4.92E-01	NA	NA	NA	NA
+GO:0032501	multicellular organismal process	NA	NA	175	5.00E-01	184	8.71E-01	NA	NA
+GO:0010927	cellular component assembly involved in morphogenesis	NA	NA	32	5.02E-01	NA	NA	NA	NA
+GO:0000920	cell separation after cytokinesis	NA	NA	10	5.07E-01	NA	NA	NA	NA
+GO:0008374	O-acyltransferase activity	45	6.69E-01	45	5.22E-01	45	2.15E-01	NA	NA
+GO:0016684	oxidoreductase activity, acting on peroxide as acceptor	NA	NA	16	5.54E-01	NA	NA	NA	NA
+GO:0004601	peroxidase activity	NA	NA	16	5.54E-01	NA	NA	NA	NA
+GO:0008202	steroid metabolic process	69	1.00E+00	70	5.74E-01	69	1.00E+00	NA	NA
+GO:0050877	nervous system process	35	1.00E+00	35	5.79E-01	35	7.81E-02	NA	NA
+GO:0009887	animal organ morphogenesis	NA	NA	35	5.79E-01	34	6.13E-01	NA	NA
+GO:0008610	lipid biosynthetic process	NA	NA	232	5.79E-01	228	1.00E+00	NA	NA
+GO:1900376	regulation of secondary metabolite biosynthetic process	NA	NA	8	5.79E-01	NA	NA	NA	NA
+GO:0051516	regulation of bipolar cell growth	NA	NA	13	5.79E-01	NA	NA	NA	NA
+GO:0051510	regulation of unidimensional cell growth	NA	NA	13	5.79E-01	NA	NA	NA	NA
+GO:0071852	fungal-type cell wall organization or biogenesis	NA	NA	78	6.12E-01	NA	NA	NA	NA
+GO:0007264	small GTPase mediated signal transduction	NA	NA	67	6.31E-01	NA	NA	NA	NA
+GO:0075259	spore-bearing structure development	NA	NA	8	6.31E-01	NA	NA	NA	NA
+GO:0051046	regulation of secretion	NA	NA	20	6.31E-01	NA	NA	NA	NA
+GO:0007476	imaginal disc-derived wing morphogenesis	NA	NA	8	6.31E-01	NA	NA	NA	NA
+GO:0030584	sporocarp development	NA	NA	8	6.31E-01	NA	NA	NA	NA
+GO:0030582	reproductive fruiting body development	NA	NA	8	6.31E-01	NA	NA	NA	NA
+GO:0046658	anchored component of plasma membrane	20	3.06E-01	20	6.79E-01	15	1.79E-01	NA	NA
+GO:0019887	protein kinase regulator activity	NA	NA	43	6.79E-01	NA	NA	NA	NA
+GO:0009612	response to mechanical stimulus	NA	NA	8	6.79E-01	NA	NA	NA	NA
+GO:0043455	regulation of secondary metabolic process	NA	NA	11	6.80E-01	NA	NA	NA	NA
+GO:0032120	ascospore-type prospore membrane assembly	NA	NA	11	7.10E-01	NA	NA	NA	NA
+GO:0071709	membrane assembly	NA	NA	11	7.10E-01	NA	NA	NA	NA
+GO:0015171	amino acid transmembrane transporter activity	NA	NA	39	7.27E-01	37	1.00E+00	NA	NA
+GO:0032156	septin cytoskeleton	NA	NA	14	7.32E-01	NA	NA	NA	NA
+GO:0043934	sporulation	NA	NA	53	7.32E-01	NA	NA	NA	NA
+GO:0015108	chloride transmembrane transporter activity	NA	NA	11	7.42E-01	NA	NA	NA	NA
+GO:0046693	sperm storage	NA	NA	6	7.52E-01	6	1.00E+00	NA	NA
+GO:0046692	sperm competition	NA	NA	6	7.52E-01	6	1.00E+00	NA	NA
+GO:0030497	fatty acid elongation	12	1.00E+00	12	7.57E-01	12	1.00E+00	NA	NA
+GO:0035114	imaginal disc-derived appendage morphogenesis	NA	NA	14	7.62E-01	NA	NA	NA	NA
+GO:0035120	post-embryonic appendage morphogenesis	NA	NA	14	7.62E-01	NA	NA	NA	NA
+GO:0007528	neuromuscular junction development	NA	NA	11	7.66E-01	NA	NA	NA	NA
+GO:0030446	hyphal cell wall	7	1.00E+00	6	7.78E-01	6	1.00E+00	NA	NA
+GO:0006813	potassium ion transport	NA	NA	14	7.78E-01	15	1.00E+00	NA	NA
+GO:0030435	sporulation resulting in formation of a cellular spore	NA	NA	50	7.78E-01	NA	NA	NA	NA
+GO:0009886	post-embryonic animal morphogenesis	30	1.00E+00	30	7.89E-01	30	1.00E+00	NA	NA
+GO:0046173	polyol biosynthetic process	NA	NA	6	7.96E-01	NA	NA	NA	NA
+GO:0009166	nucleotide catabolic process	15	2.11E-01	14	8.00E-01	NA	NA	14	8.07E-01
+GO:0030600	feruloyl esterase activity	6	1.00E+00	6	8.09E-01	5	5.73E-01	NA	NA
+GO:0040040	thermosensory behavior	NA	NA	6	8.64E-01	6	2.23E-01	NA	NA
+GO:0032107	regulation of response to nutrient levels	NA	NA	24	8.71E-01	NA	NA	NA	NA
+GO:0032104	regulation of response to extracellular stimulus	NA	NA	24	8.71E-01	NA	NA	NA	NA
+GO:0015179	L-amino acid transmembrane transporter activity	NA	NA	30	8.80E-01	NA	NA	NA	NA
+GO:0035839	non-growing cell tip	6	7.66E-02	6	8.94E-01	6	1.00E+00	NA	NA
+GO:0005952	cAMP-dependent protein kinase complex	NA	NA	6	8.94E-01	6	1.00E+00	NA	NA
+GO:0044706	multi-multicellular organism process	NA	NA	9	8.94E-01	9	1.00E+00	NA	NA
+GO:0005391	sodium:potassium-exchanging ATPase activity	NA	NA	6	8.94E-01	NA	NA	NA	NA
+GO:0008344	adult locomotory behavior	NA	NA	12	8.94E-01	NA	NA	NA	NA
+GO:0005890	sodium:potassium-exchanging ATPase complex	NA	NA	6	8.94E-01	NA	NA	NA	NA
+GO:0072349	modified amino acid transmembrane transporter activity	NA	NA	6	8.94E-01	NA	NA	NA	NA
+GO:0060439	trachea morphogenesis	NA	NA	6	8.94E-01	NA	NA	NA	NA
+GO:0050905	neuromuscular process	NA	NA	6	8.94E-01	NA	NA	NA	NA
+GO:0090533	cation-transporting ATPase complex	NA	NA	6	8.94E-01	NA	NA	NA	NA
+GO:0035336	long-chain fatty-acyl-CoA metabolic process	17	8.03E-01	15	9.13E-01	15	1.00E+00	NA	NA
+GO:0098533	ATPase dependent transmembrane transport complex	NA	NA	9	9.37E-01	NA	NA	NA	NA
+GO:0006642	triglyceride mobilization	4	1.00E+00	4	9.49E-01	4	1.00E+00	NA	NA
+GO:0046999	regulation of conjugation	NA	NA	28	9.49E-01	NA	NA	NA	NA
+GO:0031137	regulation of conjugation with cellular fusion	NA	NA	28	9.49E-01	NA	NA	NA	NA
+GO:0044262	cellular carbohydrate metabolic process	NA	NA	90	9.49E-01	NA	NA	NA	NA
+GO:0098656	anion transmembrane transport	NA	NA	74	9.67E-01	NA	NA	NA	NA
+GO:0000981	RNA polymerase II transcription factor activity, sequence-specific DNA binding	NA	NA	154	9.72E-01	148	9.54E-03	147	1.07E-01
+GO:0048608	reproductive structure development	NA	NA	9	9.93E-01	NA	NA	NA	NA
+GO:0070160	occluding junction	NA	NA	12	9.96E-01	12	1.00E+00	NA	NA
+GO:0005918	septate junction	NA	NA	12	9.96E-01	12	1.00E+00	NA	NA
+GO:0003700	DNA binding transcription factor activity	NA	NA	215	1.00E+00	211	2.60E-02	212	8.92E-01
+GO:0001071	DNA binding transcription factor activity	NA	NA	215	1.00E+00	211	2.60E-02	212	8.92E-01
+GO:0010410	hemicellulose metabolic process	7	1.00E+00	7	1.00E+00	6	1.00E+00	6	9.14E-01
+GO:0045491	xylan metabolic process	7	1.00E+00	7	1.00E+00	6	1.00E+00	6	9.14E-01
+GO:0045493	xylan catabolic process	7	1.00E+00	7	1.00E+00	6	1.00E+00	6	9.14E-01
+GO:0043169	cation binding	NA	NA	1397	1.00E+00	1376	1.00E+00	1390	1.00E+00
+GO:0046872	metal ion binding	NA	NA	1391	1.00E+00	1370	1.00E+00	1384	1.00E+00
+GO:1901292	nucleoside phosphate catabolic process	27	7.24E-01	25	1.00E+00	NA	NA	26	1.00E+00
+GO:1902653	secondary alcohol biosynthetic process	NA	NA	2	1.00E+00	NA	NA	2	1.00E+00
+GO:1900554	asperfuranone biosynthetic process	NA	NA	2	1.00E+00	NA	NA	2	1.00E+00
+GO:0030638	polyketide metabolic process	NA	NA	2	1.00E+00	NA	NA	2	1.00E+00
+GO:1902652	secondary alcohol metabolic process	NA	NA	2	1.00E+00	NA	NA	2	1.00E+00
+GO:1902645	tertiary alcohol biosynthetic process	NA	NA	2	1.00E+00	NA	NA	2	1.00E+00
+GO:0030639	polyketide biosynthetic process	NA	NA	2	1.00E+00	NA	NA	2	1.00E+00
+GO:1902644	tertiary alcohol metabolic process	NA	NA	2	1.00E+00	NA	NA	2	1.00E+00
+GO:1900552	asperfuranone metabolic process	NA	NA	2	1.00E+00	NA	NA	2	1.00E+00
+GO:0022838	substrate-specific channel activity	52	2.68E-01	53	1.00E+00	51	4.49E-02	NA	NA
+GO:0042067	establishment of ommatidial planar polarity	7	1.00E+00	7	1.00E+00	7	8.45E-02	NA	NA
+GO:0048520	positive regulation of behavior	NA	NA	4	1.00E+00	4	2.15E-01	NA	NA
+GO:0004691	cAMP-dependent protein kinase activity	NA	NA	4	1.00E+00	4	2.15E-01	NA	NA
+GO:0060259	regulation of feeding behavior	NA	NA	4	1.00E+00	4	2.15E-01	NA	NA
+GO:0004690	cyclic nucleotide-dependent protein kinase activity	NA	NA	4	1.00E+00	4	2.15E-01	NA	NA
+GO:0008271	secondary active sulfate transmembrane transporter activity	9	1.00E+00	9	1.00E+00	9	4.05E-01	NA	NA
+GO:1902358	sulfate transmembrane transport	NA	NA	7	1.00E+00	7	4.86E-01	NA	NA
+GO:0015291	secondary active transmembrane transporter activity	NA	NA	82	1.00E+00	82	5.90E-01	NA	NA
+GO:0035841	new growing cell tip	4	7.95E-01	4	1.00E+00	4	1.00E+00	NA	NA
+GO:1902476	chloride transmembrane transport	9	1.00E+00	9	1.00E+00	9	1.00E+00	NA	NA
+GO:0000254	C-4 methylsterol oxidase activity	4	1.00E+00	4	1.00E+00	4	1.00E+00	NA	NA
+GO:0050808	synapse organization	NA	NA	15	1.00E+00	15	1.00E+00	NA	NA
+GO:0019991	septate junction assembly	NA	NA	9	1.00E+00	9	1.00E+00	NA	NA
+GO:0007043	cell-cell junction assembly	NA	NA	9	1.00E+00	9	1.00E+00	NA	NA
+GO:0050660	flavin adenine dinucleotide binding	NA	NA	71	1.00E+00	72	1.00E+00	NA	NA
+GO:0003796	lysozyme activity	NA	NA	2	1.00E+00	2	1.00E+00	NA	NA
+GO:0007265	Ras protein signal transduction	28	9.07E-01	28	1.00E+00	NA	NA	NA	NA
+GO:0031578	mitotic spindle orientation checkpoint	4	1.00E+00	4	1.00E+00	NA	NA	NA	NA
+GO:0005516	calmodulin binding	18	1.00E+00	18	1.00E+00	NA	NA	NA	NA
+GO:0035107	appendage morphogenesis	15	1.00E+00	15	1.00E+00	NA	NA	NA	NA
+GO:0015020	glucuronosyltransferase activity	NA	NA	2	1.00E+00	NA	NA	NA	NA
+GO:1901565	organonitrogen compound catabolic process	NA	NA	142	1.00E+00	NA	NA	NA	NA
+GO:0006811	ion transport	NA	NA	295	1.00E+00	NA	NA	NA	NA
+GO:0060187	cell pole	NA	NA	90	1.00E+00	NA	NA	NA	NA
+GO:0051286	cell tip	NA	NA	90	1.00E+00	NA	NA	NA	NA
+GO:0000083	regulation of transcription involved in G1/S transition of mitotic cell cycle	NA	NA	10	1.00E+00	NA	NA	NA	NA
+GO:0044463	cell projection part	NA	NA	25	1.00E+00	NA	NA	NA	NA
+GO:0016028	rhabdomere	NA	NA	2	1.00E+00	NA	NA	NA	NA
+GO:0102488	dTTP phosphohydrolase activity	NA	NA	4	1.00E+00	NA	NA	NA	NA
+GO:0102487	dUTP phosphohydrolase activity	NA	NA	4	1.00E+00	NA	NA	NA	NA
+GO:0005940	septin ring	NA	NA	13	1.00E+00	NA	NA	NA	NA
+GO:0031505	fungal-type cell wall organization	NA	NA	57	1.00E+00	NA	NA	NA	NA
+GO:0006949	syncytium formation	NA	NA	4	1.00E+00	NA	NA	NA	NA
+GO:0048872	homeostasis of number of cells	NA	NA	4	1.00E+00	NA	NA	NA	NA
+GO:1903530	regulation of secretion by cell	NA	NA	19	1.00E+00	NA	NA	NA	NA
+GO:0001558	regulation of cell growth	NA	NA	28	1.00E+00	NA	NA	NA	NA
+GO:0000750	pheromone-dependent signal transduction involved in conjugation with cellular fusion	NA	NA	4	1.00E+00	NA	NA	NA	NA
+GO:0007416	synapse assembly	NA	NA	9	1.00E+00	NA	NA	NA	NA
+GO:0102486	dCTP phosphohydrolase activity	NA	NA	4	1.00E+00	NA	NA	NA	NA
+GO:0036455	iron-sulfur transferase activity	NA	NA	2	1.00E+00	NA	NA	NA	NA
+GO:0015075	ion transmembrane transporter activity	NA	NA	268	1.00E+00	NA	NA	NA	NA
+GO:0010507	negative regulation of autophagy	NA	NA	9	1.00E+00	NA	NA	NA	NA
+GO:0008113	peptide-methionine (S)-S-oxide reductase activity	NA	NA	2	1.00E+00	NA	NA	NA	NA
+GO:0000768	syncytium formation by plasma membrane fusion	NA	NA	4	1.00E+00	NA	NA	NA	NA
+GO:0036456	L-methionine-(S)-S-oxide reductase activity	NA	NA	2	1.00E+00	NA	NA	NA	NA
+GO:0007520	myoblast fusion	NA	NA	4	1.00E+00	NA	NA	NA	NA
+GO:0000324	fungal-type vacuole	NA	NA	51	1.00E+00	NA	NA	NA	NA
+GO:0035974	meiotic spindle pole body	NA	NA	4	1.00E+00	NA	NA	NA	NA
+GO:0102490	8-oxo-dGTP phosphohydrolase activity	NA	NA	4	1.00E+00	NA	NA	NA	NA
+GO:0044707	multicellular organismal process	NA	NA	166	1.00E+00	NA	NA	NA	NA
+GO:0102491	dGTP phosphohydrolase activity	NA	NA	4	1.00E+00	NA	NA	NA	NA
+GO:0007605	sensory perception of sound	NA	NA	9	1.00E+00	NA	NA	NA	NA
+GO:0007362	terminal region determination	NA	NA	2	1.00E+00	NA	NA	NA	NA
+GO:0046873	metal ion transmembrane transporter activity	NA	NA	94	1.00E+00	NA	NA	NA	NA
+GO:0000322	storage vacuole	NA	NA	51	1.00E+00	NA	NA	NA	NA
+GO:0033744	L-methionine:thioredoxin-disulfide S-oxidoreductase activity	NA	NA	2	1.00E+00	NA	NA	NA	NA
+GO:0036335	intestinal stem cell homeostasis	NA	NA	4	1.00E+00	NA	NA	NA	NA
+GO:0051518	positive regulation of bipolar cell growth	NA	NA	12	1.00E+00	NA	NA	NA	NA
+GO:0004602	glutathione peroxidase activity	NA	NA	4	1.00E+00	NA	NA	NA	NA
+GO:0102485	dATP phosphohydrolase activity	NA	NA	4	1.00E+00	NA	NA	NA	NA
+GO:0044723	carbohydrate metabolic process	NA	NA	218	1.00E+00	NA	NA	NA	NA
+GO:0055080	cation homeostasis	NA	NA	112	1.00E+00	NA	NA	NA	NA
+GO:0102489	GTP phosphohydrolase activity	NA	NA	4	1.00E+00	NA	NA	NA	NA
+GO:0051512	positive regulation of unidimensional cell growth	NA	NA	12	1.00E+00	NA	NA	NA	NA
+GO:0030431	sleep	NA	NA	7	1.00E+00	NA	NA	NA	NA
+GO:0050801	ion homeostasis	NA	NA	120	1.00E+00	NA	NA	NA	NA
+GO:0004222	metalloendopeptidase activity	NA	NA	NA	NA	NA	NA	68	1.37E-02
+GO:0004175	endopeptidase activity	NA	NA	NA	NA	NA	NA	370	2.28E-02
+GO:0045089	positive regulation of innate immune response	NA	NA	NA	NA	NA	NA	21	3.45E-02
+GO:0070011	peptidase activity, acting on L-amino acid peptides	NA	NA	NA	NA	NA	NA	484	3.45E-02
+GO:0050795	regulation of behavior	NA	NA	NA	NA	20	4.29E-01	20	4.29E-02
+GO:0045088	regulation of innate immune response	NA	NA	NA	NA	NA	NA	26	5.20E-02
+GO:0071432	peptide mating pheromone maturation involved in conjugation with cellular fusion	NA	NA	NA	NA	26	1.00E+00	24	8.08E-02
+GO:0007323	peptide pheromone maturation	NA	NA	NA	NA	NA	NA	32	9.20E-02
+GO:0008233	peptidase activity	NA	NA	NA	NA	NA	NA	506	9.20E-02
+GO:1901143	insulin catabolic process	NA	NA	NA	NA	NA	NA	13	1.33E-01
+GO:0002021	response to dietary excess	NA	NA	NA	NA	NA	NA	13	1.33E-01
+GO:1901142	insulin metabolic process	NA	NA	NA	NA	NA	NA	13	1.33E-01
+GO:0090062	regulation of trehalose metabolic process	NA	NA	NA	NA	NA	NA	13	1.33E-01
+GO:0046662	regulation of oviposition	NA	NA	NA	NA	NA	NA	13	1.33E-01
+GO:0050778	positive regulation of immune response	NA	NA	NA	NA	NA	NA	26	2.06E-01
+GO:0031349	positive regulation of defense response	NA	NA	NA	NA	NA	NA	27	2.72E-01
+GO:0050776	regulation of immune response	NA	NA	NA	NA	NA	NA	32	3.77E-01
+GO:0014066	regulation of phosphatidylinositol 3-kinase signaling	NA	NA	NA	NA	NA	NA	15	3.87E-01
+GO:0014067	negative regulation of phosphatidylinositol 3-kinase signaling	NA	NA	NA	NA	NA	NA	15	3.87E-01
+GO:0002684	positive regulation of immune system process	NA	NA	NA	NA	NA	NA	28	4.59E-01
+GO:0031347	regulation of defense response	NA	NA	NA	NA	NA	NA	36	6.26E-01
+GO:0008237	metallopeptidase activity	NA	NA	NA	NA	NA	NA	119	6.42E-01
+GO:0042742	defense response to bacterium	NA	NA	NA	NA	NA	NA	40	7.72E-01
+GO:0009617	response to bacterium	NA	NA	NA	NA	NA	NA	40	7.72E-01
+GO:0009190	cyclic nucleotide biosynthetic process	2	9.74E-01	NA	NA	NA	NA	2	7.90E-01
+GO:0015198	oligopeptide transmembrane transporter activity	24	1.00E+00	NA	NA	NA	NA	21	7.93E-01
+GO:0035673	oligopeptide transmembrane transporter activity	24	1.00E+00	NA	NA	NA	NA	21	7.93E-01
+GO:0016787	hydrolase activity	1710	1.00E+00	NA	NA	NA	NA	1599	8.07E-01
+GO:0035442	dipeptide transmembrane transport	NA	NA	NA	NA	NA	NA	17	8.07E-01
+GO:0030666	endocytic vesicle membrane	NA	NA	NA	NA	NA	NA	17	8.07E-01
+GO:0015322	secondary active oligopeptide transmembrane transporter activity	NA	NA	NA	NA	NA	NA	17	8.07E-01
+GO:0005427	proton-dependent oligopeptide secondary active transmembrane transporter activity	NA	NA	NA	NA	NA	NA	17	8.07E-01
+GO:0030670	phagocytic vesicle membrane	NA	NA	NA	NA	NA	NA	17	8.07E-01
+GO:0042938	dipeptide transport	NA	NA	NA	NA	NA	NA	17	8.07E-01
+GO:0097150	neuronal stem cell population maintenance	NA	NA	NA	NA	NA	NA	3	8.22E-01
+GO:0009261	ribonucleotide catabolic process	4	1.00E+00	NA	NA	NA	NA	4	8.92E-01
+GO:0009154	purine ribonucleotide catabolic process	4	1.00E+00	NA	NA	NA	NA	4	8.92E-01
+GO:0042887	amide transmembrane transporter activity	26	1.00E+00	NA	NA	NA	NA	23	9.14E-01
+GO:0015197	peptide transporter activity	26	1.00E+00	NA	NA	NA	NA	23	9.14E-01
+GO:0035672	oligopeptide transmembrane transport	26	1.00E+00	NA	NA	NA	NA	23	9.14E-01
+GO:0002682	regulation of immune system process	NA	NA	NA	NA	NA	NA	46	9.14E-01
+GO:1901678	iron coordination entity transport	NA	NA	NA	NA	NA	NA	2	9.14E-01
+GO:0042044	fluid transport	11	7.90E-01	NA	NA	NA	NA	12	1.00E+00
+GO:0004180	carboxypeptidase activity	33	7.90E-01	NA	NA	NA	NA	27	1.00E+00
+GO:0042886	amide transport	31	1.00E+00	NA	NA	NA	NA	28	1.00E+00
+GO:0015833	peptide transport	31	1.00E+00	NA	NA	NA	NA	28	1.00E+00
+GO:0004114	3',5'-cyclic-nucleotide phosphodiesterase activity	2	1.00E+00	NA	NA	NA	NA	2	1.00E+00
+GO:0004617	phosphoglycerate dehydrogenase activity	2	1.00E+00	NA	NA	NA	NA	2	1.00E+00
+GO:0070785	negative regulation of growth of unicellular organism as a thread of attached cells	2	1.00E+00	NA	NA	NA	NA	2	1.00E+00
+GO:0009214	cyclic nucleotide catabolic process	2	1.00E+00	NA	NA	NA	NA	2	1.00E+00
+GO:0006857	oligopeptide transport	31	1.00E+00	NA	NA	NA	NA	28	1.00E+00
+GO:0004300	enoyl-CoA hydratase activity	2	1.00E+00	NA	NA	NA	NA	2	1.00E+00
+GO:1990138	neuron projection extension	2	1.00E+00	NA	NA	NA	NA	2	1.00E+00
+GO:0048675	axon extension	2	1.00E+00	NA	NA	NA	NA	2	1.00E+00
+GO:0048588	developmental cell growth	2	1.00E+00	NA	NA	NA	NA	2	1.00E+00
+GO:0009595	detection of biotic stimulus	NA	NA	NA	NA	NA	NA	2	1.00E+00
+GO:0002757	immune response-activating signal transduction	NA	NA	NA	NA	NA	NA	6	1.00E+00
+GO:0016849	phosphorus-oxygen lyase activity	NA	NA	NA	NA	NA	NA	3	1.00E+00
+GO:0006952	defense response	NA	NA	NA	NA	NA	NA	66	1.00E+00
+GO:0002238	response to molecule of fungal origin	NA	NA	NA	NA	NA	NA	2	1.00E+00
+GO:0004112	cyclic-nucleotide phosphodiesterase activity	NA	NA	NA	NA	NA	NA	3	1.00E+00
+GO:0050829	defense response to Gram-negative bacterium	NA	NA	NA	NA	NA	NA	21	1.00E+00
+GO:0034312	diol biosynthetic process	NA	NA	NA	NA	NA	NA	2	1.00E+00
+GO:0071931	positive regulation of transcription involved in G1/S transition of mitotic cell cycle	NA	NA	NA	NA	NA	NA	4	1.00E+00
+GO:0098581	detection of external biotic stimulus	NA	NA	NA	NA	NA	NA	2	1.00E+00
+GO:0002218	activation of innate immune response	NA	NA	NA	NA	NA	NA	6	1.00E+00
+GO:0052690	trichloro-p-hydroquinone reductive dehalogenase activity	NA	NA	NA	NA	NA	NA	2	1.00E+00
+GO:0032491	detection of molecule of fungal origin	NA	NA	NA	NA	NA	NA	2	1.00E+00
+GO:0038187	pattern recognition receptor activity	NA	NA	NA	NA	NA	NA	6	1.00E+00
+GO:0003959	NADPH dehydrogenase activity	NA	NA	NA	NA	NA	NA	2	1.00E+00
+GO:0001530	lipopolysaccharide binding	NA	NA	NA	NA	NA	NA	6	1.00E+00
+GO:0004555	alpha,alpha-trehalase activity	NA	NA	NA	NA	NA	NA	4	1.00E+00
+GO:0098542	defense response to other organism	NA	NA	NA	NA	NA	NA	52	1.00E+00
+GO:0034311	diol metabolic process	NA	NA	NA	NA	NA	NA	2	1.00E+00
+GO:0005993	trehalose catabolic process	NA	NA	NA	NA	NA	NA	4	1.00E+00
+GO:0010675	regulation of cellular carbohydrate metabolic process	NA	NA	NA	NA	NA	NA	51	1.00E+00
+GO:0046352	disaccharide catabolic process	NA	NA	NA	NA	NA	NA	4	1.00E+00
+GO:0001077	transcriptional activator activity, RNA polymerase II proximal promoter sequence-specific DNA binding	NA	NA	NA	NA	NA	NA	37	1.00E+00
+GO:0008329	signaling pattern recognition receptor activity	NA	NA	NA	NA	NA	NA	6	1.00E+00
+GO:0004016	adenylate cyclase activity	NA	NA	NA	NA	NA	NA	3	1.00E+00
+GO:0018548	pentaerythritol trinitrate reductase activity	NA	NA	NA	NA	NA	NA	2	1.00E+00
+GO:0006195	purine nucleotide catabolic process	NA	NA	NA	NA	NA	NA	5	1.00E+00
+GO:0032027	myosin light chain binding	NA	NA	NA	NA	NA	NA	3	1.00E+00
+GO:0002253	activation of immune response	NA	NA	NA	NA	NA	NA	6	1.00E+00
+GO:0001872	(1->3)-beta-D-glucan binding	NA	NA	NA	NA	NA	NA	6	1.00E+00
+GO:0009975	cyclase activity	NA	NA	NA	NA	NA	NA	3	1.00E+00
+GO:0002764	immune response-regulating signaling pathway	NA	NA	NA	NA	NA	NA	6	1.00E+00
+GO:0045926	negative regulation of growth	NA	NA	NA	NA	NA	NA	31	1.00E+00
+GO:0015927	trehalase activity	NA	NA	NA	NA	NA	NA	4	1.00E+00
+GO:0008398	sterol 14-demethylase activity	NA	NA	NA	NA	NA	NA	4	1.00E+00
+GO:0002758	innate immune response-activating signal transduction	NA	NA	NA	NA	NA	NA	6	1.00E+00
+GO:0007613	memory	NA	NA	NA	NA	11	7.18E-02	NA	NA
+GO:0048598	embryonic morphogenesis	NA	NA	NA	NA	24	8.54E-02	NA	NA
+GO:0015267	channel activity	56	6.30E-01	NA	NA	55	1.12E-01	NA	NA
+GO:0022803	passive transmembrane transporter activity	56	6.30E-01	NA	NA	55	1.12E-01	NA	NA
+GO:0005216	ion channel activity	47	7.43E-01	NA	NA	46	1.29E-01	NA	NA
+GO:0044708	behavior	NA	NA	NA	NA	46	1.29E-01	NA	NA
+GO:0007610	behavior	NA	NA	NA	NA	50	1.60E-01	NA	NA
+GO:0050890	cognition	NA	NA	NA	NA	15	1.90E-01	NA	NA
+GO:0007611	learning or memory	NA	NA	NA	NA	15	1.90E-01	NA	NA
+GO:0048149	behavioral response to ethanol	NA	NA	NA	NA	4	2.15E-01	NA	NA
+GO:0034333	adherens junction assembly	NA	NA	NA	NA	6	2.21E-01	NA	NA
+GO:0034332	adherens junction organization	NA	NA	NA	NA	11	3.00E-01	NA	NA
+GO:0007391	dorsal closure	17	1.00E+00	NA	NA	17	3.99E-01	NA	NA
+GO:0016331	morphogenesis of embryonic epithelium	17	1.00E+00	NA	NA	17	3.99E-01	NA	NA
+GO:0015106	bicarbonate transmembrane transporter activity	7	8.75E-01	NA	NA	7	5.18E-01	NA	NA
+GO:0019531	oxalate transmembrane transporter activity	7	8.75E-01	NA	NA	7	5.18E-01	NA	NA
+GO:0015701	bicarbonate transport	7	8.75E-01	NA	NA	7	5.18E-01	NA	NA
+GO:0035838	growing cell tip	15	5.40E-01	NA	NA	15	5.73E-01	NA	NA
+GO:0048729	tissue morphogenesis	NA	NA	NA	NA	24	5.73E-01	NA	NA
+GO:0006930	substrate-dependent cell migration, cell extension	NA	NA	NA	NA	3	5.73E-01	NA	NA
+GO:0007616	long-term memory	NA	NA	NA	NA	5	5.73E-01	NA	NA
+GO:0032486	Rap protein signal transduction	NA	NA	NA	NA	3	5.73E-01	NA	NA
+GO:0035099	hemocyte migration	NA	NA	NA	NA	5	5.73E-01	NA	NA
+GO:0022409	positive regulation of cell-cell adhesion	NA	NA	NA	NA	3	5.73E-01	NA	NA
+GO:0009593	detection of chemical stimulus	4	1.00E+00	NA	NA	3	5.75E-01	NA	NA
+GO:0010737	protein kinase A signaling	NA	NA	NA	NA	3	5.90E-01	NA	NA
+GO:2000253	positive regulation of feeding behavior	NA	NA	NA	NA	3	5.90E-01	NA	NA
+GO:0015297	antiporter activity	31	1.00E+00	NA	NA	31	6.42E-01	NA	NA
+GO:0000103	sulfate assimilation	NA	NA	NA	NA	8	8.66E-01	NA	NA
+GO:0015301	anion:anion antiporter activity	8	1.00E+00	NA	NA	8	8.71E-01	NA	NA
+GO:0015174	basic amino acid transmembrane transporter activity	NA	NA	NA	NA	8	8.71E-01	NA	NA
+GO:0008272	sulfate transport	NA	NA	NA	NA	14	9.68E-01	NA	NA
+GO:0002009	morphogenesis of an epithelium	NA	NA	NA	NA	23	9.68E-01	NA	NA
+GO:0015116	sulfate transmembrane transporter activity	NA	NA	NA	NA	14	9.68E-01	NA	NA
+GO:1901618	organic hydroxy compound transmembrane transporter activity	9	1.00E+00	NA	NA	9	1.00E+00	NA	NA
+GO:0007472	wing disc morphogenesis	NA	NA	NA	NA	4	1.00E+00	NA	NA
+GO:0006798	polyphosphate catabolic process	NA	NA	NA	NA	4	1.00E+00	NA	NA
+GO:0030031	cell projection assembly	NA	NA	NA	NA	6	1.00E+00	NA	NA
+GO:0030320	cellular monovalent inorganic anion homeostasis	NA	NA	NA	NA	4	1.00E+00	NA	NA
+GO:0001736	establishment of planar polarity	NA	NA	NA	NA	12	1.00E+00	NA	NA
+GO:0046557	glucan endo-1,6-beta-glucosidase activity	NA	NA	NA	NA	2	1.00E+00	NA	NA
+GO:0016998	cell wall macromolecule catabolic process	NA	NA	NA	NA	4	1.00E+00	NA	NA
+GO:0046914	transition metal ion binding	NA	NA	NA	NA	460	1.00E+00	NA	NA
+GO:0015144	carbohydrate transmembrane transporter activity	NA	NA	NA	NA	12	1.00E+00	NA	NA
+GO:0046943	carboxylic acid transmembrane transporter activity	NA	NA	NA	NA	77	1.00E+00	NA	NA
+GO:0072505	divalent inorganic anion homeostasis	NA	NA	NA	NA	4	1.00E+00	NA	NA
+GO:0031252	cell leading edge	NA	NA	NA	NA	4	1.00E+00	NA	NA
+GO:0022407	regulation of cell-cell adhesion	NA	NA	NA	NA	4	1.00E+00	NA	NA
+GO:0008038	neuron recognition	NA	NA	NA	NA	6	1.00E+00	NA	NA
+GO:0022834	ligand-gated channel activity	NA	NA	NA	NA	4	1.00E+00	NA	NA
+GO:0015276	ligand-gated ion channel activity	NA	NA	NA	NA	4	1.00E+00	NA	NA
+GO:0016198	axon choice point recognition	NA	NA	NA	NA	4	1.00E+00	NA	NA
+GO:1901476	carbohydrate transmembrane transporter activity	NA	NA	NA	NA	12	1.00E+00	NA	NA
+GO:0007164	establishment of tissue polarity	NA	NA	NA	NA	12	1.00E+00	NA	NA
+GO:0004309	exopolyphosphatase activity	NA	NA	NA	NA	4	1.00E+00	NA	NA
+GO:0072501	cellular divalent inorganic anion homeostasis	NA	NA	NA	NA	4	1.00E+00	NA	NA
+GO:0035239	tube morphogenesis	NA	NA	NA	NA	17	1.00E+00	NA	NA
+GO:0008037	cell recognition	NA	NA	NA	NA	6	1.00E+00	NA	NA
+GO:0055083	monovalent inorganic anion homeostasis	NA	NA	NA	NA	4	1.00E+00	NA	NA
+GO:0016199	axon midline choice point recognition	NA	NA	NA	NA	4	1.00E+00	NA	NA
+GO:0055081	anion homeostasis	NA	NA	NA	NA	7	1.00E+00	NA	NA
+GO:0043277	apoptotic cell clearance	NA	NA	NA	NA	4	1.00E+00	NA	NA
+GO:2000427	positive regulation of apoptotic cell clearance	NA	NA	NA	NA	4	1.00E+00	NA	NA
+GO:2000425	regulation of apoptotic cell clearance	NA	NA	NA	NA	4	1.00E+00	NA	NA
+GO:0050766	positive regulation of phagocytosis	NA	NA	NA	NA	4	1.00E+00	NA	NA
+GO:0014074	response to purine-containing compound	NA	NA	NA	NA	4	1.00E+00	NA	NA
+GO:0008514	organic anion transmembrane transporter activity	NA	NA	NA	NA	84	1.00E+00	NA	NA
+GO:0016335	morphogenesis of larval imaginal disc epithelium	NA	NA	NA	NA	4	1.00E+00	NA	NA
+GO:0005342	organic acid transmembrane transporter activity	NA	NA	NA	NA	80	1.00E+00	NA	NA
+GO:1901682	sulfur compound transmembrane transporter activity	NA	NA	NA	NA	19	1.00E+00	NA	NA
+GO:0050953	sensory perception of light stimulus	NA	NA	NA	NA	7	1.00E+00	NA	NA
+GO:0007601	visual perception	NA	NA	NA	NA	7	1.00E+00	NA	NA
+GO:0016476	regulation of embryonic cell shape	NA	NA	NA	NA	6	1.00E+00	NA	NA
+GO:0030100	regulation of endocytosis	NA	NA	NA	NA	19	1.00E+00	NA	NA
+GO:0035840	old growing cell tip	7	1.95E-01	NA	NA	NA	NA	NA	NA
+GO:0004035	alkaline phosphatase activity	3	3.64E-01	NA	NA	NA	NA	NA	NA
+GO:0051491	positive regulation of filopodium assembly	3	3.95E-01	NA	NA	NA	NA	NA	NA
+GO:0008768	UDP-sugar diphosphatase activity	6	7.10E-01	NA	NA	NA	NA	NA	NA
+GO:0015630	microtubule cytoskeleton	10	8.16E-01	NA	NA	NA	NA	NA	NA
+GO:0051523	cell growth mode switching, monopolar to bipolar	7	8.47E-01	NA	NA	NA	NA	NA	NA
+GO:0061389	regulation of direction of cell growth	7	8.47E-01	NA	NA	NA	NA	NA	NA
+GO:0051519	activation of bipolar cell growth	7	8.47E-01	NA	NA	NA	NA	NA	NA
+GO:2000769	regulation of establishment or maintenance of cell polarity regulating cell shape	19	1.00E+00	NA	NA	NA	NA	NA	NA
+GO:0007160	cell-matrix adhesion	2	1.00E+00	NA	NA	NA	NA	NA	NA
+GO:0031116	positive regulation of microtubule polymerization	2	1.00E+00	NA	NA	NA	NA	NA	NA
+GO:0051832	avoidance of defenses of other organism involved in symbiotic interaction	2	1.00E+00	NA	NA	NA	NA	NA	NA
+GO:0051834	evasion or tolerance of defenses of other organism involved in symbiotic interaction	2	1.00E+00	NA	NA	NA	NA	NA	NA
+GO:0015924	mannosyl-oligosaccharide mannosidase activity	11	1.00E+00	NA	NA	NA	NA	NA	NA
+GO:0043710	cell adhesion involved in multi-species biofilm formation	2	1.00E+00	NA	NA	NA	NA	NA	NA
+GO:0016723	oxidoreductase activity, oxidizing metal ions, NAD or NADP as acceptor	2	1.00E+00	NA	NA	NA	NA	NA	NA
+GO:0046434	organophosphate catabolic process	45	1.00E+00	NA	NA	NA	NA	NA	NA
+GO:0044257	cellular protein catabolic process	14	1.00E+00	NA	NA	NA	NA	NA	NA
+GO:0031362	anchored component of external side of plasma membrane	11	1.00E+00	NA	NA	NA	NA	NA	NA
+GO:0030676	Rac guanyl-nucleotide exchange factor activity	2	1.00E+00	NA	NA	NA	NA	NA	NA
+GO:0004571	mannosyl-oligosaccharide 1,2-alpha-mannosidase activity	11	1.00E+00	NA	NA	NA	NA	NA	NA
+GO:0032186	cellular bud neck septin ring organization	2	1.00E+00	NA	NA	NA	NA	NA	NA
+GO:0007029	endoplasmic reticulum organization	8	1.00E+00	NA	NA	NA	NA	NA	NA
+GO:0031233	intrinsic component of external side of plasma membrane	11	1.00E+00	NA	NA	NA	NA	NA	NA
+GO:0004867	serine-type endopeptidase inhibitor activity	9	1.00E+00	NA	NA	NA	NA	NA	NA
+GO:0008253	5'-nucleotidase activity	17	1.00E+00	NA	NA	NA	NA	NA	NA
+GO:0008252	nucleotidase activity	18	1.00E+00	NA	NA	NA	NA	NA	NA
+GO:0031112	positive regulation of microtubule polymerization or depolymerization	2	1.00E+00	NA	NA	NA	NA	NA	NA
+GO:0023014	signal transduction by protein phosphorylation	24	1.00E+00	NA	NA	NA	NA	NA	NA
+GO:0042992	negative regulation of transcription factor import into nucleus	4	1.00E+00	NA	NA	NA	NA	NA	NA
+GO:0032065	cortical protein anchoring	5	1.00E+00	NA	NA	NA	NA	NA	NA
+GO:0000293	ferric-chelate reductase activity	2	1.00E+00	NA	NA	NA	NA	NA	NA
+GO:0031113	regulation of microtubule polymerization	2	1.00E+00	NA	NA	NA	NA	NA	NA
+GO:0007039	protein catabolic process in the vacuole	7	1.00E+00	NA	NA	NA	NA	NA	NA
+GO:0033718	pyranose dehydrogenase (acceptor) activity	4	1.00E+00	NA	NA	NA	NA	NA	NA
+GO:0032504	multicellular organism reproduction	2	1.00E+00	NA	NA	NA	NA	NA	NA
