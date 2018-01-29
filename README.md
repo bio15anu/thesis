@@ -369,7 +369,6 @@ cd vs_all
 ls | grep temp | while read file; do newfile=`echo $file | sed 's/\.temp//g'`; awk -F "\t" '{split($2,a,"^"); split($3,b,"^"); split($5,c,"^"); {print $1"\t"a[1]" "a[6]"\t"b[1]" "b[3]"\t"$4"\t"c[1]" "c[2]"\t"$6"\t"$7"\t"$8"\t"$9"\t"$10"\t"$11"\t"$12"\t"$13}}' ${file} | sed 's/RecName\: Full\=//g' > ${newfile} ; done
 ```
 
-
 ------------------------------------
 ### GENE SET ENRICHMENT ANALYSIS ### 
 
@@ -449,6 +448,21 @@ ls vs_all | while read file; do ~/scripts/DE_concatenate_pairs.py ../${file}.ter
 ls vs_all | while read file; do ~/scripts/DE_concatenate_pairs.py ../${file}.term.gmt para_versus_coni/${file}.para_versus_coni.GseaPreranked.*/gsea_report_for_na_pos_*.xls para_versus_glen/${file}.para_versus_glen.GseaPreranked.*/gsea_report_for_na_pos_*.xls para_versus_symp/${file}.para_versus_symp.GseaPreranked.*/gsea_report_for_na_pos_*.xls para_versus_spor/${file}.para_versus_spor.GseaPreranked.*/gsea_report_for_na_pos_*.xls vs_all/${file}/para.xls ; done
 
 ls vs_all | while read file; do ~/scripts/DE_concatenate_pairs.py ../${file}.term.gmt spor_versus_coni/${file}.spor_versus_coni.GseaPreranked.*/gsea_report_for_na_pos_*.xls spor_versus_glen/${file}.spor_versus_glen.GseaPreranked.*/gsea_report_for_na_pos_*.xls spor_versus_symp/${file}.spor_versus_symp.GseaPreranked.*/gsea_report_for_na_pos_*.xls spor_versus_para/${file}.spor_versus_para.GseaPreranked.*/gsea_report_for_na_pos_*.xls vs_all/${file}/spor.xls ; done
+```
+
+#### return to GOseq data and create annotations for each pairwise comparison against a given condition (as above)
+```
+cd ~/Documents/Data/DiffExpr/P0.001/vs_all
+
+~/scripts/DE_concatenate_pairs.py ../../GSEA/GO.term.gmt ../coni_vs_glen/coni-UP/matrix.counts.matrix.coni_vs_glen.DESeq2.DE_results.P0.001_C2.coni-UP.subset.GOseq.enriched ../coni_vs_symp/coni-UP/matrix.counts.matrix.coni_vs_symp.DESeq2.DE_results.P0.001_C2.coni-UP.subset.GOseq.enriched ../coni_vs_para/coni-UP/matrix.counts.matrix.coni_vs_para.DESeq2.DE_results.P0.001_C2.coni-UP.subset.GOseq.enriched ../coni_vs_spor/coni-UP/matrix.counts.matrix.coni_vs_spor.DESeq2.DE_results.P0.001_C2.coni-UP.subset.GOseq.enriched GOseq.coni.xls
+
+~/scripts/DE_concatenate_pairs.py ../../GSEA/GO.term.gmt ../coni_vs_glen/glen-UP/matrix.counts.matrix.coni_vs_glen.DESeq2.DE_results.P0.001_C2.glen-UP.subset.GOseq.enriched ../glen_vs_symp/glen-UP/matrix.counts.matrix.glen_vs_symp.DESeq2.DE_results.P0.001_C2.glen-UP.subset.GOseq.enriched ../glen_vs_para/glen-UP/matrix.counts.matrix.glen_vs_para.DESeq2.DE_results.P0.001_C2.glen-UP.subset.GOseq.enriched ../glen_vs_spor/glen-UP/matrix.counts.matrix.glen_vs_spor.DESeq2.DE_results.P0.001_C2.glen-UP.subset.GOseq.enriched GOseq.glen.xls
+
+~/scripts/DE_concatenate_pairs.py ../../GSEA/GO.term.gmt ../coni_vs_symp/symp-UP/matrix.counts.matrix.coni_vs_symp.DESeq2.DE_results.P0.001_C2.symp-UP.subset.GOseq.enriched ../glen_vs_symp/symp-UP/matrix.counts.matrix.glen_vs_symp.DESeq2.DE_results.P0.001_C2.symp-UP.subset.GOseq.enriched ../para_vs_symp/symp-UP/matrix.counts.matrix.para_vs_symp.DESeq2.DE_results.P0.001_C2.symp-UP.subset.GOseq.enriched ../spor_vs_symp/symp-UP/matrix.counts.matrix.spor_vs_symp.DESeq2.DE_results.P0.001_C2.symp-UP.subset.GOseq.enriched GOseq.symp.xls
+
+~/scripts/DE_concatenate_pairs.py ../../GSEA/GO.term.gmt ../coni_vs_para/para-UP/matrix.counts.matrix.coni_vs_para.DESeq2.DE_results.P0.001_C2.para-UP.subset.GOseq.enriched ../glen_vs_para/para-UP/matrix.counts.matrix.glen_vs_para.DESeq2.DE_results.P0.001_C2.para-UP.subset.GOseq.enriched ../para_vs_symp/para-UP/matrix.counts.matrix.para_vs_symp.DESeq2.DE_results.P0.001_C2.para-UP.subset.GOseq.enriched ../para_vs_spor/para-UP/matrix.counts.matrix.para_vs_spor.DESeq2.DE_results.P0.001_C2.para-UP.subset.GOseq.enriched GOseq.para.xls
+
+~/scripts/DE_concatenate_pairs.py ../../GSEA/GO.term.gmt ../coni_vs_spor/spor-UP/matrix.counts.matrix.coni_vs_spor.DESeq2.DE_results.P0.001_C2.spor-UP.subset.GOseq.enriched ../glen_vs_spor/spor-UP/matrix.counts.matrix.glen_vs_spor.DESeq2.DE_results.P0.001_C2.spor-UP.subset.GOseq.enriched ../spor_vs_symp/spor-UP/matrix.counts.matrix.spor_vs_symp.DESeq2.DE_results.P0.001_C2.spor-UP.subset.GOseq.enriched ../para_vs_spor/spor-UP/matrix.counts.matrix.para_vs_spor.DESeq2.DE_results.P0.001_C2.spor-UP.subset.GOseq.enriched GOseq.spor.xls
 ```
 
 -----------------------------------------------------
