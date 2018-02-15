@@ -291,9 +291,12 @@ Rscript ~/scripts/stats_ExN50.R ExN50.stats
 ```
 
 #### BUSCO completeness
-
-!!! REMEMBER BUSCO !!!
-
+```
+wget "http://busco.ezlab.org/datasets/fungi_odb9.tar.gz"
+tar -xf fungi_odb9.tar.gz
+cd ~/Documents/Data/Assembly
+~/bin/busco-master/scripts/run_BUSCO.py -i ../Trinity_isoH_cdhit10.fasta -o Trinity_isoH_cdhit10.busco -l fungi_odb9 -m tran
+```
 
 --------------------------------
 ### DOWNSTREAM QC STATISTICS ###
